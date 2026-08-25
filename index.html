@@ -5,6 +5,143 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>KI-Zugangsindex — wer im deutschen Web maschinellen Zugang sperrt</title>
   <meta name="description" content="77 von 235 meistbesuchten .de-Domains (32,8 %) sperren mindestens einen der vier großen KI-Crawler. Bei kleinen .de-Domains sind es 31 von 210 (14,8 %).">
+  <link rel="canonical" href="https://peppe1337.github.io/ki-zugangsindex/">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "KI-Zugangsindex — Sperrung von KI-Crawlern durch deutsche Websites",
+  "alternateName": "KI-Zugangsindex",
+  "description": "Laengsschnitt ueber 600 deutsche Domains (.de) und die Frage, welche davon KI-Crawlern per robots.txt den Zugriff auf / verweigern. Das Panel besteht aus zwei Gruppen: den 300 bestplatzierten .de-Domains und einer systematischen Stichprobe von 300 Domains mit Rang ueber 50.000. Messpunkt vom 2026-08-25: 77 von 235 (32,8 %) der grossen und 31 von 210 (14,8 %) der kleinen Domains sperren mindestens einen der vier grossen KI-Crawler (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot). Insgesamt ausgewertet werden 14 Crawler-Kennungen. Alle 600 Rohantworten und der Auswertungscode liegen dem Datensatz bei. Bisherige Messpunkte: 1.",
+  "url": "https://peppe1337.github.io/ki-zugangsindex/",
+  "sameAs": "https://github.com/peppe1337/ki-zugangsindex",
+  "keywords": [
+    "robots.txt",
+    "KI-Crawler",
+    "AI crawler",
+    "Robots Exclusion Protocol",
+    "GPTBot",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "PerplexityBot",
+    ".de-Domains",
+    "Deutschland",
+    "Web-Crawling",
+    "KI-Transparenz",
+    "Open Data"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Person",
+    "name": "Christopher Kraft",
+    "url": "https://peppe1337.github.io/ki-zugangsindex/impressum.html"
+  },
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-25",
+  "version": "1",
+  "temporalCoverage": "2026-08-25",
+  "measurementTechnique": "HTTP-Abruf von /robots.txt je Domain und Auswertung der Direktiven nach dem Robots Exclusion Protocol (RFC 9309). Gezaehlt wird, ob der jeweiligen Crawler-Kennung der Pfad / untersagt wird. Domains ohne syntaktisch auswertbare robots.txt stehen nicht im Nenner.",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "GPTBot",
+      "description": "Sperrt die Domain der Kennung GPTBot den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "OAI-SearchBot",
+      "description": "Sperrt die Domain der Kennung OAI-SearchBot den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ChatGPT-User",
+      "description": "Sperrt die Domain der Kennung ChatGPT-User den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ClaudeBot",
+      "description": "Sperrt die Domain der Kennung ClaudeBot den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Claude-User",
+      "description": "Sperrt die Domain der Kennung Claude-User den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "anthropic-ai",
+      "description": "Sperrt die Domain der Kennung anthropic-ai den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "PerplexityBot",
+      "description": "Sperrt die Domain der Kennung PerplexityBot den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Perplexity-User",
+      "description": "Sperrt die Domain der Kennung Perplexity-User den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Google-Extended",
+      "description": "Sperrt die Domain der Kennung Google-Extended den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applebot-Extended",
+      "description": "Sperrt die Domain der Kennung Applebot-Extended den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "CCBot",
+      "description": "Sperrt die Domain der Kennung CCBot den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Bytespider",
+      "description": "Sperrt die Domain der Kennung Bytespider den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "meta-externalagent",
+      "description": "Sperrt die Domain der Kennung meta-externalagent den Pfad / per robots.txt?"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Amazonbot",
+      "description": "Sperrt die Domain der Kennung Amazonbot den Pfad / per robots.txt?"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Aktueller Stand (Kurzfassung)",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/latest.json",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Zeitreihe aller Messpunkte",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/reihe.json",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Panel-Definition (feste Domainliste)",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/panel.json",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Einzelmessung 2026-08-25 (je Domain)",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/messungen/2026-08-25.json",
+      "encodingFormat": "application/json"
+    }
+  ]
+}
+  </script>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
 

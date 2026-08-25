@@ -221,6 +221,104 @@ function nennerAbschnitt() {
 }
 
 // ---------------------------------------------------------------------------
+// schema.org/Dataset als JSON-LD
+//
+// Zweck: Google Dataset Search und vergleichbare Kataloge lesen ausschliesslich
+// diese Auszeichnung. Sie ist der einzige Auffindungsweg, der weder ein Konto
+// noch ein Postfach verlangt.
+//
+// REGEL: Jede Zahl hier wird aus den Daten abgeleitet, keine wird eingetippt.
+// Was hier steht, muss auch im sichtbaren Text der Seite stehen.
+// ---------------------------------------------------------------------------
+const seitenURL = 'https://peppe1337.github.io/ki-zugangsindex/';
+const letztesDatum = reihe.punkte[reihe.punkte.length - 1].datum;
+
+// Bei einem einzigen Messpunkt ist die Abdeckung ein Tag, kein Zeitraum.
+// Ein offenes Intervall ("2026-08-25/..") waere eine Zusage, kein Befund.
+const temporalCoverage = erstesDatum === letztesDatum
+  ? erstesDatum
+  : `${erstesDatum}/${letztesDatum}`;
+
+const jsonLd = {
+  '@context': 'https://schema.org/',
+  '@type': 'Dataset',
+  name: 'KI-Zugangsindex — Sperrung von KI-Crawlern durch deutsche Websites',
+  alternateName: 'KI-Zugangsindex',
+  description:
+    `Laengsschnitt ueber ${zahl(panelAnzahl)} deutsche Domains (.de) und die Frage, `
+    + `welche davon KI-Crawlern per robots.txt den Zugriff auf / verweigern. `
+    + `Das Panel besteht aus zwei Gruppen: den ${zahl(panel.gruppen.top300.domains ? panel.gruppen.top300.domains.length : panel.domains.filter(d => d.gruppe === 'top300').length)} `
+    + `bestplatzierten .de-Domains und einer systematischen Stichprobe von `
+    + `${zahl(panel.domains.filter(d => d.gruppe === 'klein300').length)} Domains mit Rang ueber 50.000. `
+    + `Messpunkt vom ${erstesDatum}: ${bl300.zaehler} von ${bl300.nenner} `
+    + `(${anteil300Text} %) der grossen und ${blKlein.zaehler} von ${blKlein.nenner} `
+    + `(${anteilKleinText} %) der kleinen Domains sperren mindestens einen der vier `
+    + `grossen KI-Crawler (${vierGrosseArr.join(', ')}). Insgesamt ausgewertet werden `
+    + `${agenten.length} Crawler-Kennungen. Alle ${zahl(panelAnzahl)} Rohantworten und der `
+    + `Auswertungscode liegen dem Datensatz bei. Bisherige Messpunkte: ${messpunkte}.`,
+  url: seitenURL,
+  sameAs: 'https://github.com/peppe1337/ki-zugangsindex',
+  keywords: [
+    'robots.txt', 'KI-Crawler', 'AI crawler', 'Robots Exclusion Protocol',
+    ...vierGrosseArr,
+    '.de-Domains', 'Deutschland', 'Web-Crawling', 'KI-Transparenz', 'Open Data'
+  ],
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  isAccessibleForFree: true,
+  creator: {
+    '@type': 'Person',
+    name: 'Christopher Kraft',
+    url: `${seitenURL}impressum.html`
+  },
+  datePublished: erstesDatum,
+  dateModified: datum,
+  version: String(messpunkte),
+  temporalCoverage,
+  // spatialCoverage bewusst weggelassen: schema.org erwartet dort einen Ort.
+  // Das Panel ist ueber die Top-Level-Domain .de definiert, nicht geografisch —
+  // ".de" ist keine Zusicherung, dass der Betreiber in Deutschland sitzt.
+  measurementTechnique:
+    'HTTP-Abruf von /robots.txt je Domain und Auswertung der Direktiven nach dem '
+    + 'Robots Exclusion Protocol (RFC 9309). Gezaehlt wird, ob der jeweiligen '
+    + 'Crawler-Kennung der Pfad / untersagt wird. Domains ohne syntaktisch '
+    + 'auswertbare robots.txt stehen nicht im Nenner.',
+  variableMeasured: agenten.map(agent => ({
+    '@type': 'PropertyValue',
+    name: agent,
+    description: `Sperrt die Domain der Kennung ${agent} den Pfad / per robots.txt?`
+  })),
+  distribution: [
+    {
+      '@type': 'DataDownload',
+      name: 'Aktueller Stand (Kurzfassung)',
+      contentUrl: `${seitenURL}data/latest.json`,
+      encodingFormat: 'application/json'
+    },
+    {
+      '@type': 'DataDownload',
+      name: 'Zeitreihe aller Messpunkte',
+      contentUrl: `${seitenURL}data/reihe.json`,
+      encodingFormat: 'application/json'
+    },
+    {
+      '@type': 'DataDownload',
+      name: 'Panel-Definition (feste Domainliste)',
+      contentUrl: `${seitenURL}data/panel.json`,
+      encodingFormat: 'application/json'
+    },
+    ...reihe.punkte.map(p => ({
+      '@type': 'DataDownload',
+      name: `Einzelmessung ${p.datum} (je Domain)`,
+      contentUrl: `${seitenURL}data/messungen/${p.datum}.json`,
+      encodingFormat: 'application/json'
+    }))
+  ]
+};
+
+// </script> in einer Zeichenkette wuerde den Block vorzeitig schliessen.
+const jsonLdText = JSON.stringify(jsonLd, null, 2).replace(/<\//g, '<\\/');
+
+// ---------------------------------------------------------------------------
 // Vollständiges HTML zusammenbauen
 // ---------------------------------------------------------------------------
 const html = `<!DOCTYPE html>
@@ -230,6 +328,10 @@ const html = `<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>KI-Zugangsindex — wer im deutschen Web maschinellen Zugang sperrt</title>
   <meta name="description" content="${esc(bl300.zaehler)} von ${esc(bl300.nenner)} meistbesuchten .de-Domains (${esc(anteil300Text)} %) sperren mindestens einen der vier großen KI-Crawler. Bei kleinen .de-Domains sind es ${esc(blKlein.zaehler)} von ${esc(blKlein.nenner)} (${esc(anteilKleinText)} %).">
+  <link rel="canonical" href="${seitenURL}">
+  <script type="application/ld+json">
+${jsonLdText}
+  </script>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
 
@@ -475,3 +577,34 @@ const groesse = statSync(zielDatei).size;
 const messpunktAnzahl = messung.domains.length;
 
 console.log(`index.html geschrieben: ${groesse} Bytes, ${messpunktAnzahl} Domains, Stand ${datum}`);
+
+// ---------------------------------------------------------------------------
+// sitemap.xml — Google empfiehlt sie ausdruecklich, damit Datensatzseiten
+// gefunden werden. Ohne Search-Console-Konto ist der Verweis aus robots.txt
+// der einzige Weg, sie bekannt zu machen.
+// ---------------------------------------------------------------------------
+// impressum.html steht bewusst NICHT drin: die Seite traegt <meta name="robots"
+// content="noindex">. Eine noindex-Seite in die Sitemap zu schreiben, waere ein
+// Widerspruch, den Suchmaschinen zu Recht als Signalfehler werten.
+const sitemapEintraege = [
+  { loc: seitenURL, lastmod: datum },
+  ...jsonLd.distribution.map(d => ({ loc: d.contentUrl, lastmod: datum }))
+];
+
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapEintraege.map(e => `  <url>
+    <loc>${esc(e.loc)}</loc>
+    <lastmod>${esc(e.lastmod)}</lastmod>
+  </url>`).join('\n')}
+</urlset>
+`;
+writeFileSync(join(basis, 'sitemap.xml'), sitemap, 'utf8');
+
+// Hier wird BEWUSST KEINE robots.txt geschrieben.
+// robots.txt gilt nach RFC 9309 je Origin, nicht je Verzeichnis. Eine Datei unter
+// /ki-zugangsindex/robots.txt liest kein Crawler — sie waere ein Artefakt, das
+// aussieht, als wirke es. Die wirksame Datei liegt im Repo `peppe1337.github.io`
+// und verweist von dort auf diese sitemap.xml.
+
+console.log(`sitemap.xml geschrieben: ${sitemapEintraege.length} URLs.`);
