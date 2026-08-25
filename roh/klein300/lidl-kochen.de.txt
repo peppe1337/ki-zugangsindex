@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /snap-and-cook/
+Sitemap: https://rezepte.lidl.de/sitemap.xml

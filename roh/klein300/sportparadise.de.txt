@@ -1,0 +1,36 @@
+User-agent: AhrefsBot
+Disallow: / 
+User-agent: SemrushBot
+Disallow: / 
+User-agent: SemrushBot-SA
+Disallow: / 
+User-agent: Baiduspider
+Disallow: /
+User-agent: BUbiNG
+Disallow: /
+User-agent: Yandex
+Disallow: /
+
+
+User-agent: *
+
+Disallow: /*/o/
+Disallow: /o/
+Disallow: /*/u/
+Disallow: /u/
+Disallow: /*/v/
+Disallow: /v/
+Disallow: /*/pr/
+Disallow: /pr/
+Disallow: /*/c/
+Disallow: /c/
+Disallow: /bandpage/
+Disallow: /upload-photo/
+Disallow: /profile/
+Disallow: /new-password/
+Disallow: /ncart/
+Disallow: /newsletter/
+Disallow: /search/
+
+
+Sitemap: https://www.sportparadise.de/sitemap.xml

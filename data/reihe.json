@@ -1,0 +1,107 @@
+{
+  "aktualisiert": "2026-08-25",
+  "messpunkte": 1,
+  "panelGroesse": 600,
+  "punkte": [
+    {
+      "datum": "2026-08-25",
+      "top300": {
+        "nenner": 235,
+        "vierGrosseGesperrt": 77,
+        "anteil": 32.8
+      },
+      "klein300": {
+        "nenner": 210,
+        "vierGrosseGesperrt": 31,
+        "anteil": 14.8
+      },
+      "proAgentBlockiert": {
+        "GPTBot": {
+          "top300": 70,
+          "top300Nenner": 235,
+          "klein300": 27,
+          "klein300Nenner": 210
+        },
+        "OAI-SearchBot": {
+          "top300": 18,
+          "top300Nenner": 235,
+          "klein300": 12,
+          "klein300Nenner": 210
+        },
+        "ChatGPT-User": {
+          "top300": 24,
+          "top300Nenner": 235,
+          "klein300": 16,
+          "klein300Nenner": 210
+        },
+        "ClaudeBot": {
+          "top300": 62,
+          "top300Nenner": 235,
+          "klein300": 29,
+          "klein300Nenner": 210
+        },
+        "Claude-User": {
+          "top300": 13,
+          "top300Nenner": 235,
+          "klein300": 10,
+          "klein300Nenner": 210
+        },
+        "anthropic-ai": {
+          "top300": 38,
+          "top300Nenner": 235,
+          "klein300": 15,
+          "klein300Nenner": 210
+        },
+        "PerplexityBot": {
+          "top300": 38,
+          "top300Nenner": 235,
+          "klein300": 14,
+          "klein300Nenner": 210
+        },
+        "Perplexity-User": {
+          "top300": 16,
+          "top300Nenner": 235,
+          "klein300": 10,
+          "klein300Nenner": 210
+        },
+        "Google-Extended": {
+          "top300": 54,
+          "top300Nenner": 235,
+          "klein300": 23,
+          "klein300Nenner": 210
+        },
+        "Applebot-Extended": {
+          "top300": 57,
+          "top300Nenner": 235,
+          "klein300": 21,
+          "klein300Nenner": 210
+        },
+        "CCBot": {
+          "top300": 69,
+          "top300Nenner": 235,
+          "klein300": 25,
+          "klein300Nenner": 210
+        },
+        "Bytespider": {
+          "top300": 62,
+          "top300Nenner": 235,
+          "klein300": 25,
+          "klein300Nenner": 210
+        },
+        "meta-externalagent": {
+          "top300": 54,
+          "top300Nenner": 235,
+          "klein300": 22,
+          "klein300Nenner": 210
+        },
+        "Amazonbot": {
+          "top300": 39,
+          "top300Nenner": 235,
+          "klein300": 29,
+          "klein300Nenner": 210
+        }
+      },
+      "domainsMitWechsel": null
+    }
+  ]
+}

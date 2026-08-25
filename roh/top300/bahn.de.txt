@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /.rest/
+Disallow: /web/
+
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+Allow: /

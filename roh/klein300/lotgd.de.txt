@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /news.php
+Disallow: /list.php
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-Agent:  FacebookBot                              
+Crawl-delay: 20
+Allow: /news.php
+
+User-Agent: facebookexternalhit
+Disallow: /
+
+User-Agent: meta-externalagent
+Disallow: /
+
+User-Agent:  BingBot                              
+Crawl-delay: 20
+
+User-Agent:  YandexBot
+Crawl-delay: 20
+
+User-Agent:  YandexBot
+Disallow: /news.php
+
+User-Agent:  Yandex
+Disallow: /news.php
+
+User-Agent: AwarioBot
+Crawl-delay: 20
+
+User-Agent: AwarioBot
+Disallow: /

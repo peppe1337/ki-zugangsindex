@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /domains-suchen-registrieren/domains-bestellen/anmeldung-person.html
+Disallow: /domains-suchen-registrieren/domains-bestellen/anmeldung-abrechnung.html
+Disallow: /domains-suchen-registrieren/domains-bestellen/anmeldung-ownerc.html
+Disallow: /domains-suchen-registrieren/domains-bestellen/anmeldung-logindaten.html
+Disallow: /domains-suchen-registrieren/domains-bestellen/anmeldung-ende.html
+Disallow: /Intern/
+Allow: /
+

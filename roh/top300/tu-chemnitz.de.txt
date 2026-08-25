@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /urz/network/etc/statistik/
+Disallow: /cgi-bin/
+Disallow: /counter
+Disallow: /software/
+Disallow: /ROot/
+Disallow: /advent/2005/5/
+Disallow: /advent/2005/24/sudoku_bonus.html
+Disallow: /advent/2011/9/
+Disallow: /advent/2013/6/
+Disallow: /advent/2015/11/
+Disallow: /advent/2017/8/
+Disallow: /verwaltung/vlvz/plan
+Disallow: /tu/termine/termin.ics
+Disallow: /wirtschaft/wi2/wp/

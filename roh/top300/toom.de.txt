@@ -1,0 +1,63 @@
+User-agent: *
+
+# Disallow Typo3 internals
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3_src*
+
+# Disallow special folders from fileadmin
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/coupons/
+Disallow: /fileadmin/sass/
+Disallow: /fileadmin/templates/
+Disallow: /fileadmin/toom_import/lib/
+Disallow: /fileadmin/toom-import/*.*
+Disallow: /fileadmin/typoscripts/
+Disallow: /fileadmin/user_upload/kontaktanfragen/dateianhaenge/
+
+# Disallow URLs with specific parameters
+Disallow: /*?SID=
+Disallow: /*userinput
+Disallow: /*userInput
+Disallow: /*queryfromsuggest
+Disallow: /*queryFromSuggest
+Disallow: /*sc_src=email
+Disallow: /*gisAutoCall
+Disallow: /*app_loyaltycard
+Disallow: /*tx_braprojectfilestoom_like[action]
+Disallow: /s/*+
+Disallow: /s/*accid=
+Disallow: /s/*?page=
+
+
+
+# Bingbot specially
+User-agent: bingbot
+crawl-delay: 30
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: /typo3_src*
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/coupons/
+Disallow: /fileadmin/sass/
+Disallow: /fileadmin/templates/
+Disallow: /fileadmin/toom_import/lib/
+Disallow: /fileadmin/toom-import/*.*
+Disallow: /fileadmin/typoscripts/
+Disallow: /fileadmin/user_upload/kontaktanfragen/dateianhaenge/
+Disallow: /*?SID=
+Disallow: /*userinput
+Disallow: /*userInput
+Disallow: /*queryfromsuggest
+Disallow: /*queryFromSuggest
+Disallow: /*sc_src=email
+Disallow: /*gisAutoCall
+Disallow: /*app_loyaltycard
+Disallow: /s/*+
+Disallow: /s/*accid=
+Disallow: /s/*?page=
+
+
+
+### XML-Sitemap
+Sitemap: https://static.toom.de/sitemap/sitemap.xml

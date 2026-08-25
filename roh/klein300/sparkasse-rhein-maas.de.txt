@@ -1,0 +1,18 @@
+# Disallow content
+User-agent: *
+Disallow: /*?sp*
+
+# Disallow App-Content
+User-agent: *
+Disallow: /*.webview.html
+
+﻿# Refuse all robots from these directories:
+User-agent: *
+Sitemap: https://www.sparkasse-rhein-maas.de/sitemap.xml
+
+
+
+
+
+
+# EOF

@@ -1,0 +1,16 @@
+# robots.txt for belwue website
+#
+# note: these urls are mainly from the old
+# website so this robots.txt tries to tell
+# search engines to remove those even if
+# external websites (that are not under our
+# control) link to those (at least we hope
+# so).
+
+User-agent: *
+Disallow: /404.html
+Disallow: /services/formulare.html
+Disallow: /services/formulare/
+Disallow: /static/
+
+Sitemap: https://www.belwue.de/sitemap.xml

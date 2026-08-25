@@ -1,0 +1,85 @@
+
+<!DOCTYPE html><html lang="de">
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Kreis Josenfeld</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="hrFl_0wrhwr5m_gF_b6VedsOJRieN33FWbsJ64IsYLY" />
+<meta name="Keywords" content="Modelleisenbahn-Spur-N-LBG-Modellbahn-Modellbahnclub-1zu160-Infos-Tips-Tipps-Portal" />
+<meta name="Description" content="Das Portal für alle Freunde der Modellbahn aller Spuren mit Infos, Tipps und Anregungen für Anfänger und Fortgeschrittene." />
+<meta name="Page-type" content="Freizeit" />
+<meta name="Robots" content="index,follow" /><meta name="audience" content="All" /><meta name="revisit-after" content="7 Days" />
+<meta name="format-detection" content="telephone=no" /><!-- (c)Copyright by S.I.S.Papenburg / www.on-mouseover.de/templates/ -->
+<link rel="shortcut icon" href="haupt.ico" />
+<link rel="stylesheet" href="css/w3css.css" type="text/css">
+<link rel="stylesheet" href="css/jvari.css" type="text/css">
+<link rel="stylesheet" href="css/titel.css" type="text/css">
+<link rel="stylesheet" href="css/format.css" type="text/css">
+<link rel="stylesheet" href="css/menue.css" type="text/css">
+<link rel="stylesheet" href="css/animation.css" type="text/css">
+<link rel="stylesheet" href="css/font-open-sans-light.css" type="text/css">
+
+<!-- fontawesome-icon-font -->
+<script src="https://kit.fontawesome.com/9c26582cdc.js" crossorigin="anonymous"></script>
+
+<script  src="js/jquery-3.2.1.min.js"></script>
+
+<!-- ///////////////////  JQUERY smooth-scroll-to-top /////////////////// -->
+<!-- https://github.com/dnlnrs/jquery-goup -->
+<script  src="js/plug-ins/highly-customizable-smooth-scroll/src/jquery.goup.js"></script>
+<script>
+<!--
+$(document).ready(function(){
+  jQuery.goup();
+});
+//-->
+</script>
+<!-- /////////////////// Ende /////////////////// -->
+
+
+<!-- ///////////////////  JQUERY lightbox fotogallery/////////////////// -->
+<!-- http://lokeshdhakar.com/projects/lightbox2/ -->
+<link rel="stylesheet" href="js/plug-ins/lightbox2/src/css/lightbox.css" >
+<script  src="js/plug-ins/lightbox2/src/js/lightbox.js" ></script>
+<!-- /////////////////// Ende /////////////////// -->
+
+
+<!-- ///////////////////  JQUERY one page scroll /////////////////// -->
+<script src="js/plug-ins/one-page-scroll-web-template-smooth-scroll/smooth-scroll.js"></script>
+<!-- /////////////////// Ende /////////////////// -->
+
+</head>
+<body id"hoch><noscript>Diese Internetpräsenz benötigt zur Darstellung JavaScript.<br /><b>Bitte aktivieren Sie JavaScript.</b></noscript><div id="back"><div id="hauptall"><div class="kopf-main"><div class="kopftop"><div class="kopfbox-1a"><span class="name"> &nbsp;</div><div class="kopfbox-1b icon-liste"><ul>
+<li><a href="#fuss" title="Seitenende" ><i class="fas fa-caret-down drehen" ></i></a></li>&nbsp;
+<li><a href="aa1" title="Startseite" ><i class="fa fa-home drehen" ></i></a></li>&nbsp;
+<li><a href="buch.html" title="Goldenes Buch" ><i class="fa-brands fa-readme drehen"></i></a></li>&nbsp;
+<li>&nbsp;<a href="mailto:Info@Josenfeld.de" title="Kontakt"><i class="fa fa-envelope drehen" ></i></a></li>
+</ul></div></div></div><div class="krume-oben" ></div>
+<div class="logo-lokdampf"><div class="logo-innen"><div class="logobox-1a">&nbsp;</div><div class="logobox-1b"><input type="checkbox" id="checkbox_toggle"><span class="seitentitel">Start</span><label for="checkbox_toggle"><i class="fas fa-bars drehen" ></i> Menü</label>
+<div id="menu1"><ul><li id="aktuell""><a href="aa1">Startseite</a></li><li "><a href="ba1000">Zuggarnituren</a></li><li "><a href="ca2000">Lokomotiven</a></li>
+<li "><a href="da3000">Waggons</a></li><li "><a href="ea4000">Gebäude</a></li><li "><a href="ha7000">Wissen</a></li><li "><a href="fa5000">Artikel</a></li><li "><a href="ga6000">Verschiedenes</a></li></ul></div>
+</div></div></div>
+ <div class="content-main"><div class="content-haupt"><div class="contentbox-1a" id="top"><div class="baeroben"><br /> <h1>Seite nicht gefunden</h1></div><div class="baermitte">
+<h2>Es tut uns furchtbar leid!</h2>
+<h3>Dieser Zug hat sein Ziel leider nicht erreicht</h3>
+
+<p><img src="arti/aa/6/bild01.jpg" width="100%" alt="">
+<br />Leider wissen wir auch nicht genau, wohin er fahren sollte!<br />
+Aber auf der Seite des Kreises Josenfeld gibt es sicher 
+viel Neues und Interessantes zu sehen.
+<br /><br />
+Versuche doch einfach nach einem Klick auf den folgenden Link
+über das Menü oder die auf der Seite gezeigten Bildverweise
+Dein gewünschtes Thema zu finden.
+<a href='Start'>Josenfeld</a>
+<br />
+Wir wünschen viel Erfolg.</p>
+<a href="#top" title="Seitenanfang" ><i class="fas fa-caret-up drehen" ></i></a>&nbsp;
+<span class="textseit"> erstellt: 01.01.2021&nbsp;&nbsp;<i class="fa-brands fa-telegram drehen"></i>&nbsp;&nbsp;geändert:&nbsp;02.01.2021&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-user drehen"></i>&nbsp;&nbsp;Josef Thelen</span>
+</div><div class="baerunten">&nbsp;</div></div>
+<div class="contentbox-1b"><a href="#fuss" title="Seitenende" ><i class="fas fa-caret-down drehen" ></i></a>&nbsp;
+<h6>Landrat Josef</h6><div class="menu2"><ul><li><a href="aa100" >Landkreis Josenfeld</a></li><li><a href="buch.html">Das goldene Buch</a></li><li><a href="ab200" >Bausätze</a></li><li><a href="ac300" >Anlagen</a></li></ul></div>
+</div></div><div class="krume-oben"></div>
+<div class="fuss-main" id="fuss"><div class="fuss-innen"><div class="fussbox-1a"><div class="fussmenu"><ul><li>&nbsp;<a href="aa21" title="Impressum" ><i class="fa fa-info drehen" ></i>&nbsp;Impressum</a></li>&nbsp;
+<li>&nbsp;<a href="aa22" title="Datenschutz" ><i class="fa fa-book drehen" ></i>&nbsp;Datenschutz</a></li><li>&nbsp;<a href="aa23" title="Disclaimer" ><i class="fa fa-bullhorn drehen" ></i>&nbsp;Disclaimer</a></li>&nbsp;<li>&nbsp;<a href="aa24" title="Cookies" ><i class="fa fa-user-circle-o drehen" ></i>&nbsp;Cookies</a></li>&nbsp;
+</ul></div></div><div class="fussbox-1b" id="seitenende"> <span class="fussname">&copy;2023&nbsp;&nbsp;|&nbsp;&nbsp;Besucher heute: 155.494&nbsp;&nbsp;-&nbsp;&nbsp;online: 760&nbsp;&nbsp;-&nbsp;&nbsp;
+insgesamt: 45.904.911&nbsp;&nbsp;seit dem 01.01.1990</span></div></div></div></div>
+</div></div></body></html>

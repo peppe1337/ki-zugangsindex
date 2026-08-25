@@ -1,0 +1,55 @@
+# robots.txt for n-tv.de
+
+
+
+User-agent: *
+Disallow: /suche/
+Disallow: /boersenkurse/suche/
+Disallow: /stat/
+Disallow: /archiv/
+Disallow: /auth/
+Disallow: /mediathek/videos/etf-masterclass/
+
+User-agent: GPTBot
+Disallow: /
+Allow: /vergleiche/
+Allow: /casino-vergleich/
+Allow: /sportwetten/
+Allow: /wettanbieter-vergleich/
+Allow: /online-sprachschule/
+Allow: /kreditvergleich/
+Allow: /broker-vergleich/
+Allow: /webtools-im-vergleich/
+Allow: /ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html
+Allow: /ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /vergleiche/
+Allow: /casino-vergleich/
+Allow: /sportwetten/
+Allow: /wettanbieter-vergleich/
+Allow: /online-sprachschule/
+Allow: /kreditvergleich/
+Allow: /broker-vergleich/
+Allow: /webtools-im-vergleich/
+Allow: /ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html
+Allow: /ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html
+
+User-agent: CCBot
+Disallow: /
+Allow: /vergleiche/
+Allow: /casino-vergleich/
+Allow: /sportwetten/
+Allow: /wettanbieter-vergleich/
+Allow: /online-sprachschule/
+Allow: /kreditvergleich/
+Allow: /broker-vergleich/
+Allow: /webtools-im-vergleich/
+Allow: /ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html
+Allow: /ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html
+
+Sitemap: https://www.n-tv.de/sitemap.xml
+Sitemap: https://www.n-tv.de/sitemap-video.xml
+Sitemap: https://www.n-tv.de/sitemap/sitemap-sections.xml.gz
+Sitemap: https://www.n-tv.de/news.xml

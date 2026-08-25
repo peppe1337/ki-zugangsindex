@@ -1,0 +1,399 @@
+# Legal notice: rp-online.de expressly reserves the right to use its content for commercial text and 
+# data mining (§ 44b Urheberrechtsgesetz). The use of robots or other automated means to access
+# rp-online.de or collect or mine data without the express permission of rp-online.de is strictly 
+# prohibited. rp-online.de may, in its discretion, permit certain automated access to certain 
+# rp-online.de pages, If you would like to apply for permission to crawl rp-online.de, collect or use
+# data, please email datamining@rheinische-post.de
+
+User-agent: Amazonbot
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: CloudVertexBot
+User-agent: cohere-ai
+User-agent: DataForSeoBot
+User-agent: DeepSeek
+User-agent: DeepSeekBot
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: ImagesiftBot
+User-agent: magpie-crawler
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalagent
+User-agent: NewsNow
+User-agent: news-please
+User-agent: OAI-SearchBot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Quora-Bot
+User-agent: Scrapy
+User-agent: TurnitinBot
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
+Disallow: /
+
+User-Agent: AmazonAdBot
+Allow: */archiv/*
+Allow: /suche/
+
+User-agent: *
+Disallow: /archiv2/
+Disallow: /check_area/
+Disallow: /sso/
+Disallow: /soko/
+Disallow: /suche/
+Disallow: /allgemeines/altdaten/
+Disallow: /info/consent/
+Disallow: */extra/
+Disallow: /api/
+Disallow: /auth/
+Disallow: /*?entitlement=*
+Disallow: /*?output=*
+Disallow: */archiv/*
+Disallow: /*-142732405$ # zugefügt am: 2026-06-25 12:05
+Disallow: /*-139851521$ # zugefügt am: 2026-06-25 12:04
+Disallow: /*-16154373$ # zugefügt am: 2025-10-02 13:30
+Disallow: /*-117784433$ # zugefügt am: 2025-08-22 15:11
+Disallow: /*-132817115$ # zugefügt am: 2025-08-12 17:10
+Disallow: /*-19798429$ # zugefügt am: 2025-07-07 18:12
+Disallow: /*-126190193$ # zugefügt am: 2025-04-10 16:44
+Disallow: /*-123616669$ # zugefügt am: 2025-01-30 16:36
+Disallow: /*-18332143$ # zugefügt am: 2025-01-01 18:53
+Disallow: /*-18483849$ # zugefügt am: 2025-01-01 18:51
+Disallow: /*-13560103$ # zugefügt am: 2024-11-11 17:43
+Disallow: /*-16344097$ # zugefügt am: 2024-11-04 17:20
+Disallow: /*-18860653$ # zugefügt am: 2024-10-23 14:28
+Disallow: /*-9395135$ # zugefügt am: 2024-09-11 16:45
+Disallow: /*-8945587$ # zugefügt am: 2024-09-11 16:45
+Disallow: /*-16332123$ # zugefügt am: 2024-08-23 13:34
+Disallow: /*-116942273$ # zugefügt am: 2024-08-02 10:53
+Disallow: /*-17531397$ # zugefügt am: 2024-05-02 14:49
+Disallow: /*-13344213$ # zugefügt am: 2024-04-30 15:31
+Disallow: /*-13292533$ # zugefügt am: 2024-02-22 14:19
+Disallow: /*-12231429$ # zugefügt am: 2023-10-10 12:12
+Disallow: /*-97578199$ # zugefügt am: 2023-09-29 10:38
+Disallow: /*-70430875$ # zugefügt am: 2023-09-27 21:37
+Disallow: /*-95659321$ # zugefügt am: 2023-08-23 16:33
+Disallow: /*-66093527$ # zugefügt am: 2023-08-17 18:18
+Disallow: /*-11354199$ # zugefügt am: 2023-06-26 18:39
+Disallow: /*-8836547$ # zugefügt am: 2023-06-26 18:37
+Disallow: /*-90176551$ # zugefügt am: 2023-05-17 11:20
+Disallow: /*-8788873$ # zugefügt am: 2023-04-06 14:58
+Disallow: /*-21138891$ # zugefügt am: 2023-04-04 10:36
+Disallow: /*-19466433$ # zugefügt am: 2023-04-04 10:36
+Disallow: /*-19408227$ # zugefügt am: 2023-04-04 10:36
+Disallow: /*-19447089$ # zugefügt am: 2023-04-04 10:36
+Disallow: /*-19406415$ # zugefügt am: 2023-04-04 10:36
+Disallow: /*-19463201$ # zugefügt am: 2023-04-04 10:35
+Disallow: /*-19402451$ # zugefügt am: 2023-04-04 10:35
+Disallow: /*-19449453$ # zugefügt am: 2023-04-04 10:35
+Disallow: /*-19395533$ # zugefügt am: 2023-04-04 10:35
+Disallow: /*-19398963$ # zugefügt am: 2023-04-04 10:35
+Disallow: /*-19409625$ # zugefügt am: 2023-04-04 10:26
+Disallow: /*-12831117$ # zugefügt am: 2023-02-21 17:28
+Disallow: /*-39442475$ # zugefügt am: 2023-01-20 18:24
+Disallow: /*-39795581$ # zugefügt am: 2023-01-20 18:23
+Disallow: /*-81069985$ # zugefügt am: 2022-12-28 17:09
+Disallow: /*-39466475$ # zugefügt am: 2022-11-03 16:49
+Disallow: /*-78772737$ # zugefügt am: 2022-10-23 20:06
+Disallow: /*-77789465$ # zugefügt am: 2022-10-11 15:02
+Disallow: /*-56985421$ # zugefügt am: 2022-10-11 08:53
+Disallow: /*-64421951$ # zugefügt am: 2022-09-19 21:55
+Disallow: /*-18176285$ # zugefügt am: 2022-08-16 16:56
+Disallow: /*-34651739$ # zugefügt am: 2022-08-11 19:00
+Disallow: /*-34755779$ # zugefügt am: 2022-08-11 18:20
+Disallow: /*-35531837$ # zugefügt am: 2022-08-11 18:18
+Disallow: /*-65817689$ # zugefügt am: 2022-08-02 17:19
+Disallow: /*-35002611$ # zugefügt am: 2022-06-30 17:00
+Disallow: /*-70966931$ # zugefügt am: 2022-06-30 12:41
+Disallow: /*-14453407$ # zugefügt am: 2022-06-05 10:46
+Disallow: /*-14274107$ # zugefügt am: 2022-04-26 16:02
+Disallow: /*-9614761$ # zugefügt am: 2022-02-07 15:09
+Disallow: /*-13920901$ # zugefügt am: 2022-01-24 17:49
+Disallow: /*-35506639$ # zugefügt am: 2022-01-05 17:35
+Disallow: /*-13465527$ # zugefügt am: 2021-12-06 17:42
+Disallow: /*-55011009$ # zugefügt am: 2021-12-02 16:12
+Disallow: /*-14326539$ # zugefügt am: 2021-11-26 20:48
+Disallow: /*-42331107$ # zugefügt am: 2021-10-20 14:19
+Disallow: /*-8493063$ # zugefügt am: 2021-09-23 16:05
+Disallow: /*-14409843$ # zugefügt am: 2021-09-12 20:11
+Disallow: /*-21486787$ # zugefügt am: 2021-08-31 18:44
+Disallow: /*-19110801$ # zugefügt am: 2021-07-02 17:00
+Disallow: /*-21494223$ # zugefügt am: 2021-06-11 21:04
+Disallow: /*-11650177$ # zugefügt am: 2021-05-07 18:12
+Disallow: /*-21351965$ # zugefügt am: 2021-05-04 14:12
+Disallow: /*-52521285$ # zugefügt am: 2021-04-29 19:37
+Disallow: /*-19922335$ # zugefügt am: 2021-04-18 15:54
+Disallow: /*-11919917$ # zugefügt am: 2021-03-12 20:58
+Disallow: /*-11575171$ # zugefügt am: 2021-03-11 16:09
+Disallow: /*-9685387$ # zugefügt am: 2021-03-09 22:13
+Disallow: /*-42893785$ # zugefügt am: 2021-02-28 10:58
+Disallow: /*-9110383$ # zugefügt am: 2021-02-26 18:24
+Disallow: /*-47315031$ # zugefügt am: 2021-02-25 17:26
+Disallow: /*-37072203$ # zugefügt am: 2021-02-25 17:25
+Disallow: /*-13707139$ # zugefügt am: 2021-02-08 18:31
+Disallow: /*-55941489$ # zugefügt am: 2021-01-28 19:00
+Disallow: /*-19549421$ # zugefügt am: 2021-01-08 14:03
+Disallow: /*-20973463$ # zugefügt am: 2020-12-20 17:01
+Disallow: /*-11123171$ # zugefügt am: 2020-11-28 16:18
+Disallow: /*-19730333$ # zugefügt am: 2020-11-26 15:14
+Disallow: /*-21941779$ # zugefügt am: 2020-10-23 17:36
+Disallow: /*-9391103$ # zugefügt am: 2020-10-22 18:46
+Disallow: /*-53596965$ # zugefügt am: 2020-10-06 15:17
+Disallow: /*-11447109$ # zugefügt am: 2020-09-24 18:45
+Disallow: /*-53174509$ # zugefügt am: 2020-09-06 12:41
+Disallow: /*-9155203$ # zugefügt am: 2020-09-02 15:25
+Disallow: /*-14269981$ # zugefügt am: 2020-09-02 15:24
+Disallow: /*-18723225$ # zugefügt am: 2020-07-22 12:16
+Disallow: /*-19628279$ # zugefügt am: 2020-07-22 12:15
+Disallow: /*-19788415$ # zugefügt am: 2020-07-22 12:15
+Disallow: /*-20575853$ # zugefügt am: 2020-07-22 12:14
+Disallow: /*-20650985$ # zugefügt am: 2020-07-22 12:14
+Disallow: /*-20743139$ # zugefügt am: 2020-07-22 12:13
+Disallow: /*-20746013$ # zugefügt am: 2020-07-22 12:12
+Disallow: /*-20796365$ # zugefügt am: 2020-07-22 11:15
+Disallow: /*-21179595$ # zugefügt am: 2020-07-22 11:14
+Disallow: /*-38924427$ # zugefügt am: 2020-07-22 11:14
+Disallow: /*-39591047$ # zugefügt am: 2020-07-22 11:12
+Disallow: /*-48655163$ # zugefügt am: 2020-07-22 11:09
+Disallow: /*-18422841$ # zugefügt am: 2020-07-21 15:09
+Disallow: /*-17682203$ # zugefügt am: 2020-07-21 15:04
+Disallow: /*-16430453$ # zugefügt am: 2020-07-21 15:03
+Disallow: /*-19598753$ # zugefügt am: 2020-07-15 19:50
+Disallow: /*-14437163$ # zugefügt am: 2020-07-09 10:23
+Disallow: /*-9116339$ # zugefügt am: 2020-06-24 17:49
+Disallow: /*-18481397$ # zugefügt am: 2020-06-22 14:22
+Disallow: /*-23893545$ # zugefügt am: 2020-06-19 17:02
+Disallow: /*-20814407$ # zugefügt am: 2020-06-19 16:59
+Disallow: /*-20560249$ # zugefügt am: 2020-06-10 17:49
+Disallow: /*-45585665$ # zugefügt am: 2020-05-29 18:24
+Disallow: /*-51254095$ # zugefügt am: 2020-05-28 17:23
+Disallow: /*-18160707$ # zugefügt am: 2020-05-27 16:05
+Disallow: /*-51329765$ # zugefügt am: 2020-05-26 15:50
+Disallow: /*-15528387$ # zugefügt am: 2020-05-15 11:54
+Disallow: /*-15960629$ # zugefügt am: 2020-05-15 11:52
+Disallow: /*-19375463$ # zugefügt am: 2020-05-13 18:30
+Disallow: /*-49990959$ # zugefügt am: 2020-04-21 12:19
+Disallow: /*-49203951$ # zugefügt am: 2020-04-02 15:39
+Disallow: /*-20316169$ # zugefügt am: 2020-03-31 16:36
+Disallow: /*-49467847$ # zugefügt am: 2020-03-27 16:25
+Disallow: /*-20925669$ # zugefügt am: 2020-03-13 11:39
+Disallow: /*-20359739$ # zugefügt am: 2020-03-04 15:49
+Disallow: /*-46781205$ # zugefügt am: 2020-02-26 11:21
+Disallow: /*-48128421$ # zugefügt am: 2020-02-11 15:38
+Disallow: /*-17232211$ # zugefügt am: 2020-01-30 16:59
+Disallow: /*-12266579$ # zugefügt am: 2020-01-30 12:20
+Disallow: /*-13028403$ # zugefügt am: 2020-01-17 15:11
+Disallow: /*-48305243$ # zugefügt am: 2020-01-16 16:04
+Disallow: /*-8801259$ # zugefügt am: 2020-01-14 16:30
+Disallow: /*-20708857$ # zugefügt am: 2020-01-13 15:39
+Disallow: /*-20665167$ # zugefügt am: 2020-01-13 15:38
+Disallow: /*-18975791$ # zugefügt am: 2020-01-10 16:11
+Disallow: /*-47803619$ # zugefügt am: 2020-01-08 15:26
+Disallow: /*-47804893$ # zugefügt am: 2020-01-08 15:18
+Disallow: /*-21490433$ # zugefügt am: 2020-01-06 13:49
+Disallow: /*-15200975$ # zugefügt am: 2019-12-27 09:15
+Disallow: /*-11142641$ # zugefügt am: 2019-12-05 12:26
+Disallow: /*-11398221$ # zugefügt am: 2019-11-27 17:04
+Disallow: /*-47262809$ # zugefügt am: 2019-11-22 11:46
+Disallow: /*-20043929$ # zugefügt am: 2019-11-15 14:39
+Disallow: /*-9591371$ # zugefügt am: 2019-11-15 14:38
+Disallow: /*-22184987$ # zugefügt am: 2019-11-15 14:38
+Disallow: /*-13356603$ # zugefügt am: 2019-11-15 14:37
+Disallow: /*-13356585$ # zugefügt am: 2019-11-15 14:30
+Disallow: /*-11763797$ # zugefügt am: 2019-11-15 14:30
+Disallow: /*-38180309$ # zugefügt am: 2019-11-07 11:35
+Disallow: /*-12260163$ # zugefügt am: 2019-10-18 15:12
+Disallow: /*-44133701$ # zugefügt am: 2019-10-10 16:47
+Disallow: /*-38555047$ # zugefügt am: 2019-10-09 19:13
+Disallow: /*-14269357$ # zugefügt am: 2019-10-08 17:25
+Disallow: /*-14273257$ # zugefügt am: 2019-10-04 16:07
+Disallow: /*-33048475$ # zugefügt am: 2019-10-01 13:35
+Disallow: /*-13694921$ # zugefügt am: 2019-09-19 18:02
+Disallow: /*-19173527$ # zugefügt am: 2019-09-17 16:14
+Disallow: /*-20772623$ # zugefügt am: 2019-09-03 16:58
+Disallow: /*-12418355$ # zugefügt am: 2019-08-30 16:41
+Disallow: /*-22589063$ # zugefügt am: 2019-08-23 15:11
+Disallow: /*-39014573$ # zugefügt am: 2019-08-12 09:38
+Disallow: /*-12360187$ # zugefügt am: 2019-08-02 15:10
+Disallow: /*-17022381$ # zugefügt am: 2019-07-31 17:16
+Disallow: /*-13122275$ # zugefügt am: 2019-07-17 14:06
+Disallow: /*-22185735$ # zugefügt am: 2019-07-17 14:04
+Disallow: /*-38822715$ # zugefügt am: 2019-07-08 11:23
+Disallow: /*-9133175$ # zugefügt am: 2019-06-19 14:45
+Disallow: /*-13475383$ # zugefügt am: 2019-06-18 11:38
+Disallow: /*-13555623$ # zugefügt am: 2019-06-18 11:37
+Disallow: /*-13493127$ # zugefügt am: 2019-06-18 11:35
+Disallow: /*-13533739$ # zugefügt am: 2019-06-18 11:34
+Disallow: /*-13695333$ # zugefügt am: 2019-06-18 11:33
+Disallow: /*-9112915$ # zugefügt am: 2019-06-18 11:32
+Disallow: /*-8855357$ # zugefügt am: 2019-06-18 11:31
+Disallow: /*-22184731$ # zugefügt am: 2019-06-18 11:30
+Disallow: /*-13100043$ # zugefügt am: 2019-06-18 11:27
+Disallow: /*-8855345$ # zugefügt am: 2019-06-18 11:26
+Disallow: /*-20364453$ # zugefügt am: 2019-06-18 11:07
+Disallow: /*-20415283$ # zugefügt am: 2019-06-18 11:05
+Disallow: /*-10982591$ # zugefügt am: 2019-05-31 18:11
+Disallow: /*-17817629$ # zugefügt am: 2019-05-28 15:11
+Disallow: /*-19324221$ # zugefügt am: 2019-05-24 18:36
+Disallow: /*-19500939$ # zugefügt am: 2019-05-15 14:45
+Disallow: /*-38622877$ # zugefügt am: 2019-05-13 15:58
+Disallow: /*-38555797$ # zugefügt am: 2019-05-08 17:24
+Disallow: /*-11107945$ # zugefügt am: 2019-04-24 11:40
+Disallow: /*-11636019$ # zugefügt am: 2019-04-15 12:51
+Disallow: /*-8909337$ # zugefügt am: 2019-04-15 12:50
+Disallow: /*-11743523$ # zugefügt am: 2019-04-15 12:49
+Disallow: /*-8886567$ # zugefügt am: 2019-04-15 12:48
+Disallow: /*-8520297$ # zugefügt am: 2019-04-15 10:47
+Disallow: /*-18878645$ # zugefügt am: 2019-04-12 12:26
+Disallow: /*-14147595$ # zugefügt am: 2019-04-12 12:25
+Disallow: /*-15332151$ # zugefügt am: 2019-04-12 12:23
+Disallow: /*-16293473$ # zugefügt am: 2019-04-12 12:21
+Disallow: /*-18095977$ # zugefügt am: 2019-04-12 12:20
+Disallow: /*-19899443$ # zugefügt am: 2019-04-11 14:51
+Disallow: /*-36746753$ # zugefügt am: 2019-02-13 17:25
+Disallow: /*-35589651$ # zugefügt am: 2019-01-15 15:57
+Disallow: /*-35431679$ # zugefügt am: 2019-01-03 17:05
+Disallow: /*-11352687$ # zugefügt am: 2019-01-03 14:29
+Disallow: /*-12558481$ # zugefügt am: 2019-01-01 14:27
+Disallow: /*-14218085$ # zugefügt am: 2018-12-21 09:47
+Disallow: /*-21615791$ # zugefügt am: 2018-12-18 12:45
+Disallow: /*-11257643$ # zugefügt am: 2018-12-12 16:22
+Disallow: /*-34971375$ # zugefügt am: 2018-12-10 09:47
+Disallow: /*-11529339$ # zugefügt am: 2018-12-07 16:32
+Disallow: /*-12359807$ # zugefügt am: 2018-12-07 16:30
+Disallow: /*-11529253$ # zugefügt am: 2018-12-07 16:27
+Disallow: /*-34142165$ # zugefügt am: 2018-12-06 14:14
+Disallow: /*-14186241$ # zugefügt am: 2018-11-28 10:33
+Disallow: /*-14186235$ # zugefügt am: 2018-11-28 10:32
+Disallow: /*-34190359$ # zugefügt am: 2018-11-16 17:14
+Disallow: /*-11216247$ # zugefügt am: 2018-11-15 11:12
+Disallow: /*-19644005$ # zugefügt am: 2018-10-22 17:25
+Disallow: /*-13888799$ # zugefügt am: 2018-10-22 17:13
+Disallow: /*-17031201$ # zugefügt am: 2018-10-08 09:32
+Disallow: /*-33438225$ # zugefügt am: 2018-10-02 19:26
+Disallow: /*-19316579$ # zugefügt am: 2018-09-27 14:26
+Disallow: /*-33254393$ # zugefügt am: 2018-09-26 12:22
+Disallow: /*-33281175$ # zugefügt am: 2018-09-26 11:58
+Disallow: /*-8625511$ # zugefügt am: 2018-09-24 17:38
+Disallow: /*-13713507$ # zugefügt am: 2018-09-17 10:22
+Disallow: /*-14570243$ # zugefügt am: 2018-09-13 18:04
+Disallow: /*-14621369$ # zugefügt am: 2018-09-13 18:03
+Disallow: /*-13788687$ # zugefügt am: 2018-09-11 16:36
+Disallow: /*-11452191$ # zugefügt am: 2018-09-11 15:11
+Disallow: /*-19316595$ # zugefügt am: 2018-09-06 11:47
+Disallow: /*-12741323$ # zugefügt am: 2018-08-22 10:10
+Disallow: /*-14012555$ # zugefügt am: 2018-08-16 14:22
+Disallow: /*-14012551$ # zugefügt am: 2018-08-16 14:22
+Disallow: /*-14009885$ # zugefügt am: 2018-08-16 14:21
+Disallow: /*-11107961$ # zugefügt am: 2018-08-15 13:04
+Disallow: /*-8407893$ # zugefügt am: 2018-08-13 09:45
+Disallow: /*-19427667$ # zugefügt am: 2018-08-10 10:47
+Disallow: /*-20253443$ # zugefügt am: 2018-07-27 09:49
+Disallow: /*-21474183$ # zugefügt am: 2018-07-25 11:29
+Disallow: /*-21110395$ # zugefügt am: 2018-07-24 13:03
+Disallow: /*-11524123$ # zugefügt am: 2018-07-23 13:56
+Disallow: /*-20205457$ # zugefügt am: 2018-07-16 15:05
+Disallow: /*-21414693$ # zugefügt am: 2018-07-13 11:57
+Disallow: /*-23818161$ # zugefügt am: 2018-07-11 17:28
+Disallow: /*-23818895$ # zugefügt am: 2018-07-11 17:16
+Disallow: /*-12704631$ # zugefügt am: 2018-07-09 13:37
+Disallow: /*-9313163$ # zugefügt am: 2018-07-09 11:57
+Disallow: /*-16562679$ # zugefügt am: 2018-07-06 19:32
+Disallow: /*-14161677$ # zugefügt am: 2018-06-27 11:47
+Disallow: /*-17624331$ # zugefügt am: 2018-06-26 14:24
+Disallow: /*-17621047$ # zugefügt am: 2018-06-26 14:23
+Disallow: /*-18939905$ # zugefügt am: 2018-06-26 14:22
+Disallow: /*-17620911$ # zugefügt am: 2018-06-26 14:21
+Disallow: /*-16309127$ # zugefügt am: 2018-06-25 16:08
+Disallow: /*-21542249$ # zugefügt am: 2018-06-25 16:07
+Disallow: /*-21577317$ # zugefügt am: 2018-06-25 16:07
+Disallow: /*-21758671$ # zugefügt am: 2018-06-25 16:06
+Disallow: /*-21759699$ # zugefügt am: 2018-06-25 16:05
+Disallow: /*-21762025$ # zugefügt am: 2018-06-25 16:04
+Disallow: /*-21768083$ # zugefügt am: 2018-06-25 16:03
+Disallow: /*-21852449$ # zugefügt am: 2018-06-25 16:03
+Disallow: /*-20138187$ # zugefügt am: 2018-06-25 16:00
+Disallow: /*-21769871$ # zugefügt am: 2018-06-25 15:59
+Disallow: /*-21667105$ # zugefügt am: 2018-06-25 15:59
+Disallow: /*-20139791$ # zugefügt am: 2018-06-25 15:58
+Disallow: /*-21523669$ # zugefügt am: 2018-06-25 15:57
+Disallow: /*-13416185$ # zugefügt am: 2018-05-29 18:45
+Disallow: /*-11591777$ # zugefügt am: 2018-05-29 16:04
+Disallow: /*-11182991$ # zugefügt am: 2018-05-29 16:03
+Disallow: /*-11724389$ # zugefügt am: 2018-05-29 16:02
+Disallow: /*-11024043$ # zugefügt am: 2018-05-29 16:02
+Disallow: /*-11777011$ # zugefügt am: 2018-05-29 16:01
+Disallow: /*-9339367$ # zugefügt am: 2018-05-29 10:43
+Disallow: /*-21111817$ # zugefügt am: 2018-05-23 21:56
+Disallow: /*-22712199$ # zugefügt am: 2018-05-18 11:35
+Disallow: /*-11557083$ # zugefügt am: 2018-05-16 18:04
+Disallow: /*-11933267$ # zugefügt am: 2018-05-16 18:02
+Disallow: /*-8173335$ # zugefügt am: 2018-04-26 13:30
+Disallow: /*-8173321$ # zugefügt am: 2018-04-26 13:29
+Disallow: /*-8172947$ # zugefügt am: 2018-04-26 13:11
+Disallow: /*-8172955$ # zugefügt am: 2018-04-26 13:10
+Disallow: /*-8173049$ # zugefügt am: 2018-04-26 13:10
+Disallow: /*-8173117$ # zugefügt am: 2018-04-26 13:10
+Disallow: /*-8173149$ # zugefügt am: 2018-04-26 13:08
+Disallow: /*-8174447$ # zugefügt am: 2018-04-26 13:08
+Disallow: /*-8174457$ # zugefügt am: 2018-04-26 13:07
+Disallow: /*-8174475$ # zugefügt am: 2018-04-26 13:03
+Disallow: /*-8174571$ # zugefügt am: 2018-04-26 13:02
+Disallow: /*-8174689$ # zugefügt am: 2018-04-26 13:02
+Disallow: /*-8175449$ # zugefügt am: 2018-04-26 13:02
+Disallow: /*-8175529$ # zugefügt am: 2018-04-26 12:02
+Disallow: /*-8176249$ # zugefügt am: 2018-04-26 12:02
+Disallow: /*-8176277$ # zugefügt am: 2018-04-26 12:02
+Disallow: /*-8176291$ # zugefügt am: 2018-04-26 12:01
+Disallow: /*-8176339$ # zugefügt am: 2018-04-26 12:01
+Disallow: /*-8176579$ # zugefügt am: 2018-04-26 12:01
+Disallow: /*-8176585$ # zugefügt am: 2018-04-26 12:00
+Disallow: /*-8130797$ # zugefügt am: 2018-04-26 11:58
+Disallow: /*-8130951$ # zugefügt am: 2018-04-26 11:58
+Disallow: /*-8130883$ # zugefügt am: 2018-04-26 11:58
+Disallow: /*-8132459$ # zugefügt am: 2018-04-26 11:57
+Disallow: /*-8130749$ # zugefügt am: 2018-04-26 11:57
+Disallow: /*-8131927$ # zugefügt am: 2018-04-26 11:57
+Disallow: /*-8136391$ # zugefügt am: 2018-04-26 11:56
+Disallow: /*-8136581$ # zugefügt am: 2018-04-26 11:56
+Disallow: /*-8174383$ # zugefügt am: 2018-04-26 11:49
+Disallow: /*-8174415$ # zugefügt am: 2018-04-26 11:48
+Disallow: /*-8174397$ # zugefügt am: 2018-04-26 11:35
+Disallow: /*-8174317$ # zugefügt am: 2018-04-26 11:34
+Disallow: /*-8153635$ # zugefügt am: 2018-04-26 11:33
+Disallow: /*-8154103$ # zugefügt am: 2018-04-26 11:33
+Disallow: /*-8153631$ # zugefügt am: 2018-04-26 11:32
+Disallow: /*-8130851$ # zugefügt am: 2018-04-26 11:31
+Disallow: /*-8155231$ # zugefügt am: 2018-04-26 10:27
+Disallow: /*-8130989$ # zugefügt am: 2018-04-26 10:27
+Disallow: /*-8155203$ # zugefügt am: 2018-04-26 10:26
+Disallow: /*-8114163$ # zugefügt am: 2018-04-26 10:25
+Disallow: /*-8155291$ # zugefügt am: 2018-04-26 10:25
+Disallow: /*-8155925$ # zugefügt am: 2018-04-26 10:24
+Disallow: /*-8155965$ # zugefügt am: 2018-04-26 10:24
+Disallow: /*-8155981$ # zugefügt am: 2018-04-26 10:23
+Disallow: /*-8155995$ # zugefügt am: 2018-04-26 10:23
+Disallow: /*-8156285$ # zugefügt am: 2018-04-26 10:22
+Disallow: /*-8156315$ # zugefügt am: 2018-04-26 10:22
+Disallow: /*-8156695$ # zugefügt am: 2018-04-26 10:22
+Disallow: /*-8156773$ # zugefügt am: 2018-04-26 10:21
+Disallow: /*-8172099$ # zugefügt am: 2018-04-26 10:20
+Disallow: /*-8172697$ # zugefügt am: 2018-04-25 15:22

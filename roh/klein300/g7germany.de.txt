@@ -1,0 +1,134 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AlphaBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-render
+Disallow: /
+
+User-agent: Buck
+Disallow: /
+
+User-agent: changedetection
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Flamingo_SearchEngine
+Disallow: /
+
+User-agent: Grobbot
+Disallow: /
+
+User-agent: JobboerseBot
+Disallow: /
+
+User-agent: jobs.de-Robot
+Disallow: /
+
+User-agent: linkdexbot
+Disallow: /
+
+User-agent: Mail.RU_Bot
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+
+User-agent: Mega-Index
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: Pinterestbot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: SafeDNSBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot/2~bl
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-BM
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: SMTBot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: trendictionbot
+Disallow: /
+
+User-agent: TweetmemeBot
+Disallow: /
+
+User-agent: vebidoobot
+Disallow: /
+
+User-agent: wonderbot
+Disallow: /
+
+User-agent: Wotbox
+Disallow: /
+
+User-agent: yacybot
+Disallow: /
+
+User-agent: YaK
+Disallow: /
+
+User-agent: YandexAntivirus
+Disallow: /
+
+User-agent: YandexBot/3.0
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: YandexMobileBot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+Sitemap: https://www.g7germany.de/service-sitemap-430284ce9e57db8e91ec24b7e5eed91f-sitemap_index.xml
+Sitemap: https://www.g7germany.de/service-sitemap-078d892567ba2737082713c44bfe8170-sitemap_index.xml

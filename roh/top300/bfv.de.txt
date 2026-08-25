@@ -1,0 +1,2559 @@
+
+
+<!doctype html>
+
+<html lang="de">
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+
+
+
+
+
+<meta property="og:site_name" content="Bayerischer Fussball-Verband"/>
+<meta property="og:locale" content="de_DE"/>
+
+<link type="text/css" rel="stylesheet" href="/webfiles/1786517946252/css/main.css?v=dcedca72847e2422afc2a5c296a9275a47459e1b
+"/>
+
+        <title>Bayerischer Fussball-Verband&nbsp;| BFV</title>
+        <meta property="og:title" content="Bayerischer Fussball-Verband&nbsp;| BFV">
+        <meta property="og:description" content="Die offizielle Homepage des Bayerischen Fußball-Verbandes">
+        <meta name="description" content="Die offizielle Homepage des Bayerischen Fußball-Verbandes">
+        <meta property="og:image" content="https://images.bfv.de/resize/binaries/content/gallery/bfv/system/social-media-fallback.png/social-media-fallback.png/bfv%253Athreebytwo?v=91161283"/>
+        <meta property="og:type" content="website"/>
+
+
+
+
+
+<script type="text/javascript"
+        id="trfAdSetup"
+        async
+        data-traffectiveConf='{
+                        "targeting":
+                          [
+                          {"key":"zone","values":null,"value":"football"},
+                          {"key":"pagetype","values":null,"value":"article"},
+                          {"key":"category1", "values":null,"value":"null"},
+                          {"key":"programmatic_ads","values":null,"value":"true"},
+                          {"key":"ads","values":null,"value":"true"},
+                          {"key":"adCode","values":null,"value":"null"},
+                          {"key":"Bezirksnummer","values":null,"value":"null"},
+                          {"key":"Kreisnummer","values":null,"value":"null"},
+                          {"key":"Mannschaftsart","values":null,"value":"null"},
+                          {"key":"Mannschaftsartgruppe","values":null,"value":"null"},
+                          {"key":"Spielklasse","values":null,"value":"null"},
+                          {"key":"Spielklasseebene","values":null,"value":"null"},
+                          {"key":"Spieltyp","values":null,"value":"null"}
+                          ],
+                          "clientAlias" : "os",
+                          "dfpAdUrl" : "/307308315,22793092278/bfv.de/robots.txt"
+                        }'
+        src="//cdntrf.com/preloader/4420.js"
+/>
+
+
+<script>
+  dataLayer = [{
+'zone': 'football',
+'pageType': 'article'  }];
+
+</script>
+
+<link rel="stylesheet" href="https://cdntrf.com/css/trf-bfv-os.css"/>
+
+  <link rel="shortcut icon" type="image/x-icon" href="/webfiles/1786517946252/img/favicon.ico"/>
+  <link type="text/css" rel="stylesheet" href="/webfiles/1786517946252/css/fontIncludes.css">
+
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K9SB6SM');
+  </script>
+</head>
+<body class="bfv-layout bfv-layout--default">
+
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9SB6SM"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<div class="bfv-skyscraper-container">
+  <div class="bfv-skyscraper-wrapper">
+    <div class="bfv-skyscraper">
+
+
+        <div class="bfv-ad-banner Skyscraper" id="traffective-ad-Skyscraper">
+        </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="bfv-header-and-navigation js-bfv-header-and-navigation">
+
+    <div class="bfv-header bfv-header--logged-out" data-module="BfvHeader">
+        <div class="bfv-header__content">
+
+            <div class="background-rhombi"></div>
+
+<a   class="bfv-header__bfv-logo-wrapper" 
+     href="/" 
+        
+    
+    >
+    
+                <div class="bfv-header__bfv-logo">
+    <span class="icon icon-logos-logo-wortbildmarke">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231.5 70.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <g>
+      <g>
+        <g>
+          <path class="cls-1" d="M66.8,16.51c2.37,0,3.5,1.13,3.5,4.5,0,2.88-.36,3.96-2.08,4.3,1.85.18,2.29,1.67,2.29,4.5,0,3.58-1.13,4.71-3.5,4.71h-10.63v-18.01h10.42ZM65,23.61c.36,0,.46-.1.46-1.67s-.1-1.67-.46-1.67h-3.78v3.35h3.78ZM65.2,30.77c.36,0,.46-.1.46-1.88s-.1-1.88-.46-1.88h-3.99v3.76h3.99Z"/>
+          <path class="cls-1" d="M77.97,30.82l-.95,3.71h-4.94l5.43-18.01h6.38l5.48,18.01h-5.15l-.95-3.71h-5.3ZM80.62,20.45l-1.67,6.51h3.35l-1.67-6.51Z"/>
+          <path class="cls-1" d="M93.59,34.52v-5.58l-5.74-12.43h5.25l2.93,7.64,2.93-7.64h5.2l-5.74,12.43v5.58h-4.84Z"/>
+          <path class="cls-1" d="M119.14,16.51v4.01h-7.82v2.81h6.2v3.96h-6.2v3.22h7.82v4.01h-12.66v-18.01h12.66Z"/>
+          <path class="cls-1" d="M132.29,34.52l-3.06-6.02h-1.98v6.02h-4.84v-18.01h10.55c2.37,0,3.5,1.13,3.5,3.5v4.68c0,1.98-.8,3.09-2.44,3.42l3.17,6.41h-4.89ZM131.16,24.69c.36,0,.46-.1.46-.46v-3.35c0-.36-.1-.46-.46-.46h-3.91v4.27h3.91Z"/>
+          <path class="cls-1" d="M139.96,16.51h4.84v18.01h-4.84v-18.01Z"/>
+          <path class="cls-1" d="M156.87,20.83c0-.36-.1-.46-.46-.46h-2.96c-.36,0-.46.1-.46.46v1.39c0,.28.08.36.54.49l4.79,1.29c2.52.67,3.71,1.13,3.71,3.71v3.32c0,2.37-1.13,3.5-3.5,3.5h-6.92c-2.37,0-3.5-1.13-3.5-3.5v-2.47h4.84v1.65c0,.36.1.46.46.46h3.32c.36,0,.46-.1.46-.46v-1.57c0-.28-.13-.36-.54-.46l-4.79-1.31c-2.52-.69-3.71-1.13-3.71-3.71v-3.14c0-2.37,1.13-3.5,3.5-3.5h6.56c2.37,0,3.5,1.13,3.5,3.5v2.29h-4.84v-1.47Z"/>
+          <path class="cls-1" d="M168.6,34.52c-2.37,0-3.5-1.13-3.5-3.5v-11.01c0-2.37,1.18-3.5,3.55-3.5h6.87c2.37,0,3.45,1.13,3.45,3.5v3.37h-4.84v-2.39c0-.36-.1-.46-.46-.46h-3.27c-.36,0-.46.1-.46.46v9.06c0,.36.1.46.46.46h3.27c.36,0,.46-.1.46-.46v-2.39h4.84v3.37c0,2.37-1.13,3.5-3.5,3.5h-6.87Z"/>
+          <path class="cls-1" d="M182.11,16.51h4.84v6.74h5.17v-6.74h4.84v18.01h-4.84v-7.15h-5.17v7.15h-4.84v-18.01Z"/>
+          <path class="cls-1" d="M213.46,16.51v4.01h-7.82v2.81h6.2v3.96h-6.2v3.22h7.82v4.01h-12.66v-18.01h12.66Z"/>
+          <path class="cls-1" d="M226.61,34.52l-3.06-6.02h-1.98v6.02h-4.84v-18.01h10.55c2.37,0,3.5,1.13,3.5,3.5v4.68c0,1.98-.8,3.09-2.44,3.42l3.17,6.41h-4.89ZM225.48,24.69c.36,0,.46-.1.46-.46v-3.35c0-.36-.1-.46-.46-.46h-3.91v4.27h3.91Z"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M56.37,39.03h8.66v2.75h-5.35v2.15h4.24v2.71h-4.24v4.72h-3.31v-12.32Z"/>
+          <path class="cls-1" d="M76.28,48.96c0,1.55-.85,2.39-2.39,2.39h-4.75c-1.55,0-2.39-.85-2.39-2.39v-9.93h3.31v9.15c0,.21.11.32.32.32h2.29c.21,0,.32-.11.32-.32v-9.15h3.31v9.93Z"/>
+          <path class="cls-1" d="M84.31,41.98c0-.25-.07-.32-.32-.32h-2.02c-.25,0-.32.07-.32.32v.95c0,.19.05.25.37.33l3.27.88c1.73.46,2.54.77,2.54,2.54v2.27c0,1.62-.77,2.39-2.39,2.39h-4.74c-1.62,0-2.39-.77-2.39-2.39v-1.69h3.31v1.13c0,.25.07.32.32.32h2.27c.25,0,.32-.07.32-.32v-1.07c0-.19-.09-.25-.37-.32l-3.27-.9c-1.73-.48-2.54-.77-2.54-2.54v-2.15c0-1.62.77-2.39,2.39-2.39h4.49c1.62,0,2.39.77,2.39,2.39v1.57h-3.31v-1Z"/>
+          <path class="cls-1" d="M95.55,41.98c0-.25-.07-.32-.32-.32h-2.03c-.25,0-.32.07-.32.32v.95c0,.19.05.25.37.33l3.27.88c1.73.46,2.54.77,2.54,2.54v2.27c0,1.62-.77,2.39-2.39,2.39h-4.74c-1.62,0-2.39-.77-2.39-2.39v-1.69h3.31v1.13c0,.25.07.32.32.32h2.27c.25,0,.32-.07.32-.32v-1.07c0-.19-.09-.25-.37-.32l-3.27-.9c-1.73-.48-2.54-.77-2.54-2.54v-2.15c0-1.62.77-2.39,2.39-2.39h4.49c1.62,0,2.39.77,2.39,2.39v1.57h-3.31v-1Z"/>
+          <path class="cls-1" d="M108.3,39.03c1.62,0,2.39.77,2.39,3.08,0,1.97-.25,2.71-1.43,2.94,1.27.12,1.57,1.14,1.57,3.08,0,2.45-.77,3.22-2.39,3.22h-7.27v-12.32h7.13ZM107.06,43.88c.25,0,.32-.07.32-1.14s-.07-1.14-.32-1.14h-2.59v2.29h2.59ZM107.2,48.78c.25,0,.32-.07.32-1.29s-.07-1.29-.32-1.29h-2.73v2.57h2.73Z"/>
+          <path class="cls-1" d="M115.76,48.81l-.65,2.54h-3.38l3.71-12.32h4.37l3.75,12.32h-3.52l-.65-2.54h-3.63ZM117.57,41.72l-1.14,4.45h2.29l-1.14-4.45Z"/>
+          <path class="cls-1" d="M128.27,39.03v9.51h4.91v2.82h-8.22v-12.32h3.31Z"/>
+          <path class="cls-1" d="M138.23,39.03v9.51h4.91v2.82h-8.22v-12.32h3.31Z"/>
+          <path class="cls-1" d="M149.39,46.98h-6.35v-2.83h6.35v2.83Z"/>
+          <path class="cls-1" d="M157.33,51.35h-3.77l-3.71-12.32h3.56l2.09,8.91,2.1-8.91h3.45l-3.71,12.32Z"/>
+          <path class="cls-1" d="M171.13,39.03v2.75h-5.35v1.92h4.24v2.71h-4.24v2.2h5.35v2.75h-8.66v-12.32h8.66Z"/>
+          <path class="cls-1" d="M179.95,51.35l-2.1-4.12h-1.35v4.12h-3.31v-12.32h7.22c1.62,0,2.39.77,2.39,2.39v3.2c0,1.36-.55,2.11-1.67,2.34l2.17,4.38h-3.35ZM179.17,44.62c.25,0,.32-.07.32-.32v-2.29c0-.25-.07-.32-.32-.32h-2.68v2.92h2.68Z"/>
+          <path class="cls-1" d="M192.14,39.03c1.62,0,2.39.77,2.39,3.08,0,1.97-.25,2.71-1.43,2.94,1.27.12,1.57,1.14,1.57,3.08,0,2.45-.77,3.22-2.39,3.22h-7.27v-12.32h7.13ZM190.91,43.88c.25,0,.32-.07.32-1.14s-.07-1.14-.32-1.14h-2.59v2.29h2.59ZM191.05,48.78c.25,0,.32-.07.32-1.29s-.07-1.29-.32-1.29h-2.73v2.57h2.73Z"/>
+          <path class="cls-1" d="M199.61,48.81l-.65,2.54h-3.38l3.71-12.32h4.37l3.75,12.32h-3.52l-.65-2.54h-3.63ZM201.42,41.72l-1.14,4.45h2.29l-1.14-4.45Z"/>
+          <path class="cls-1" d="M219.34,39.03v12.32h-2.94l-4.38-7.06v7.06h-3.2v-12.32h3.29l4.03,6.55v-6.55h3.2Z"/>
+          <path class="cls-1" d="M229.1,39.03c1.62,0,2.39.77,2.39,2.39v7.54c0,1.62-.77,2.39-2.39,2.39h-7.32v-12.32h7.32ZM227.87,48.6c.25,0,.32-.07.32-.32v-6.2c0-.25-.07-.32-.32-.32h-2.78v6.83h2.78Z"/>
+        </g>
+      </g>
+      <path class="cls-1" d="M46.6,20.65C43.31,8.56,35.19,0,25.69,0,13.28,0,3.22,14.62,3.22,32.65s10.06,32.66,22.47,32.65c.19,0,.39,0,.58-.01l-3.3-4.18,7.23-9.16-7.24-9.15,7.23-9.16-2.66-7.61h-3.47l-.58,2.02h4.05s-.79,1.59-.79,1.59h-3.72l-1.11,3.82h-1.99l.67-3.82h-2.38c.18.34.26.74.18,1.22-.28,1.6-1.89,2.61-3.78,2.61h-6.15l.67-3.82h-1.8l.79-1.57h1.29l.63-3.59h5.75c1.65,0,2.97.8,2.69,2.4-.08.46-.32.87-.65,1.19h3.04l.63-3.59h8.22l1.15,5.5,3.2-5.49h3.38s6.29-7.97,6.29-7.97c2.15,5.79,3.04,10.76,3.37,14.04l-2.44,3.09,2.54,3.21c-.3,5.26-1.36,10.18-3.01,14.5l-6.76-8.55-7.23,9.16,6.96,8.8c2.68-2.31,5-5.38,6.86-8.98-3.88,9.66-10.78,16.67-19.23,16.67-12.43,0-23.12-15.54-22.96-34.7.11-13.85,5.38-24.66,12.06-30.09C5.72,9.39,0,21.34,0,35.41c0,19.58,10.93,35.46,24.4,35.46s24.4-15.88,24.4-35.46c0-5.27-.79-10.26-2.21-14.76M44.67,33.64l-7.22-9.16-7.26,9.17,7.24,9.15,7.24-9.16ZM15.29,26.03h-2.79l-.55,2.03h2.98c.88,0,1.42-.48,1.52-1.02.09-.53-.29-1.01-1.16-1.01M15.05,29.63h-3.57l-.66,2.25h3.84c.89,0,1.63-.49,1.74-1.11.11-.64-.45-1.14-1.35-1.14"/>
+    </g>
+  </g>
+</svg>
+            </span>
+    </span>
+                </div>
+</a>
+
+<a   class="bfv-header__menu-button-wrapper js-menu-button" 
+     href="#" 
+        
+    
+    >
+    
+                <div class="bfv-header__menu-button">Menü</div>
+
+                <div class="bfv-header__menu-button bfv-header__menu-button--close">
+    <span class="icon icon-20-close">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M10 11.68L1.68 20 0 18.32 8.32 10 0 1.68 1.68 0 10 8.32 18.32 0 20 1.68 11.68 10 20 18.32 18.32 20 10 11.68z" fill-rule="evenodd"/></svg>            </span>
+    </span>
+                </div>
+</a>
+
+            <div class="bfv-header__search-bar">
+                <div class="bfv-header__search" data-module="BfvNavigationsSuche">
+
+
+    <div class="input
+   js-navigation-search-input
+   input--icon
+  
+  
+  
+  
+  "
+         
+    >
+
+        <div>
+
+
+                <input
+                        aria-label="Suche / Vereine"
+                        name="search-input"
+                        type="text"
+                        
+                         placeholder="Suchbegriff eingeben" 
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                />
+
+<a   class="js-navigation-search-button" 
+     href="/textsuche" 
+        
+    
+     title="Jetzt suchen">
+    
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 21C5.477 21 1 16.523 1 11S5.477 1 11 1s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm12.707 3.293a1 1 0 0 1-1.414 1.414l-5.6-5.6a1 1 0 0 1 1.414-1.414l5.6 5.6z"/></svg>            </span>
+    </span>
+</a>
+        </div>
+        <span class="input__notification input__notification--error"></span>
+
+    </div>
+
+
+
+                    <span class="bfv-header__search-clear js-navigation-search-clear"></span>
+                    <span class="bfv-header__search-label js-navigation-search-button">Suche / Vereine</span>
+                </div>
+            </div>
+
+
+            <div class="bfv-header__logo-links-wrapper">
+                <div class="bfv-header__links">
+<a   class="bfv-header__link" 
+     href="https://spielplus.bfv.de/spielplus/" 
+        
+     target="_blank"
+     title="Logge dich bei SpielPlus ein">
+    SpielPlus
+</a>
+<a   class="bfv-header__link" 
+     href="/infothek" 
+        
+    
+     title="Lass Dich informieren">
+    Infothek
+</a>
+
+                    <div class="bfv-header__login bfv-header__link">
+<a   class="logged-out" 
+     href="/login" 
+        
+    
+     title="Log Dich ein">
+    Jetzt einloggen
+    <span class="icon icon-24-user">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.774 20.01c.679-.111 1.276-.914.625-1.44-.652-.525-2.254-3.404-2.091-4.981.163-1.578-.326-3.183-.652-3.792-.326-.608-1.058-4.234 0-5.23 1.06-.997 3.665-2.104 5.403-1.025 1.738 1.08 4.37 2.74 4.235 6.366-.135 3.625-2.09 4.622-1.982 5.923.109 1.3 1.277 2.158 2.498 2.158.999 0 3.41-.018 4.822-.085A12.364 12.364 0 0 0 24 12.233C24 5.477 18.627 0 12 0S0 5.477 0 12.233c0 3.99 1.876 7.534 4.776 9.767 1.638-.745 4.469-1.904 4.998-1.99"/></svg>            </span>
+    </span>
+</a>
+                    </div>
+                </div>
+
+
+                <div class="bfv-header__sponsoring-bar">
+<a  
+     href="https://www.adidas.de/adidasteam?cm_mmc=AdiPartner_BayerischerFußballverband-_-Bayerischer-_-DigitalBanner-_-Other-_-dv:Brand-_-cn:adidasTEAM-_-pc:football&cm_mmc1=DE&cm_mmc2=adidas-EMEA-Brand-Partner-multiple-football-Multiple-DE-adidasTEAM-None" 
+        
+     target="_blank"
+     title="adidas">
+    
+                        <div class="bfv-header__sponsoring-logo bfv-header__sponsoring-logo--adidas">
+    <span class="icon icon-logos-adidas-logo">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 32"><style>.st0{fill:#fff}</style><path class="st0" d="M47 30.8L30 1.2l-9.2 5.3 14 24.3zm-16.2 0L19.5 11.3l-9.1 5.2 8.2 14.3zm-16.2 0l-5.5-9.5L0 26.6l2.4 4.2z"/></svg>            </span>
+    </span>
+                        </div>
+</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+<div class="bfv-header-and-navigation__navgation js-navigation-wrapper">
+
+    <div class="bfv-navigation" data-module="BfvNavigation">
+
+
+
+<div class="bfv-navigation__login">
+<a   class="bfv-navigation__login-link" 
+     href="/login" 
+        
+    
+     title="Log Dich ein">
+    Jetzt einloggen
+    <span class="icon icon-24-user">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.774 20.01c.679-.111 1.276-.914.625-1.44-.652-.525-2.254-3.404-2.091-4.981.163-1.578-.326-3.183-.652-3.792-.326-.608-1.058-4.234 0-5.23 1.06-.997 3.665-2.104 5.403-1.025 1.738 1.08 4.37 2.74 4.235 6.366-.135 3.625-2.09 4.622-1.982 5.923.109 1.3 1.277 2.158 2.498 2.158.999 0 3.41-.018 4.822-.085A12.364 12.364 0 0 0 24 12.233C24 5.477 18.627 0 12 0S0 5.477 0 12.233c0 3.99 1.876 7.534 4.776 9.767 1.638-.745 4.469-1.904 4.998-1.99"/></svg>            </span>
+    </span>
+</a>
+</div>
+        <div class="bfv-navigation__navigation js-navigation">
+
+            <ul class="bfv-navigation__navigation__ul-menu bfv-navigation__navigation__ul-menu--main js-main-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/ergebnisse" title="ERGEBNISSE & WETTBEWERBE"  >
+        ERGEBNISSE & WETTBEWERBE
+    </a>
+
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" title="NEUIGKEITEN"  >
+        NEUIGKEITEN
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+
+                        <div class="bfv-navigation__flyout js-flyout">
+                                <div class="bfv-navigation__flyout-content">
+
+<a   class="bfv-navigation__teaser" 
+     href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" 
+        
+    
+    >
+    
+<h5 class="bfv-navigation__teaser-headline">
+    #Lasstsiespielen: Die BFV-Mädchenfußball-Kampagne
+</h5>
+        <figure class="bfv-image__loader ">
+                <img draggable="false" src="https://images.bfv.de/resize/binaries/content/gallery/bfv/coverimages/presseabteilung/2023/09/lasst-sie-spielen.jpg/lasst-sie-spielen.jpg/bfv%253Athreebytwo?v=-315071734&width=300" alt="" title=""
+                loading="lazy"
+                style="max-width: 100%; height: auto"/>
+        </figure>
+</a>
+
+
+                                    <div class="bfv-navigation__sublevels">
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/infothek" title="INFOTHEK" target="_blank" >
+        INFOTHEK
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-app/die-bfv-app" title="BFV-APP"  >
+        BFV-APP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-team-app/die-bfv-team-app" title="BFV-TEAM-APP"  >
+        BFV-TEAM-APP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/bfv-magazin/bfv-magazin" title="BFV-MAGAZIN"  >
+        BFV-MAGAZIN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="NEWSLETTER"  >
+        NEWSLETTER
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/newsletter/der-bfv-newsletter" title="BFV-NEWSLETTER"  >
+        BFV-NEWSLETTER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/newsletter/der-bfv-trainings-newsletter" title="BFV-TRAININGS-NEWSLETTER"  >
+        BFV-TRAININGS-NEWSLETTER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/newsletter/der-bfv-bildungs-newsletter" title="BFV-BILDUNGS-NEWSLETTER"  >
+        BFV-BILDUNGS-NEWSLETTER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/newsletter/der-bfv-fan-newsletter" title="BFV-FAN-NEWSLETTER"  >
+        BFV-FAN-NEWSLETTER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/bildung-und-foerderung/ausbildung-und-schulungen/grune-ecke/gruene-ecke#newsletter" title="BFV "GRÜNE ECKE"-NEWSLETTER" target="_blank" >
+        BFV "GRÜNE ECKE"-NEWSLETTER
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="SOCIAL MEDIA"  >
+        SOCIAL MEDIA
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.facebook.com/bfvonline" title="FACEBOOK" target="_blank" >
+        FACEBOOK
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.instagram.com/bfvonline/" title="INSTAGRAM" target="_blank" >
+        INSTAGRAM
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.youtube.com/user/RegionalligaBayern" title="YOUTUBE" target="_blank" >
+        YOUTUBE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://whatsapp.com/channel/0029Va9PPEqInlqL6ZXqdh2c" title="WHATSAPP" target="_blank" >
+        WHATSAPP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.tiktok.com/@bfvonline" title="TIKTOK" target="_blank" >
+        TIKTOK
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.linkedin.com/company/bayerischer-fußball-verband" title="LINKEDIN" target="_blank" >
+        LINKEDIN
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/infothek/tv" title="BFV.TV" target="_blank" >
+        BFV.TV
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/infothek/galerie" title="BILDERGALERIEN" target="_blank" >
+        BILDERGALERIEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/presse-bereich/presse-bereich-ubersicht" title="MEDIENPORTAL"  >
+        MEDIENPORTAL
+    </a>
+    </li>
+    </ul>
+                                    </div>
+
+
+                                </div>
+                            </div>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" title="SPIELBETRIEB & VERBANDSLEBEN"  >
+        SPIELBETRIEB & VERBANDSLEBEN
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+
+                        <div class="bfv-navigation__flyout js-flyout">
+                                <div class="bfv-navigation__flyout-content">
+
+<a   class="bfv-navigation__teaser" 
+     href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" 
+        
+    
+    >
+    
+<h5 class="bfv-navigation__teaser-headline">
+    #Lasstsiespielen: Die BFV-Mädchenfußball-Kampagne
+</h5>
+        <figure class="bfv-image__loader ">
+                <img draggable="false" src="https://images.bfv.de/resize/binaries/content/gallery/bfv/coverimages/presseabteilung/2023/09/lasst-sie-spielen.jpg/lasst-sie-spielen.jpg/bfv%253Athreebytwo?v=-315071734&width=300" alt="" title=""
+                loading="lazy"
+                style="max-width: 100%; height: auto"/>
+        </figure>
+</a>
+
+
+                                    <div class="bfv-navigation__sublevels">
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/paesse-und-vereinswechsel/ubersichtsseite-passe-und-vereinswechsel" title="PÄSSE UND VEREINSWECHSEL"  >
+        PÄSSE UND VEREINSWECHSEL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bfv-logins/uebersicht-bfv-logins" title="BFV-LOGINS"  >
+        BFV-LOGINS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="BEZIRKE & KREISE"  >
+        BEZIRKE & KREISE
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberbayern/der-bezirk-oberbayern" title="OBERBAYERN"  >
+        OBERBAYERN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/niederbayern/bezirk/der-bezirk-niederbayern" title="NIEDERBAYERN"  >
+        NIEDERBAYERN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/schwaben/bezirk-schw/der-bezirk-schwaben" title="SCHWABEN"  >
+        SCHWABEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberpfalz/bezirk-opf/fussballbezirk-oberpfalz" title="OBERPFALZ"  >
+        OBERPFALZ
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberfranken/bezirk-ofr/ubersicht/bezirk-oberfranken" title="OBERFRANKEN"  >
+        OBERFRANKEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/mittelfranken/bezirk-mfr/der-bezirk-mittelfranken" title="MITTELFRANKEN"  >
+        MITTELFRANKEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/unterfranken/bezirk-ufr/der-bezirk-unterfranken" title="UNTERFRANKEN"  >
+        UNTERFRANKEN
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/vereinsunterstutzung/uebersicht-vereinsunterstuetzung" title="VEREINSUNTERSTÜTZUNG"  >
+        VEREINSUNTERSTÜTZUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="LIGABETRIEB"  >
+        LIGABETRIEB
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ligabetrieb/regionalliga-bayern" title="REGIONALLIGA BAYERN"  >
+        REGIONALLIGA BAYERN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ligabetrieb/bayernligen-und-landesligen" title="BAYERN- UND LANDESLIGEN"  >
+        BAYERN- UND LANDESLIGEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/efootball/efootball-beim-bfv" title="eFOOTBALL"  >
+        eFOOTBALL
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="TURNIERE & POKALE"  >
+        TURNIERE & POKALE
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/herren/toto-pokal" title="TOTO-POKAL"  >
+        TOTO-POKAL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/frauen/bfv-pokal-der-frauen" title="VERBANDSPOKAL DER FRAUEN"  >
+        VERBANDSPOKAL DER FRAUEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/a-junioren/volksbanken-raiffeisenbanken-pokal" title="VOLKSBANKEN RAIFFEISENBANKEN-POKAL"  >
+        VOLKSBANKEN RAIFFEISENBANKEN-POKAL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/c-juniorinnen/aob-cup-u15-juniorinnen" title="AUSBILDUNGSOFFENSIVE-BAYERN CUP"  >
+        AUSBILDUNGSOFFENSIVE-BAYERN CUP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/c-junioren/bayerischer-u15-junioren-pokalwettbewerb" title="BAYERISCHER U15-JUNIOREN-POKAL"  >
+        BAYERISCHER U15-JUNIOREN-POKAL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/e-junioren/kaufland-soccer-cup" title="KAUFLAND SOCCER CUP"  >
+        KAUFLAND SOCCER CUP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/herren/erdinger-meister-cup" title="ERDINGER MEISTER-CUP"  >
+        ERDINGER MEISTER-CUP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/u-cups-und-u-meisterschaften" title="Ü-WETTBEWERBE"  >
+        Ü-WETTBEWERBE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/herren/futsal-verbandspokal" title="FUTSAL-VERBANDSPOKAL"  >
+        FUTSAL-VERBANDSPOKAL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/handicap-inklusions-turniere/ubersicht-handicap-turniere" title="INKLUSIONSFUSSBALL"  >
+        INKLUSIONSFUSSBALL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/bayerische-hallenmeisterschaften" title="BAYERISCHE HALLENMEISTERSCHAFTEN"  >
+        BAYERISCHE HALLENMEISTERSCHAFTEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/turniere/efootball/efootball-beim-bfv" title="eFOOTBALL"  >
+        eFOOTBALL
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/schiedsrichter/schiedsrichter-ubersichtsseite" title="SCHIEDSRICHTER*INNEN"  >
+        SCHIEDSRICHTER*INNEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="EHRENAMT"  >
+        EHRENAMT
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ehrenamt/die-bfv-ehrenamtspreise" title="BFV-EHRENAMTSPREISE"  >
+        BFV-EHRENAMTSPREISE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ehrenamt/junges-ehrenamt/u30" title="JUNGES EHRENAMT - U30-NETZWERK"  >
+        JUNGES EHRENAMT - U30-NETZWERK
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ehrenamt/arbeitshilfen/ehrenamt---arbeitshilfen" title="ARBEITSHILFEN"  >
+        ARBEITSHILFEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ehrenamt/ansprechpartner/bfv-ansprechpartner-ehrenamt" title="ANSPRECHPARTNER*INNEN"  >
+        ANSPRECHPARTNER*INNEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/ehrenamt/bfv-fussballfamilien/das-sind-bayerns-fussballfamilien" title="BAYERNS FUSSBALLFAMILIEN"  >
+        BAYERNS FUSSBALLFAMILIEN
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/sportgericht/ubersicht-bfv-sportgerichtsbarkeit" title="SPORTGERICHTE"  >
+        SPORTGERICHTE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/inklusions-fussball/inklusions-fussball" title="INKLUSIONSFUßBALL"  >
+        INKLUSIONSFUßBALL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/vereinsgrundungen-und-fusionen" title="VEREINSGRÜNDUNGEN UND FUSIONEN"  >
+        VEREINSGRÜNDUNGEN UND FUSIONEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/marktplatz/turniere" title="TURNIER-BÖRSE"  >
+        TURNIER-BÖRSE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/marktplatz/trainer" title="TRAINER-BÖRSE"  >
+        TRAINER-BÖRSE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/marktplatz/spiele" title="SPIELE-BÖRSE"  >
+        SPIELE-BÖRSE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/marktplatz/ehrenamt" title="EHRENAMTS-BÖRSE"  >
+        EHRENAMTS-BÖRSE
+    </a>
+    </li>
+    </ul>
+                                    </div>
+
+                                        <div class="bfv-navigation__quicklinks">
+
+<div class="bfv-grid__container bfv-grid__container--nested bfv-grid__container__block">
+    <div class="bfv-grid__column">
+        <div class="linklist">
+<h3>
+    Top-Links
+</h3>
+            <ul>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://spielplus.bfv.de/spielplus/login.do?dmg_company=BFV"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                SpielPlus
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/paesse-und-vereinswechsel/ubersichtsseite-passe-und-vereinswechsel"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Pässe und Vereinswechsel
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/bildung-und-foerderung/trainerausbildung/uebersicht-trainerausbildung-beim-bfv"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Trainerausbildung beim BFV
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/vereinsunterstutzung/uebersicht-vereinsunterstuetzung"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Vereinsunterstützung
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/satzung-und-richtlinien/ubersicht-satzung-richtlinien-amtliches"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Amtliche Mitteilungen
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/soziales-engagement-des-bfv/kinderschutz/ubersicht-kinder--und-jugendschutz"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Kinder- & Jugendschutz
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://ferien.bfv.de/"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                BFV-Ferienangebote
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+                                        </div>
+
+                                </div>
+                            </div>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" title="AUSBILDUNG & FÖRDERUNG"  >
+        AUSBILDUNG & FÖRDERUNG
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+
+                        <div class="bfv-navigation__flyout js-flyout">
+                                <div class="bfv-navigation__flyout-content">
+
+<a   class="bfv-navigation__teaser" 
+     href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" 
+        
+    
+    >
+    
+<h5 class="bfv-navigation__teaser-headline">
+    #Lasstsiespielen: Die BFV-Mädchenfußball-Kampagne
+</h5>
+        <figure class="bfv-image__loader ">
+                <img draggable="false" src="https://images.bfv.de/resize/binaries/content/gallery/bfv/coverimages/presseabteilung/2023/09/lasst-sie-spielen.jpg/lasst-sie-spielen.jpg/bfv%253Athreebytwo?v=-315071734&width=300" alt="" title=""
+                loading="lazy"
+                style="max-width: 100%; height: auto"/>
+        </figure>
+            <div class="rich-text-content">Werde Teil unserer Mädchenfußball-Kampagne #Lasstsiespielen!</div>
+</a>
+
+
+                                    <div class="bfv-navigation__sublevels">
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="BILDUNGSANGEBOT"  >
+        BILDUNGSANGEBOT
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/uebersicht" title="ÜBERSICHT"  >
+        ÜBERSICHT
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.dfbnet.org/coach/BFV?m=plan" title="VERANSTALTUNGSKALENDER" target="_blank" >
+        VERANSTALTUNGSKALENDER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/vereinsmanager-schulung" title="VEREINSMANAGER*IN-AUSBILDUNG"  >
+        VEREINSMANAGER*IN-AUSBILDUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/jugendleiter-express" title="JUGENDLEITER*IN-EXPRESS"  >
+        JUGENDLEITER*IN-EXPRESS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/fit-fuer-kids" title="FIT FÜR KIDS"  >
+        FIT FÜR KIDS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/fuehrungsspieler-innen-schulungen" title="FÜHRUNGSSPIELER*INNEN-SCHULUNG"  >
+        FÜHRUNGSSPIELER*INNEN-SCHULUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="" title="DFB-JUNIOR-COACH"  >
+        DFB-JUNIOR-COACH
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/dfb-mobil" title="DFB-MOBIL"  >
+        DFB-MOBIL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/torhuter-training" title="TORHÜTER-TRAINING"  >
+        TORHÜTER-TRAINING
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/online-schulungen" title="ONLINE-SCHULUNGEN"  >
+        ONLINE-SCHULUNGEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/elternkommunikation-im-verein" title="ELTERNKOMMUNIKATION"  >
+        ELTERNKOMMUNIKATION
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/pass-spielrecht-schulung" title="PASS- UND SPIELRECHT"  >
+        PASS- UND SPIELRECHT
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/steuer-schulung" title="STEUERN IM VEREIN"  >
+        STEUERN IM VEREIN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/sponsoring-schulung" title="SPONSORING IM VEREIN"  >
+        SPONSORING IM VEREIN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/versicherungs-schulung" title="VERSICHERUNG IM VEREIN"  >
+        VERSICHERUNG IM VEREIN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/verletzungspraevention-schulung" title="VERLETZUNGSPRÄVENTION"  >
+        VERLETZUNGSPRÄVENTION
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.dfb.de/sicherheit/ordnerschulung" title="SICHERHEIT IM AMATEURFUSSBALL" target="_blank" >
+        SICHERHEIT IM AMATEURFUSSBALL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/ehrenamt-schulung" title="EHRENAMTSTREFFS"  >
+        EHRENAMTSTREFFS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/sportanlagen-schulungen" title="SPORTANLAGEN"  >
+        SPORTANLAGEN
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/trainerausbildung/uebersicht-trainerausbildung-beim-bfv" title="TRAINER-AUSBILDUNG"  >
+        TRAINER-AUSBILDUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/bildungsangebot/vereinsmanager-schulung" title="VEREINSMANAGER-AUSBILDUNG"  >
+        VEREINSMANAGER-AUSBILDUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.lizenzguide-bfv.de" title="LIZENZGUIDE" target="_blank" >
+        LIZENZGUIDE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/ausbildung-und-schulungen/bfv-coaching-zone/training-und-coaching" title="COACHING-ZONE"  >
+        COACHING-ZONE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/schiedsrichterausbildung/schiedsrichterausbildung" title="SCHIEDSRICHTER-AUSBILDUNG"  >
+        SCHIEDSRICHTER-AUSBILDUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/pro-amateurfussball/bfv-kampagne-pro-amateurfussball" title="KAMPAGNE "PRO AMATEURFUßBALL""  >
+        KAMPAGNE "PRO AMATEURFUßBALL"
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="TALENTE & AUSWAHLTEAMS"  >
+        TALENTE & AUSWAHLTEAMS
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/talente-und-auswahlteams/bfv-talentforderung-und-auswahlteams" title="DIE BFV-TALENTFÖRDERUNG"  >
+        DIE BFV-TALENTFÖRDERUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/talente-und-auswahlteams/die-bfv-talentsichtungsturniere" title="DER TALENTSICHTUNGSTAG"  >
+        DER TALENTSICHTUNGSTAG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/talente-und-auswahlteams/die-bayerischen-auswahlteams" title="DIE BFV-AUSWAHLTEAMS"  >
+        DIE BFV-AUSWAHLTEAMS
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/talente-und-auswahlteams/schule-und-fussball-ubersicht" title="SCHULE & FUSSBALL"  >
+        SCHULE & FUSSBALL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/ausbildung-und-schulungen/grune-ecke/gruene-ecke" title="GRÜNE ECKE - DEINE SPORTANLAGE"  >
+        GRÜNE ECKE - DEINE SPORTANLAGE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/bildung-und-foerderung/talente-und-auswahlteams/minifussball-bayern-alle-infos" title="MINIFUSSBALL"  >
+        MINIFUSSBALL
+    </a>
+    </li>
+    </ul>
+                                    </div>
+
+                                        <div class="bfv-navigation__quicklinks">
+
+<div class="bfv-grid__container bfv-grid__container--nested bfv-grid__container__block">
+    <div class="bfv-grid__column">
+        <div class="linklist">
+<h3>
+    Top-Links
+</h3>
+            <ul>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/bfv-logins/uebersicht-bfv-logins"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                BFV-LOGINS
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://spielplus.bfv.de/spielplus/login.do?dmg_company=BFV"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                SpielPlus
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/paesse-und-vereinswechsel/ubersichtsseite-passe-und-vereinswechsel"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Pässe und Vereinswechsel
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/bildung-und-foerderung/trainerausbildung/uebersicht-trainerausbildung-beim-bfv"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Trainerausbildung beim BFV
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/vereinsunterstutzung/uebersicht-vereinsunterstuetzung"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Vereinsunterstützung
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/satzung-und-richtlinien/ubersicht-satzung-richtlinien-amtliches"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Amtliche Mitteilungen
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/soziales-engagement-des-bfv/kinderschutz/ubersicht-kinder--und-jugendschutz"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Kinder- & Jugendschutz
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://ferien.bfv.de/"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                BFV-Ferienangebote
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+                                        </div>
+
+                                </div>
+                            </div>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" title="DER VERBAND"  >
+        DER VERBAND
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+
+                        <div class="bfv-navigation__flyout js-flyout">
+                                <div class="bfv-navigation__flyout-content">
+
+<a   class="bfv-navigation__teaser" 
+     href="/der-bfv/events-und-aktionen/madchenfussball-kampagne/lasstsiespielen" 
+        
+    
+    >
+    
+<h5 class="bfv-navigation__teaser-headline">
+    #Lasstsiespielen: Die BFV-Mädchenfußball-Kampagne
+</h5>
+        <figure class="bfv-image__loader ">
+                <img draggable="false" src="https://images.bfv.de/resize/binaries/content/gallery/bfv/coverimages/presseabteilung/2023/09/lasst-sie-spielen.jpg/lasst-sie-spielen.jpg/bfv%253Athreebytwo?v=-315071734&width=300" alt="" title=""
+                loading="lazy"
+                style="max-width: 100%; height: auto"/>
+        </figure>
+            <div class="rich-text-content">Werde Teil unserer Mädchenfußball-Kampagne #Lasstsiespielen!</div>
+</a>
+
+
+                                    <div class="bfv-navigation__sublevels">
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/wer-wir-sind/wer-wir-sind-und-standpunkte/bfv---wer-wir-sind-und-wofur-wir-stehen" title="WER WIR SIND UND WOFÜR WIR STEHEN"  >
+        WER WIR SIND UND WOFÜR WIR STEHEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/bfv-struktur/die-struktur-des-bfv" title="STRUKTUR UND ORGANE"  >
+        STRUKTUR UND ORGANE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="ANSPRECHPERSONEN & GESCHÄFTSSTELLEN"  >
+        ANSPRECHPERSONEN & GESCHÄFTSSTELLEN
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/bfv-geschaftsstellen/bfv-ansprechpartner-kontakt-zentrale-muenchen" title="BFV-ZENTRALE IN MÜNCHEN"  >
+        BFV-ZENTRALE IN MÜNCHEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberbayern/bezirks-geschaeftsstelle-oberbayern" title="GESCHÄFTSSTELLE OBERBAYERN"  >
+        GESCHÄFTSSTELLE OBERBAYERN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/niederbayern/bezirk/bezirksgeschaftsstelle-niederbayern" title="GESCHÄFTSSTELLE NIEDERBAYERN"  >
+        GESCHÄFTSSTELLE NIEDERBAYERN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/schwaben/bezirk-schw/bezirksgeschaftsstelle-schwaben" title="GESCHÄFTSSTELLE SCHWABEN"  >
+        GESCHÄFTSSTELLE SCHWABEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberpfalz/bezirk-opf/bfv-geschaftsstelle-oberpfalz" title="GESCHÄFTSSTELLE OBERPFALZ"  >
+        GESCHÄFTSSTELLE OBERPFALZ
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/oberfranken/bezirk-ofr/inhalt/die-bezirksgeschaftsstelle" title="GESCHÄFTSSTELLE OBERFRANKEN"  >
+        GESCHÄFTSSTELLE OBERFRANKEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/mittelfranken/bezirk-mfr/bezirksgesschaftsstelle-mittelfranken" title="GESCHÄFTSSTELLE MITTELFRANKEN"  >
+        GESCHÄFTSSTELLE MITTELFRANKEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/bezirke-und-kreise/unterfranken/bezirk-ufr/der-bezirk-unterfranken" title="GESCHÄFTSSTELLE UNTERFRANKEN"  >
+        GESCHÄFTSSTELLE UNTERFRANKEN
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/satzung-und-richtlinien/ubersicht-satzung-richtlinien-amtliches" title="SATZUNG, ORDNUNGEN, RICHTLINIEN, AMTLICHES"  >
+        SATZUNG, ORDNUNGEN, RICHTLINIEN, AMTLICHES
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/vereinsunterstutzung/die-vereinsberater-innen-des-bfv" title="VEREINSBERATUNG"  >
+        VEREINSBERATUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/sponsoring/partner_des_bfv" title="SPONSORING"  >
+        SPONSORING
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="SOZIALES ENGAGEMENT"  >
+        SOZIALES ENGAGEMENT
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://bfv-sozialstiftung.de/" title="DIE BFV-SOZIALSTIFTUNG" target="_blank" >
+        DIE BFV-SOZIALSTIFTUNG
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/fairplay-ubersicht" title="FAIRPLAY"  >
+        FAIRPLAY
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/bfv-konfliktmanager" title="DAS BFV-KONFLIKTMANAGEMENT"  >
+        DAS BFV-KONFLIKTMANAGEMENT
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/anti-rassismus-kampagne" title="ANTI-RASSISMUS-KAMPAGNE"  >
+        ANTI-RASSISMUS-KAMPAGNE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/fluchtlingshilfe" title="HILFE FÜR GEFLÜCHTETE"  >
+        HILFE FÜR GEFLÜCHTETE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/anti-gewalt-kurse" title="ANTI-GEWALT-KURSE"  >
+        ANTI-GEWALT-KURSE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/anti-doping" title="ANTI-DOPING"  >
+        ANTI-DOPING
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/soziales-engagement-des-bfv/vertrauensperson-lgbtqi" title="VERTRAUENSPERSON FÜR SEXUELLE UND GESCHLECHTLICHE VIELFALT"  >
+        VERTRAUENSPERSON FÜR SEXUELLE UND GESCHLECHTLICHE VIELFALT
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/respekt-kampagne/respekt-kampagne" title="RESPEKT-KAMPAGNE"  >
+        RESPEKT-KAMPAGNE
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="DIGITALANGEBOTE"  >
+        DIGITALANGEBOTE
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-digitalangebote" title="DIGITALANGEBOTE"  >
+        DIGITALANGEBOTE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-app/die-bfv-app" title="BFV-APP"  >
+        BFV-APP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-team-app/die-bfv-team-app" title="BFV-TEAM-APP"  >
+        BFV-TEAM-APP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/widgets/die-bfv-widgets" title="WIDGETS"  >
+        WIDGETS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv-robotertexte" title="BFV-ROBOTERTEXTE"  >
+        BFV-ROBOTERTEXTE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/digitaler-spielerpass" title="DIGITALER SPIELERPASS"  >
+        DIGITALER SPIELERPASS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/online-support/uberblick-spielplus--zimbra" title="SPIELPLUS-SYSTEM"  >
+        SPIELPLUS-SYSTEM
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/liveticker/bfv-liveticker" title="LIVETICKER"  >
+        LIVETICKER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/newsletter/der-bfv-trainings-newsletter" title="BFV-TRAININGS-NEWSLETTER"  >
+        BFV-TRAININGS-NEWSLETTER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/bfv.tv/bfv.tv-video-livestreams" title="BFV.TV UND TV-VIDEO-ANGEBOTE"  >
+        BFV.TV UND TV-VIDEO-ANGEBOTE
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/digitalangebote/online-support/uberblick-spielplus--zimbra" title="SUPPORT SPIELPLUS & ZIMBRA"  >
+        SUPPORT SPIELPLUS & ZIMBRA
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/bfv-magazin/bfv-magazin" title="BFV-MAGAZIN"  >
+        BFV-MAGAZIN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry bfv-navigation__navigation-entry--has-subentries">
+    <a href="" title="EVENTS & AKTIONEN"  >
+        EVENTS & AKTIONEN
+    <span class="icon icon-24-arrow-right">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21.883L14.538 12 7 2.117 8.61 1 17 12 8.61 23z"/></svg>            </span>
+    </span>
+    </a>
+    <ul class="bfv-navigation__navigation__ul-menu js-sublevel-ul">
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://ferien.bfv.de/" title="BFV-FERIENANGEBOTE" target="_blank" >
+        BFV-FERIENANGEBOTE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/bayern-treffer-des-monats" title="DER BAYERN-TREFFER"  >
+        DER BAYERN-TREFFER
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/uebersicht-euro-2024" title="DIE EURO 2024"  >
+        DIE EURO 2024
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/volunteers-beim-bfv" title="BFV-VOLUNTEERS"  >
+        BFV-VOLUNTEERS
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/news/uefa-regions-cup/alle-infos-zum-finalturnier-2023" title="UEFA REGIONS' CUP"  >
+        UEFA REGIONS' CUP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://laola.biz/" title="VEREINSAUSRÜSTUNG (TEAMSPORT HOFBAUER)" target="_blank" >
+        VEREINSAUSRÜSTUNG (TEAMSPORT HOFBAUER)
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/tag-des-maedchenfussballs" title=""TAG DES MÄDCHENFUßBALLS""  >
+        "TAG DES MÄDCHENFUßBALLS"
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/dorfkick" title="DORFKICK"  >
+        DORFKICK
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/der-bayern-1-kicktipp" title="DER BAYERN 1-KICKTIPP"  >
+        DER BAYERN 1-KICKTIPP
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.bfv.de/der-bfv/events-und-aktionen/kampagne-eure-fans" title="KAMPAGNE "#EUREFANS"" target="_blank" >
+        KAMPAGNE "#EUREFANS"
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/events-und-aktionen/fussballiade" title="FUSSBALLIADE"  >
+        FUSSBALLIADE
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://www.herzsicher.de/" title=""HERZSICHER - GEMEINSAM LEBEN RETTEN"" target="_blank" >
+        "HERZSICHER - GEMEINSAM LEBEN RETTEN"
+    </a>
+    </li>
+    </ul>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://bfv.jobs.personio.de" title="KARRIERE / JOBS / PRAKTIKA" target="_blank" >
+        KARRIERE / JOBS / PRAKTIKA
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://sportschule-oberhaching.de/de/home" title="DIE SPORTSCHULE OBERHACHING" target="_blank" >
+        DIE SPORTSCHULE OBERHACHING
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/presse-bereich/presse-bereich-ubersicht" title="MEDIENPORTAL"  >
+        MEDIENPORTAL
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/spielbetrieb-verbandsleben/vereinsunterstutzung/slc-umfrage-tool" title="SLC-UMFRAGEN"  >
+        SLC-UMFRAGEN
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="/der-bfv/wer-wir-sind/wer-wir-sind-und-standpunkte/das-leitbild-des-bayerischen-fussball-verbandes" title="LEITBILD"  >
+        LEITBILD
+    </a>
+    </li>
+    <li class="bfv-navigation__navigation-entry">
+    <a href="https://sicher-melden.de/whistle/#/mainpage/icm52092/a50b40d598709dfe7aa2b967863ced578d3c6f25" title="HINWEISGEBERSCHUTZSYSTEM" target="_blank" >
+        HINWEISGEBERSCHUTZSYSTEM
+    </a>
+    </li>
+    </ul>
+                                    </div>
+
+                                        <div class="bfv-navigation__quicklinks">
+
+<div class="bfv-grid__container bfv-grid__container--nested bfv-grid__container__block">
+    <div class="bfv-grid__column">
+        <div class="linklist">
+<h3>
+    Top-Links
+</h3>
+            <ul>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/bfv-logins/uebersicht-bfv-logins"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                BFV-LOGINS
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://spielplus.bfv.de/spielplus/login.do?dmg_company=BFV"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                SpielPlus
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/paesse-und-vereinswechsel/ubersichtsseite-passe-und-vereinswechsel"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Pässe und Vereinswechsel
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/bildung-und-foerderung/trainerausbildung/uebersicht-trainerausbildung-beim-bfv"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Trainerausbildung beim BFV
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/spielbetrieb-verbandsleben/vereinsunterstutzung/uebersicht-vereinsunterstuetzung"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Vereinsunterstützung
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/satzung-und-richtlinien/ubersicht-satzung-richtlinien-amtliches"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Amtliche Mitteilungen
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="/der-bfv/soziales-engagement-des-bfv/kinderschutz/ubersicht-kinder--und-jugendschutz"
+                       
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                Kinder- & Jugendschutz
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="linklist-entry "
+                       href="https://ferien.bfv.de/"
+                       target="_blank" 
+                    >
+                        <div class="linklist-entry__icon-wrapper">
+    <span class="icon link__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9 1.6L7.6 3l3 3H4v2h6.6l-3 3L9 12.4l4.7-4.7c.4-.4.4-1 0-1.4L9 1.6z"/></svg>    </span>
+                        </div>
+                        <div class="linklist-entry__text-wrapper">
+                            <div class="linklist-entry__text">
+                                BFV-Ferienangebote
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+                                        </div>
+
+                                </div>
+                            </div>
+    </li>
+
+                <div class="bfv-navigation__search" data-module="BfvNavigationsSuche">
+
+
+    <div class="input
+   js-navigation-search-input
+   input--icon
+  
+  
+  
+  
+  "
+         
+    >
+
+        <div>
+
+
+                <input
+                        aria-label="Suche / Vereine"
+                        name="search-input"
+                        type="text"
+                        
+                         placeholder="Suchbegriff eingeben" 
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                />
+
+<a   class="js-navigation-search-button" 
+     href="/textsuche" 
+        
+    
+     title="Jetzt suchen">
+    
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 21C5.477 21 1 16.523 1 11S5.477 1 11 1s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm12.707 3.293a1 1 0 0 1-1.414 1.414l-5.6-5.6a1 1 0 0 1 1.414-1.414l5.6 5.6z"/></svg>            </span>
+    </span>
+</a>
+        </div>
+        <span class="input__notification input__notification--error"></span>
+
+    </div>
+
+
+
+                    <span class="bfv-navigation__search-clear js-navigation-search-clear"></span>
+                    <span class="bfv-navigation__search-label js-navigation-search-button">Suche / Vereine</span>
+                </div>
+
+            </ul>
+        </div>
+
+        <div class="bfv-navigation__mobile-content bfv-grid__column--highlighted">
+<a   class="btn btn--link" 
+     href="/infothek" 
+        
+    
+     title="Lass Dich informieren">
+    
+                <span class="btn__text">Infothek</span>
+</a>
+<a   class="btn btn--link" 
+     href="https://spielplus.bfv.de/spielplus/" 
+        
+    
+     title="Logge dich bei SpielPlus ein">
+    
+                <span class="btn__text">SpielPlus</span>
+</a>
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+
+<div class="bfv-content-and-footer">
+<div id="traffective-ad-Billboard" class="bfv-ad-banner Billboard"></div>
+
+
+<div class="bfv-grid bfv-grid__container">
+    <div class="error-page error-page--404 bfv-grid bfv-grid__container">
+        <div class="bfv-grid__column">
+            <div class="error-page__image-header">
+<div class="image-wrapper">
+    <img src="/webfiles/1786517946252/img/error-404-xl.jpg"
+         alt="Fehlerseite 404 - Seite konnte nicht gefunden werden"
+    >
+</div>
+                <div class="error-page__error-code">
+                    404
+                </div>
+            </div>
+
+<h1 class="error-page__headline">
+    Oops, das ging wohl ins aus.
+</h1>
+            <div class="rich-text-content error-page__copytext">
+                Die von Ihnen angeforderte Seite existiert leider nicht.
+            </div>
+
+            <div class="error-page__link-wrapper">
+<a class="btn btn--link "
+   href="/"
+   title="Dieser Link führt zurück zur Startseite"
+   
+>
+
+
+    <span class="btn__text">
+      Zur Startseite
+    </span>
+</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="bfv-favorite-teaser-controller js-bfv-favorite-teaser-controller bfv-favorite-teaser-controller__container bfv-favorite-teaser-controller__container--page-bottom">
+        <div class="bfv-grid bfv-grid__container bfv-grid__container__block">
+            <div class="bfv-favorite-teaser-controller__wrapper">
+
+                    <div class="bfv-favorite-teaser-controller__header-text ">
+<h3>
+    Favoriten
+</h3>
+                    </div>
+
+                <div class="bfv-favorite-teaser-controller__content-container" data-module="BfvFavoriteController"
+                     "
+                     data-show-spinner-class="bfv-favorite-teaser-controller__content-spinner--show">
+<div class="bfv-spinner bfv-favorite-teaser-controller__content-spinner js-favorite-teaser-spinner">
+    <div class="bfv-spinner__container">
+        <div class="bfv-spinner__loader-container">
+            <div class="bfv-spinner__loader"></div>
+        </div>
+        <div class="bfv-spinner__label">Lade Daten...</div>
+    </div>
+</div>
+                    <div class="bfv-favorite-teaser-controller__content-wrapper js-bfv-favorite-teaser-content-wrapper">
+
+<div class="bfv-favorite-teaser-no-login">
+    <div class="bfv-favorite-teaser-no-login__entry-container">
+        <div class="bfv-favorite-teaser-no-login__entry-wrapper bfv-favorite-teaser-no-login__entry-wrapper--fullwidth">
+
+            <div class="bfv-favorite-teaser-no-login__example-list">
+                <div class="bfv-favorite-teaser-no-login__example-wrapper">
+<div class="bfv-favorite-teaser-entry js-slide-entry" >
+    <div class="bfv-favorite-teaser-entry__content-container ">
+        <div class="bfv-favorite-teaser-entry__icon-container">
+            <div class="bfv-favorite-teaser-entry__icon-wrapper bfv-favorite-teaser-entry__icon-wrapper--spieler">
+                <div class="bfv-favorite-teaser-entry__icon-control">
+    <div class="bfv-liveticker-player bfv-favorite-teaser-entry__icon-spieler ">
+        <div class="bfv-liveticker-player__image">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg"><circle fill="#fff" cx="80" cy="80" r="78"/><path fill="#DFDFDF" d="M65.53 130.062c4.412-.72 8.293-5.935 4.06-9.355-4.235-3.417-14.648-22.126-13.588-32.38 1.057-10.253-2.12-20.688-4.236-24.645-2.119-3.957-6.882-27.524 0-34 6.882-6.475 23.823-13.673 35.116-6.657 11.296 7.018 28.412 17.811 27.53 41.376-.88 23.565-13.588 30.043-12.882 38.497.706 8.454 8.296 14.031 16.235 14.031 6.492 0 22.169-.119 31.343-.555 5.67-11.022 8.892-23.555 8.892-36.861C158 35.599 123.078 0 80 0S2 35.6 2 79.513c0 25.94 12.193 48.973 31.046 63.487 10.646-4.84 29.046-12.377 32.484-12.938"/></svg>            </span>
+    </span>
+        </div>
+
+    </div>
+
+                </div>
+
+                <div class="bfv-favorite-teaser-entry__remove-button">
+<div class="bfv-favorite-star js-favorite-star" >
+    <div class="bfv-favorite-star__container ">
+        <a class="bfv-favorite-star__link" >
+
+            <div class="bfv-favorite-star__icon-svg">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18l-8 5 3-8-7-6h9l3-8 3 8h9l-7 6 3 8-8-5zM23 3v2h-6V3h6z"/></svg>            </span>
+    </span>
+            </div>
+        </a>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="bfv-favorite-teaser-entry__type-text">
+            Spieler
+        </div>
+
+
+
+
+
+    </div>
+</div>
+                                <div class="bfv-favorite-teaser-no-login__divider"></div>
+<div class="bfv-favorite-teaser-entry js-slide-entry" >
+    <div class="bfv-favorite-teaser-entry__content-container ">
+        <div class="bfv-favorite-teaser-entry__icon-container">
+            <div class="bfv-favorite-teaser-entry__icon-wrapper bfv-favorite-teaser-entry__icon-wrapper--default">
+                <div class="bfv-favorite-teaser-entry__icon-control">
+    <span class="bfv-team-logo bfv-favorite-teaser-entry__icon-team">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M16 4c-3.371 2.866-5.484 3-9 3v11.535c0 4.603 3.203 5.804 9 9.465 5.797-3.661 9-4.862 9-9.465V7c-3.516 0-5.629-.134-9-3z"/></svg>            </span>
+    </span>
+    </span>
+                </div>
+
+                <div class="bfv-favorite-teaser-entry__remove-button">
+<div class="bfv-favorite-star js-favorite-star" >
+    <div class="bfv-favorite-star__container ">
+        <a class="bfv-favorite-star__link" >
+
+            <div class="bfv-favorite-star__icon-svg">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18l-8 5 3-8-7-6h9l3-8 3 8h9l-7 6 3 8-8-5zM23 3v2h-6V3h6z"/></svg>            </span>
+    </span>
+            </div>
+        </a>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="bfv-favorite-teaser-entry__type-text">
+            Mannschaft
+        </div>
+
+
+
+
+
+    </div>
+</div>
+                                <div class="bfv-favorite-teaser-no-login__divider"></div>
+<div class="bfv-favorite-teaser-entry js-slide-entry" >
+    <div class="bfv-favorite-teaser-entry__content-container ">
+        <div class="bfv-favorite-teaser-entry__icon-container">
+            <div class="bfv-favorite-teaser-entry__icon-wrapper bfv-favorite-teaser-entry__icon-wrapper--default">
+                <div class="bfv-favorite-teaser-entry__icon-control">
+    <span class="bfv-team-logo bfv-favorite-teaser-entry__icon-team">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M16 0C10.756 3.821 7.47 4 2 4v15.38C2 25.517 6.982 27.119 16 32c9.018-4.881 14-6.483 14-12.62V4c-5.47 0-8.756-.179-14-4zM3.953 20v-8.402h1.729v6.82h3.62V20H3.954zm6.656 0v-8.402h1.729V20h-1.729zm3.416-1.682V13.28c0-.57.138-.993.413-1.268.276-.276.699-.413 1.269-.413h2.889c.57 0 .993.137 1.268.413.276.275.413.698.413 1.268v1.108H18.55v-.961c0-.09-.018-.153-.053-.188s-.098-.052-.187-.052h-2.315c-.09 0-.152.017-.187.052-.036.035-.053.098-.053.188v4.752c0 .09.017.152.053.187.035.035.097.053.187.053h2.315c.09 0 .152-.018.187-.053s.053-.097.053-.187v-1.295h-1.582v-1.518h3.31v2.953c0 .57-.137.994-.413 1.269-.275.275-.698.413-1.268.413h-2.889c-.57 0-.993-.138-1.269-.413-.275-.275-.413-.698-.413-1.269zM21.174 20l2.555-8.402h2.519L28.803 20H26.91l-.515-1.822h-2.883L22.996 20h-1.822zm2.783-3.41h1.992l-.996-3.527-.996 3.527z"/></svg>            </span>
+    </span>
+    </span>
+                </div>
+
+                <div class="bfv-favorite-teaser-entry__remove-button">
+<div class="bfv-favorite-star js-favorite-star" >
+    <div class="bfv-favorite-star__container ">
+        <a class="bfv-favorite-star__link" >
+
+            <div class="bfv-favorite-star__icon-svg">
+    <span class="icon ">
+            <span class="svg-icon-fix " style="padding-bottom: 100%;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18l-8 5 3-8-7-6h9l3-8 3 8h9l-7 6 3 8-8-5zM23 3v2h-6V3h6z"/></svg>            </span>
+    </span>
+            </div>
+        </a>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="bfv-favorite-teaser-entry__type-text">
+            Wettbewerb
+        </div>
+
+
+
+
+
+    </div>
+</div>
+                </div>
+            </div>
+
+            <div class="bfv-favorite-teaser-no-login__offer">
+                Nach der Registrierung kannst du dir Favoriten setzen. So bist du ganz nah an deinen Lieblingsspielern, Mannschaften und Ligen, die dann direkt hier angezeigt werden.
+            </div>
+
+                <div class="bfv-favorite-teaser-no-login__reg-button-wrapper">
+                    <div class="bfv-favorite-teaser-no-login__reg-button">
+<a class="btn btn--link "
+   href="/login"
+   
+   
+>
+
+
+    <span class="btn__text">
+      Jetzt Registrieren
+    </span>
+</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  <div id="traffective-ad-Footer_1" class="bfv-ad-banner Footer_1"></div>
+  <div id="traffective-ad-Mobile_Footer_1" class="bfv-ad-banner Mobile_Footer_1"></div>
+
+
+<div class="registerteaser">
+
+<div class="registerteaser-profile">
+    <div class="bfv-grid bfv-grid__container bfv-grid__container__block">
+        <div class="registerteaser-profile__content">
+
+<h3>
+    Mein Fußball
+</h3>
+
+            <div class="registerteaser-profile__list">
+    <ul class="list-ul">
+        <li>
+            Inhalte personalisieren – Mache diese Seite zu deinem Fußballerlebnis
+        </li>
+        <li>
+            Favoriten anlegen, Infos und Themen filtern
+        </li>
+        <li>
+            Präsentiere dich als Spieler, Trainer oder Schiedsrichter
+        </li>
+    </ul>
+            </div>
+
+<a class="btn btn--link registerteaser-profile__button"
+   href="/login"
+   
+   target="_self"
+>
+
+
+    <span class="btn__text">
+      Jetzt Profil anlegen
+    </span>
+</a>
+        </div>
+    </div>
+</div>
+
+        <div class="bfv-grid__container">
+            <hr class="registerteaser__separator"/>
+        </div>
+</div>
+
+
+
+<div class="footer">
+  <div class="footer-area-top">
+    <div class="bfv-grid bfv-grid__container">
+
+      <div class="footer-area-top__entry">
+<div class="text-list ">
+<h5>
+    ÜBER UNS
+</h5>
+    <ul>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/der-bfv/wer-wir-sind/wer-wir-sind-und-standpunkte/bfv---wer-wir-sind-und-wofur-wir-stehen" target="_blank">
+                    Wer wir sind & wofür wir stehen
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/der-bfv/bfv-geschaftsstellen/die-sieben-bezirke" target="_blank">
+                    Geschäftsstellen und Ansprechpartner
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/der-bfv/sponsoring/partner_des_bfv" >
+                    Sponsoring
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/spielbetrieb-verbandsleben/vereinsunterstutzung/uebersicht-vereinsunterstuetzung" target="_blank">
+                    Vereinsunterstützung
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/infothek" target="_blank">
+                    Infothek
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/allgemein/kontakt" >
+                    Kontakt
+                </a>
+            </li>
+    </ul>
+</div>
+      </div>
+      <div class="footer-area-top__entry">
+<div class="text-list ">
+<h5>
+    Häufig besuchte Seiten
+</h5>
+    <ul>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/spielbetrieb-verbandsleben/paesse-und-vereinswechsel/ubersichtsseite-passe-und-vereinswechsel" target="_blank">
+                    Pässe und Vereinswechsel
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/bildung-und-foerderung/trainerausbildung/uebersicht-trainerausbildung-beim-bfv" >
+                    Trainerausbildung
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/bildung-und-foerderung/ausbildung-und-schulungen/vereinsmitarbeiter/bfv-schulungsangebot-fuer-vereinsmitarbeiter" target="_blank">
+                    Schulungsangebot Vereinsmitarbeiter
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/der-bfv/bfv-geschaftsstellen/die-sieben-bezirke" target="_blank">
+                    BFV-Geschäftsstellen
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/marktplatz/trainer" target="_blank">
+                    Trainerbörse
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://spielplus.bfv.de/spielplus/login.do?dmg_company=BFV" target="_blank">
+                    Login SpielPlus
+                </a>
+            </li>
+    </ul>
+</div>
+      </div>
+      <div class="footer-area-top__entry footer-area-top__entry--hidden-xs">
+<div class="text-list ">
+<h5>
+    TOPLIGEN
+</h5>
+    <ul>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/ergebnisse/wettbewerb/bundesliga/02TKC4CR0O00001BVS5489BUVUD1610F-G" target="_blank">
+                    1. Bundesliga
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/ergebnisse/wettbewerb/2bundesliga/02TKC4DP1S000019VS5489BUVUD1610F-G" target="_blank">
+                    2. Bundesliga
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/ergebnisse/wettbewerb/3liga/02TKC4EF0G00000IVS5489BUVUD1610F-G" target="_blank">
+                    3. Liga
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="https://www.bfv.de/ergebnisse/wettbewerb/regionalliga-bayern/02T7P80AI800000DVS5489BTVSDFH806-G" target="_blank">
+                    Regionalliga Bayern
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/ergebnisse/wettbewerb/google-pixel-frauen-bundesliga/02TLASP608000009VS5489BTVV03720K-G" target="_blank">
+                    1. Bundesliga Frauen
+                </a>
+            </li>
+            <li class="text-list__list-entry text-list__list-entry--text">
+                <a class="text-list__text" href="/ergebnisse/wettbewerb/2frauen-bundesliga/02TLAT05C000000KVS5489BTVV03720K-G" target="_blank">
+                    2. Bundesliga Frauen
+                </a>
+            </li>
+    </ul>
+</div>
+      </div>
+
+      <div class="footer-area-top__entry footer-area-top__entry--social-media">
+      <div class="icon-list ">
+<h5 class="icon-list__title">
+    Folge dem BFV
+</h5>
+        <ul>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.facebook.com/bfvonline" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#FFF" d="M28.453 2H3.547C2.693 2 2 2.693 2 3.547v24.906C2 29.307 2.693 30 3.547 30h13.41V19.193h-3.659v-4.259h3.64v-3.11c0-3.62 2.206-5.59 5.433-5.59a30.53 30.53 0 0 1 3.282.187V10.2h-2.23c-1.754 0-2.093.83-2.093 2.053v2.702h4.2l-.545 4.239H21.33V30h7.123c.854 0 1.547-.693 1.547-1.547V3.547C30 2.693 29.307 2 28.453 2z"/></svg>    </span>
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.instagram.com/bfvonline" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M0 0h30v30H0z"/></defs><g transform="translate(1 1)" fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><path d="M23.007 5.194a1.8 1.8 0 1 0-.002 3.598 1.8 1.8 0 0 0 .002-3.598zm-8.008 14.803A4.997 4.997 0 1 1 19.997 15a4.99 4.99 0 0 1-4.979 4.997H15zm0-12.694a7.706 7.706 0 1 0 7.67 7.744V15c0-4.24-3.43-7.682-7.67-7.697zM15 0c-4.077 0-4.583 0-6.186.094C3.366.338.338 3.366.094 8.813.018 10.416 0 10.93 0 15c0 4.069 0 4.585.095 6.188.244 5.447 3.272 8.437 8.719 8.728 1.603.064 2.11.084 6.186.084 4.08 0 4.586 0 6.189-.084 5.436-.253 8.437-3.281 8.718-8.728.075-1.603.094-2.11.094-6.188 0-4.078 0-4.584-.094-6.178-.243-5.447-3.271-8.437-8.718-8.728C19.585 0 19.078 0 14.999 0zm0 2.71c4.004 0 4.482 0 6.067.084 4.06.187 5.963 2.11 6.15 6.15.066 1.575.084 2.053.084 6.056 0 4.002 0 4.481-.085 6.066-.186 4.03-2.08 5.962-6.149 6.15-1.585.065-2.063.084-6.067.084-4.003 0-4.517-.019-6.064-.112-4.078-.16-5.953-2.1-6.142-6.122C2.72 19.48 2.7 19.002 2.7 15c0-4.003 0-4.481.093-6.056.189-4.04 2.064-5.972 6.142-6.131 1.547-.094 2.061-.103 6.064-.103z" fill="#FFF" mask="url(#b)"/></g></svg>    </span>
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.youtube.com/c/BayerischerFu%C3%9FballVerbandeV/" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M12.781 20.137V11.16c3.188 1.5 5.656 2.95 8.578 4.508-2.41 1.336-5.39 2.836-8.578 4.469M30.547 6.69c-.55-.722-1.488-1.285-2.485-1.472-2.933-.559-21.23-.559-24.16 0-.8.148-1.511.511-2.125 1.074C-.8 8.687.007 21.523.63 23.602c.262.898.598 1.55 1.023 1.976.551.563 1.301.95 2.164 1.125 2.414.5 14.852.777 24.196.074a4.22 4.22 0 0 0 2.222-1.136c2.383-2.387 2.22-15.942.313-18.95" fill-rule="evenodd" fill="#fff"/></svg>    </span>
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://whatsapp.com/channel/0029Va9PPEqInlqL6ZXqdh2c" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#fff"><path d="M15.355 2.684C8.273 3.016 2.688 8.87 2.711 15.906a13.1 13.1 0 0 0 1.445 5.953l-1.41 6.801a.509.509 0 0 0 .149.473.517.517 0 0 0 .48.133l6.71-1.582a13.306 13.306 0 0 0 5.712 1.378c7.238.11 13.27-5.593 13.492-12.773.246-7.7-6.156-13.976-13.934-13.61zm8.008 20.488a10.389 10.389 0 0 1-7.36 3.027 10.368 10.368 0 0 1-4.632-1.078l-.934-.46-4.117.964.867-4.172-.46-.898a10.144 10.144 0 0 1-1.13-4.688c0-2.762 1.083-5.355 3.048-7.308a10.462 10.462 0 0 1 7.359-3.028 10.37 10.37 0 0 1 7.36 3.028 10.235 10.235 0 0 1 3.05 7.308c0 2.735-1.102 5.371-3.05 7.305zm0 0"/><path d="M22.457 18.727l-2.574-.735a.969.969 0 0 0-.953.25l-.63.637a.95.95 0 0 1-1.019.215c-1.219-.492-3.781-2.754-4.433-3.883a.928.928 0 0 1 .074-1.035l.547-.707a.938.938 0 0 0 .12-.965l-1.081-2.434a.968.968 0 0 0-.668-.543.96.96 0 0 0-.832.203c-.719.602-1.574 1.52-1.676 2.536-.184 1.793.59 4.05 3.516 6.761 3.379 3.133 6.09 3.547 7.851 3.121 1-.242 1.797-1.203 2.301-1.992a.953.953 0 0 0 .09-.851.963.963 0 0 0-.633-.578zm0 0"/></g></svg>    </span>
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.tiktok.com/@bfvonline" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#fff"><path d="M22.43 6.848a6.34 6.34 0 0 1-1.567-4.18h-1.222a6.338 6.338 0 0 0 2.789 4.18zm-11.332 9.027a3.854 3.854 0 0 0-3.852 3.848c0 1.48.844 2.77 2.066 3.414a3.854 3.854 0 0 1 3.121-6.102c.395 0 .778.07 1.137.18v-4.68a8.374 8.374 0 0 0-1.136-.078c-.07 0-.133.004-.2.004v3.59a3.949 3.949 0 0 0-1.136-.176zm0 0"/><path d="M25.898 8.902v3.559a10.91 10.91 0 0 1-6.37-2.047v9.316c0 4.649-3.782 8.438-8.434 8.438a8.376 8.376 0 0 1-4.828-1.527 8.412 8.412 0 0 0 6.168 2.691c4.644 0 8.43-3.781 8.43-8.437v-9.32a10.885 10.885 0 0 0 6.37 2.05V9.043c-.46 0-.91-.047-1.336-.14zm0 0"/><path d="M19.527 19.73v-9.316a10.91 10.91 0 0 0 6.371 2.047V8.902a6.39 6.39 0 0 1-3.468-2.054 6.403 6.403 0 0 1-2.797-4.18H16.28l-.008 18.367a3.853 3.853 0 0 1-3.84 3.711 3.854 3.854 0 0 1-3.124-1.605 3.857 3.857 0 0 1-2.067-3.41 3.854 3.854 0 0 1 3.848-3.852c.394 0 .777.07 1.137.18v-3.59C7.676 12.566 4 16.305 4 20.895c0 2.214.86 4.234 2.266 5.746a8.376 8.376 0 0 0 4.828 1.527c4.648 0 8.433-3.79 8.433-8.438zm0 0"/></g></svg>    </span>
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.linkedin.com/company/bayerischer-fu%C3%9Fball-verband/" 
+        
+     target="_blank"
+    >
+    
+    <span class="icon icon-list__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M29.332 4.629V27.37a1.963 1.963 0 0 1-1.96 1.961H4.628a1.957 1.957 0 0 1-1.961-1.96V4.628a1.957 1.957 0 0 1 1.96-1.961H27.37a1.963 1.963 0 0 1 1.961 1.96zm-18.82 8.234H6.59V25.41h3.922zm.351-4.312a2.27 2.27 0 0 0-1.379-2.098 2.262 2.262 0 0 0-.863-.18h-.07a2.277 2.277 0 0 0-1.61 3.883 2.277 2.277 0 0 0 1.61.668c.293.008.59-.043.867-.152a2.269 2.269 0 0 0 1.254-1.191c.117-.274.183-.563.191-.86zm14.547 9.238c0-3.773-2.398-5.238-4.781-5.238a4.46 4.46 0 0 0-3.969 2.023h-.11v-1.71h-3.687V25.41h3.922v-6.672a2.6 2.6 0 0 1 2.352-2.808h.148c1.25 0 2.172.785 2.172 2.761v6.72h3.922zm0 0" fill="#fff"/></svg>    </span>
+</a>
+              </li>
+        </ul>
+      </div>
+      </div>
+
+          <div class="footer-area-top__entry footer-area-top__entry--top-teams">
+      <div class="icon-list icon-list--spacing-xl icon-list--large-icons icon-list--title-spacing-s">
+<h5 class="icon-list__title">
+    Top-Vereine
+</h5>
+        <ul>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://fcbayern.com/de" 
+        
+     target="_blank"
+     title="FC Bayern München">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/fcbayern.png/fcbayern.png/bfv%253Asquare?v=-707878676&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.fcaugsburg.de/" 
+        
+     target="_blank"
+     title="FC Augsburg">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/augsburg.png/augsburg.png/bfv%253Asquare?v=-707871179&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.fcn.de/home/" 
+        
+     target="_blank"
+     title="1. FC Nürnberg">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/nuernberg.png/nuernberg.png/bfv%253Asquare?v=-617843498&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.sgf1903.de/" 
+        
+     target="_blank"
+     title="SpVgg Greuther Fürth">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/fuerth.png/fuerth.png/bfv%253Asquare?v=-617844038&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.fcingolstadt.de/" 
+        
+     target="_blank"
+     title="FC Ingolstadt">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/ingolstadt.png/ingolstadt.png/bfv%253Asquare?v=-617844153&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.ssv-jahn.de/home/" 
+        
+     target="_blank"
+     title="SSV Jahn Regensburg">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/jahn-regensburg.png/jahn-regensburg.png/bfv%253Asquare?v=-617843447&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.wuerzburger-kickers.de/" 
+        
+     target="_blank"
+     title="FC Würzburger Kickers">
+    
+                        <img class="icon-list__icon"
+                             src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/vereinswappen/wuerzburg.png/wuerzburg.png/bfv%253Asquare?v=-617842916&width=40"
+                             alt="image"
+                             loading="lazy">
+
+</a>
+              </li>
+        </ul>
+      </div>
+          </div>
+          <div class="footer-area-top__entry footer-area-top__entry--top-partner">
+      <div class="icon-list icon-list--spacing-xl icon-list--large-icons icon-list--title-spacing-s">
+<h5 class="icon-list__title">
+    TOP-PARTNER
+</h5>
+        <ul>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://www.adidas.de/adidasteam?cm_mmc=AdiPartner_BayerischerFu%C3%9Fballverband-_-Bayerischer-_-DigitalBanner-_-Other-_-dv:Brand-_-cn:adidasTEAM-_-pc:football&cm_mmc1=DE&cm_mmc2=adidas-EMEA-Brand-Partner-multiple-football-Multiple-DE-adidasTEAM-None" 
+        
+     target="_blank"
+     title="adidas">
+    
+                          <img class="icon-list__icon"
+                               src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/partner-logos_top/adidas-white-40px_svg.svg/adidas-white-40px_svg.svg/bfv%3ApartnerIcon"
+                               alt="realsvg"
+                               loading="lazy">
+</a>
+              </li>
+              <li class="icon-list__entry">
+<a   class="icon-list__link" 
+     href="https://krasniqi-solar.de/" 
+        
+     target="_blank"
+     title="Krasniqi Solar">
+    
+                          <img class="icon-list__icon"
+                               src="https://images.bfv.de/resize/binaries/content/gallery/bfv/logo/partner-logos_top/krasniqi-slogan-white-40px.svg/krasniqi-slogan-white-40px.svg/bfv%3ApartnerIcon"
+                               alt="realsvg"
+                               loading="lazy">
+</a>
+              </li>
+        </ul>
+      </div>
+          </div>
+
+    </div>
+  </div>
+  <div class="footer-area-bottom">
+    <div class="bfv-grid bfv-grid__container">
+      <div class="footer-area-bottom__content">
+        <div class="footer-area-bottom__list">
+
+<ul class="pipe-separated-list ">
+         <li>
+             <a class="pipe-separated-list__entry" href="http://suedfv.de/" target=_blank>
+                 SFV
+             </a>
+         </li>
+         <li>
+             <a class="pipe-separated-list__entry" href="https://www.dfb.de/index/" target=_blank>
+                 DFB
+             </a>
+         </li>
+         <li>
+             <a class="pipe-separated-list__entry" href="https://www.uefa.com/" target=_blank>
+                 UEFA
+             </a>
+         </li>
+         <li>
+             <a class="pipe-separated-list__entry" href="https://de.fifa.com/" target=_blank>
+                 FIFA
+             </a>
+         </li>
+</ul>
+        </div>
+        <div class="footer-area-bottom__list footer-area-bottom__list--right-fixed">
+
+<ul class="pipe-separated-list ">
+         <li>
+             <a class="pipe-separated-list__entry" href="https://www.bfv.de/allgemein/nutzungsbedingungen" >
+                 Nutzungsbedingungen
+             </a>
+         </li>
+         <li>
+             <a class="pipe-separated-list__entry" href="https://www.bfv.de/allgemein/datenschutzrichtlinien" >
+                 Datenschutz
+             </a>
+         </li>
+         <li>
+             <a class="pipe-separated-list__entry" href="https://www.bfv.de/allgemein/impressum" >
+                 Impressum
+             </a>
+         </li>
+</ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div id="traffective-ad-Interstitial_1" class="bfv-ad-banner Interstitial_1"></div>
+
+
+
+  <script type="text/javascript">
+    blockInitialPageTracking = true;
+
+    wtDataLayer = {
+      trackId: "996932504105271",
+      trackDomain: "bfv01.wt-eu02.net",
+      domain: "",
+      contentId: "fehlerseite.robots.txt",
+      contentGroup: {
+        1: "fehler",
+        2: "",
+        3: "",
+        4: "",
+        5: "",
+        6: "",
+        7: "",
+      },
+      customParameter: {
+        1: "webseite",
+        2: "",
+        3: "",
+        4: "",
+        5: "",
+        6: "",
+        7: "",
+        8: "",
+        9: "",
+        10: "",
+        11: "",
+        12: "",
+        13: "",
+        14: "python-urllib/2.7",
+        15: "",
+        16: "",
+        17: "",
+      }
+    }
+  </script>
+
+  <script type="text/plain"
+          data-usercentrics="Personalisierung">
+
+        const now = new Date();
+        const lifetimeInDays = 365;
+        const lifetimeInMilliseconds = lifetimeInDays * 24 * 60 * 60 * 1000;
+
+        document.cookie = "bfvPermitCookies=true;new Date(now.getTime() + lifetimeInMilliseconds);path=/";
+
+
+
+  </script>
+
+  <noscript>
+        <img
+            src="https://bfv01.wt-eu02.net/996932504105271/wt?p=444,fehlerseite.robots.txt,0,0,0,0,0,0,0,0&amp;cg1=fehler&amp;cg2=&amp;cg3=&amp;cg4=&amp;cg5=&amp;cg6=&amp;cg7="
+            height="1" width="1" alt=""/>
+  </noscript>
+<script src="/webfiles/1786517946252/js/main.js?v=37141a34aaac6c85a296c2f98fe4fb639378aa66 "></script>
+</body>
+</html>

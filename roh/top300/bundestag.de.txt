@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /includes/
+Allow: /includes/images/mediathek/
+Disallow: /WEB-INF/
+Disallow: /blueprint/WEB-INF
+Disallow: /xml/
+Disallow: /apps/
+Disallow: /static/wfa_20wp
+Disallow: /resource/blob/834414/
+
+Sitemap: https://www.bundestag.de/service-sitemap-de-sitemap_index.xml
+Sitemap: https://www.bundestag.de/service-sitemap-en-sitemap_index.xml
+Sitemap: https://www.bundestag.de/service-sitemap-fr-sitemap_index.xml
+Sitemap: https://www.bundestag.de/service-sitemap-webarchiv-sitemap_index.xml

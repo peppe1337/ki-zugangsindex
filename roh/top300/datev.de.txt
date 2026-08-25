@@ -1,0 +1,37 @@
+
+# robots.txt für DATEV – Stand November 2025
+# ------------------------------------------
+# Steuerung der Indexierung für Suchmaschinen- und KI-Crawler
+# ------------------------------------------
+
+# Gilt für alle relevanten Bots (Suchmaschinen & KI-Crawler)
+User-agent: *
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+
+
+# Nur die Such-Seiten (ohne Parameter) sind erlaubt
+Disallow: /web/de/redaktionelle-inhalte?
+Disallow: /web/de/shop?
+Disallow: /web/de/marktplatz?
+Disallow: /web/de/suche?
+
+# Gesamter Content-Ordner bleibt standardmäßig gesperrt
+Disallow: /content/
+
+# Freigegebene DAM-Bereiche
+Allow: /content/dam/markenassets/unternehmenskommunikation/
+Allow: /content/dam/markenassets/preislisten/
+Allow: /content/dam/markenassets/themen-und-produktgruppen/
+Allow: /content/dam/markenassets/marktplatz/
+
+# Technische und Fehlerseiten
+Disallow: /errorpages/
+Disallow: /wartung/
+
+Sitemap: https://www.datev.de/web/sitemap.xml

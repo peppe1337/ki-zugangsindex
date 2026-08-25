@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*?user=*
+
+Sitemap: https://www.datingcafe.de/sitemap.php

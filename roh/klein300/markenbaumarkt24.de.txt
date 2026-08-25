@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markenbaumarkt24.de/sitemap_splitted.xml
+
+Disallow: /checkout/
+Disallow: /register/
+Disallow: /account/
+Disallow: /*calculated-delivery-time

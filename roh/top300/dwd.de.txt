@@ -1,0 +1,20 @@
+er-agent: D115Crawler
+Disallow:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: msnbot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: BMVBSbot
+Disallow:
+
+User-agent: *
+Disallow: /
+#  Auslesegeschwindigkeit
+Crawl-delay: 10
+

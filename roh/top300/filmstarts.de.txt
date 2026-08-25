@@ -1,0 +1,58 @@
+User-Agent:*
+Disallow: /cdn-cgi/
+Disallow: /suchen/
+Disallow: /blogvision/
+Disallow: /*?*iframe*
+Disallow: /ws/AcVisiondata.ashx?*
+Disallow: /ws/AcVisiondataV4.ashx?*
+Disallow: /ws/ProfilLightGetModerationLink.ashx?*
+Disallow: /ws/geocoding.ashx
+Disallow: /ws_v7/geocoding.ashx
+Disallow: /ws/WinnerListHandler.ashx
+Disallow: /ws/PostRollTrailer.ashx?*
+Disallow: /ws/partnerproxy.ashx?*
+Disallow: /ws_v7/get_complete_photos_list.ashx?*
+Disallow: /120157152/
+Disallow: /doubleclick/
+Disallow: /_/
+Disallow: /_video/partner/
+Disallow: /third-parties/
+
+User-Agent: seekbot
+Disallow: /
+
+User-Agent: Exabot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: Arquivo-web-crawler
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: ChatGLM
+Disallow: /
+
+User-agent: ChatGLM-spider
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: OmigiliBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /

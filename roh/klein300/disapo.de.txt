@@ -1,0 +1,43 @@
+User-agent: *
+
+Disallow: /account
+Disallow: /notepad.html
+Disallow: /notepad/
+Disallow: /checkout/
+Disallow: /checkout/cart.html
+Disallow: /admin/
+Disallow: /mobile_header/
+Disallow: /search
+Disallow: /search/
+Disallow: /search.html
+Disallow: /?shopgate_redirect=1
+Disallow: /ajax/
+Disallow: /export/
+Disallow: *export/
+Disallow: /ContentController/
+Disallow: /ajax/
+Disallow: /quickorder.html
+Disallow: /contact
+Disallow: /catalogue
+Disallow: /*productGroup._links.self*
+Disallow: /*suggestion._links.self*
+Disallow: /*product._links.self*
+Disallow: /*manufacturer._links.self*
+Disallow: /core/
+Disallow: /BugReportController/
+Disallow: /documents/products/PDF/*LMIV*.pdf
+Disallow: /documents/products/PDF/*
+
+
+User-agent: AdsBot-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+User-agent: AdIdxBot
+Allow: /
+User-agent: Googlebot-image
+Allow: /
+
+
+Sitemap: https://www.disapo.de/sitemap.xml
+Sitemap: https://www.disapo.de/sitemaps/product/product_index.xml

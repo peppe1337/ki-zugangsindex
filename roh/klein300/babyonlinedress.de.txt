@@ -1,0 +1,113 @@
+#we use Shopline as our ecommerce platform
+
+
+User-agent: *
+  Disallow: /admin
+  Disallow: /*/checkouts/*
+  Disallow: /cart
+  Disallow: /*/orders/*
+  Disallow: /orders/*
+  Disallow: /trade/*
+  Disallow: /checkout/*
+  Disallow: /invoices
+  Disallow: /payment_methods
+  Disallow: /search
+  Disallow: /products/search
+  Disallow: /user
+  Disallow: /transit_page
+  Disallow: /api/merchant/payments/list
+  Disallow: /api/trade/center/settle/main_site/detail/first_load
+  Disallow: /preview
+  Disallow: /%3Fpreview
+  Disallow: /apple-app-site-association
+  Sitemap: https://babyonlinedress.de/sitemap.xml
+  
+
+User-agent: adsbot-google
+  Disallow: /admin
+  Disallow: /*/checkouts/*
+  Disallow: /cart
+  Disallow: /*/orders/*
+  Disallow: /orders/*
+  Disallow: /trade/*
+  Disallow: /checkout/*
+  Disallow: /invoices
+  Disallow: /payment_methods
+  Disallow: /search
+  Disallow: /products/search
+  Disallow: /user
+  Disallow: /transit_page
+  Disallow: /api/merchant/payments/list
+  Disallow: /api/trade/center/settle/main_site/detail/first_load
+  Disallow: /preview
+  Disallow: /%3Fpreview
+  Disallow: /apple-app-site-association
+  Sitemap: https://babyonlinedress.de/sitemap.xml
+  
+
+User-agent: Nutch
+  Disallow: /
+  
+
+User-agent: AhrefsBot
+  Crawl-Delay: 10
+  Disallow: /admin
+  Disallow: /*/checkouts/*
+  Disallow: /cart
+  Disallow: /*/orders/*
+  Disallow: /orders/*
+  Disallow: /trade/*
+  Disallow: /checkout/*
+  Disallow: /invoices
+  Disallow: /payment_methods
+  Disallow: /search
+  Disallow: /products/search
+  Disallow: /user
+  Disallow: /transit_page
+  Disallow: /api/merchant/payments/list
+  Disallow: /api/trade/center/settle/main_site/detail/first_load
+  Disallow: /preview
+  Disallow: /%3Fpreview
+  Disallow: /apple-app-site-association
+  Sitemap: https://babyonlinedress.de/sitemap.xml
+  
+
+User-agent: AhrefsSiteAudit
+  Crawl-Delay: 10
+  Disallow: /admin
+  Disallow: /*/checkouts/*
+  Disallow: /cart
+  Disallow: /*/orders/*
+  Disallow: /orders/*
+  Disallow: /trade/*
+  Disallow: /checkout/*
+  Disallow: /invoices
+  Disallow: /payment_methods
+  Disallow: /search
+  Disallow: /products/search
+  Disallow: /user
+  Disallow: /transit_page
+  Disallow: /api/merchant/payments/list
+  Disallow: /api/trade/center/settle/main_site/detail/first_load
+  Disallow: /preview
+  Disallow: /%3Fpreview
+  Disallow: /apple-app-site-association
+  Sitemap: https://babyonlinedress.de/sitemap.xml
+  
+
+User-agent: Googlebot
+  Disallow: 
+  
+
+User-agent: Googlebot-image
+  Disallow: 
+  
+
+User-agent: MJ12bot
+  Crawl-Delay: 10
+  
+
+User-agent: Pinterest
+  Crawl-Delay: 1
+  
+

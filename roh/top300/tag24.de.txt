@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /agency/
+Disallow: /api/
+Disallow: /3rdpcontent/
+Disallow: /feeds/
+
+Sitemap: https://www.tag24.de/sitemap_index.xml

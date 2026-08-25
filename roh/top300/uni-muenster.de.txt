@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /.
+Disallow: /de/skriptvorlage/
+Disallow: /exec/
+Disallow: /forschungaz/
+Disallow: /Fruehmittelalter/Projekte/Cluny/BC/
+Disallow: /IVVNWZ/EU-Projekt/
+Disallow: /suche/
+Disallow: /WWW/Statistik/
+Disallow: /WWWTest/
+Disallow: /ZBMed/aktuelles/tag/
+Disallow: /ZIVtest/
+Disallow: /ZIVwiki/bin/edit/
+Disallow: /ZIVwiki/bin/manage/
+Disallow: /ZIVwiki/bin/oops/
+Disallow: /ZIVwiki/bin/rdiff/
+Disallow: /ZIVwiki/bin/view/Main/
+

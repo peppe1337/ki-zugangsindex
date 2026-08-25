@@ -1,0 +1,8 @@
+User-agent: *
+Sitemap: https://www.careofcarl.de/sitemap_de_5.xml
+Disallow: /*admin
+Disallow: /api
+Disallow: /cgi-bin
+Disallow: /de/kampanjer
+Disallow: /term
+Disallow: /de/carlmagazine/test-de/

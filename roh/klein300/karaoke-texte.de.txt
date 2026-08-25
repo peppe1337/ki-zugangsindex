@@ -1,0 +1,50 @@
+User-agent: Mediapartners-Google 
+Disallow: 
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: barkrowler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+Disallow: /search
+Disallow: /plist
+Disallow: /default/notify/
+Disallow: /hlasuj-pro-text/
+Disallow: /poslat-zpravu/
+Disallow: /concert/addConcert/
+Disallow: /pridat-pisen
+Disallow: /administration
+Disallow: /pridat-fotku-k-interpretovi
+Disallow: /chart/vote
+Disallow: /default/fanclub/addFan
+Disallow: /fanclub/addFanclub
+Disallow: /admin/
+Disallow: /playlist/editPlaylist/
+
+Sitemap: https://www.karaoketexty.cz/sitemaps/sitemap_index.xml

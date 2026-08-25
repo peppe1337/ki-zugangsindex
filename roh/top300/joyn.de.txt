@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /play/compilation
+Allow: /play/highlight
+Allow: /play/trailer
+Disallow: /suche
+Disallow: /play/
+Sitemap: https://www.joyn.de/sitemap.xml
+Sitemap: https://www.joyn.de/bts/sitemap.news.xml
+Sitemap: https://www.joyn.de/bts/sitemap.articles.xml
+Sitemap: https://www.joyn.de/bts/sitemap.formats.xml
+Sitemap: https://www.joyn.de/bts/sitemap.profiles.xml
+Sitemap: https://www.joyn.de/bts/sitemap.authors.xml
+Sitemap: https://www.joyn.de/bts/sitemap.tagpages.xml

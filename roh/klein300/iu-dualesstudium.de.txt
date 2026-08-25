@@ -1,0 +1,13 @@
+Sitemap: https://www.iu-dualesstudium.de/sitemap.xml
+
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /*.pdf?
+Disallow: /bewerbung-vertrag-download
+Disallow: /testingarea/*
+Disallow: /settings/*
+Disallow: /relations/*
+Disallow: /archive/*
+Disallow: /cookie.php
+Disallow: /*attachment_id=*
+Disallow: /*nabe=*

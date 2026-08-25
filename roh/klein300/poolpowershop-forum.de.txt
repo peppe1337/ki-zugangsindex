@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>HTTP 404 Not Found // WoltLab Cloud</title>
+		<meta name="robots" content="noindex">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<style>
+			html, body, h1, p {
+				margin: 0;
+				padding: 0;
+			}
+
+			html, body, .card-container {
+				height: 100%;
+			}
+
+			body {
+				background-image: linear-gradient(to top, #97b4c4, #48a3d3);
+				font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+					"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+					"Helvetica Neue", Arial, sans-serif;
+				font-size: 15px;
+			}
+
+			.card-container {
+				align-items: center;
+				display: flex;
+				justify-content: center;
+			}
+
+			.card-wrapper {
+				margin: 20px 10px;
+				max-width: 400px;
+			}
+
+			.card {
+				background-color: #f1f3f4;
+				border: 1px solid transparent;
+				border-radius: 4px;
+				box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+				overflow: hidden;
+			}
+
+			.card-header {
+				background-color: #ffffff;
+				padding: 20px;
+				text-align: center;
+			}
+
+			.card-header-logo {
+				margin: 0 auto;
+				max-width: 100%;
+				width: 300px;
+			}
+
+			.card-body {
+				border-top: 1px solid transparent;
+				box-shadow: inset 0 7px 9px -7px #d7d7d7;
+				padding: 20px;
+			}
+
+			.content-header {
+				font-size: 22px;
+				font-weight: 600;
+				margin: 0 0 10px 0;
+			}
+
+			.content-header ~ .content-header {
+				margin-top: 30px;
+			}
+
+			.card-footer {
+				display: flex;
+				flex-wrap: wrap;
+				font-size: 12px;
+				justify-content: space-between;
+				padding: 5px 20px 20px 20px;
+			}
+
+			.card-footer-error {
+				color: #8c8c8c;
+			}
+			.card-footer-link {
+				color: #0098d2;
+				text-decoration: none;
+			}
+
+			.card-footer-link:focus,
+			.card-footer-link:hover {
+				outline: none;
+				text-decoration: underline;
+			}
+
+			.request-id {
+				color: #f1f1f1;
+				font-size: 12px;
+				margin-top: 10px;
+				text-align: center;
+			}
+
+			@media (prefers-color-scheme: dark) {
+				body {
+					background-image: linear-gradient(to bottom, #1c2931, #050f15);
+				}
+
+				.card {
+					background-color: rgba(34, 37, 41, 1);
+					border-color: rgba(54, 55, 59, 1);
+				}
+
+				.card-header {
+					background-color: rgba(34, 37, 41, 1);
+				}
+
+				.card-header-logo svg {
+					fill: #aeb0b2;
+				}
+
+				.card-body {
+					border-top-color: rgba(54, 55, 59, 1);
+					box-shadow: none;
+					color: #aeb0b2;
+				}
+
+				.card-footer-error {
+					color: #8c8c8c;
+				}
+
+				.card-footer-link {
+					color: #0098d2;
+				}
+
+				.request-id {
+					color: #757575;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div class="card-container">
+			<div class="card-wrapper">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-header-logo">
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 596 80" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><g fill-rule="nonzero" transform="scale(.9999992995199999 1)"><path d="M.206-.086c.191.19.913-.059.72.541C.981.158.604.264.279.352-.076.441-.085.178-.061.063c.03-.149.108-.353.156-.547.063-.26-.139-.291-.28-.273.019-.106.012-.181-.053-.203s-.129.003-.193.058c.177-.165.303-.19.401-.151.039.016.07.037.096.063.223.222.023.786.14.904z" fill="url(#A)" transform="matrix(-33.5991 -33.5991 -33.5991 33.5991 48.4086 57.1217)"/><path d="M-.167-.045L.734.02c.144-.001.428-.047.424-.321C1.17-.017.887.045.74.046.499.047.157-.008-.16-.019-.461-.03-.539.13-.532.301-.537.223-.526.143-.484.08c.051-.078.148-.131.317-.125z" fill="url(#B)" transform="matrix(-16.4262 25.0809 25.0809 16.4262 59.3656 41.9905)"/><path d="M.492.431l.249-.447c.058-.088.231-.249.4.033-.089-.159-.212-.293-.3-.331C.55-.44.304.148.14.148H.136c-.114 0-.256-.263-.424-.399.164.144.287.452.4.635.041.067.126.164.219.164C.384.548.44.516.492.431z" fill="url(#C)" transform="matrix(-52.8713 0 0 -52.8713 87.5166 60.4662)"/><path d="M.18-.183l.798.227c.092.019.251.023.352-.064-.098.114-.278.111-.378.09C.734.026.437-.088.153-.157.008-.193-.083-.197-.15-.119c.073-.074.173-.103.33-.064z" fill="url(#D)" transform="matrix(-23.0549 23.0549 23.0549 23.0549 69.8764 37.7485)"/><path d="M.174-.049c.644.004 1.736-.213 2.039.288l.005.008.017.029C1.923-.266.826-.015.192-.02.007-.021-.251-.08-.372-.252c.12.155.381.201.546.203zm2.061.325z" fill="url(#E)" transform="matrix(12.2458 20.2526 20.2526 -12.2458 80.4849 36.0113)"/><path d="M.602.5C.467.198.717.079.824.2a.9.9 0 0 1 .12.244C.873.235.879-.057.645-.057.463-.058.241.289.279.521.295.618.348.675.408.698.528.745.673.66.602.5z" fill="url(#F)" transform="matrix(-63.524 24.7449 -24.7449 -63.524 166.733 36.2645)"/><path d="M.287.463C.222.432.098.325.081.239.196.43.335.288.386.204.507.007.643-.368.852-.368h.004c.276 0 .454.497.41.84.021-.208-.059-.455-.19-.506C.851-.121.747.161.6.336.529.414.451.481.364.481.339.481.314.475.287.463z" fill="url(#G)" transform="matrix(66.1181 0 0 -66.1181 56.0728 53.6073)"/><path d="M.839.434C.909.306.767.285.62.283.436.281.245.306.45.186.547.124.565.075.504-.036.427-.173.316-.289.252-.434c.089.18.257.328.396.468.083.083.248.235.216.353C.86.404.852.419.839.434z" fill="url(#H)" transform="matrix(13.3059 -49.6908 -49.6908 -13.3059 77.8448 80.4748)"/><path d="M1.517-.603l.111-.153-.111.153zM.199.65C-.214.705.131.293-.094-.484.06-.056.735.415 1.517-.603 1.119-.049.726.5.199.65z" fill="url(#I)" transform="matrix(-14.6005 -.078664 -.078664 14.6005 122.563 46.0697)"/><path d="M.835-.687l-.177.611-.177-.611H.428l-.177.611-.177-.611H.016L.218 0h.058l.178-.61.178.61h.059l.202-.687H.835z" transform="matrix(63.9998 0 0 63.9998 173.603 67.0117)"/><use xlink:href="#J" transform="matrix(63.9998 0 0 63.9998 228.451 67.0117)"/><path d="M.07-.687h.052V0H.07z" transform="matrix(63.9998 0 0 63.9998 265.955 67.0117)"/><path d="M.274-.487H.162v-.124H.109v.124H.018v.044h.091V0h.053v-.443h.112v-.044z" transform="matrix(63.9998 0 0 63.9998 278.243 67.0117)"/><path d="M.139-.05v-.637H.083V0h.435v-.05H.139z" transform="matrix(63.9998 0 0 63.9998 296.739 67.0117)"/><path d="M.494-.487v.11C.453-.45.376-.496.283-.496a.24.24 0 0 0-.246.252.24.24 0 0 0 .246.252c.093 0 .17-.045.211-.118V0h.052v-.487H.494zm-.201.449c-.117 0-.201-.086-.201-.206S.176-.45.293-.45s.201.087.201.206-.084.206-.201.206z" transform="matrix(63.9998 0 0 63.9998 328.547 67.0117)"/><path d="M.333-.496c-.093 0-.169.046-.211.119v-.31H.07V0h.052v-.11c.042.073.118.118.211.118a.24.24 0 0 0 .246-.252.24.24 0 0 0-.246-.252zm-.01.458c-.117 0-.201-.086-.201-.206S.206-.45.323-.45s.202.087.202.206-.085.206-.202.206z" transform="matrix(63.9998 0 0 63.9998 367.97 67.0117)"/><path d="M.743-.273H.685c-.028.136-.141.23-.289.23-.172 0-.297-.127-.297-.302s.125-.299.297-.299c.148 0 .26.092.289.226h.058C.713-.583.576-.696.396-.696a.34.34 0 0 0-.354.351.34.34 0 0 0 .354.353c.181 0 .318-.114.347-.281z" transform="matrix(63.9998 0 0 63.9998 423.714 67.0117)"/><path d="M.07-.687h.052V0H.07z" transform="matrix(63.9998 0 0 63.9998 473.826 67.0117)"/><use xlink:href="#J" transform="matrix(63.9998 0 0 63.9998 486.114 67.0117)"/><path d="M.484-.487H.431v.286c0 .101-.061.165-.157.165S.117-.1.117-.201v-.286H.065v.286c0 .127.083.209.209.209s.21-.082.21-.209v-.286z" transform="matrix(63.9998 0 0 63.9998 523.618 67.0117)"/><path d="M.494-.687v.31C.453-.45.376-.496.283-.496a.24.24 0 0 0-.246.252.24.24 0 0 0 .246.252c.093 0 .17-.045.211-.118V0h.052v-.687H.494zm-.201.649c-.117 0-.201-.086-.201-.206S.176-.45.293-.45s.201.087.201.206-.084.206-.201.206z" transform="matrix(63.9998 0 0 63.9998 558.69 67.0117)"/></g><defs><radialGradient id="A" cx="0" cy="0" r="1" gradientTransform="matrix(1,0,0,-1,0,-0.636762)" xlink:href="#K"><stop offset="0" stop-color="#fff"/><stop offset=".28" stop-color="#ffb000"/><stop offset=".62" stop-color="#ff9300"/><stop offset="1" stop-color="#d45400"/></radialGradient><linearGradient id="B" x1="0" y1="0" x2="1" y2="0" xlink:href="#K"><stop offset="0" stop-color="#ffcf56"/><stop offset=".01" stop-color="#ffcf56"/><stop offset=".34" stop-color="#fff"/><stop offset=".91" stop-color="#e56c00"/></linearGradient><radialGradient id="C" cx="0" cy="0" r="1" gradientTransform="matrix(1,0,0,-1,0,0.107985)" xlink:href="#K"><stop offset="0" stop-color="#00d4ff"/><stop offset=".82" stop-color="#00417f"/><stop offset="1"/></radialGradient><radialGradient id="D" cx="0" cy="0" r="1" gradientTransform="matrix(1,0,0,-1,0,-0.127537)" xlink:href="#K"><stop offset="0" stop-color="#fff"/><stop offset=".21" stop-color="#5cd1ff"/><stop offset=".58" stop-color="#0066a2"/><stop offset="1" stop-color="#00588b"/></radialGradient><linearGradient id="E" x1="0" y1=".014" x2="1" y2=".014" xlink:href="#K"><stop offset="0" stop-color="#f4c93b"/><stop offset=".01" stop-color="#f4c93b"/><stop offset=".41" stop-color="#fff"/><stop offset="1" stop-color="#82ba00"/></linearGradient><radialGradient id="F" cx="0" cy="0" r="1" gradientTransform="matrix(1,0,0,-1,0,0.687261)" xlink:href="#K"><stop offset="0" stop-color="#fff"/><stop offset=".31" stop-color="#ffe800"/><stop offset="1" stop-color="#bbd100"/></radialGradient><radialGradient id="G" cx="0" cy="0" r="1" gradientTransform="matrix(1,0,0,-1,0,0.113291)" xlink:href="#K"><stop offset="0" stop-color="#fff"/><stop offset=".31" stop-color="#ffca43"/><stop offset=".69" stop-color="#a6bf00"/><stop offset="1" stop-color="#70b800"/></radialGradient><linearGradient id="H" x1="0" y1="0" x2="1" y2="0" xlink:href="#K"><stop offset="0" stop-color="#00d4ff"/><stop offset=".82" stop-color="#00417f"/><stop offset="1"/></linearGradient><linearGradient id="I" x1="0" y1="-.051" x2="1" y2="-.051" xlink:href="#K"><stop offset="0" stop-color="#ccd208"/><stop offset=".27" stop-color="#bdd208"/><stop offset="1" stop-color="#7a9d00"/></linearGradient><path id="J" d="M.293-.496c-.148 0-.256.106-.256.252s.108.252.256.252.255-.105.255-.252S.441-.496.293-.496zm0 .046c.117 0 .201.087.201.206S.41-.038.293-.038.092-.124.092-.244.176-.45.293-.45z"/><linearGradient id="K" gradientUnits="userSpaceOnUse"/></defs></svg>
+						</div>
+					</div>
+					<div class="card-body">
+						<h1 class="content-header">Not Found</h1>
+		<p>The requested resource does not exist or has been deleted. Please report this issue, if you have been instructed to navigate to this url.</p>
+
+		<h1 class="content-header">Nicht gefunden</h1>
+		<p>Die angeforderte Ressource existiert nicht oder wurde gelöscht. Bitte melden Sie dieses Problem, sollten Sie durch einen Link hier hin gelangt sein.</p>
+					</div>
+					<div class="card-footer">
+						<span class="card-footer-error">ERR_NOT_FOUND</span>
+						<a class="card-footer-link" href="https://www.woltlab.com">Powered by WoltLab</a>
+					</div>
+				</div>
+				<div class="request-id"></div>
+			</div>
+		</div>
+	</body>
+</html>

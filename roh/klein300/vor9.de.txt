@@ -1,0 +1,39 @@
+User-agent: AhrefsBot
+​Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-Agent: trendictionbot
+Disallow: /
+
+# Robots.txt file for a standard eZ Platform website
+# All robots will spider all the domain, except for search
+
+User-agent: *
+Disallow: /content/search/
+Disallow: /content/advancedsearch/
+Disallow: /content/pdf/
+Disallow: /content/tipafriend/
+Disallow: /layout/set/
+
+Sitemap: https://www.vor9.de/sitemaps/index.xml
+

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /onTEAM/admin/*.htm$
+Disallow: /onTEAM/admin/*.html$
+Disallow: /Shibboleth.sso/
+Disallow: /impressum-reservierung*
+Disallow: /de/impressum-reservierung*
+Disallow: /en/impressum-reservierung*
+
+
+

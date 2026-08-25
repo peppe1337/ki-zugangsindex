@@ -1,0 +1,22 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Sitemap: https://www.wallstreet-online.de/sitemap/index.xml
+Sitemap: https://www.wallstreet-online.de/sitemap/news48h.xml
+Disallow: /adserver/
+Disallow: /eyewonder/
+Disallow: /charts/
+Disallow: /_print/
+Disallow: /_plain/
+Disallow: /_recache/
+Disallow: /_rpc/
+Disallow: /ratgeber/jl.include
+Disallow: /userzentrum/
+Disallow: /realtimepop$
+Disallow: /*?q=
+Disallow: /*?orderBy=
+Disallow: /suche?
+Disallow: /realtime
+Disallow: /watchlist/
+Disallow: /portfolio/

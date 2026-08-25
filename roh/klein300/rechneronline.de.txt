@@ -1,0 +1,10 @@
+Sitemap: https://rechneronline.de/sitemap.xml
+
+User-agent: Mozilla/5.0 (compatible; OGDWCtxCrawler)
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Disallow: /generator/

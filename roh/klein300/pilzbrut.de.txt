@@ -1,0 +1,53 @@
+User-agent: *
+
+# Funnel/Account/Suche - kein Crawl-Budget verschwenden
+Disallow: /Bestellvorgang
+Disallow: /Warenkorb
+Disallow: /Login
+Disallow: /Registrieren
+Disallow: /Passwort-vergessen
+Disallow: /Mein-Konto
+Disallow: /jtl.php
+Disallow: /index.php?
+Disallow: /*?qs=
+Disallow: /*?suche=
+Disallow: /*?vergleich=
+Disallow: /*?wunschliste=
+Disallow: /Wunschzettel
+Disallow: /Vergleichsliste
+Disallow: /captcha/
+# CSRF-Token in GET-Formularen - bingbot verbrennt hier 26,6% seines Crawl-Budgets (04.08.2026)
+Disallow: /*?jtl_token=
+Disallow: /*&jtl_token=
+
+# Bewertungs-Filter + -Pagination (JTL-Core-Parameter, reine UI-Zustaende, Canonical wird von Google ignoriert) (2026-08-07)
+Disallow: /*?btgsterne=
+Disallow: /*&btgsterne=
+Disallow: /*?btgseite=
+Disallow: /*&btgseite=
+Disallow: /*?bewertung_anzeigen=
+Disallow: /*&bewertung_anzeigen=
+Disallow: /*?ratings_nPage=
+Disallow: /*&ratings_nPage=
+Disallow: /*?ratings_nItemsPerPage=
+Disallow: /*&ratings_nItemsPerPage=
+Disallow: /*?ratings_nSortByDir=
+Disallow: /*&ratings_nSortByDir=
+# Alte Kategorie-ID-URLs (200 + Self-Canonical statt Redirect) (2026-08-07)
+Disallow: /*?k=
+
+# AI-Crawler erlauben (sind aktuell SEO-relevant)
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://www.pilzbrut.de/sitemap_index.xml
+
+# LLM-Inhaltsuebersicht liegt unter /llms.txt und /llms-full.txt.
+# Bewusst NICHT als Sitemap deklariert - sind Markdown, kein Sitemap-Format
+# -> erzeugte sonst Parse-Fehler in Bing Webmaster Tools / GSC (04.08.2026)
+
+# llms-full.txt - Vollstaendige LLM-Inhaltsuebersicht
+Sitemap: https://www.pilzbrut.de/llms-full.txt
+
+# llms.txt - LLM-optimierte Inhaltsuebersicht
+Sitemap: https://www.pilzbrut.de/llms.txt

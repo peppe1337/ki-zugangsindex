@@ -1,0 +1,123 @@
+# Robots.txt for sueddeutsche.de
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+# Exclude all other stuff for CRE tracking
+
+User-agent: *
+Disallow: /cdn_sz_mob/live/iqadcontroller.js.gz
+Disallow: /cdn_sz/live/iqadcontroller.js.gz
+Disallow: /text-to-speech/
+Disallow: /pay/piano/
+Disallow: /advertorial/*/files/media/*.svg
+
+# Exclude SEO-Tools & SPAM-Bots
+
+User-agent: backlink-check.de
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Openbot
+Disallow: /
+
+User-agent: rogerbot 
+Disallow: /
+
+User-agent: searchpreview
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SEODAT
+Disallow: /
+
+User-agent: SEOENGBot
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: True_Robot
+Disallow: /
+
+User-agent: URL Control
+Disallow: /
+
+User-agent: URL_Spider_Pro
+Disallow: /
+
+User-agent: xovi
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+# Uber Metrics
+User-agent: um-IC
+Disallow: /
+
+# Googles generative AI crawlers
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: GumGum Bot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /20*
+
+User-agent: AmazonAdBot
+Disallow: /cdn_sz_mob/live/iqadcontroller.js.gz
+Disallow: /cdn_sz/live/iqadcontroller.js.gz
+Disallow: /text-to-speech/
+Disallow: /pay/piano/
+Disallow: /advertorial/*/files/media/*.svg
+Allow: /
+
+# Legal notice: SZ.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access SZ.de or collect or mine data without
+# the express permission of SZ.de is strictly prohibited.
+# SZ.de may, in its discretion, permit certain automated access to certain SZ.de pages,
+# If you would like to apply for permission to crawl SZ.de, collect or use data, please email syndication@sz.de

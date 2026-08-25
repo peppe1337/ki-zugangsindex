@@ -1,0 +1,8 @@
+User-agent: *
+# print pages always have parameters
+Disallow: /*.print?
+Disallow: /*play=1
+sitemap: https://www.deutschlandfunkkultur.de/filter-heute-neu-104.sitemap
+sitemap: https://www.deutschlandfunkkultur.de/filter-heute-neu-audios-102.sitemap
+sitemap: https://www.deutschlandfunkkultur.de/podcast-filter-116.sitemap
+Crawl-delay: 5

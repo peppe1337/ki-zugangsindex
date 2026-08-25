@@ -1,0 +1,58 @@
+#robots.txt for http://www.goethe.de/
+
+# Allow/disallow rules for all generic user agents
+User-agent: *
+
+Disallow: /*?wt_nl=
+Disallow: /*?wt_sc=
+Disallow: /*?fbclid=
+Disallow: /*?forceDesktop=
+Disallow: /*.pdf?*
+
+Disallow: /ins/*/myg.html
+Disallow: */mobilnavigation.html
+
+Disallow: /archiv/
+Disallow: /cgi-bin/
+Disallow: /services/
+Disallow: /kdf-server/
+Disallow: /mmo/priv/
+Disallow: /xxx/
+Disallow: /z/50/
+Disallow: /coe
+Disallow: /myg/
+Disallow: /suche/
+Disallow: /rest/
+Disallow: /test/
+Disallow: /prj/dli/de/
+
+Disallow: /pro/games/41/A1los/images/
+Disallow: /pro/games/41/A1los/audio/
+
+
+# Disallow the whole site for specific bots
+User-agent: Botify
+User-agent: Bytespider
+User-agent: DotBot
+User-agent: Lumar
+User-agent: MJ12bot
+User-agent: OnCrawl
+User-agent: PetalBot
+User-agent: rogerbot
+User-agent: RyteBot
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-SI
+User-agent: SemrushBot-SSRP
+User-agent: SemrushBot-ESI
+User-agent: SEO PowerSuite
+User-agent: SiteAuditBot
+User-agent: Sitebulb
+User-agent: SplitSignalBot
+
+Disallow: /
+
+
+# Sitemap
+Sitemap: https://www.goethe.de/sitemap.xml

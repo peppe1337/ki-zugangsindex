@@ -1,0 +1,138 @@
+# Default
+User-Agent: *
+Disallow: /mail.php
+Disallow: /search.php
+Disallow: /search/*
+Disallow: /trackback/
+Disallow: /news/*.amp.html
+
+# Search Engines / RAG
+User-Agent: slurp
+User-Agent: DuckDuckBot
+User-Agent: DuckDuckGo
+User-Agent: Qwantbot
+User-Agent: Qwantbot-news
+User-Agent: YandexMobileBot
+User-Agent: YandexBot
+User-Agent: YandexImages
+User-Agent: meta-webindexer
+User-Agent: YandexBot
+User-Agent: Applebot
+User-Agent: Claude-SearchBot
+User-Agent: Applebot
+User-Agent: AppleNewsBot
+User-Agent: Bravebot
+User-Agent: Googlebot
+User-Agent: Googlebot-Image
+User-Agent: Googlebot-News
+User-Agent: Googlebot-Video
+User-Agent: Bingbot
+User-Agent: OAI-SearchBot
+Disallow: /mail.php
+Disallow: /search.php
+Disallow: /search/*
+Disallow: /trackback/
+
+# Search Engines without local relevance
+User-Agent: Baiduspider
+User-Agent: Bytespider
+User-Agent: Amazonbot
+User-Agent: yacybot
+User-Agent: SeznamBot
+User-Agent: Seekport
+User-Agent: coccocbot
+User-Agent: Mojeek
+User-Agent: Fleebs
+User-Agent: Yeti
+Disallow: /
+
+# AI Training
+User-Agent: Applebot-Extended
+User-Agent: PetalBot
+User-Agent: ClaudeBot
+User-Agent: YouBot
+User-Agent: GPTBot
+User-Agent: PerplexityBot
+User-Agent: Diffbot
+User-Agent: GoogleAgent-Mariner
+User-Agent: Googlebot-Extended
+User-Agent: meta-externalagent
+User-Agent: TimpiBot
+User-Agent: img2dataset
+User-Agent: iask.ai
+User-Agent: VelenPublicWebCrawler
+Disallow: /
+Allow: /$
+Allow: /specials/*
+Allow: /ticker/*
+Allow: /sonstiges/*
+Allow: /top*
+Allow: /aa-*
+Allow: /plus*
+Allow: /projekte*
+Allow: /.well-known*
+
+
+# Archives
+User-Agent: archive.org_bot
+User-Agent: arquivo-web-crawler
+User-Agent: Heritrix
+User-Agent: IABot
+User-Agent: InternetArchive
+Disallow: /
+
+# Scraper
+User-Agent: AhrefsBot #SEO
+User-Agent: Ai2Bot #AI
+User-Agent: Audisto-essential #SEO
+User-Agent: AwarioBot #AI
+User-Agent: BacklinkSpider #SEO
+User-Agent: Barkrowler #SEO
+User-Agent: Blackbox Exporter #monitoring
+User-Agent: BLEXBot #SEO
+User-Agent: BlogBeatbot #SEO
+User-Agent: CrawlerBot #SEO
+User-Agent: Dalvik
+User-Agent: DataForSEO #SEO
+User-Agent: Dotbot #AI
+User-Agent: Google-CloudVertexBot
+User-Agent: GoogleOther
+User-Agent: GoogleOther-Video
+User-Agent: KrawlerBot #SEO
+User-Agent: LinkChecker #SEO
+User-Agent: MeltwaterNews #listening
+User-Agent: MJ12bot #SEO
+User-Agent: Neticle Crawler #listening
+User-Agent: Netvibes #listening
+User-Agent: NoahBot #listening
+User-Agent: Optimizer #SEO
+User-Agent: Pinterestbot #Social
+User-Agent: PlagAwareBot #plagiate
+User-Agent: PressEngineBot #listening
+User-Agent: PRTG Network Monitor #monitoring
+User-Agent: Qwarrybot
+User-Agent: RyteBot #SEO
+User-Agent: SemrushBot #SEO
+User-Agent: SemrushBot-BA #SEO
+User-Agent: SemrushBot-EO #SEO
+User-Agent: SemrushBot-ESI #SEO
+User-Agent: SemrushBot-FT #SEO
+User-Agent: SemrushBot-OCOB #SEO
+User-Agent: SemrushBot-SI #SEO
+User-Agent: SemrushBot-SWA #SEO
+User-Agent: SentiBot #listening
+User-Agent: SeobilityBot #SEO
+User-Agent: SiteAuditBot #SEO
+User-Agent: SplitSignalBot #SEO
+User-Agent: TaranisAI #monitoring
+User-Agent: trendictionbot #listening
+User-Agent: Uptime-Kuma #monitoring
+User-Agent: YandexMetrika
+Disallow: /
+
+Sitemap: https://www.golem.de/gsiteindex.xml
+
+# Legal notice: golem.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access golem.de or collect or mine data without the express permission of golem.de is strictly prohibited.
+# golem.de may, in its discretion, permit certain automated access to certain golem.de pages.
+# If you would like to apply for permission to crawl golem.de, collect or use data, please email recht@golem.de

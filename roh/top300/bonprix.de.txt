@@ -1,0 +1,102 @@
+# Company:  bonprix.de
+# Author:   bonprix.de
+# URL:      https://www.bonprix.de
+
+# Disallow all crawlers access to certain pages.
+User-agent: *
+Disallow: /servlet/
+Disallow: /reviews/add/
+Disallow: /*lightweightLogin.htm
+Disallow: /*myAccountLoginPopup.htm
+Disallow: /*catalogOrder.htm
+Disallow: /*cart.htm
+Disallow: /*account.htm
+# Disallow ajax-calls (updated 18.10.2023)
+Disallow: /ajax/marketing-parameters/
+Disallow: /ajax/action-bar-content/
+Disallow: /ajax/recommendation/last-viewed/
+Disallow: /ajax/js-layer-viewed/
+Disallow: /ajax/landmarks/
+Disallow: /*logging/
+Disallow: /*bundleQuickview.htm
+Disallow: /bp/imageZoom.htm
+Disallow: /carousel/
+Disallow: /fileadmin/
+Disallow: /log/javascript/error/
+Disallow: /logging/javascript/error/
+Disallow: /*orderedProduct.htm
+Disallow: /*imageIndex
+# block special parameters
+Disallow: /*?_rsc=
+Disallow: /*&_rsc=
+Disallow: /*?pRedirectUrl=
+Disallow: /*&pRedirectUrl=
+Disallow: /*?fh_*=
+Disallow: /*&fh_*=
+Allow: /*?fh_*&page=
+Disallow: /*?countrySelect=
+Disallow: /*&countrySelect=
+Disallow: /*?spr=
+Disallow: /*&spr=
+Disallow: /*?ssz=
+Disallow: /*&ssz=
+Disallow: /*?sma=
+Disallow: /*&sma=
+Disallow: /*?pgs=
+Disallow: /*&pgs=
+Disallow: /*?anchor=
+Disallow: /*&anchor=
+Disallow: /*?ft=
+Disallow: /*&ft=
+# block old filter URLs (added 2022-04-01)
+Disallow: */_*
+Allow: */_next/*
+Allow: */_commonjsHelpers-Cpj98o6Y.js
+Disallow: /*?a_*=
+Disallow: /*&a_*=
+# block old filter URLs (added 2022-08-08)
+Disallow: /*?groesse=
+Disallow: /*&groesse=
+Disallow: /*?suchfarbe=
+Disallow: /*&suchfarbe=
+Disallow: /*?itemNumber=
+Disallow: /*&itemNumber=
+Disallow: /*?zusatzgroesse=
+Disallow: /*&zusatzgroesse=
+Disallow: /*?size=
+Disallow: /*&size=
+# block NITRO Tracking (updated 2023-09-25)
+Disallow: /ajax/nitro/FRONTEND_ATTR/
+Disallow: /setPlatformAttributes
+Disallow: /nitroTracking/productDetail/
+Disallow: /nitroTracking/filter/
+# block Internal Search Suggestions (added 2020-12-09)
+Disallow: /suggestions/
+# block viewed products (added 2020-12-09)
+Disallow: /writetoviewedproductscookie/
+# block update product variations (added 2020-12-09)
+Disallow: /partials/update-variation/
+# block glossary content in productdetails (added 2020-12-09)
+Disallow: /sizeproduct/
+# block Wishlist JSON (changed 2021-06-21)
+Disallow: /list/wishlist/digistyleids/
+Disallow: /list/wishlist/hasDigistyleId/
+# block Robert Script
+Disallow: /htmlelement/robert_script.htm
+# block ADA Meta-Data-Request
+Disallow: /product-images/
+Disallow: /list/cart/summary/
+Disallow: /personal.json
+Disallow: /product/*.json
+Allow: /ajaxCall/product/*.json
+# block internal search (added 2022-08-26)
+Disallow: /search/
+Disallow: /*?shop=
+Disallow: /kategorie/inspiration-*/?page=
+Disallow: /kategorie/stories-*/?page=
+Disallow: /corporate/*?type=
+Disallow: /corporate/*?tx_news*=
+Disallow: /*?target=
+
+# Sitemap files
+Sitemap: https://www.bonprix.de/sitemap.xml

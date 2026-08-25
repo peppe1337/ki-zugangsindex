@@ -1,0 +1,28 @@
+Sitemap: https://www.niels-stensen-kliniken.de/sitemap.xml
+
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+
+# misbehaving bots (turning POST into GET, sending forms etc)
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-Agent: WI Job Roboter Spider Version 3
+Disallow: /
+
+# gready, useless bots (wasteing bandwidth)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SearchmetricsBot
+Disallow: /

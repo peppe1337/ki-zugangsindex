@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /plenty/api/external.php
+Disallow: /plenty/
+Disallow: /xml/
+Disallow: /checkout
+Disallow: *ActionCall=WebActionArticleSearch*
+Disallow: *service=selector*
+
+Sitemap: https://www.verticalextreme.de/sitemap.xml

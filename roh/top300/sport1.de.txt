@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /person/
+Disallow: /sentry-example-page
+Disallow: /api/country
+
+Sitemap: https://www.sport1.de/sitemap/news/current
+Sitemap: https://www.sport1.de/sitemap/pages
+Sitemap: https://www.sport1.de/sitemap/video/index
+Sitemap: https://www.sport1.de/sitemap/galleries

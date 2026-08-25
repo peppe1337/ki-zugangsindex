@@ -1,0 +1,52 @@
+Sitemap: https://www.ihk-muenchen.de/sitemap.xml
+
+# completely exclude the following bots from my site
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Sogou spider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: *
+Disallow: /suchergebnis/
+Disallow: /ihk/documents/Gewerbeerlaubnisse-verdeckt/
+Disallow: /Smart404/
+Disallow: /_tech/
+Disallow: /um___newsletter/
+Disallow: /mitgliedermailing/
+Disallow: /weiterleitungen/
+Disallow: /webproxy/

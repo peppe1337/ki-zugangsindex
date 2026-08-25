@@ -1,0 +1,22 @@
+User-agent: *
+Crawl-delay: 2
+Disallow: /admin
+Disallow: /account/
+Disallow: /cart/
+Disallow: /compare/
+Disallow: /checkout/
+
+Disallow: /en/search/
+Disallow: /nl/search/
+Disallow: .de/search/
+Disallow: *?mode*
+Disallow: *&mode*
+Disallow: *?limit*
+Disallow: *&limit*
+Disallow: *?sort*
+Disallow: *&sort*
+Disallow: /go/
+Disallow: /*.html/brands/
+Disallow: */account/wishlistAdd
+
+Sitemap: https://www.littlewonderland.de/sitemap.xml

@@ -1,0 +1,18 @@
+# robots.txt zu http://fantasyguide.de/
+
+# Should always be protected (.htaccess)
+Disallow: /*/Private/*
+Disallow: /fileadmin/templates/html/*
+Disallow: /*/Configuration/*
+
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css$
+Allow: /typo3temp/*.css.*.gzip$
+Allow: /typo3temp/*.js$
+Allow: /typo3temp/*.js.*.gzip$
+Allow: /typo3temp/*.jpg$
+Allow: /typo3temp/*.gif$
+Allow: /typo3temp/*.png$
+
+Disallow: *.sql
+Disallow: *.sql.gz

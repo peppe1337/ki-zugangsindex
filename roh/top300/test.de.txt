@@ -1,0 +1,76 @@
+User-agent: GPTBot
+Disallow: /
+Allow: /unternehmen/
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /unternehmen/
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+Allow: /unternehmen/
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: AmazonBot
+Disallow: /
+
+User-agent: monitoring360bot
+Disallow: /
+
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SeobilityBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+Disallow: /bezahlen/
+Disallow: /meintest/
+Disallow: /payment/
+Disallow: /statusmeldung/
+Disallow: /suche/
+Disallow: /filestore/
+Allow: /meintest/login/
+
+Sitemap: https://www.test.de/sitemap
+Sitemap: https://www.test.de/sitemap/news
+
+Legal notice: Stiftung Warentest expressly reserves the right to use its content for commercial text and data mining (para. 44 b UrhG).
+
+The use of robots or other automated means to access http://test.de  or collect or mine data without the express permission of Stiftung Warentest is strictly prohibited.
+
+Stiftung Warentest may, in its discretion, permit certain automated access to certain http://test.de  pages.
+
+The rights from para. 60d UrhG remain unaffected.

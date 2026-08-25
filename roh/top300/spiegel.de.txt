@@ -1,0 +1,267 @@
+User-agent: *
+Allow: /
+Disallow: /*CR-Dokumentation.pdf$
+
+User-agent: emetriqContextualBot
+Allow: /
+
+User-agent: Mozilla/5.0 (compatible; OGDWCtxCrawler)
+Allow: /
+
+User-agent: AmazonAdBot
+Allow: /
+
+# TLP-6507: Testweise Freischaltung der OpenAI-Suchcrawler fuer ausgewaehlte Bereiche
+User-agent: OAI-SearchBot
+Allow: /ausland/
+Allow: /partnerschaft/
+Allow: /gesundheit/
+Allow: /familie/
+Allow: /reise/
+Allow: /psychologie/
+Allow: /stil/
+Allow: /tests/
+Disallow: /
+
+# TLP-6507: Testweise Freischaltung der OpenAI-Suchcrawler fuer ausgewaehlte Bereiche
+User-agent: ChatGPT-User
+Allow: /ausland/
+Allow: /partnerschaft/
+Allow: /gesundheit/
+Allow: /familie/
+Allow: /reise/
+Allow: /psychologie/
+Allow: /stil/
+Allow: /tests/
+Disallow: /
+
+# ==========================================
+# KI-CRAWLER & KI-TRAINING (SPERRE)
+# ==========================================
+User-agent: GPTBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-SearchBot
+Disallow: /
+User-agent: Claude-User
+Disallow: /
+User-agent: CloudVertexBot
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: cohere-training-data-crawler
+Disallow: /
+User-agent: cohere-training-data-collector
+Disallow: /
+User-agent: DeepSeekBot
+Disallow: /
+User-agent: DeepSeek
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: MistralAI-User
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: AI2Bot
+Disallow: /
+User-agent: Kangaroo Bot
+Disallow: /
+User-agent: PanguBot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Devin
+Disallow: /
+User-agent: bigsur.ai
+Disallow: /
+User-agent: LinerBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: YouBot
+Disallow: /
+User-agent: YouBot-Search
+Disallow: /
+User-agent: iaskspider
+Disallow: /
+User-agent: YoudaoBot
+Disallow: /
+User-agent: DeepL-Translate
+Disallow: /
+User-agent: DeepL-Bot
+Disallow: /
+
+# ==========================================
+# SEO-CRAWLER (SPERRE)
+# ==========================================
+User-agent: AhrefsBot
+Disallow: /
+User-agent: AhrefsSiteAudit
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SemrushBot-SI
+Disallow: /
+User-agent: SemrushBot-SWA
+Disallow: /
+User-agent: SiteAuditBot
+Disallow: /
+User-agent: SplitSignalBot
+Disallow: /
+User-agent: xovi
+Disallow: /
+User-agent: XoviBot
+Disallow: /
+User-agent: Seobility
+Disallow: /
+User-agent: SeobilityBot
+Disallow: /
+User-agent: RyteBot
+Disallow: /
+User-agent: SEOkicks
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: Searchmetrics
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: audisto
+Disallow: /
+User-agent: audisto-essential
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: barkrowler
+Disallow: /
+User-agent: serpstatbot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: MegaIndex
+Disallow: /
+User-agent: lumar
+Disallow: /
+User-agent: deepcrawl
+Disallow: /
+User-agent: oncrawl
+Disallow: /
+User-agent: sitebulb
+Disallow: /
+User-agent: botify
+Disallow: /
+User-agent: Siteimprove
+Disallow: /
+User-agent: Siteimprove Crawl
+Disallow: /
+User-agent: MozDotNet
+Disallow: /
+User-agent: Cocolyzebot
+Disallow: /
+User-agent: Raven
+Disallow: /
+
+# ==========================================
+# MEDIENBEOBACHTUNG, AGGREGATOREN & SCRAPER
+# ==========================================
+User-agent: Meltwater
+Disallow: /
+User-agent: NewsNow
+Disallow: /
+User-agent: Webzio-Extended
+Disallow: /
+User-agent: magpie-crawler
+Disallow: /
+User-agent: omgili
+Disallow: /
+User-agent: omgilibot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Yeti
+Disallow: /
+User-agent: sentibot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: SirdataBot
+Disallow: /
+User-agent: LCC
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: Timpibot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Landau-Media-Spider
+Disallow: /
+
+
+# ==========================================
+# HISTORISCHE BOTS & MASSEN-DOWNLOADER
+# ==========================================
+User-agent: Bloodhound
+Disallow: /
+User-agent: cydralspider
+Disallow: /
+User-agent: downloadexpress
+Disallow: /
+User-agent: gammaSpider
+Disallow: /
+User-agent: ObjectsSearch
+Disallow: /
+User-agent: Pimptrain
+Disallow: /
+User-agent: wapspider
+Disallow: /
+User-agent: WebZinger
+Disallow: /
+User-agent: Fasterfox
+Disallow: /
+
+# ==========================================
+# SCRAPING FRAMEWORKS & UTILITIES
+# ==========================================
+User-agent: Scrapy
+Disallow: /
+User-agent: HTTPBannerDetection
+Disallow: /
+User-agent: Wget
+Disallow: /
+
+# Sitemaps
+Sitemap: https://www.spiegel.de/sitemaps/news-de.xml
+Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
+Sitemap: https://www.spiegel.de/plus/sitemap.xml
+Sitemap: https://www.spiegel.de/sitemap.xml
+
+# Legal notice: spiegel.de expressly reserves the right to use its content for commercial text and data mining (§ 44b Urheberrechtsgesetz).
+# The use of robots or other automated means to access spiegel.de or collect or mine data without the express permission of spiegel.de is strictly prohibited.
+# spiegel.de may, in its discretion, permit certain automated access to certain spiegel.de pages,
+# If you would like to apply for permission to crawl spiegel.de, collect or use data, please email syndication@spiegel.de
+

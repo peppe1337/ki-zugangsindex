@@ -1,0 +1,11 @@
+# Disallow content
+User-agent: *
+Disallow: /*?sp*
+
+# Disallow App-Content
+User-agent: *
+Disallow: /*.webview.html
+
+﻿User-agent: *
+Disallow:
+# EOF

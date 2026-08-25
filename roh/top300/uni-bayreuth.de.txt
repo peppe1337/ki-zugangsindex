@@ -1,0 +1,3 @@
+Sitemap: https://www.uni-bayreuth.de/sitemap.xml
+User-agent: *
+Disallow: /scrivito/

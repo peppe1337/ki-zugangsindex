@@ -1,0 +1,62 @@
+User-agent: *
+
+# Only allow URLs generated with RealURL
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# typeNum = 98 is usually the print version.
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+
+# Should always be protected (.htaccess)
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+
+Disallow: /typo3temp/*
+Allow: /typo3temp/assets/*
+
+Disallow: *.sql
+Disallow: *.sql.gz
+
+# Aggressive SEO / marketing crawlers
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: MJ12bot
+User-agent: DotBot
+User-agent: BLEXBot
+User-agent: DataForSeoBot
+User-agent: serpstatbot
+User-agent: ZoominfoBot
+User-agent: PetalBot
+User-agent: MauiBot
+Disallow: /
+
+# Scrapers / site copiers
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: ImagesiftBot
+User-agent: Diffbot
+User-agent: Scrapy
+User-agent: HTTrack
+User-agent: SiteSnagger
+Disallow: /
+
+# AI training crawlers (AI search / assistant fetchers stay allowed)
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: FacebookBot
+User-agent: meta-externalagent
+User-agent: omgili
+User-agent: omgilibot
+User-agent: cohere-ai
+User-agent: Timpibot
+Disallow: /

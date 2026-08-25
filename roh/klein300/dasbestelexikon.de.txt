@@ -1,0 +1,137 @@
+
+		<!DOCTYPE html>
+		<html lang="en">
+			<head>
+				<title>Welcome to - dasbestelexikon.de</title>
+				<meta charset="utf-8">
+				<meta content="IE=edge" http-equiv="x-ua-compatible">
+				<meta content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" name="viewport">
+				<meta content="yes" name="apple-mobile-web-app-capable">
+				<meta content="yes" name="apple-touch-fullscreen">
+				<meta name="keywords" lang="en" content="dasbestelexikon, das beste lexikon, dasbestelexikon.de, en, Wikipedia, Lexicon, Wiki, Online Lexicon, reference work, online, encyclopedia">
+				<meta name="robots" content="index, follow" />
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4809116984988915" crossorigin="anonymous"></script>
+				<link rel="stylesheet" type="text/css" href="https://www.dasbestelexikon.de/css/dasbestelexikon.css">
+				<link rel="icon" href="https://www.dasbestelexikon.de/dasbestelexikon.ico" />
+			</head>
+		
+		<body style="background: #f2f2f2;">
+
+			<!-- LEFT SIDEBAR -->
+			<header tabindex="0"><a href="https://dasbestelexikon.de/en/" style="text-decoration: none;"><h1><span style="color:#ff8c00;"><b>dasBeste</b></span><span style="color:#6393C1;"><b>Lexikon</b></span></h1></a></header>
+			<div id="nav-container">
+				<div class="bg"></div>
+				<div class="button" tabindex="0">
+					<img src="https://www.dasbestelexikon.de/images/bars.svg" width="21.88px" height="25px" class="bars">
+					<img src="https://www.dasbestelexikon.de/images/times.svg" width="17.18px" height="25px" class="times">
+				</div>
+				<div id="slide-out-left" tabindex="0">
+					<div class="main-menu">
+						<ul>
+							<li><a href="https://dasbestelexikon.de/en/"><img src="https://www.dasbestelexikon.de/images/home.svg" width="16.88px" height="15px"> Home</a></li>
+							<li><a onclick="random()"><img src="https://www.dasbestelexikon.de/images/random.svg" width="15px" height="15px"> Random article</a></li>
+							<li style="padding-top:50px;"><a href="https://dasbestelexikon.de/en/privacy"><img src="https://www.dasbestelexikon.de/images/sticky-note.svg" width="13.1px" height="15px">  Privacy policy</a></li>
+							<li><a href="https://dasbestelexikon.de/en/imprint"><img src="https://www.dasbestelexikon.de/images/envelope.svg" width="15px" height="15px"> Legal Notice</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="nav-container-right">
+				<div class="bg"></div>
+				<div class="button1" tabindex="1">
+					<img src="https://www.dasbestelexikon.de/images/language.svg" width="31.25px" height="25px" class="language">
+					<img src="https://www.dasbestelexikon.de/images/times.svg" width="17.18px" height="25px" class="times">
+				</div>
+				<div id="slide-out-right" tabindex="1">
+					<div class="main-menu" id="other_languages_container">
+					</div>
+				</div>
+			</div><div id="main" style="background: #fff; margin-top: 3.2em;">
+		<!-- CONTENT CONTAINER -->
+		<div class="content-container">
+		<div id="category">
+				
+				<!-- beste_horizontal -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-4809116984988915"
+					 data-ad-slot="7732629135"
+					 data-ad-format="auto"
+					 data-full-width-responsive="true"></ins>
+				<script>
+					 (adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+				<br>
+				<div id="Erfolgs_Leiste">
+					<h1>Welcome to <span style="color:#ff8c00;"><b>dasBeste</b></span><span style="color:#6393C1;"><b>Lexikon</b></span></h1>
+					<hr>
+					<br>
+					<p><span style="color:#ff8c00;"><b>dasBeste</b></span><span style="color:#6393C1;"><b>Lexikon</b></span> brings you the Wikipedia articles in a modern design. Also, care is taken to keep the page's data size small so that the articles load quickly even on slow Internet access.</p>
+<p>You can also surprise yourself with a <a onclick="random()">random article</a> and discover the undiscovered!</p><p>The <span style="color:#ff8c00;"><b>dasBeste</b></span><span style="color:#6393C1;"><b>Lexikon</b></span> - team wishes you much fun and success.</p>
+					<br><br><br><br>
+				</div></div>
+				
+		</div>
+		<!-- END CONTENT CONTAINER -->
+		
+				<!-- FOOTER -->
+				<div class="footer">
+
+					<!-- Copyright Section -->
+					<div class="copyright">
+						<span style="display: block; width: 100%">&copy; 2022 dasbestelexikon</span>
+						<div class="navigation">
+								<a href="https://dasbestelexikon.de/en/imprint" class="item">Legal Notice</a>
+								<a href="https://dasbestelexikon.de/en/privacy" class="item">Privacy policy</a>
+						</div>
+					</div>
+					<!-- End Copyright Section -->
+
+				</div>
+				<!-- End FOOTER -->
+
+				<!-- Back to top Link -->
+				<div class="main-bg" style="visibility: hidden;"><a href="#top" id="to-top"><img src="https://www.dasbestelexikon.de/images/long-arrow-alt-up.svg" width="15px" height="30px"></a></div>
+
+			</div>
+			<!-- END MAIN PAGE -->
+		</div>
+		
+		<script type="text/javascript">
+		
+			
+			<!--
+			if (self!= top) top.location.href = self.location.href; 
+			// -->
+			
+			window.onscroll = function() {
+				var pageOffset = document.documentElement.scrollTop || document.body.scrollTop,
+					btn = document.getElementById('to-top');
+				if (btn) btn.style.visibility = pageOffset > 450 ? 'visible' : 'hidden';
+			};
+			
+			async function random(){
+				try {
+				const url = 'https://en.wikipedia.org/api/rest_v1/page/random/title'
+			
+					const res = await fetch(url);
+					const data = await res.json();
+					items = data.items;
+					
+				if(items.length >= 1){
+					var title = items['0']['title'];
+					
+					if (title !== "Undefined" && title !== undefined) {
+						location.href = 'https://www.dasbestelexikon.de/en/wiki/' + title;
+					}
+				}
+				
+				}catch(err) {
+				}
+			}
+			
+				
+		</script>
+		</body>
+	</html>
+	

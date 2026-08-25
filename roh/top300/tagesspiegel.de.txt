@@ -1,0 +1,92 @@
+User-agent: *
+Disallow: /community-comments
+Disallow: /wpsafelink.js
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: CloudVertexBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: DeepseekBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: AmazonAdBot
+Allow: /
+
+Sitemap: https://www.tagesspiegel.de/news.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_1996.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_1997.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_1998.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_1999.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2000.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2001.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2002.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2003.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2004.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2005.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2006.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2007.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2008.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2009.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2010.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2011.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2012.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2013.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2014.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2015.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2016.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2017.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2018.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2019.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2020.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2021.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2022.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2023.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2024.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2025.xml
+Sitemap: https://www.tagesspiegel.de/contentexport/static/sitemap-index_2026.xml
+
+# Legal notice: tagesspiegel.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access tagesspiegel.de or collect or mine data without
+# the express permission of tagesspiegel.de is strictly prohibited.
+# tagesspiegel.de may, in its discretion, permit certain automated access to certain tagesspiegel.de pages.

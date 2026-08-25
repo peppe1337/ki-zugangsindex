@@ -1,0 +1,43 @@
+User-agent: *
+Disallow: /gate/
+Disallow: /onex/
+Disallow: /cdn-cgi/
+Disallow: /149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/
+
+User-agent: bingbot
+Disallow: /suche/
+Disallow: /gate/
+Disallow: /onex/
+Disallow: /cdn-cgi/
+Disallow: /149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-Searchbot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Disallow: /kundenbewertungen/
+Disallow: /gate/
+Disallow: /onex/
+Disallow: /cdn-cgi/
+Disallow: /149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/
+
+Sitemap: https://www.otto.de/category-sitemap/sitemap_index.xml.gz
+Sitemap: https://www.otto.de/products-sitemap/sitemap_einrichten-wohnen_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_fashion-lifestyle_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_garten-heimwerken_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_gesundheit_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_lebensmittel-drogerie_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_mobilitaet-kfz_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_sonstige_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_sport-freizeit_index.xml
+Sitemap: https://www.otto.de/products-sitemap/sitemap_technik-medien_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_einrichten-wohnen_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_fashion-lifestyle_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_garten-heimwerken_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_gesundheit_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_lebensmittel-drogerie_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_mobilitaet-kfz_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_sonstige_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_sport-freizeit_index.xml
+Sitemap: https://www.otto.de/variations-sitemap/sitemap_technik-medien_index.xml

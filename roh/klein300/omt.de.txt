@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /*?dropdown=1
+Sitemap: https://www.omt.de/sitemap_index.xml

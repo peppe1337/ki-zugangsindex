@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /fileadmin/user_upload/
+Allow: /_assets/
+Allow: /typo3temp/
+
+Sitemap: https://www.easybell.de/sitemap.xml

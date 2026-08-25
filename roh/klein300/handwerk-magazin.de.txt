@@ -1,0 +1,17 @@
+# robots.txt
+
+# Suche raus
+User-agent: *
+Disallow: /*search=*
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /

@@ -1,0 +1,502 @@
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="canonical" href="https://www.bilendi.co.uk/">
+<link rel="alternate" href="https://www.bilendi.fr/" hreflang="fr-FR">
+<link rel="alternate" href="https://www.bilendi.de/" hreflang="de-DE">
+<link rel="alternate" href="https://www.bilendi.co.uk/" hreflang="en-GB">
+<link rel="alternate" href="https://www.bilendi.es/" hreflang="es-ES">
+<link rel="alternate" href="https://www.bilendi.it/" hreflang="it-IT">
+<link rel="alternate" href="https://www.bilendi.dk/" hreflang="da-DK">
+<link rel="alternate" href="https://www.bilendi.fi/" hreflang="fi-FI">
+<link rel="alternate" href="https://www.bilendi.se/" hreflang="sv-SE">
+<link rel="alternate" href="https://www.bilendi.no/" hreflang="no-NO">
+<link rel="alternate" href="https://www.bilendi.be/" hreflang="fr-BE">
+<link rel="alternate" href="https://www.bilendi.be/" hreflang="nl-BE">
+<link rel="alternate" href="https://www.bilendi.ch/" hreflang="fr-CH">
+<link rel="alternate" href="https://www.bilendi.ch/" hreflang="it-CH">
+<link rel="alternate" href="https://www.bilendi.nl/" hreflang="nl-NL">
+<link rel="alternate" href="https://www.bilendi.us/" hreflang="en-US">
+    <title>Bilendi</title>    <meta name="description" content="Bilendi supports you with your online research projects utilising 44 proprietary panels, made up of members qualified by more than 300 criteria." >    <meta name="keywords" content="Panel, Market Research, market research, online research, ad hoc research, quantitative research, qualitative research, panellists, surveys, online community" />
+    <meta name="Author" content="Bilendi Technology" />
+         <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png" />
+         <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+         <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="/assets/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/animate.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/superslides.css" rel="stylesheet" type="text/css" />
+         <link href="/assets/plugins/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" />
+         <link href="/assets/css/essentials.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/layout-responsive.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/pink.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/bilendi.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="/assets/css/radial.css"/>
+        <script type="text/javascript" src="/assets/plugins/modernizr.min.js"></script>
+            
+        	<!-- Matomo Tag Manager -->
+	<script>
+		var _mtm = window._mtm = window._mtm || [];
+		_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src='https://analytics.bilendi.com/js/container_6U6nWXJY.js'; s.parentNode.insertBefore(g,s);
+	</script>
+	<!-- End Matomo Tag Manager -->
+
+    <script src="https://consent-eu.cookiefirst.com/sites/bilendi.fr-756a1d02-78ad-4951-beed-74f370ab91a3/consent.js"></script>
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TSTZC3D6');</script>
+
+        
+    <meta property="og:title" content="Bilendi" />
+	<meta property="og:description" content="Bilendi supports you with your online research projects utilising 44 proprietary panels, made up of members qualified by more than 300 criteria." />
+	<meta property="og:url" content="https://www.bilendi.co.uk" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:image" content="https://www.bilendi.co.uk/assets/images/logo-respondi.svg" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Bilendi" />
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSTZC3D6" 
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <!-- TOP NAV -->
+    <header id="topNav" class="tophead">
+
+    <div class="container">
+        <!-- Mobile Menu Button -->
+        <button class="btn" data-toggle="collapse" data-target=".nav-main-collapse">
+            <i class="fa fa-bars"></i>
+        </button>
+        <!-- Logo text or image -->
+        <a class="logo" href="/">
+            <img src="/assets/images/logo.svg" alt="Bilendi" width="173" height="45" />
+        </a>
+                <!-- Mobile Contact Button -->
+        <a href="/static/contact" class="contact hidden-lg hidden-md btn btn-primary"><span class="mr-5 hidden-xs">Contact us</span> <i class="fa fa-envelope-o"></i></a>
+                <!-- Top Nav -->
+        <div class="navbar-collapse nav-main-collapse collapse pull-right">
+            <nav class="nav-main mega-menu">
+                <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
+
+                    <li class="dropdown mobile-active">
+                        <a href="#" class="toTop">SOLUTIONS</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/static/studymarket" class="scrollTo">Market research Services and Panels</a></li>
+                                                            <li class="divider"></li>
+                                <li><a href="/static/loyalty" class="scrollTo">Bilendi Loyalty Solutions</a></li>
+                                                                                        <li class="divider"></li>
+                                <li><a href="/static/media" class="scrollTo">Media</a></li>
+                                                    </ul>
+                    </li>
+
+                    <li class="dropdown mobile-active">
+                        <a href="#" class="toTop">PRODUCTS</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/static/bilendi-discuss" class="scrollTo">Bilendi Discuss</a></li><li><a href="/static/bilendi-platform" class="scrollTo">Bilendi Platform</a></li>
+                            <li><a href="/static/niche-sampling" class="scrollTo">Niche Sampling</a></li>
+                            <li><a href="/static/niche-country" class="scrollTo">Niche Country</a></li>
+                            <li><a href="/static/ai-augmented" class="scrollTo">AI-augmented open-ended questions</a></li>
+                            <li><a href="/static/qual-deep-dive" class="scrollTo">Qual Deep-dive</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="/academics" class="toTop">ACADEMICS</a>
+                    </li>
+
+                    <li class="dropdown mobile-active">
+                        <a href="#" class="toTop">Quality</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/static/quality" class="scrollTo">Quality at Bilendi</a></li>
+                            <li><a href="/static/panelist-recruitment" class="scrollTo">Panellist Recruitment</a></li>
+                            <li><a href="/static/panel-management" class="scrollTo">Panel Management</a></li>
+                            <li><a href="/static/panel-qualification" class="scrollTo">Panel Qualification</a></li>
+                            <li><a href="/static/project-management">Local Project Management</a></li>
+                            <li><a href="/static/quality-framework">Our Quality Framework</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown mobile-active">
+                        <a href="#" class="toTop">GROUP</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/static/group#topNav" class="scrollTo">We are Bilendi</a></li>
+                            <li><a href="/static/group#group-sec-2" class="scrollTo">History</a></li>
+                            <li><a href="/static/group#group-sec-3" class="scrollTo">Offices</a></li>
+                            <li><a href="/static/group#group-sec-4" class="scrollTo">Teams</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/jobs">Jobs</a></li>
+                            <li><a href="/static/investor">Investors</a></li>
+                            <li><a href="/static/technology">IT Solutions</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/static/contact"><i class="fa fa-envelope-o"></i>Contact</a></li>
+                        </ul>
+                    </li>
+
+                    
+                                            <li class="dropdown">
+                            <a href="/media" class="toTop">MEDIA</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/static/media#media-sec-3" class="scrollTo">Expertises</a></li>
+                                <li><a href="/static/media#media-sec-5" class="scrollTo">Case Studies</a></li>
+                                <li><a href="/static/media#media-sec-7" class="scrollTo">Contact</a></li>
+                            </ul>
+                        </li>
+                    
+                    <li class="hidden-xs hidden-sm dropdown">
+                        <a href="/static/contact" class="btn btn-primary toTop">Contact us <i class="fa fa-envelope-o"></i></a>
+                    </li>
+
+                    <li class="dropdown language">
+                                                <a class="toTop dropdown-toggle">
+                            <img width="16" height="11" alt="EN Language" src="/assets/images/flags/gb.png" />
+                        </a>
+                        <ul class="dropdown-menu">
+
+                            
+                            <li>
+                                <a href="//www.bilendi.fr">
+                                    <img width="16" height="11" alt="FR Language" src="/assets/images/flags/fr.png" />
+                                    France                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.de">
+                                    <img width="16" height="11" alt="DE Language" src="/assets/images/flags/de.png" />
+                                    Germany                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.co.uk">
+                                    <img width="16" height="11" alt="EN Language" src="/assets/images/flags/gb.png" />
+                                    United Kingdom                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.es">
+                                    <img width="16" height="11" alt="ES Language" src="/assets/images/flags/es.png" />
+                                    Spain                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.it">
+                                    <img width="16" height="11" alt="IT Language" src="/assets/images/flags/it.png" />
+                                    Italy                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.dk">
+                                    <img width="16" height="11" alt="DA Language" src="/assets/images/flags/dk.png" />
+                                    Denmark                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.fi">
+                                    <img width="16" height="11" alt="FI Language" src="/assets/images/flags/fi.png" />
+                                    Finland                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.se">
+                                    <img width="16" height="11" alt="SV Language" src="/assets/images/flags/se.png" />
+                                    Sweden                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.no">
+                                    <img width="16" height="11" alt="NO Language" src="/assets/images/flags/no.png" />
+                                    Norway                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.be">
+                                    <img width="16" height="11" alt="BE Language" src="/assets/images/flags/be.png" />
+                                    Belgium                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.ch">
+                                    <img width="16" height="11" alt="CH Language" src="/assets/images/flags/ch.png" />
+                                    Switzerland                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.nl">
+                                    <img width="16" height="11" alt="NL Language" src="/assets/images/flags/nl.png" />
+                                    Netherlands                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="//www.bilendi.us">
+                                    <img width="16" height="11" alt="US Language" src="/assets/images/flags/us.png" />
+                                    United States                                </a>
+                            </li>
+                                                    </ul>
+                    </li>
+
+                <!-- Top Nav Active -->
+                </ul>
+            </nav>
+        </div>
+        <!-- /Top Nav -->
+    </div>
+            <div id="iso"><img src="/assets/images/logo-ast-guetesiegel-certified-black.png" alt="ast guetesiegel certified" width="100"/></div>
+        <div id="marktforschung">
+            <img src="/assets/images/banner-top-image.jpg" alt="marktforschung.de"/>
+
+        </div>
+    </header>
+    <!-- /TOP NAV -->
+
+    <div id="wrapper">
+        
+<section id="slider" class="full-screen" data-autoplay="5000" data-mouseover-stop="false"><!-- data-autoplay = 'fals'e or miliseconds. Eg.: 5s = '5000' ; data-mouseover = stop on mouseover. 'true' or 'false') -->
+    <div class="image-caption">
+        <div class="inner">
+            <div class="block">
+                <h1>UNDERSTAND | ENGAGE | RETAIN</h1>
+                <h2 class="h4">Bilendi helps you collect data and create value <br /> through market research, customer engagement and loyalty services for your business</h2>
+            </div>
+                            <a href="/static/studymarket" class="btn btn-primary btn-lg margin-top20">MARKET RESEARCH SERVICES</a>
+                <a href="/static/loyalty" class="btn btn-primary btn-lg margin-top20">CUSTOMER ENGAGEMENT AND LOYALTY</a>
+                <a href="/static/media" class="btn btn-primary btn-lg margin-top20">MEDIA ADVERTISING</a>
+                    </div>
+    </div>
+    <ul class="slides-container">
+        <li>
+            <div style="background-image: url('assets/images/demo/edito3.jpg');" class="fullscreen-img"></div>
+        </li>
+        <li>
+            <div style="background-image: url('assets/images/demo/edito2.jpg');" class="fullscreen-img"></div>
+        </li>
+        <li>
+            <div style="background-image: url('assets/images/demo/edito1.jpg');" class="fullscreen-img"></div>
+        </li>
+    </ul>
+</section>
+<section class="white-bg">
+    <div class="container">
+        <div class="row d-flex justify-content-space-between align-sm-center flex-sm-column">
+            <div class="col-md-4 d-flex flex-direction-column flex-wrap align-content-space-between justify-content-space-between block-home">
+                <h2 class="h4">SERVICES <br /> FOR MARKET RESEARCH</h2>
+                <!-- hide on mobile -->
+                <p class="hidden-xs">
+                With access panels in 44 countries, we offer research institutes and advertising agencies a range of innovative services; from simple sampling through to accurately measuring the effectiveness of online ad campaigns.</p>
+                <a href="/static/studymarket" class="btn btn-primary btn-lg txt-center">Discover our research solutions</a>
+            </div>
+                            <div class="col-md-4 d-flex flex-direction-column flex-wrap align-content-space-between justify-content-space-between block-home">
+                    <h2 class="h4">SERVICES FOR CUSTOMER ENGAGEMENT AND LOYALTY</h2>
+                    <!-- hide on mobile -->
+                    <p class="hidden-xs">
+                    We design, develop and manage customer knowledge tools. We build and implement programmes that generate customer loyalty. We help create and deliver marketing campaigns that generate customer engagement.</p>
+                    <a href="/static/loyalty" class="btn btn-primary btn-lg txt-center">Improve customer engagement &amp; loyalty</a>
+                            </div>
+                                <div class="col-md-4 d-flex flex-direction-column flex-wrap align-content-space-between justify-content-space-between block-home">
+                    <h2 class="h4">SERVICES FOR MEDIA ADVERTISING</h2>
+                    <!-- hide on mobile -->
+                    <p class="hidden-xs">
+                    We help brands grow sales, acquire new customers, and drive online purchases. Create new audiences using our lead capture and nurture services, or utilise our proprietary audience with 4 million active consumers globally.</p>
+                    <a href="/static/media" class="btn btn-primary btn-lg txt-center">Learn about Bilendi Media</a>
+                        </div>
+        </div>
+    </div>
+</section>    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <!-- copyright , scrollTo Top -->
+        <div class="footer-bar">
+            <div class="container">
+                <span class="copyright"><img class="animate_fade_in" src="/assets/images/logo_footer.png" alt="Bilendi" />&nbsp;&nbsp;<span class="specialcopyright">Understand, Engage, Retain</span></span>
+                <a href="#top" class="toTop">BACK TO TOP <i class="fa fa-arrow-circle-up"></i></a>
+            </div>
+        </div>
+        <!-- copyright , scrollTo Top -->
+        <!-- footer content -->
+        <div class="footer-content">
+            <div class="container">
+                <div class="row d-flex flex-sm-column">
+                    <div class="col-md-2">
+                        <h3><a href="/static/studymarket#topNav">MARKET RESEARCH</a></h3>
+                        <ul class="post-item">
+                            <li><a href="/static/studymarket#sm-sec-3" class="scrollTo">Local expertise</a></li>
+                            <li><a href="/static/studymarket#sm-sec-3" class="scrollTo">In Europe and throughout the world</a></li>
+                            <li><a href="/static/studymarket#sm-sec-6" class="scrollTo">From &quot;Sample Only&quot; to &quot;Full Service&quot;</a></li>
+                            <li><a href="/static/bilendi-discuss" class="scrollTo">Bilendi Discuss</a></li>
+                            <li><a href="/static/studymarket#sm-sec-16" class="scrollTo">In home product testing</a></li>
+                            <li><a href="/static/studymarket#sm-sec-8" class="scrollTo">Community recruitment</a></li>
+                            <li><a href="/static/studymarket#sm-sec-7" class="scrollTo">Passive measurement</a></li>
+                            <li><a href="/static/studymarket#sm-sec-9" class="scrollTo">Interactive solutions</a></li>
+                            <li><a href="/static/studymarket#sm-sec-12" class="scrollTo">Profiling</a></li>
+                            <li><a href="/static/studymarket#sm-sec-13" class="scrollTo">Specialised panels</a></li>
+                            <li><a href="/static/studymarket#sm-sec-14" class="scrollTo">Healthcare panel</a></li>
+                            <li><a href="/static/studymarket#sm-sec-15" class="scrollTo">Quality charter</a></li>
+
+                                                                                        <li><a class="scrollTo" href="/assets/images/bilendi-tc-en.pdf" target="_blank">T&amp;C</a></li>
+                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                    </div>
+                                            <div class="col-md-2">
+                            <h3><a href="/academics#topNav">ACADEMICS</a></h3>
+                            <ul class="post-item">
+                                <li><a href="/academics#testimonials" class="scrollTo">What our clients say about us</a></li>
+                                <li><a href="/academics#steps" class="scrollTo">A simple process</a></li>
+                            </ul>
+                        </div>
+                    
+                                        <div class="col-md-2">
+                        <h3><a href="/static/loyalty#topNav">Loyalty &amp; CRM</a></h3>
+                        <ul class="post-item">
+                            <li><a class="scrollTo" href="/static/loyalty#about">About</a></li>
+                            <li><a href="/static/loyalty#accompaniement" class="scrollTo">Services</a></li>
+                            <li><a href="/static/loyalty#solutions" class="scrollTo">Solutions</a></li>
+                            <li><a href="/static/loyalty#bms" class="scrollTo">Platform</a></li>
+                            <li><a href="/static/loyalty#bari" class="scrollTo">AI</a></li>
+                            <li><a href="/static/loyalty#resources" class="scrollTo">Resources</a></li>
+                            <li><a href="/static/loyalty#customer-references" class="scrollTo">References</a></li>
+                        </ul>
+                    </div>
+                                        <div class="col-md-2">
+                        <h3><a href="/static/technology#topNav">IT SOLUTIONS</a></h3>
+                        <ul class="post-item">
+                            <li><a href="/static/technology#technology-sec-3" class="scrollTo">IT Teams</a></li>
+                            <li><a href="/static/technology#technology-sec-4" class="scrollTo">Technologies solutions</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-1">
+                        <h3><a href="/static/group#topNav">GROUP</a></h3>
+                        <ul class="post-item">
+                            <li><a href="/static/group#group-sec-2" class="scrollTo">History</a></li>
+                            <li><a href="/static/group#group-sec-3" class="scrollTo">Offices</a></li>
+                            <li><a href="/static/group#group-sec-4" class="scrollTo">Teams</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2">
+                        <h3><a href="/static/investor#topNav">INVESTORS </a></h3>
+                        <ul class="post-item">
+                            <li><a href="/static/investor#investors-sec-2" class="scrollTo">Key figures</a></li>
+                            <li><a href="/static/investor#investors-sec-4" class="scrollTo">Press releases</a></li>
+                            <li><a href="/static/investor#investors-sec-5" class="scrollTo">Financial agenda</a></li>
+                            <li><a href="/static/investor#investors-sec-6" class="scrollTo">Financial documents</a></li>
+                                                            <!--<li><a href="/static/increase_capital#topNav">Augmentation du capital</a></li>-->
+                                                    </ul>
+                    </div>
+                    <div class="col-md-2 flex-grow-1 text-right text-sm-left">
+                        <p class="margin-top20"><a class="btn btn-primary" target="_blank" href="/static/contact">Contact</a></p>
+                        <p class="margin-top20"><a class="btn btn-primary" target="_blank" href="/jobs">Join us</a></p>
+                        <p class="margin-top40"><img src="/assets/images/logo-ast-guetesiegel-certified-white.png" alt="ast guetesiegel certified" height="100"/></p>
+                                                  <p class="padding20"><!--<a class="social rounded fa fa-facebook" href="https://www.facebook.com/Maximiles.co.uk"></a><a class="social rounded fa fa-twitter" href="https://twitter.com/maximiles"></a>--><a class="social rounded fa fa-xing" href="https://www.xing.com/companies/bilendigmbh" target="_blank"></a><a class="social rounded fa fa-linkedin" href="https://fr.linkedin.com/company/bilendi" target="_blank"></a></p>
+
+                                            </div>
+                </div>
+                <div class="row margin-top40">
+                    <div class="col-md-12 text-center">
+                        <p><small>©2026 Bilendi Technology - <a href="/static/legalnotice">Legal notice</a> - <a href="/static/privacypolicy">Privacy policy</a></small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- footer content -->
+        <!-- pop up linkedin -->
+        <div id="cmpgn-popup" class="popup white-popup-block mfp-hide">
+  <h2 class="popup__headline">Discover how to get closer to consumers than ever before with Bilendi Discuss</h2>
+  <h3 class="popup__subheadline">A Stabilo and Bilendi case study</h3>
+  <a class="popup__btn btn btn-primary btn-lg" href="/assets/images/bilendi-discuss-stabilo-casestudy-23.pdf" target="_blank" rel="noopener">Download case study</a>
+  <a class="popup__close" href="#">X</a>
+</div>
+    </footer>
+    <!-- /FOOTER -->
+
+    
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.appear.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.isotope.js"></script>
+    <script type="text/javascript" src="/assets/plugins/masonry.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/stellar/jquery.stellar.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/knob/js/jquery.knob.js"></script>
+    <script type="text/javascript" src="/assets/plugins/jquery.backstretch.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/superslides/dist/jquery.superslides.min.js"></script>
+        <!-- REVOLUTION SLIDER -->
+    <script type="text/javascript" src="/assets/plugins/revolution-slider/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="/assets/js/slider_revolution.js"></script>
+    <script type="text/javascript" src="/assets/js/scripts.js"></script>
+    <script type="text/javascript" src="/assets/js/front.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script type="text/javascript">
+        $('.edito-group-slick').slick({
+          dots: true,
+          infinite: true,
+          speed: 300,
+          slidesToShow: 1,
+          centerMode: true,
+          variableWidth: false
+        });
+
+        /* academic carousel */
+        $('.academic-group-slick').slick({
+          autoplay: true,
+          autoplaySpeed: 4000,
+          dots: true,
+          fade: true,
+          prevArrow: $('.btn-slick-prev'),
+          nextArrow: $('.btn-slick-next'),
+        });
+
+        $('.discuss-group-slick').slick({
+          autoplay: true,
+          autoplaySpeed: 4000,
+          dots: true,
+          fade: true
+        });
+
+        $('.whitepaper-slick').slick({
+          slidesToShow: 1,
+          dots: true,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 4000
+        });
+
+        var userModalStatus = sessionStorage.getItem('modalRepurchase');
+        if(userModalStatus == null) {
+            $('#bilendiRespondi').modal('show');
+        }
+        $('#bilendiRespondi').on('hidden.bs.modal', function (e) {
+            sessionStorage.setItem('modalRepurchase', 'close');
+        })
+
+        function noResultDisplay(categoryName) {
+            if ($(categoryName).children().length == 0) {
+                $('#noResultsContainer').show()
+            } else { 
+                $('#noResultsContainer').hide();
+            }   
+        }
+        $('.isotope-filter > li > a').on( 'click', function() {
+            noResultDisplay($(this).parent().data('option-value'))
+        });
+        noResultDisplay('*');
+        
+    </script>
+</body>
+</html>

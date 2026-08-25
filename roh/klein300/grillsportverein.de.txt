@@ -1,0 +1,10 @@
+User-Agent: * 
+
+Disallow: /forum/members/
+
+Sitemap: https://www.grillsportverein.de/sitemap.xml
+Sitemap: https://www.grillsportverein.de/forum/sitemap.xml
+Sitemap: https://www.grillsportverein.de/grillrezepte/sitemap.xml
+
+user-agent: Pinterestbot
+Crawl-delay: 0.2

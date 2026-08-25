@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /*.css
+Allow: /*.js
+Disallow: /go/
+
+#optional
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+#end optional
+
+Sitemap: https://audimax.de/sitemap.xml

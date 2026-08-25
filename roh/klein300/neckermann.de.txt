@@ -1,0 +1,1311 @@
+
+    
+<!DOCTYPE html>
+<html data-pagecluster="Einstiegsseite" class="" lang="de">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-language" content="de">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Neckermann - Das gesamte Sortiment auf otto.de | OTTO</title><meta name="description" content="Neckermann geht, aber die Auswahl bleibt! Finde deine neuen Möbel, Klamotten & Technick-Gadgets bei OTTO » Top Service &#10004; Top Marken &#10004; Aktuelle Trends &#10004; » Jetzt shoppen! "/> 
+<link rel="canonical" href="https://www.otto.de/neckermann/"/>
+<meta name="robots" content="index,follow"/>
+<meta property="og:title" content="Neckermann"/>
+
+<link rel="preconnect" href="https://static.otto.de"/>
+<link rel="preconnect" href="https://i.otto.de"/>
+<link rel="dns-prefetch" href="https://otto.my.onetrust.eu"/>
+<meta name="format-detection" content="telephone=no,address=no,email=no"/>
+
+<script type="application/javascript">
+    document.addEventListener('kpsdk-load', function() {
+        try {
+            window.KPSDK.configure([
+                { method: 'POST', domain: 'www.otto.de', path: '/contact-feedback/feedback' },
+                { method: 'POST', domain: 'www.otto.de', path: '/order/addToBasket' },
+                { method: 'POST', domain: 'www.otto.de', path: '/customer-identity/login' },
+                { method: 'GET', domain: 'www.otto.de', path: '/customer-identity/login*' },
+                { method: 'GET', domain: 'www.otto.de', path: '/customer-registration/*' },
+                { method: 'POST', domain: 'www.otto.de', path: '/customer-registration/*' },
+                { method: 'GET', domain: 'www.otto.de', path: '/wishlist-view/*' },
+                { method: 'POST', domain: 'www.otto.de', path: '/dcs/*' },
+                { method: 'GET', domain: 'www.otto.de', path: '/p/*' },
+            ]);
+        } catch(e) {
+            console.log('There was an error initializing KPSDK:', e);
+        }
+    });
+</script>
+<script src="/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js"></script>
+<script src="/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/rc.js"></script>
+        
+<script> window.__APM__ = { ...window.__APM__, pageLoadSpanId:'df4f67d6405548a7', pageLoadTraceId: '3f3c6cbb3ac38779fd4883b818515112', flags: '00'}; </script>
+<script async fetchpriority="high" src="/onex/assignments/dicing.js"></script>
+
+<script>
+window.__toggles__ = Object.freeze({"apm_custom_error_assets_legacy":[true,true],"bct_add_mini_actions":true,"bct_disable_requests":false,"bct_enable_doc_referrer_delay":[true,true],"bct_handle_auxclick":true,"bct_nitro_js_enabled":true,"bct_track_external_call_time":true,"bs_submit_merge_on_late_default":[false,true],"cb_consent_receipt_trace_enabled":false,"cb_enable_consent_for_feature":[true,true],"cb_enable_onetrust":true,"cb_enable_onetrust_lazy_loading":false,"cb_no_load_in_app_context":true,"cb_onetrust_internal_hosting":true,"cb_reconsent":false,"coms_enable_attachment_upload":true,"coms_enable_product_security_categories":true,"coms_enable_terms_of_use_category":false,"cui_article_cancellation_details_module":false,"cui_cancellation_flow":[false,true],"eprivacy_load_cb_lazy":true,"fti_enable_logout_with_csrf":true,"fti_enable_session_refresh_by_ort":[true,true],"fti_enable_session_refresh_debug_log":false,"ftnine_emergency_custom_element_disable_bounce":false,"ftnine_emergency_custom_element_disable_cashback":false,"ftnine_emergency_custom_element_disable_detailview":false,"ftnine_emergency_custom_element_disable_productbadge":false,"ftnine_emergency_custom_element_disable_tag":false,"ftnine_use_ky_fetch":[true,true],"ftone_test_feature":false,"ftsix_enable_bouncelayer_nexus_ssr":[true,true],"ftsix_enable_orderoverview_nexus_ssr":[true,true],"ftsix_enable_pdp_nexus_ssr":true,"ftsix_enable_wishlist_nexus_ssr":[true,true],"ftthreebcn_combo_backoffice_enable_oic_improvements":[false,true],"gr_apm_agent_disable":false,"gr_apm_drop_unsampled_disable":false,"gr_apm_enrich_span_data":[true,true],"gr_enable_legacy_helper":false,"gr_track_device_pixel_ratio":true,"gr_track_device_preferences":[true,true],"gr_track_device_text_size":true,"gr_track_legacy_pali_selectors":true,"gr_tracking_enable_pdp_workaround":true,"inbox_enable_attachment_upload":true,"inbox_enable_customer_inbox":true,"nucleus_activate_dialogue_id_tracking":true,"nucleus_chatbot_android_autofocus":true,"nucleus_chatbot_browser_id":[false,true],"nucleus_chatbot_chat_history_compression":false,"nucleus_chatbot_emergency_disable_entrypoint":false,"nucleus_chatbot_show_new_recommendation_bullet_ui":true,"nucleus_chatbot_typewriter_animation":true,"nucleus_enable_xmas_weeks_design":false,"nucleus_ftsn_717_search_term_parameter":[true,true],"nucleus_voice_enabled":true,"nucleus_voice_webrtc_aec":true,"oc_back_to_top_button_enabled":[false,true],"oc_button_submit_handle_prevent":[false,true],"oc_enable_floating_focus":[true,true],"oc_focused_dialog_v1_hide_prev_in_app":[true,true],"oc_optional_label_on_inputfields":[false,true],"oc_sheet_v1_disable_wait_for_content":[false,true],"oc_sheet_v1_use_navigation_history":[true,true],"ofc_om_exactag_enable":true,"poly_notify_partially_supported":true,"poly_redirect_unsupported":true,"reptile_1283_enable_rating_opens_sheet":true,"rui_item_group_expander":true,"rui_item_status_display":[true,true],"rui_show_additional_text":[false,true],"rui_show_price_reduction":[true,true],"rui_show_qr_code_product_images":false,"rui_show_return_article_change_in_module":[true,true],"sda_playout_disabled":false,"search_stomachshop_last_seen_cinema":false,"verint_enable_xmsdk":true});
+</script>
+<script src="/assets-polyfills/assets.polyfills.head.js" crossorigin="anonymous"></script>
+<link rel="preload" href="https://static.otto.de/assets-static/components/assets/otto-sans-bold.7ffBVm3L.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://static.otto.de/assets-static/components/assets/otto-sans.CtUYNJ_f.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<style>@font-face{font-family:OttoSans;font-style:normal;font-weight:400;src:url(https://static.otto.de/assets-static/components/assets/otto-sans.CtUYNJ_f.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sans.DT9YO2fU.woff)format("woff")}@font-face{font-family:OttoSans;font-style:normal;font-weight:700;src:url(https://static.otto.de/assets-static/components/assets/otto-sans-bold.7ffBVm3L.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sans-bold.BeUYGSjW.woff)format("woff")}@font-face{font-family:OttoSans;font-style:normal;font-weight:800;src:url(https://static.otto.de/assets-static/components/assets/otto-sansko-black.D1JqNP4v.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sansko-black.Cr1uiXks.woff)format("woff")}@font-face{font-family:OttoSans;font-style:normal;font-weight:500;src:url(https://static.otto.de/assets-static/components/assets/otto-sans-medium.bWmV_Tqy.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sans-medium.guLo7uJs.woff)format("woff")}@font-face{font-family:OttoSansMedium;font-style:normal;font-weight:500;src:url(https://static.otto.de/assets-static/components/assets/otto-sans-medium.bWmV_Tqy.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sans-medium.guLo7uJs.woff)format("woff")}@font-face{font-family:OttoPlay;font-style:normal;font-weight:400;src:url(https://static.otto.de/assets-static/components/assets/otto-play.CQmFqzJy.woff2)format("woff2")}@media (min-width:48rem){@font-face{font-family:OttoSansThin;font-style:normal;font-weight:400;src:url(https://static.otto.de/assets-static/components/assets/otto-sans-thin.DVT-9QSF.woff2)format("woff2"),url(https://static.otto.de/assets-static/components/assets/otto-sans-thin.UQZ1fxrC.woff)format("woff")}}</style>
+
+
+<style>html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{border:0;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}input,textarea{border-radius:0}input[type=text],textarea{-webkit-appearance:none}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:400}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:400}q:before,q:after{content:""}abbr,acronym{border:0}a{outline:none}html{background:var(--oc-semantic-color-frame-background,#f0f0f0);height:100%;overflow:hidden scroll}@supports (font:-apple-system-body) and (-webkit-touch-callout:default){html{font:-apple-system-body!important}}*,:before,:after{box-sizing:border-box}body{background:var(--oc-semantic-color-frame-background,#f0f0f0);color:var(--oc-semantic-color-text-default,#212121);font:var(--oc-semantic-font-copy-100,400 .875rem/1.5rem "OTTOSans", Arial, Helvetica, sans-serif);-webkit-text-size-adjust:100%;height:100%;margin:0}@media (min-width:77rem){body{background:linear-gradient(180deg, var(--oc-semantic-color-canvas-background,#fff), var(--oc-semantic-color-canvas-background,#fff) 10.375rem, transparent 10.375rem, transparent 100%) no-repeat}.app body{background:var(--oc-semantic-color-frame-background,#f0f0f0)}}body,button,input,select,textarea{font-family:var(--oc-base-font-otto-sans,"OTTOSans", Arial, Helvetica, sans-serif)}p{margin-bottom:var(--oc-semantic-spacing-50,8px)}h1{font:var(--oc-semantic-font-headline-300,700 1.5rem/2rem "OTTOSans", Arial, Helvetica, sans-serif)}h2{font:var(--oc-semantic-font-headline-200,700 1.25rem/1.75rem "OTTOSans", Arial, Helvetica, sans-serif)}h3{font:var(--oc-semantic-font-headline-100,700 1rem/1.5rem "OTTOSans", Arial, Helvetica, sans-serif)}h4{font:var(--oc-semantic-font-headline-50,700 .875rem/1.25rem "OTTOSans", Arial, Helvetica, sans-serif)}h5{font:var(--oc-semantic-font-headline-25,700 .75rem/1rem "OTTOSans", Arial, Helvetica, sans-serif)}h6{font:var(--oc-semantic-font-headline-10,700 .625rem/.75rem "OTTOSans", Arial, Helvetica, sans-serif)}input[type=password]{font-family:var(--oc-base-font-otto-sans,"OTTOSans", Arial, Helvetica, sans-serif)}button::-moz-focus-inner{border:0;padding:0}a{color:inherit}.ub64e{cursor:pointer;text-decoration:underline}em,strong,.bold{font-weight:var(--oc-base-font-weight-bold,700)}small{font:var(--oc-semantic-font-copy-75,400 .75rem/1rem "OTTOSans", Arial, Helvetica, sans-serif)}big{font:var(--oc-semantic-font-copy-125,400 1rem/1.5rem "OTTOSans", Arial, Helvetica, sans-serif)}.hide{display:none}.iconfont{font-family:OttoIconFonts,Arial,Helvetica,sans-serif}.line{clear:both;border-bottom:1px solid #d6d6d6;width:100%;height:1px;margin:0;display:block}footer .ofig{text-align:center}.footerSmall .push{height:0}@media print{body{background-color:var(--oc-semantic-color-frame-background,#f0f0f0);color:var(--oc-semantic-color-text-default,#212121)}body,button,input,select,textarea{font-family:Arial,Helvetica,sans-serif}.product-system .header-info,.product-system .omega,.product-system nav,.product-system footer .bigLinkTable tr th,.product-system footer .bigLinkTable tr td,.product-system footer .iconRow,.user_feedback_splice_bar_live{display:none}.product-system footer .bigLinkTable tr th.width3,.product-system footer .bigLinkTable tr td.width3{display:table-cell}}</style>
+
+
+<link rel="stylesheet" crossorigin href="https://static.otto.de/assets-static/components/assets/assets.components.legacy.BNi0_WoV.css">
+
+
+<script crossorigin src="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.head.module.y2gxq3W9.js"></script>
+
+<script>
+  // try to workaround of the weird ios app issue.
+  var o_global = window.o_global;
+  var o_util = window.o_util;
+</script>
+
+<script type="module" crossorigin src="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.async.module.Dt4mYZsd.js" fetchpriority="high"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.namespaces.module.B5p1X8q3.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.device.module.CONh7jLG.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.errors.module.DcK1Iw_q.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.nexus.module.B-uo3aSk.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.debug.module.Knl6DhDl.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.toggle.module.DROD2Ev1.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.defineProperty.module.BbfpZ9Tg.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.onex.module.Ds66zpuv.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.apm.module.BBSN9I5F.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.event-q-bus.module.DAe5j_tI.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.storage.module.CusCqjmY.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.focus.module.CFynXsz3.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.dom.module.BQvrPCHJ.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.event.module.Cr5UoNax.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.tracking.module.i3Zv0dgc.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.attribute-parser.module.DOndI0Xz.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.misc.module.6qwOYB-I.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.core.module.puu6AdVO.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.viewport.module.Bw1OQbDx.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.cookie.module.D0fBkWmz.js" fetchpriority="high">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/global-resources/assets/assets.global-resources.fragment.module.Dsbu8TRn.js" fetchpriority="high">
+
+
+<script type="module" crossorigin src="https://static.otto.de/feature-components/quality/assets/ofc.quality.main.module.CAUQmjbU.js" fetchpriority="low"></script>
+
+
+<script crossorigin src="https://static.otto.de/assets-static/global-pattern/assets/assets.global-pattern.main.module.CF07lBWf.js"></script>
+<link rel="stylesheet" crossorigin href="https://static.otto.de/assets-static/global-pattern/assets/assets.global-pattern.main.D5AQm_yr.css">
+
+
+
+<link rel="shortcut icon" type="image/x-icon" href="https://static.otto.de/assets-static/global-favicons/favicon.ico"/>
+<link rel="icon" type="image/svg+xml" href="https://static.otto.de/assets-static/global-favicons/favicon.svg"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-16x16.png" sizes="16x16"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-128x128.png" sizes="128x128"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-160x160.png" sizes="160x160"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-192x192.png" sizes="192x192"/>
+<link rel="icon" type="image/png" href="https://static.otto.de/assets-static/global-favicons/favicon-196x196.png" sizes="196x196"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon.png"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-57x57.png" sizes="57x57"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-60x60.png" sizes="60x60"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-72x72.png" sizes="72x72"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-76x76.png" sizes="76x76"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-114x114.png" sizes="114x114"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-120x120.png" sizes="120x120"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-128x128.png" sizes="128x128"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-144x144.png" sizes="144x144"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-152x152.png" sizes="152x152"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-167x167.png" sizes="167x167"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-180x180.png" sizes="180x180"/>
+<link rel="apple-touch-icon" href="https://static.otto.de/assets-static/global-favicons/apple-touch-icon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="/static-proxy/assets-static/global-favicons/manifest.json"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>
+<meta name="msapplication-navbutton-color" content="#d52b1e"/>
+<meta name="theme-color" content="#f0f0f0"/>
+<script crossorigin src="https://static.otto.de/assets-static/components/assets/assets.components.main.module.DjYuG7B-.js"></script>
+<link rel="stylesheet" crossorigin href="https://static.otto.de/assets-static/components/assets/assets.components.main.CX-vN2sp.css">
+
+
+<link rel="modulepreload" href="https://static.otto.de/assets-static/global-resources/modules/svelte/5.56.4/runtime/flags/legacy.js" crossorigin="anonymous" fetchpriority="low">
+<script async type="module" crossorigin src="https://static.otto.de/assets-static/components/assets/assets.components.async.module.lhZZ5JaP.js" fetchpriority="high"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/assets-static/components/assets/assets.components.useHost.module.BTN2RpJD.js" fetchpriority="high">
+
+
+<script type="module" crossorigin src="https://static.otto.de/feature-components/online-marketing/assets/ofc.online-marketing.exactag.module.DMgMrTmL.js" fetchpriority="low"></script>
+
+
+<meta name="pinterest" content="nopin" description="Das Merken von Pins auf Pinterest ist von dieser Webseite aus leider nicht m&#xf6;glich.
+Du m&#xf6;chtest dir ein Produkt trotzdem merken? Dann f&#xfc;ge es direkt deinem Merkzettel auf OTTO hinzu &#x2013; so hast du es jederzeit griffbereit!">
+
+<script type="module" crossorigin src="https://static.otto.de/customer-session-maintenance-assets/assets/identity.customer-session-maintenance.refresh.module.CiASSt5l.js" fetchpriority="low"></script>
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.webview.module.BtjsWLMG.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.DtR3pbBv.js" fetchpriority="low">
+
+
+<script type="module" crossorigin src="/static-proxy/turtle/reptile.turtle.head-js.module.CuU0bd70.js"></script>
+<link rel="modulepreload" crossorigin href="/static-proxy/turtle/reptile.turtle.dom-client.module.Dl8zL94A.js">
+
+
+<link rel="stylesheet" crossorigin href="/static-proxy/turtle/reptile.turtle.critical.ByeHgsdm.css">
+
+
+</head>
+<body class="san-system">
+<div id="reptile-sfid-wrapper">
+<div class="ts-bct" data-ts_sfid="2e860584a51f1396fc43fb85e890227412261845362"></div>
+<div id="avContent"
+class="js_av_teaser" data-rule="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))">
+</div>
+</div>
+<div class="gridAndInfoContainer">
+<div class="gridContainer reducedOuterPadding wrapper mo-frame reptile_gridContainer reptile_gridContainer--restructureBracketArea">
+<header class="reptile_header">
+<link rel="modulepreload" href="https://static.otto.de/assets-static/global-resources/modules/svelte/5.56.8/runtime/disclose-version.js" crossorigin="anonymous" fetchpriority="low">
+<script type="module" crossorigin src="https://static.otto.de/feature-components/header/assets/ofc.header.main.module.Daufexvz.js" fetchpriority="low"></script>
+<style>ofc-header-icon-v1{max-width:100%;display:inline-block}ofc-header-icon-v1:not(:defined){visibility:hidden}</style>
+
+<style>.reptile_header{background-color:var(--oc-semantic-color-canvas-background,#fff)}.reptile_header .reptile_headerContent{margin:0 var(--oc-semantic-spacing-100,16px);align-items:center;column-gap:var(--oc-semantic-spacing-50,8px);flex-wrap:wrap;display:flex}@media (min-width:48rem){.reptile_header .reptile_headerContent{column-gap:unset;height:83px}}.reptile_header .reptile_headerContent .reptile_navigationIcon{margin:var(--oc-semantic-spacing-50,8px) 0;flex:none}@media (min-width:48rem){.reptile_header .reptile_headerContent .reptile_navigationIcon{display:none}.reptile_header .reptile_headerContent .reptile_ottoLogo{margin-top:var(--oc-semantic-spacing-100,16px)}}.reptile_header .reptile_headerContent .reptile_ottoLogo oc-interactive-overlay-v1{--border-radius:var(--oc-semantic-border-radius-25);--border-offset:var(--oc-semantic-spacing-25)}.reptile_header .reptile_headerContent .reptile_ottoLogo a{display:flex}.reptile_header .reptile_headerContent .reptile_ottoLogo oc-logo-v1{width:var(--oc-base-dimension-64,64px)}@media (min-width:48rem){.reptile_header .reptile_headerContent .reptile_ottoLogo oc-logo-v1{height:var(--oc-base-dimension-40,40px);width:inherit}}@media (min-width:62rem){.reptile_header .reptile_headerContent .reptile_ottoLogo oc-logo-v1{height:var(--oc-base-dimension-48,48px)}}.reptile_header .reptile_headerContent .reptile_headerIcons{min-width:0;margin:var(--oc-semantic-spacing-50,8px) 0;justify-content:flex-end;align-items:center;gap:var(--oc-base-dimension-4,4px);flex:1;display:flex}.reptile_header .reptile_headerContent .reptile_headerIcons>li{min-width:0;display:inline-flex}@media (min-width:28rem){.reptile_header .reptile_headerContent .reptile_headerIcons{gap:var(--oc-base-dimension-8,8px)}}@media (min-width:48rem){.reptile_header .reptile_headerContent .reptile_headerIcons{min-width:fit-content;margin:var(--oc-semantic-spacing-100,16px) 0 0 var(--oc-semantic-spacing-25,4px);flex-grow:0}.reptile_header .reptile_headerContent .reptile_headerIcons .reptile_searchIcon{display:none}}.reptile_header .reptile_headerContent .reptile_headerIcons .reptile_serviceIcon{display:none}@media (min-width:48rem){.reptile_header .reptile_headerContent .reptile_headerIcons .reptile_serviceIcon{display:inline-flex}}</style>
+
+
+
+<div class="reptile_header">
+    <div class="reptile_headerContent">
+        <div class="reptile_navigationIcon">
+            <nav-mobile-menu-button-v1 class="nav_menu-toggle-button-v1 nav_menu-toggle-button-v1--closed" data-controls="nav-menu-root-sheet" data-menu-root="nav_menu" data-menu-wrapper="nav_mobile-menu-wrapper" data-nav-initialized="data-nav-initialized" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-exit="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;exit&quot;]}}]" data-nav-tracking-menu-open="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;open&quot;]}}]" id="nav_menu-toggle-button"><ofc-header-icon-v1 class="nav_menu-toggle-button-v1__nav-icon" icon="nav" text="Sortiment"></ofc-header-icon-v1><ofc-header-icon-v1 class="nav_menu-toggle-button-v1__close-icon" icon="close" text="Schließen"></ofc-header-icon-v1></nav-mobile-menu-button-v1>
+        </div>
+
+        <div class="reptile_ottoLogo" data-qa="ftfind-otto-logo-wrapper">
+            <oc-interactive-overlay-v1 data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;san_Header&quot;:&quot;logo&quot;}">
+                <a href="/" aria-label="Zur OTTO-Startseite" title="Zur OTTO-Startseite">
+                    <oc-logo-v1 logo="otto" fill-parent></oc-logo-v1>
+                </a>
+            </oc-interactive-overlay-v1>
+        </div>
+
+        <script type="module" crossorigin src="/stomachshop/squirrel.stomachshop.searchbar.module.DCQ6n9ca.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/stomachshop/squirrel.stomachshop.shared.module.CW4WQAs0.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/stomachshop/squirrel.stomachshop.sanHeader.module.C9NhLibD.js" fetchpriority="low">
+<link rel="stylesheet" crossorigin href="/stomachshop/squirrel.stomachshop.searchbar.D3rWa_Ej.css">
+<div id="js_squirrel_stomachshop" class="squirrel_searchContainer js_squirrel_searchContainer">
+  <div class="squirrel_searchbarWrapper js_squirrel_searchbarWrapper">
+    <form class="js_squirrel_searchForm squirrel_searchForm" action="/suche" data-article-number-search="/p/search/" role="search">
+      <div class="squirrel_searchline">
+        <div class="squirrel_searchbar js_squirrel_searchbar">
+          <span id="squirrel_searchfieldDescription">Verwende die Pfeiltasten, um Suchvorschl&#xe4;ge oder deine Suchhistorie auszuw&#xe4;hlen.</span>
+          <input class="squirrel_searchfield js_squirrel_searchbar__input oc-copy-125" data-qa-id="search-field" data-qa="ftfind-search-field" type="text" placeholder="Wonach suchst du?" autocomplete="off" autocapitalize="none" spellcheck="false" enterkeyhint="search" maxlength="150" disabled="disabled" aria-describedby="squirrel_searchfieldDescription">
+          <oc-icon-button-v2 class="squirrel_submit-button squirrel_searchbar__submit js_squirrel_searchbar__submit" data-qa-id="search-field-submit" icon="search" icon-color="var(--oc-base-color-black-100, #212121)" variant="inverted-transparent" oc-aria-label="Suche abschicken">
+          </oc-icon-button-v2>
+        </div>
+      </div>
+    </form>
+  </div>
+
+</div>
+<div class="js_squirrel_navSliderContainer" id="squirrel_nav_slider_wrapper" style="display: none">
+  <nav-empty-suggest-slider class="nav_empty-suggest-slider-container" style="visibility:hidden;"><nav-oc-slider-v2 class="nav_oc-slider-container-v2--visible" data-enabled-breakpoints="[&quot;s&quot;,&quot;xl&quot;,&quot;l&quot;,&quot;m&quot;]"><oc-cinema-v1 class="nav_slider-cinema_js" data-nav-track="true" data-nav-tracking-first-scroll-empty-suggest-slider="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_SliderType&quot;:[&quot;empty_state_static_deals_slider&quot;],&quot;nav_SliderActivity&quot;:[&quot;slide&quot;]}}]" data-nav-tracking-view-empty-suggest-slider="[{&quot;method&quot;:&quot;submitEventMerge&quot;,&quot;eventMergeId&quot;:&quot;merge-id&quot;,&quot;dataContainer&quot;:{},&quot;action&quot;:{&quot;name&quot;:&quot;open&quot;,&quot;features&quot;:[{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;name&quot;:&quot;EmptyStateSliderDetails&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChipCount&quot;:[&quot;4&quot;],&quot;nav_EmptyStateSliderCluster&quot;:[&quot;static_deals&quot;]},&quot;position&quot;:1,&quot;status&quot;:&quot;loaded&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_0&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deal des Tages&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:1,&quot;status&quot;:&quot;loaded&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_1&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deals der Woche&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:2,&quot;status&quot;:&quot;loaded&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_2&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deals des Monats&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:3,&quot;status&quot;:&quot;loaded&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_3&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Super-Sale&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:4,&quot;status&quot;:&quot;loaded&quot;}]}}]" gap="8px" oc-aria-label="Kategorien für Aktionen" resizing="none"><oc-media-object-card-v2 class="nav_slider-item_js nav_oc-slider-item-v2-white-variant" data-nav-track="true" data-nav-tracking-click-empty-suggest-slider-item="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_SearchSlider&quot;:[&quot;empty_state_static_deals_slider&quot;],&quot;wk.nav_SearchSliderItem&quot;:[&quot;Deal des Tages&quot;],&quot;san_Interaction&quot;:[&quot;empty_state_slider&quot;],&quot;san_Navigation&quot;:[&quot;empty_state_slider&quot;],&quot;wk.nav_MenuTitle&quot;:[&quot;Deal des Tages&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;1&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;3&quot;]}},{&quot;method&quot;:&quot;submitMove&quot;,&quot;dataContainer&quot;:{},&quot;action&quot;:{&quot;name&quot;:&quot;click&quot;,&quot;features&quot;:[{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;name&quot;:&quot;EmptyStateSliderDetails&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChipCount&quot;:[&quot;4&quot;],&quot;nav_EmptyStateSliderCluster&quot;:[&quot;static_deals&quot;]},&quot;position&quot;:1,&quot;status&quot;:&quot;clicked&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_0&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deal des Tages&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:1,&quot;status&quot;:&quot;clicked&quot;}]}}]" elevation-level="canvas" size="50" variant="ambient-image" width-behavior="fit"><a aria-label="oc-auto" href="/sale/deal-des-tages/"></a><picture slot="img"><source height="100%" srcset="https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=64&amp;h=64&amp;upscale=true&amp;fmt=webp&amp; 1x, https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=128&amp;h=128&amp;upscale=true&amp;fmt=webp&amp; 2x, https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=192&amp;h=192&amp;upscale=true&amp;fmt=webp&amp; 3x" type="image/webp" width="100%" /><source height="100%" srcset="https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=64&amp;h=64&amp;upscale=true&amp; 1x, https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=128&amp;h=128&amp;upscale=true&amp; 2x, https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=192&amp;h=192&amp;upscale=true&amp; 3x" width="100%" /><img height="100%" loading="lazy" src="https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=64&amp;h=64&amp;upscale=true&amp;" width="100%" /></picture><span class="nav_oc-slider-item-v2-headline nav_oc-slider-item-v2-headline_js" slot="headline">Deal des Tages</span></oc-media-object-card-v2><oc-media-object-card-v2 class="nav_slider-item_js nav_oc-slider-item-v2-white-variant" data-nav-track="true" data-nav-tracking-click-empty-suggest-slider-item="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_SearchSlider&quot;:[&quot;empty_state_static_deals_slider&quot;],&quot;wk.nav_SearchSliderItem&quot;:[&quot;Deals der Woche&quot;],&quot;san_Interaction&quot;:[&quot;empty_state_slider&quot;],&quot;san_Navigation&quot;:[&quot;empty_state_slider&quot;],&quot;wk.nav_MenuTitle&quot;:[&quot;Deals der Woche&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;2&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;3&quot;]}},{&quot;method&quot;:&quot;submitMove&quot;,&quot;dataContainer&quot;:{},&quot;action&quot;:{&quot;name&quot;:&quot;click&quot;,&quot;features&quot;:[{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;name&quot;:&quot;EmptyStateSliderDetails&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChipCount&quot;:[&quot;4&quot;],&quot;nav_EmptyStateSliderCluster&quot;:[&quot;static_deals&quot;]},&quot;position&quot;:1,&quot;status&quot;:&quot;clicked&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_1&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deals der Woche&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:2,&quot;status&quot;:&quot;clicked&quot;}]}}]" elevation-level="canvas" size="50" variant="ambient-image" width-behavior="fit"><a aria-label="oc-auto" href="/sale/deals-der-woche/"></a><picture slot="img"><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_131652_163773?w=64&amp;h=64&amp;upscale=true&amp;fmt=webp&amp; 1x, https://i.otto.de/i/otto/mpp360_131652_163773?w=128&amp;h=128&amp;upscale=true&amp;fmt=webp&amp; 2x, https://i.otto.de/i/otto/mpp360_131652_163773?w=192&amp;h=192&amp;upscale=true&amp;fmt=webp&amp; 3x" type="image/webp" width="100%" /><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_131652_163773?w=64&amp;h=64&amp;upscale=true&amp; 1x, https://i.otto.de/i/otto/mpp360_131652_163773?w=128&amp;h=128&amp;upscale=true&amp; 2x, https://i.otto.de/i/otto/mpp360_131652_163773?w=192&amp;h=192&amp;upscale=true&amp; 3x" width="100%" /><img height="100%" loading="lazy" src="https://i.otto.de/i/otto/mpp360_131652_163773?w=64&amp;h=64&amp;upscale=true&amp;" width="100%" /></picture><span class="nav_oc-slider-item-v2-headline nav_oc-slider-item-v2-headline_js" slot="headline">Deals der Woche</span></oc-media-object-card-v2><oc-media-object-card-v2 class="nav_slider-item_js nav_oc-slider-item-v2-white-variant" data-nav-track="true" data-nav-tracking-click-empty-suggest-slider-item="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_SearchSlider&quot;:[&quot;empty_state_static_deals_slider&quot;],&quot;wk.nav_SearchSliderItem&quot;:[&quot;Deals des Monats&quot;],&quot;san_Interaction&quot;:[&quot;empty_state_slider&quot;],&quot;san_Navigation&quot;:[&quot;empty_state_slider&quot;],&quot;wk.nav_MenuTitle&quot;:[&quot;Deals des Monats&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;3&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;3&quot;]}},{&quot;method&quot;:&quot;submitMove&quot;,&quot;dataContainer&quot;:{},&quot;action&quot;:{&quot;name&quot;:&quot;click&quot;,&quot;features&quot;:[{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;name&quot;:&quot;EmptyStateSliderDetails&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChipCount&quot;:[&quot;4&quot;],&quot;nav_EmptyStateSliderCluster&quot;:[&quot;static_deals&quot;]},&quot;position&quot;:1,&quot;status&quot;:&quot;clicked&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_2&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Deals des Monats&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:3,&quot;status&quot;:&quot;clicked&quot;}]}}]" elevation-level="canvas" size="50" variant="ambient-image" width-behavior="fit"><div aria-label="oc-auto" data-masked-ref="Lz9zZWxla3Rpb249KHVuZC4oaXN0LmFrdGlvbi5kZWFsLWRlcy1tb25hdHMpLih+Lih2LjEpKSk=" role="link" tabindex="0"></div><picture slot="img"><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_131654_163774?w=64&amp;h=64&amp;upscale=true&amp;fmt=webp&amp; 1x, https://i.otto.de/i/otto/mpp360_131654_163774?w=128&amp;h=128&amp;upscale=true&amp;fmt=webp&amp; 2x, https://i.otto.de/i/otto/mpp360_131654_163774?w=192&amp;h=192&amp;upscale=true&amp;fmt=webp&amp; 3x" type="image/webp" width="100%" /><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_131654_163774?w=64&amp;h=64&amp;upscale=true&amp; 1x, https://i.otto.de/i/otto/mpp360_131654_163774?w=128&amp;h=128&amp;upscale=true&amp; 2x, https://i.otto.de/i/otto/mpp360_131654_163774?w=192&amp;h=192&amp;upscale=true&amp; 3x" width="100%" /><img height="100%" loading="lazy" src="https://i.otto.de/i/otto/mpp360_131654_163774?w=64&amp;h=64&amp;upscale=true&amp;" width="100%" /></picture><span class="nav_oc-slider-item-v2-headline nav_oc-slider-item-v2-headline_js" slot="headline">Deals des Monats</span></oc-media-object-card-v2><oc-media-object-card-v2 class="nav_slider-item_js nav_oc-slider-item-v2-white-variant" data-nav-track="true" data-nav-tracking-click-empty-suggest-slider-item="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_SearchSlider&quot;:[&quot;empty_state_static_deals_slider&quot;],&quot;wk.nav_SearchSliderItem&quot;:[&quot;Super-Sale&quot;],&quot;san_Interaction&quot;:[&quot;empty_state_slider&quot;],&quot;san_Navigation&quot;:[&quot;empty_state_slider&quot;],&quot;wk.nav_MenuTitle&quot;:[&quot;Super-Sale&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;4&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;3&quot;]}},{&quot;method&quot;:&quot;submitMove&quot;,&quot;dataContainer&quot;:{},&quot;action&quot;:{&quot;name&quot;:&quot;click&quot;,&quot;features&quot;:[{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;name&quot;:&quot;EmptyStateSliderDetails&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChipCount&quot;:[&quot;4&quot;],&quot;nav_EmptyStateSliderCluster&quot;:[&quot;static_deals&quot;]},&quot;position&quot;:1,&quot;status&quot;:&quot;clicked&quot;},{&quot;id&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014_3&quot;,&quot;name&quot;:&quot;EmptyStateSliderChips&quot;,&quot;labels&quot;:{&quot;nav_EmptyStateSliderChip&quot;:[&quot;Super-Sale&quot;]},&quot;parentId&quot;:&quot;nav_empty_state_slider_dc10d5d6-f9c4-410b-a04b-55c7ea4e3014&quot;,&quot;position&quot;:4,&quot;status&quot;:&quot;clicked&quot;}]}}]" elevation-level="canvas" size="50" variant="ambient-image" width-behavior="fit"><div aria-label="oc-auto" data-masked-ref="Lz9zZWxla3Rpb249KHVuZC4oaXN0LmFrdGlvbi5zdXBlci1zYWxlKS4oaXN0LnJhYmF0dC4zMCkuKH4uKHYuMSkpKQ==" role="link" tabindex="0"></div><picture slot="img"><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_263048_426292?w=64&amp;h=64&amp;upscale=true&amp;fmt=webp&amp; 1x, https://i.otto.de/i/otto/mpp360_263048_426292?w=128&amp;h=128&amp;upscale=true&amp;fmt=webp&amp; 2x, https://i.otto.de/i/otto/mpp360_263048_426292?w=192&amp;h=192&amp;upscale=true&amp;fmt=webp&amp; 3x" type="image/webp" width="100%" /><source height="100%" srcset="https://i.otto.de/i/otto/mpp360_263048_426292?w=64&amp;h=64&amp;upscale=true&amp; 1x, https://i.otto.de/i/otto/mpp360_263048_426292?w=128&amp;h=128&amp;upscale=true&amp; 2x, https://i.otto.de/i/otto/mpp360_263048_426292?w=192&amp;h=192&amp;upscale=true&amp; 3x" width="100%" /><img height="100%" loading="lazy" src="https://i.otto.de/i/otto/mpp360_263048_426292?w=64&amp;h=64&amp;upscale=true&amp;" width="100%" /></picture><span class="nav_oc-slider-item-v2-headline nav_oc-slider-item-v2-headline_js" slot="headline">Super-Sale</span></oc-media-object-card-v2></oc-cinema-v1></nav-oc-slider-v2></nav-empty-suggest-slider><div class="nav-static"><script crossorigin="" fetchpriority="low" src="/nav-promirnaty/static/compiled/nav.promirnaty.index.module.BSzpDNRd.js" type="module"></script><link crossorigin="" href="/nav-promirnaty/static/compiled/nav.promirnaty.index.BOvIU2Yd.css" rel="stylesheet" /></div>
+</div>
+<div class="js_squirrel_lastSeenCinemaContainer" id="squirrel_last_seen_cinema_wrapper" style="display: none">
+  
+</div>
+
+
+        <ul class="reptile_headerIcons">
+            <li class="reptile_searchIcon">
+                <script type="module" crossorigin src="/stomachshop/squirrel.stomachshop.searchToggle.module.D2MpUnoC.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/stomachshop/squirrel.stomachshop.shared.module.CW4WQAs0.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/stomachshop/squirrel.stomachshop.sanHeader.module.C9NhLibD.js" fetchpriority="low">
+<div id="squirrel_searchIcon"></div>
+
+            </li>
+            <li class="reptile_serviceIcon">
+                <ofc-header-icon-v1 icon="service-info" text="Service" ofc-aria-label="Service" href="/service/" base64-href="L3NlcnZpY2Uv" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;san_Header&quot;:&quot;service&quot;}"></ofc-header-icon-v1>
+            </li>
+            <li>
+                <script type="module" crossorigin src="https://static.otto.de/flyout/assets/identity.fti_flyout.flyout.module.Cvao7uFE.js" fetchpriority="low"></script>
+<style>.fti-fly-js-my-account-icon{max-width:100%}.fti-fly-icon-overlay{text-align:center;flex-direction:column;width:100%;font-size:0;display:flex}.fti-fly-icon-container{display:inline-block;position:relative}.fti-fly-icon{vertical-align:middle}.fti-fly-icon-logged-in-badge{position:absolute;bottom:0;left:calc(100% - .5rem)}.fti-fly-label{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.fti-fly-popover-header{justify-content:space-between;min-width:calc(100vw - 16px);padding-top:20px;display:flex}@media (min-width:28rem){.fti-fly-popover-header{min-width:340px}}.fti-fly-popover-actions{flex-direction:column;display:flex}.fti-fly-divider{min-height:4px}.fti-fly-popover-title{align-content:center}</style>
+
+<div class="fti-fly-js-my-account-icon">
+    <oc-interactive-overlay-v2 class="fti-fly-icon-overlay fti-fly-js-icon-overlay" id="fti-fly-icon-overlay" data-qa="fti-fly-icon-overlay" border-radius="2px" oc-aria-label="Mein Konto" data-tr-v1.track="click">
+        <a class="fti-fly-js-my-account-link" href="/myaccount/dashboard">
+            <div class="fti-fly-icon-container fti-fly-js-icon-container">
+                <oc-icon-v1 class="fti-fly-icon oc-text-color-secondary" type="person" size="100"></oc-icon-v1>
+            </div>
+            <div class="fti-fly-label fti-fly-js-label oc-text-color-secondary oc-copy-50 oc-copy-75--l" data-qa="fti-fly-label">
+                Mein Konto
+            </div>
+        </a>
+    </oc-interactive-overlay-v2>
+</div>
+
+<oc-popover-v1 position="bottom" anchor="#fti-fly-icon-overlay" oc-aria-label="Willkommen!" class="fti-fly-js-popover" data-qa="fti-fly-popover">
+    <div class="fti-fly-popover-header oc-px-100 oc-pb-75">
+        <h2 class="fti-fly-popover-title oc-headline-100">Willkommen!</h2>
+        <oc-icon-button-v3 icon="close" oc-aria-label="Schlie&#xdf;en" data-popover-close="click"></oc-icon-button-v3>
+    </div>
+    <div class="fti-fly-js-menu-slot">
+        <nav data-qa="mya_flyout_navigation" aria-label="Mein Konto Navigation"
+     class="mya_flyout-navigation mya_js_flyout-navigation oc-px-100">
+    <script type="module" crossorigin src="/myaccount/assets/myaccount.myaccount.flyout_navigation_bundle.module.DnBx26Id.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/myaccount/assets/myaccount.myaccount.rolldown-runtime.module.CenpyGzJ.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/myaccount/assets/myaccount.myaccount.defineProperty.module.BxHTq2b9.js" fetchpriority="low">
+<style>.mya_body{clear:both;position:relative;visibility:visible!important}.mya_body .mya_headline_container{padding-bottom:0}.mya_body .mya_block_no_tb_padding{--custom-spacing-y:0px}.mya_body .mya_block_no_lr_padding{--custom-spacing-x:0px}.mya_body .mya_block_no_padding{--custom-spacing-x:0px;--custom-spacing-y:0px}.mya_body .mya_block_full_bleed{--custom-spacing-x:0px;--custom-spacing-y:24px}.mya_body .mya_page-utility-container{text-align:right;align-content:center;height:100%;padding-bottom:0}.mya_leftNav{height:100%;padding-left:var(--oc-semantic-spacing-50,8px);padding-right:var(--oc-semantic-spacing-50,8px)}.mya_flyout_navigation_test_esi_container{padding:var(--oc-semantic-spacing-100,16px);border:2px dashed #ccc}.mya_flyout-navigation{max-height:288px}.mya_flyout-navigation-list{margin:0 0 var(--oc-semantic-spacing-25,4px);padding:0;list-style:none}.mya_flyout-navigation-item{padding:0}.mya_flyout-navigation-link{color:inherit;text-decoration:none}</style>
+
+
+    <ul class="mya_flyout-navigation-list">
+        <li data-qa="mya_flyout_navigation_item_myaccount"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Mein Konto"
+                data-track-destination="MyAccountOverview"
+                base64-href="L215YWNjb3VudC9kYXNoYm9hcmQ/ZW50cnlQb2ludD1sb2dpbkFyZWE="
+                icon-left="person"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Mein Konto</span>
+            </oc-row-v2>
+        </li>
+        <li data-qa="mya_flyout_navigation_item_orders"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Liste aller Bestellungen einsehen und einzelne Bestellungen bearbeiten"
+                data-track-destination="MyOrder"
+                base64-href="L215YWNjb3VudC9vcmRlcnM/ZW50cnlQb2ludD1sb2dpbkFyZWE="
+                icon-left="order"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Bestellungen</span>
+            </oc-row-v2>
+        </li>
+        <li data-qa="mya_flyout_navigation_item_invoices"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Rechnungsübersicht und Zahlungsinformationen einsehen"
+                data-track-destination="InvoicePage"
+                base64-href="L215YWNjb3VudC9pbnZvaWNlcz9lbnRyeVBvaW50PWxvZ2luQXJlYQ=="
+                icon-left="euro"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Rechnungen</span>
+            </oc-row-v2>
+        </li>
+        <li data-qa="mya_flyout_navigation_item_myup"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Übersicht und Verwaltung zur Mitgliedschaft beim UP-Vorteilsprogramm einsehen"
+                data-track-destination="MyUpHome"
+                base64-href="L215YWNjb3VudC91cD9lbnRyeVBvaW50PWxvZ2luQXJlYQ=="
+                icon-left="otto-up"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Mein UP</span>
+            </oc-row-v2>
+        </li>
+        <li data-qa="mya_flyout_navigation_item_customerinbox"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Nachrichten"
+                data-track-destination="CustomerInbox_Overview"
+                base64-href="L215YWNjb3VudC9pbmJveD9lbnRyeVBvaW50PWxvZ2luQXJlYQ=="
+                icon-left="chat"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Nachrichten</span>
+            </oc-row-v2>
+        </li>
+        <li data-qa="mya_flyout_navigation_item_settings"
+            class="mya_flyout-navigation-item">
+            <oc-row-v2
+                oc-aria-label="Persönliche Daten und Einstellungen am Kundenkonto einsehen und ändern"
+                data-track-destination="MyProfile"
+                base64-href="L215YWNjb3VudC9wcm9maWxlP2VudHJ5UG9pbnQ9bG9naW5BcmVh"
+                icon-left="settings"
+                class="mya_flyout-navigation-link mya_js_flyout-navigation-item">
+                <span class="oc-copy-100 oc-copy--bold">Profil</span>
+            </oc-row-v2>
+        </li>
+    </ul>
+</nav>
+
+    </div>
+    <div class="fti-fly-divider oc-background-color-frame"></div>
+    <div class="fti-fly-popover-actions oc-px-100 oc-py-150 oc-gap-50 fti-fly-js-actions">
+        <oc-button-v1 base64-href="L2N1c3RvbWVyLWlkZW50aXR5L2xvZ2luP2VudHJ5UG9pbnQ9bG9naW5BcmVh" variant="primary" data-qa="fti-fly-login-button">Anmelden
+        </oc-button-v1>
+        <oc-button-v1 base64-href="L2N1c3RvbWVyLWlkZW50aXR5L3N0YXJ0UmVnaXN0cmF0aW9uP2VudHJ5UG9pbnQ9bG9naW5BcmVh" variant="tertiary" data-qa="fti-fly-registration-button">Neu bei OTTO? Jetzt registrieren
+        </oc-button-v1>
+    </div>
+</oc-popover-v1>
+
+
+
+            </li>
+            <li>
+                <script type="module" crossorigin src="/wishlist-view/statics/ft1.wishlist-view.miniWishlist.module.CVf5m-Xd.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/wishlist-view/statics/ft1.wishlist-view.vendor.module.BRmB5ixI.js" fetchpriority="low">
+<style>.wl_mini-wishlist{text-align:center;min-width:1.5rem;max-width:100%;display:inline-block}.wl_mini-wishlist__overlay{width:100%;font-size:0;line-height:1}.wl_mini-wishlist__icon-container{display:inline-block;position:relative}.wl_mini-wishlist__icon{color:var(--oc-semantic-color-text-secondary,#6d6d6d);vertical-align:middle}.wl_mini-wishlist__badge{position:absolute;bottom:0;left:calc(100% - .5rem)}.wl_mini-wishlist__badge--empty{display:none}.wl_mini-wishlist__label{color:var(--oc-semantic-color-text-secondary,#6d6d6d);text-overflow:ellipsis;white-space:nowrap;overflow:hidden}</style>
+
+
+
+
+<span style="display: none" class="wl_toggleInfo"
+      data-toggles-active="FT1_TQD_AMOUNT_LAMBDA FT1_34606_FIREBASE_AND_ADJUST_TRACKING_VIA_NEXUS FT1_27306_HIDE_POWERPLUGPICTOGRAM FT1_33473_FRONTEND_DISCOUNTS FT1_32815_DELIVERY_STATEMENT_WITH_DATE">
+</span>
+
+<oc-tooltip-v1 position="bottom" class="wl_js_mini_tooltip wl_mini-wishlist">
+    <oc-interactive-overlay-v1 class="wl_js_mini_overlay wl_mini-wishlist__overlay" oc-aria-label="Merkzettel"
+                               border-radius="2px">
+        <a href="/wishlist-view/" data-qa="wl_miniWishlist">
+            <div class="wl_mini-wishlist__icon-container" aria-hidden="true">
+                <oc-icon-v1 class="wl_mini-wishlist__icon" type="wishlist" size="100"></oc-icon-v1>
+                <oc-badge-v1 class="wl_js_mini_amount wl_mini-wishlist__badge wl_mini-wishlist__badge--empty"
+                             data-amount-url="/wishlist-view-amount-json/"
+                             variant="secondary" size="100" data-qa="miniWishlistAmount">
+                </oc-badge-v1>
+            </div>
+            <div class="wl_js_mini_label wl_mini-wishlist__label oc-copy-50 oc-copy-75--l" aria-hidden="true">
+                Merkzettel
+            </div>
+        </a>
+    </oc-interactive-overlay-v1>
+    <div slot="tooltip-content">Merkzettel</div>
+</oc-tooltip-v1>
+
+            </li>
+            <li>
+                
+<script type="module" crossorigin src="/order/statics/ft1.order-core.common-public.module.Cq66QZkT.js"></script>
+<link rel="modulepreload" crossorigin href="/order/statics/ft1.order-core.common.module.BEC4xuj3.js">
+<link rel="modulepreload" crossorigin href="/order/statics/ft1.order-core.SettingsService.module.AU9Xl3br.js">
+<link rel="modulepreload" crossorigin href="/order/statics/ft1.order-core.index-client.module._Myie8yd.js">
+
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.thirdparty-tracking.module.C_6CxigN.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.DtR3pbBv.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.detectionFunctions.module.BX3W5tiG.js" fetchpriority="low">
+
+<script type="module" crossorigin src="/order/statics/ft1.order-core.minibasket.module.D9LD7p2p.js"></script>
+<link rel="modulepreload" crossorigin href="/order/statics/ft1.order-core.common.module.BEC4xuj3.js">
+<link rel="stylesheet" crossorigin href="/order/statics/ft1.order-core.minibasket.BXV76KuW.css">
+
+
+<oc-tooltip-v1 position="bottom" class="order_js_minibasket_tooltip or_mini-basket">
+    <oc-interactive-overlay-v1 class="order_js_minibasket_overlay or_mini-basket__overlay"
+                               base64-href="L29yZGVyL2Jhc2tldA==" oc-aria-label="Warenkorb"
+                               border-radius="2px">
+        <a class="order_js_minibasket_link ts-link" data-ts-link='{"san_Header":"basket"}' data-qa="or_miniBasket">
+            <div class="or_mini-basket__icon-container" aria-hidden="true">
+                <oc-icon-v1 class="or_mini-basket__icon" type="basket" size="100"></oc-icon-v1>
+                <oc-badge-v1 class="order_js_minibasket_amount or_mini-basket__badge or_mini-basket__badge--empty"
+                             data-loadurl="/order/basket/amount.json"
+                             variant="primary" size="100" data-qa="miniBasketAmount">
+                </oc-badge-v1>
+            </div>
+            <div class="order_js_minibasket_label or_mini-basket__label oc-copy-50 oc-copy-75--l" aria-hidden="true">
+                Warenkorb
+            </div>
+        </a>
+    </oc-interactive-overlay-v1>
+    <div slot="tooltip-content">Warenkorb</div>
+</oc-tooltip-v1>
+
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div><div class="nav_desktop-global-navigation nav_desktop-global-navigation--only-desktop" style="display: none;"><div class="nav_desktop-global-navigation-container" data-skiplink="main-navigation"><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;1&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Inspiration&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;inspiration&quot;]}}]" data-psr="(und.(oder.(ist.thema.thmntag_neuheit).(ist.trend.pride)).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Inspiration&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;1&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;inspiration&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/inspiration/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Inspiration</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;2&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Damen-Mode&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;damen-mode&quot;]}}]" data-psr="(und.(ist.sortiment.accessoires.augenpflege.bademode.bartpflege.bekleidung.erotik.gepaeck.gesichtspflege.haarentfernung.haarpflege.haarstyling.hautpflege.make-up.manikuere-pedikuere.parfums.schmuck.schuhe.sonnenpflege.taschen-rucksaecke.waesche.zahnpflege).(ist.zielgruppe.damen).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Damen-Mode&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;2&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;damen-mode&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/damen/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Damen-Mode</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;3&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Herren-Mode&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;herren-mode&quot;]}}]" data-psr="(und.(ist.sortiment.accessoires.augenpflege.bademode.bartpflege.bekleidung.erotik.gepaeck.gesichtspflege.haarentfernung.haarpflege.haarstyling.hautpflege.make-up.manikuere-pedikuere.parfums.schmuck.schuhe.sonnenpflege.taschen-rucksaecke.waesche.zahnpflege).(ist.zielgruppe.herren).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Herren-Mode&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;3&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;herren-mode&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/herren/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Herren-Mode</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;4&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Baby &amp; Kind&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;baby-kind&quot;]}}]" data-psr="(und.(ist.altersgruppe.babys.kinder).(ist.sortiment.accessoires.aufbewahrung.bademode.bekleidung.beleuchtung.dekoration.fahrzeugausruestung.fahrzeuge.gepaeck.haushaltswaren.heimtextilien.moebel.schmuck.schuhe.spielzeug.sportausruestung.taschen-rucksaecke.waesche).(ist.zielgruppe.jungen.maedchen).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Baby &amp; Kind&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;4&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;baby-kind&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/babys/baby-kind/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Baby &amp; Kind</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;5&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Sport&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;sport&quot;]}}]" data-psr="(und.(ist.thema.sport).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Sport&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;5&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;sport&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/sport/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Sport</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;6&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Beauty &amp; Drogerie&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;beauty-drogerie&quot;]}}]" data-psr="(und.(ist.sortiment.erotik.gesichtspflege.gesundheitsprodukte.haarentfernung.haarpflege.haarstyling.hautpflege.make-up.parfums.zahnpflege).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Beauty &amp; Drogerie&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;6&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;beauty-drogerie&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/koerperpflege/drogerie/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Beauty &amp; Drogerie</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;13&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Marken&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;marken&quot;]}}]" data-psr="(und.(ist.sortiment.accessoires.beauty.bekleidung.buerotechnik.moebel.sanitaer.schmuck.taschen-rucksaecke.uhren.unterhaltungselektronik).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Marken&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;13&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;marken&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/marken/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Marken</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;7&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Multimedia&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;multimedia&quot;]}}]" data-psr="(und.(ist.sortiment.buerotechnik.kommunikation.medien.navigation.optik.technik-zubehoer.unterhaltungselektronik).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Multimedia&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;7&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;multimedia&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/technik/multimedia/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Multimedia</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;8&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Haushalt&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;haushalt&quot;]}}]" data-psr="(und.(ansicht.variante).(ist.sortiment.augenpflege.bartpflege.erotik.gesichtspflege.gesundheitsprodukte.haarentfernung.haarstyling.haushaltsgeraete.haushaltswaren.hautpflege.lebensmittel.make-up.manikuere-pedikuere.parfums.pflegemittel.reinigungsgeraete.sonnenpflege.zahnpflege).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Haushalt&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;8&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;haushalt&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/haushalt/?ansicht=einstieg"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Haushalt</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;9&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;K\u00fcche&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;kueche&quot;]}}]" data-psr="(und.(ist.raum.kueche).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;K\u00fcche&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;9&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;kueche&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/moebel/?ansicht=einstieg&amp;thema=kueche"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Küche</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;10&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Heimtextilien&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;heimtextilien&quot;]}}]" data-psr="(und.(ansicht.variante).(oder.(ist.sortiment.heimtextilien).(und.(ist.sortiment.moebel).(sind.kategorien.lattenroste)).(und.(ist.sortiment.waesche).(sind.kategorien.bademaentel))).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Heimtextilien&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;10&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;heimtextilien&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/heimtextilien/?ansicht=einstieg"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Heimtextilien</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;11&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;M\u00f6bel&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;moebel&quot;]}}]" data-psr="(und.(ansicht.variante).(ist.sortiment.aufbewahrung.beleuchtung.dekoration.haushaltswaren.heimtextilien.moebel).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;M\u00f6bel&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;11&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;moebel&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/moebel/?ansicht=einstieg"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Möbel</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;12&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;Baumarkt&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;baumarkt&quot;]}}]" data-psr="(und.(oder.(ist.sortiment.bauelemente.baumaschinen.baumaterialien.bewaesserung.bodenbelaege.eisenwaren.elektroinstallation.fahrzeugausruestung.fahrzeuge.farben-lacke.gartengeraete.gartengestaltung.gebaeude.heizen.insektenschutz.klima.pflanzenpflege.pools.sanitaer.sicherheitstechnik.sonnenschutz.tierbedarf.werkzeug).(und.(ist.sortiment.heimtextilien).(oder.(sind.kategorien.auflagen.gartenliegenauflagen).(sind.kategorien.duschvorhaenge).(sind.kategorien.rollos).(sind.kategorien.tapeten))).(und.(ist.sortiment.reinigungsgeraete).(oder.(sind.kategorien.besen).(sind.kategorien.dampfreiniger).(sind.kategorien.hochdruckreiniger).(sind.kategorien.kehrmaschinen).(sind.kategorien.sauger.dampfsauger).(sind.kategorien.sauger.nass-trockensauger)))).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="secondary"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;Baumarkt&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;12&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;baumarkt&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/baumarkt/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Baumarkt</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029><nav-desktop-top-level-item-ftnav-2029 class="nav_desktop-global-navigation-container__top_level_item" data-nav-track="true" data-nav-tracking-menu-close="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;close&quot;]}}]" data-nav-tracking-menu-navigate-down="[{&quot;method&quot;:&quot;submitEvent&quot;,&quot;dataContainer&quot;:{&quot;nav_MenuAction&quot;:[&quot;down&quot;],&quot;nav_MenuRank&quot;:[&quot;14&quot;],&quot;nav_MenuLevel&quot;:[&quot;1&quot;],&quot;nav_MenuTitle&quot;:[&quot;%Sale%&quot;],&quot;nav_MenuType&quot;:[&quot;curated&quot;],&quot;nav_GlobalNavigation&quot;:[&quot;sale&quot;]}}]" data-psr="(und.(ist.reduziert).(~.(v.1)))"><oc-link-v2 as-button="" class="nav_desktop-global-navigation-container-button-js" size="75" slot="button" variant="sale"><a class="nav_desktop-global-navigation-item-link-ftnav-2029 nav_desktop-global-navigation-item-link-ftnav-2029-js nav_desktop-global-navigation-item-link-ftnav-2029--row-2" data-nav-track="true" data-nav-tracking-visit-menu-link="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;wk.nav_MenuTitle&quot;:[&quot;%Sale%&quot;],&quot;wk.nav_MenuLevel&quot;:[&quot;1&quot;],&quot;wk.nav_MenuRank&quot;:[&quot;14&quot;],&quot;wk.nav_GlobalNavigation&quot;:[&quot;sale&quot;],&quot;san_Navigation&quot;:[&quot;global&quot;],&quot;san_Interaction&quot;:[&quot;global_navigation&quot;],&quot;wk.nav_MenuFeature&quot;:[&quot;list&quot;],&quot;wk.nav_MenuType&quot;:[&quot;curated&quot;]}}]" href="/sale/"><span class="nav_desktop-global-navigation-item-link-ftnav-2029__title nav_desktop-global-navigation-item-text-ftnav-2029-js">Sale</span></a></oc-link-v2></nav-desktop-top-level-item-ftnav-2029></div></div><div id="nav_mobile-menu-wrapper" style="display: none;"><nav-mobile-menu class="nav_mobile-menu" id="nav_menu" style="display: none;"></nav-mobile-menu></div></div><script type="module" crossorigin src="/nav-chekov/static/compiled/nav.chekov.desktop_bundle.module.B_0E1fM2.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/nav-chekov/static/compiled/nav.chekov.shortcutCategories.module.lzi02WIw.js" fetchpriority="low">
+<link rel="stylesheet" crossorigin href="/nav-chekov/static/compiled/nav.chekov.desktop_bundle.COdmWHf_.css">
+
+<script type="module" crossorigin src="/nav-chekov/static/compiled/nav.chekov.mobile_bundle.module.C-KIEFTo.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/nav-chekov/static/compiled/nav.chekov.shortcutCategories.module.lzi02WIw.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/nav-chekov/static/compiled/nav.chekov.mobileElements.module.CPfwAWgs.js" fetchpriority="low">
+<link rel="stylesheet" crossorigin href="/nav-chekov/static/compiled/nav.chekov.mobile_bundle.C6KDx6sF.css">
+
+
+
+</header>
+<div id="reptile-turtle-experiments"
+data-E3763="StatusQuo"
+></div>
+<div id="reptile-turtle-toggles"
+data-EMERGENCY_DISABLE_SIDEBAR_AD="false"
+data-EMERGENCY_DISABLE_FILTERS="false"
+data-EMERGENCY_DISABLE_MPATHY_EMBEDDED_SURVEY="false"
+data-EMERGENCY_DISABLE_WISHLIST_API="false"
+data-EMERGENCY_DISABLE_SEO_LINKS="false"
+data-EMERGENCY_DISABLE_SEO_TEXTS="false"
+data-EMERGENCY_DISABLE_SPONSORED_ON_THEME_SITES="false"
+data-ENABLE_FEATURE_FUAG_COMPONENT_ON_TILE="false"
+data-REPTILE_1626_ENABLE_SCP_BOB_HEADER="true"
+data-REPTILE_1288_ARRANGEMENT_EXPERIMENT="false"
+data-REPTILE_1288_ARRANGEMENT="false"
+data-REPTILE_1303_NAVIGATION_HISTORY="false"
+></div>
+<div class="js_tracking" data-track="true" style="display: none"></div>
+
+<div class="reptile_contentHeader">
+<div id="reptile-breadcrumb"
+class="reptile_contentHeader__breadcrumb reptile_contentHeader__breadcrumb--withQueryParam"
+data-rule="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))">
+<div class="pl_grid-content"><div class="nav_grimm-breadcrumb-container nav_grimm-breadcrumbs_js pl_grid-container" data-nav-testing="breadcrumb-container" data-nav-track="true" data-nav-tracking-view-breadcrumbs="[{&quot;method&quot;:&quot;submitMerge&quot;,&quot;dataContainer&quot;:{&quot;nav_Breadcrumb&quot;:[&quot;Neckermann&quot;]}}]" style="height:76px;visibility:hidden;"><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.otto.de\/","name":"Startseite"}}]}</script><div class="nav_grimm-breadcrumb-container__breadcrumb pl_grid-col-12 "><ul class="nav_grimm-breadcrumb"><li class="nav_grimm-breadcrumb__list-item nav_grimm-breadcrumb__always-visible-list-item" data-nav-testing="breadcrumb-path-element"><a class="nav_grimm-breadcrumb__link ts-link" data-nav-testing="breadcrumb-path-element-link" data-ts-link="{&quot;san_Interaction&quot;:&quot;breadcrumb&quot;, &quot;san_Navigation&quot;:&quot;Breadcrumb&quot;, &quot;wk.nav_BreadcrumbType&quot;: &quot;breadcrumb&quot;}" href="/">Startseite</a></li> </ul></div><div class="nav_grimm-breadcrumb-container__title pl_grid-col-12 pl_grid-offset-lg-4 pl_grid-col-lg-8"><div class="nav_grimm-breadcrumb-headline"><div class="nav_grimm-breadcrumb-headline__icon"><nav-refer-back class="nav_grimm-refer-back" data-nav-testing="breadcrumb-headline-refer-back" data-nav-track="true" data-nav-tracking-click-back-button="[{&quot;method&quot;:&quot;trackOnNextPageImpression&quot;,&quot;dataContainer&quot;:{&quot;san_Navigation&quot;:&quot;breadcrumb_back&quot;,&quot;san_Interaction&quot;:&quot;breadcrumb&quot;,&quot;wk.nav_BreadcrumbType&quot;:&quot;breadcrumb_back&quot;}}]" id="nav_breadcrumb-headline-refer-back" style="display:none;"><span class="p_icons"></span></nav-refer-back></div><div class="nav_grimm-breadcrumb-headline__text-group"><h1 class="nav_grimm-breadcrumb-headline__title" data-nav-testing="breadcrumb-headline"> Neckermann</h1></div></div></div></div></div><script type="module" crossorigin src="/nav-grimm/static/compiled/nav.grimm.patternsson.module.C7zft0bl.js" fetchpriority="low"></script>
+<script type="module" crossorigin src="/nav-grimm/static/compiled/nav.grimm.main.module.IgU5EsVZ.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/nav-grimm/static/compiled/nav.grimm.main.juYP87B7.css">
+
+
+</div>
+<div id="reptile-top-paging-placeholder" class="reptile_contentHeader__paging"></div>
+<div class="reptile_contentHeader__sponsoredHint">
+
+</div>
+</div>
+<aside class="reptile_sidebar reptile_sidebar--contentSite">
+<div id="reptile-local-navigation"
+class="reptile_sidebar__localNavigation"
+data-rule="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))">
+<div><div class="nav_only-s-m" style="visibility: hidden;"></div></div>
+</div>
+<div class="reptile_sidebar__filterSection"
+data-rule="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))"
+></div>
+<div id="mpathy_embedded_survey_desktop"></div>
+<div id="reptile-sidebar-text" class="reptile_sidebar__text" data-rule="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))">
+
+</div>
+</aside>
+<main id="reptile-content" class="reptile_content" data-qa="reptile-content-area">
+<div>
+
+    <style>
+        :root {
+            --promo-aggregation-brandhub-background: ;
+        }
+
+        [data-module-type]:has(> .promo_shipmentinfo--container) + [data-module-type] > .promo_reminder--container {
+            padding-top: 0;
+            margin-top: -8px
+        }
+    </style>
+
+    <div id="promo-aggregation"
+         class="promo-module-container disabled-by-promo-aggregation promo-topic-page"
+         data-togglz="{&quot;_TEST_FRONTEND_TOGGLE&quot;:false}"
+         data-dreson="(und.(ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc).(~.(v.1)))"
+         data-ssid="2e860584a51f1396fc43fb85e890227412261845362"
+         data-prefetchcount="4">
+        
+            
+            <div
+                    class="promo-module-prefetched promo-module-foreground"
+                    data-module-type="UGY2OUkwNzBDNzM5VDQwZVU0NDlSZmJmRTBkZQ=="
+                    id="promo-module-ybbu" data-feature-order="1" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;ybbu&quot;]}">
+                
+                
+                    <div class="promo_staticcontent--picture" data-promo-type="Picture" data-feature-index="0">
+ <div aria-hidden="true">
+  <div>
+   <picture> <source srcset="https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=890&amp;maxW=890&amp;sm=c&amp;fmt=auto 1x, https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=900&amp;maxW=1800&amp;sm=c&amp;fmt=auto 2x" media="(min-width: 62em)"> <source srcset="https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=708&amp;maxW=708&amp;sm=c&amp;fmt=auto 1x, https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=900&amp;maxW=1800&amp;sm=c&amp;fmt=auto 2x" media="(min-width: 48em)"> <source srcset="https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=735&amp;maxW=735&amp;sm=c&amp;fmt=auto 1x, https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=640&amp;maxW=1000&amp;sm=c&amp;fmt=auto 2x" media="(min-width: 28em)"> <source srcset="https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=416&amp;maxW=416&amp;sm=c&amp;fmt=auto 1x, https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=640&amp;maxW=1000&amp;sm=c&amp;fmt=auto 2x"> <img class="promo_staticcontent--picture_img" src="https://i.otto.de/i/otto/001_2021_38_moeb_mak_redirect_neckermann_imagebanner_184106?maxH=900&amp;maxW=1800&amp;sm=c&amp;fmt=auto" style="visibility: hidden;"> </picture>
+  </div>
+ </div>
+</div>
+<script type="module" crossorigin src="/promo-staticcontent/assets/ft3.promo.staticcontent.module.6EgIh7sc.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-staticcontent/assets/ft3.promo.staticcontent.CmDmNNd-.css">
+                
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-prefetched promo-module-foreground"
+                    data-module-type="VGZmY0UxMzlYNzAzVDljNA=="
+                    id="promo-module-z5D2" data-feature-order="2" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;z5D2&quot;]}">
+                
+                
+                    <div class="oc-py-50 oc-px-100 oc-copy-100 promo_staticcontent--text promo_staticcontent--text-with-background">
+ <p>Bisher hast du auf dieser Website das Angebot von neckermann gefunden – da der Shop von neckermann allerdings eingestellt wurde, ist diese Seite nicht mehr aktiv.</p>
+ <p></p>
+ <p>Das gesamte neckermann-Sortiment und noch viel mehr Auswahl findest du weiterhin auf otto.de.</p>
+ <p></p>
+ <p>neckermann war ein Shop von OTTO, deshalb funktioniert dein ehemaliges neckermann-Kundenkonto auch ganz einfach bei OTTO. Du findest dort auch deine bisherigen neckermann-Bestellungen. Melde dich einfach mit deinen neckermann-Zugangsdaten an:</p>
+ <p></p>
+</div>
+<script type="module" crossorigin src="/promo-staticcontent/assets/ft3.promo.staticcontent.module.6EgIh7sc.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-staticcontent/assets/ft3.promo.staticcontent.CmDmNNd-.css">
+                
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-prefetched promo-module-foreground"
+                    data-module-type="TDA3ZklmYThOODY0S2E3OA=="
+                    id="promo-module-ve4e" data-feature-order="3" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;ve4e&quot;]}">
+                
+                
+                    <div class="promo_staticcontent--trackable-widget promo_staticcontent--link" data-promo-type="Textlink" data-feature-index="0">
+ <oc-link-v2> <a class="oc-p-50" onclick="o_promo_staticcontent.trackClick(this)" href="https://www.otto.de/user/login"> Zu deinem OTTO-Kundenkonto </a> </oc-link-v2>
+</div>
+<script type="module" crossorigin src="/promo-staticcontent/assets/ft3.promo.staticcontent.module.6EgIh7sc.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-staticcontent/assets/ft3.promo.staticcontent.CmDmNNd-.css">
+<script>
+    otto.ft3.promo.staticcontent.link.init()
+</script>
+                
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-prefetched promo-module-foreground"
+                    data-module-type="VDk0NUVkZTdYODIxVDQ1OA=="
+                    id="promo-module-zmaL" data-feature-order="4" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;zmaL&quot;]}">
+                
+                
+                    <div class="oc-py-50 oc-px-100 oc-copy-100 promo_staticcontent--text promo_staticcontent--text-with-background">
+ <p>Um deine Garantieansprüche und Fragen kümmert sich der OTTO-Kundenservice gerne.</p>
+</div>
+<script type="module" crossorigin src="/promo-staticcontent/assets/ft3.promo.staticcontent.module.6EgIh7sc.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-staticcontent/assets/ft3.promo.staticcontent.CmDmNNd-.css">
+                
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-prefetched promo-module-foreground"
+                    data-module-type="TGZjZUk4NWFOM2YwSzdjYg=="
+                    id="promo-module-zi80" data-feature-order="5" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;zi80&quot;]}">
+                
+                
+                    <div class="promo_staticcontent--trackable-widget promo_staticcontent--link" data-promo-type="Textlink" data-feature-index="1">
+ <oc-link-v2> <a class="oc-p-50" onclick="o_promo_staticcontent.trackClick(this)" href="https://www.otto.de/kontakt/"> Alle Kontakt-Möglichkeiten findest du hier </a> </oc-link-v2>
+</div>
+<script type="module" crossorigin src="/promo-staticcontent/assets/ft3.promo.staticcontent.module.6EgIh7sc.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-staticcontent/assets/ft3.promo.staticcontent.CmDmNNd-.css">
+<script>
+    otto.ft3.promo.staticcontent.link.init()
+</script>
+                
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-async promo-module-foreground"
+                    data-module-type="Uzg5N0g5ZTZPZWE0UDAyOVA0MzFSNTgzTzdkOE04ZDRPZjQ1XzZiZUw4OTdBOWU2UmVhNEcwMjlFNDMx"
+                    id="promo-module--zz1" data-feature-order="6" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;-zz1&quot;]}">
+                
+                
+                
+                    <div class="promo-module-hidden" data-module-url="/promo-shoppromo/shoppromo/large?dreson=%28und.%28ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc%29.%28~.%28v.1%29%29%29&amp;view=topicPage"></div>
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-async promo-module-foreground"
+                    data-module-type="U2ExOUhlNzNPZGMyUDhhY1A0NGFSNWI5TzU0ME1mYTFPZWE5X2RhZlNhMTlNZTczQWRjMkw4YWNMNDRh"
+                    id="promo-module-C1Zy" data-feature-order="7" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;C1Zy&quot;]}">
+                
+                
+                
+                    <div class="promo-module-hidden" data-module-url="/promo-shoppromo/shoppromo/small?dreson=%28und.%28ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc%29.%28~.%28v.1%29%29%29&amp;view=topicPage"></div>
+                
+            </div>
+            
+            
+        
+        
+            
+            <div
+                    class="promo-module-async promo-module-foreground"
+                    data-module-type="VDI3Nk8xMzdQMmQ1STVmM0M0OWNQZjhjUmY2Mk8wMmFNMTUwT2ZjYQ=="
+                    id="promo-module-B6X3" data-feature-order="8" data-feature-tracking-labels="{&quot;promo_WidgetHash&quot;:[&quot;B6X3&quot;]}">
+                
+                
+                
+                    <div class="promo-module-hidden" data-module-url="/promo-topicpromo/topicpromo?dreson=%28und.%28ref.topics.5cf2d3b2-0dc5-4b71-bcfd-f4c3a286e4cc%29.%28~.%28v.1%29%29%29&amp;view=topicPage"></div>
+                
+            </div>
+            
+            
+        
+
+    </div>
+    <div><script type="module" crossorigin src="/promo-aggregation/assets/ft3.promo.aggregation.aggregation.module.DDIR0qgW.js" fetchpriority="low"></script>
+<link rel="stylesheet" crossorigin href="/promo-aggregation/assets/ft3.promo.aggregation.aggregation.B0Ew4i0s.css">
+</div>
+</div>
+
+<script>
+    otto.ft3.promo.aggregation.init()
+</script>
+
+
+
+</main>
+<footer class="reptile_footer" style="display: none">
+<script type="module" crossorigin src="/footer/reptile.footer.init.module.DETJaLPP.js" fetchpriority="low"></script>
+<style>.reptile_footerContainer{visibility:visible!important}.reptile_footerContainer .reptile_breakpoint_large{display:none}@media (min-width:48rem){.reptile_footerContainer .reptile_breakpoint_large{display:grid}.reptile_footerContainer .reptile_breakpoint_small{display:none}}.reptile_footerContainer--fixedWidth{width:100%;max-width:600px;margin:0 auto}.reptile_footerContainer li{display:inline-block}.reptile_footerContainer .reptile_usp{align-items:center;display:flex}.reptile_withdrawalLink--hidden{display:none}.reptile_footerNormal{color:var(--oc-semantic-color-text-secondary,#6d6d6d);padding-bottom:40px;visibility:visible!important}.reptile_footerNormal .reptile_color_black100{color:var(--oc-base-color-black-100,#212121)}.reptile_footerNormal li{color:var(--oc-semantic-color-text-secondary,#6d6d6d);display:inline-block}.reptile_footerNormal li a{color:var(--oc-semantic-color-text-secondary,#6d6d6d);text-decoration:none}.reptile_footerNormal .pl_link100--secondary{color:var(--oc-semantic-color-text-secondary,#6d6d6d)}.reptile_footerNormal .reptile_usps_container{justify-content:space-evenly;display:flex}.reptile_footerNormal .reptile_usps_container>div>div{align-items:center;height:100%;display:flex}.reptile_footerNormal .reptile_breakpoint_large{display:none}@media (min-width:48rem){.reptile_footerNormal .reptile_breakpoint_large{display:block}}.reptile_footerNormal .reptile_breakpoint_small{display:block}@media (min-width:48rem){.reptile_footerNormal .reptile_breakpoint_small{display:none}}.reptile_footerSmall{padding-bottom:40px;visibility:visible!important}.reptile_footerSmall li{display:inline-block}.reptile_footerSmall li a{text-decoration:none}.reptile_footerSmall .pl_link100--secondary{color:var(--oc-semantic-color-text-secondary,#6d6d6d)}.reptile_footerSmall .reptile_usps_container{justify-content:space-evenly;display:flex}.reptile_footerSmall .reptile_usps_container>div>div{align-items:center;height:100%;display:flex}.reptile_footerTiny{text-align:center;max-width:600px;margin:0 auto;padding-bottom:40px;visibility:visible!important}.reptile_footerTiny{text-align:center;max-width:600px;padding-bottom:40px;padding-left:var(--oc-semantic-spacing-100,16px);padding-right:var(--oc-semantic-spacing-100,16px);margin:0 auto;visibility:visible!important}.reptile_footerTiny li{display:inline-block}.reptile_footerTiny li a{text-decoration:none}.reptile_footerTiny .pl_link100--secondary,.reptile_footerTiny .pl_link75--secondary{color:var(--oc-semantic-color-text-secondary,#6d6d6d)}</style>
+
+
+
+<div class="reptile_footerContainer oc-grid oc-grid--page oc-pb-200" style="visibility:hidden;">
+    <div class="oc-grid__col--12 oc-background-color-canvas">
+        <div><div class="ts-bct" data-ts_sfid="2e860584a51f1396fc43fb85e890227412261845362"></div>
+<oc-sheet-v1 id="newsletter-subscribe-footer-sheet" headline="Die Bestätigungs E-Mail wurde verschickt" headline-level="1">
+    <div class="newsletter-subscribe-sheet_box-icon">
+        <oc-icon-v1 type="email-verification-sent-safe" class="newsletter-subscribe-sheet_icon"></oc-icon-v1>
+    </div>
+    <h1 class="oc-headline-50 oc-mb-50">E-Mail-Adresse bestätigen & fertig!</h1>
+    <ul class="oc-list--unordered oc-mb-150 oc-ml-100 newsletter-subscribe-sheet_list">
+        <li class="oc-mb-50 oc-copy-100" >
+            Bitte öffne die E-Mail in deinem E-Mail-Postfach
+        </li>
+        <li class="oc-mb-50 oc-copy-100">
+            Klicke auf „Anmeldung bestätigen“
+        </li>
+    </ul>
+    <h1 class="oc-headline-50 oc-mb-50">Keine E-Mail erhalten?</h1>
+    <ul class="oc-list--unordered oc-mb-150 oc-ml-100 newsletter-subscribe-sheet_list">
+        <li class="oc-mb-50 oc-copy-100">
+            Überprüfe deinen Ordner für „Unerwünschte Werbung“ oder Spam
+        </li>
+        <li class="oc-mb-50 oc-copy-100">
+            Füge diese Absender-Adresse zu deinem Adressbuch hinzu:
+            „newsletter@mail.otto.de“
+        </li>
+        <li class="oc-mb-50 oc-copy-100">
+            Nutze jederzeit gerne unseren
+            <oc-link-v2 variant="primary">
+                <a href="https://www.otto.de/contact-callback/callback#step1">kostenlosen Rückruf-Service</a>
+            </oc-link-v2>. Wir helfen dir gerne weiter.
+        </li>
+    </ul>
+    <oc-button-v1 type="button" variant="secondary" size="100" id="newsletter-subscribe-footer-sheet-close-button"><span>Schließen</span></oc-button-v1>
+</oc-sheet-v1>
+<div class="oc-py-150 oc-px-100">
+    <div class="newsletter-subscribe-footer-form-container">
+        <div>
+            <h2 class="oc-headline-100 oc-mb-75" id="newsletter-footer-headline">
+                Newsletter anmelden & Vorteile sichern
+            </h2>
+            <oc-banner-v1
+                    variant="success"
+                    hide-close-button=""
+                    class="oc-mb-100"
+                    id="valid-form-banner"
+                    style="display: none"
+                    hide-icon=""
+            >
+                <span
+                ><strong> Bestätigung:</strong> Für die Anmeldung zum OTTO-Newsletter
+                  erhältst du im Anschluss eine E-Mail mit einem Bestätigungs-Link. Mit
+                  dem Anklicken des Links wird deine Anmeldung aktiviert.</span
+                >
+            </oc-banner-v1>
+            <oc-banner-v1
+                    variant="error"
+                    hide-close-button=""
+                    class="oc-mb-150 newsletter-subscribe-footer-error-banner"
+                    id="invalid-form-banner"
+                    style="display: none"
+                    hide-icon=""
+            >
+                <span>Achtung: Du hast eine ungültige E-Mail-Adresse eingegeben.</span>
+            </oc-banner-v1>
+        </div>
+    </div>
+
+    <div id="newsletter-subscribe-footer-error" style="display: none">
+        <oc-banner-v1
+                class="oc-mb-100"
+                variant="error"
+                hide-close-button=""
+                hide-icon=""
+        >
+      <span
+      >Das hat leider nicht funktioniert. Bitte versuche es später
+        erneut</span
+      >
+        </oc-banner-v1>
+    </div>
+    <div class="newsletter-subscribe-footer-form-container">
+        <form
+                id="newsletter-subscribe-footer-form"
+                class="newsletter-subscribe-footer-form"
+        >
+            <oc-text-field-v1
+                    id="newsletter-subscribe-footer-email-input"
+                    class="newsletter-subscribe-footer-input oc-mt-50 oc-mb-100"
+                    hide-counter=""
+                    placeholder="E-Mail-Adresse"
+                    type="email"
+                    value=""
+                    maxlength="80"
+                    required="true"
+            >E-Mail-Adresse
+            </oc-text-field-v1>
+            <oc-button-v1
+                    type="submit"
+                    variant="secondary"
+                    class="oc-mt-50 oc-mb-100"
+                    id="newsletter-subscribe-footer-submit-button"
+            >
+                <span>Anmelden</span>
+            </oc-button-v1>
+            <span
+                    class="oc-copy-75 newsletter-subscribe-footer-text"
+                    id="newsletter-subscribe-footer-text"
+                    style="display: none"
+            >
+                Ich möchte den Newsletter der Plattform otto.de, betrieben von der Otto GmbH & Co. KGaA,
+                erhalten und über Angebote, Trends und Aktionen des  Verkäufers OTTO und/oder anderer Verkäufer auf otto.de, per E-Mail informiert werden.
+                Diese Einwilligung kann jederzeit mit Wirkung für die Zukunft unter www.otto.de/abmelden oder am Ende jedes E-Mail-Newsletters widerrufen werden.
+            </span>
+        </form>
+    </div>
+</div></div>
+<div><script type="module" crossorigin src="/newsletter/anmelden/footer/ipanema.permissionservice.newsletter_subscribe_footer_imports.module.2bK9Di1N.js" fetchpriority="low"></script>
+<style>.newsletter-subscribe-footer-form-container{grid-template-columns:1fr 1fr;display:grid}.newsletter-subscribe-footer-form{grid-template-columns:1fr 120px;grid-template-areas:"newsletter-subscribe-footer-input newsletter-subscribe-footer-button""newsletter-subscribe-footer-text newsletter-subscribe-footer-text";align-content:center;gap:0 16px;display:grid}.newsletter-subscribe-footer-button{width:100%}.newsletter-subscribe-footer-input{grid-area:newsletter-subscribe-footer-input;width:100%}.newsletter-subscribe-footer-button{grid-area:newsletter-subscribe-footer-button}.newsletter-subscribe-footer-text{color:var(--oc-semantic-color-text-secondary,#6d6d6d);grid-area:newsletter-subscribe-footer-text;display:none}#newsletter-footer-headline{color:var(--oc-semantic-color-text-default,#212121)}@media only screen and (max-width:768px){.newsletter-subscribe-footer-form-container{grid-template-columns:1fr;display:grid}.newsletter-subscribe-footer-form{grid-template-columns:1fr;grid-template-areas:"newsletter-subscribe-footer-input""newsletter-subscribe-footer-text""newsletter-subscribe-footer-button";gap:0}}.newsletter-subscribe-sheet_icon{width:80px;height:80px}.newsletter-subscribe-sheet_box-icon{justify-content:center;align-items:center;display:flex}.newsletter-subscribe-sheet_list li{color:var(--oc-semantic-color-text-default,#212121);display:list-item}.newsletter-subscribe-sheet_list li oc-link-v2[variant=primary] a{color:var(--oc-semantic-color-text-interactive,#2366cb);text-decoration:underline}</style>
+</div>
+
+    </div>
+    <div class="oc-grid oc-gap-100 oc-grid__col--12 oc-background-color-canvas oc-py-150 oc-px-100">
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="person" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L215YWNjb3VudC9kYXNoYm9hcmQ/ZW50cnlQb2ludD1mb290ZXI=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_MeinKonto&quot;}">Mein Konto
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="voucher" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L3Nob3BwYWdlcy9ndXRzY2hlaW4=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Geschenkgutscheine&quot;}">Geschenkgutscheine
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="critique" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L2NvbnRhY3QtZmVlZGJhY2svZmVlZGJhY2s=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_LobUndKritikBig&quot;}">Lob &amp; Kritik
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="service-info" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L3NlcnZpY2Uv" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Service&quot;}">Service
+        </oc-link-v2>
+    </div>
+    <div class="reptile_breakpoint_small oc-grid oc-grid__col--12 oc-gap-150 oc-background-color-canvas oc-py-150 oc-px-100">
+        <div class="oc-grid oc-gap-100 oc-grid__col--12">
+            <h3 class="oc-headline-100 oc-grid__col--12">Wir sind gerne f&#xfc;r dich da.</h3>
+            <p class="oc-copy-100 oc-grid__col--12 oc-m-0">24 Stunden am Tag. 365 Tage im Jahr.</p>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary" base64-href="L2NvbnRhY3QtY29udGFjdC9zdXBwb3J0" icon-type-left="sms-info" data-tr-v1 data-tr-v1-tr-link-move="{&quot;contact_Activity&quot;: &quot;click&quot;, &quot;contact_Source&quot;: &quot;footer&quot;, &quot;contact_Channel&quot;: &quot;contactflow&quot;}">Hilfe &amp; Kontakt
+            </oc-button-v1>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary" base64-href="L3NlcnZpY2UtcmVkaXJlY3Qv" icon-type-left="faq" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_buttonfaq&quot;}">OTTO KI-Assistent
+            </oc-button-v1>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary" icon-type-left="megaphone">
+                <a href="mailto:BARRIEREFREI@otto.de">Barriere melden</a>
+            </oc-button-v1>
+            <div class="oc-grid oc-grid__col--12 oc-gap-100 oc-mt-50" style="display: flex; justify-content: center">
+                <oc-interactive-overlay-v2 class="oc-grid__col--l-12">
+                    <a href="https://frj4.adj.st/www.otto.de/extern/?page=%2F&amp;otto_deep_link=https%3A%2F%2Fwww.otto.de&amp;adjust_t=ne03zg_ig5rmn&amp;adjust_deeplink=otto%3A%2F%2Fwww.otto.de%2Fextern%2F%3Fpage%3D%252F&amp;adjust_fallback=https%3A%2F%2Fwww.otto.de%2Fapp&amp;adjust_redirect_macos=https%3A%2F%2Fwww.otto.de%2Fapp" aria-label="Unsere iOs App installieren (Apple App Store)" rel="noopener noreferrer" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_AppStoreApple&quot;}">
+                        <oc-logo-v1 logo="app-store"></oc-logo-v1>
+                    </a>
+                </oc-interactive-overlay-v2>
+                <oc-interactive-overlay-v2>
+                    <a href="https://frj4.adj.st/www.otto.de/extern/?page=%2F&amp;otto_deep_link=https%3A%2F%2Fwww.otto.de&amp;adjust_t=ne03zg_ig5rmn&amp;adjust_deeplink=otto%3A%2F%2Fwww.otto.de%2Fextern%2F%3Fpage%3D%252F&amp;adjust_fallback=https%3A%2F%2Fwww.otto.de%2Fapp&amp;adjust_redirect_macos=https%3A%2F%2Fwww.otto.de%2Fapp" aria-label="Unsere Android App installieren (Android Play Store)" rel="noopener noreferrer" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_AppStoreAndroid&quot;}">
+                        <oc-logo-v1 logo="play-store"></oc-logo-v1>
+                    </a>
+                </oc-interactive-overlay-v2>
+                <oc-interactive-overlay-v2>
+                    <div data-masked-ref="aHR0cHM6Ly9jZXJ0LmVoaS1zaWVnZWwuZGUvd2Vic2hvcC9PVFRPLS0td3d3LW90dG8tZGVfNDAzNDE2Nz9sYW5nPWRldQ==" role="link" tabindex="0" target="_blank" aria-label="Informationen zu unserem EHI-Siegel" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Shop&quot;}">
+                        <oc-logo-v1 logo="ehi"></oc-logo-v1>
+                    </div>
+                </oc-interactive-overlay-v2>
+            </div>
+        </div>
+        <div class="oc-grid oc-gap-100 oc-grid__col--12">
+            <div class="oc-grid__col--12">
+                <oc-accordion-v1 title="Zahlungsarten">
+                    <p class="oc-text-color-secondary">
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNWRhOWJlY2Y2ZjFjMjEzNTFjZGU1NmIx" oc-aria-label="SEPA-Lastschrift" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Sepa&quot;}">
+                            <oc-logo-v1 logo="sepa-horizontal" fill-parent style="height: 16px"></oc-logo-v1></oc-link-v2> *
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTgyZGJlZGMzMjIzZTg1OTMyYTNiMjUy" oc-aria-label="PayPal" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_PayPal&quot;}">
+                            <oc-logo-v1 logo="paypal" fill-parent style="height: 16px"></oc-logo-v1>
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTYwZGJlNGIwMzkyOGFlOGMyNmVm" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Rechnung&quot;}">Rechnung*
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTViOTZlNGIwMzkyOGFlOGMyNmVl" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Ratenzahlung&quot;}">Ratenzahlung**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L29ycy8=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_RatenschutzVersicherung&quot;}">Ratenschutz-Versicherung**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTU1ZjRlNGIwYmQ4ODRjNTgyZjFl" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Zahlpause&quot;}">100 Tage Zahlpause**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTEyMjAxNGJlNGIwNThlZWRlNzMxNTY5" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Kreditkarten&quot;}">Kreditkarte/Debitkarte
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTEyMjA2ZWZlNGIwMzkyOGFlOGMyNmYw" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Vorkasse&quot;}">Vorkasse
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+                <oc-accordion-v1 title="&#xdc;ber uns">
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L25hY2hoYWx0aWdrZWl0Lw==" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Nachhaltigkeit&quot;}">Nachhaltigkeit
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3VudGVybmVobWVuL2Rl" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Unternehmen&quot;}">Unternehmen
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3Nob3BwYWdlcy9jb21wbGlhbmNl" target="_self" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Compliance&quot;}">Compliance
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3VudGVybmVobWVuL2RlL3ByZXNzZQ==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Presse&quot;}">Presse
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L2pvYnM=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Jobs&quot;}">Jobs
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+                <oc-accordion-v1 title="Blogs">
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_UpdatedBlog&quot;}">
+                            <a href="https://www.otto.de/updated/" target="_blank" rel="noopener noreferrer">UPDATED-Blog</a>
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_TechBlog&quot;}">
+                            <a href="https://www.otto.de/jobs/technology/techblog/" target="_blank" rel="noopener noreferrer">Tech-Blog</a>
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+                <oc-accordion-v1 title="Verkaufen bei OTTO">
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly93d3cub3R0by5tYXJrZXQv" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoMarket&quot;}">OTTO Market
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+                <oc-accordion-v1 title="Werben bei OTTO">
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly9hZHZlcnRpc2luZy5vdHRvLmRlLw==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoAdvertising&quot;}">OTTO Advertising
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+                <oc-accordion-v1 title="OTTO Partner">
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2Uvb3R0b3BheW1lbnRzLw==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoPayments&quot;}">OTTO Payments
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly93d3cub3R0by1wYXJ0bmVycHJvZ3JhbW0uZGU=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Affiliate&quot;}">OTTO Affiliate
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3RoZW1lbi9zaG9wcGluZy1tb3JlLw==" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_ShoppingMore&quot;}">Shopping&amp;more
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3RoZW1lbi92ZXJzaWNoZXJ1bmdlbi8=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoFinanzPlus&quot;}">OTTO FinanzPlus
+                        </oc-link-v2>
+                    </p>
+                </oc-accordion-v1>
+            </div>
+        </div>
+    </div>
+    <div class="reptile_breakpoint_large oc-grid oc-gap-100 oc-grid__col--12 oc-background-color-canvas oc-py-150 oc-px-100">
+        <div class="oc-grid oc-gap-100 oc-grid__col--3">
+            <h3 class="oc-headline-100 oc-grid__col--12">Wir sind gerne f&#xfc;r dich da.</h3>
+            <p class="oc-copy-100 oc-grid__col--12 oc-m-0">24 Stunden am Tag. 365 Tage im Jahr.</p>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary" base64-href="L2NvbnRhY3QtY29udGFjdC9zdXBwb3J0" data-tr-v1 data-tr-v1-tr-link-move="{&quot;contact_Activity&quot;: &quot;click&quot;, &quot;contact_Source&quot;: &quot;footer&quot;, &quot;contact_Channel&quot;: &quot;contactflow&quot;}">Hilfe &amp; Kontakt
+            </oc-button-v1>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary" base64-href="L3NlcnZpY2UtcmVkaXJlY3Qv" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_buttonfaq&quot;}">OTTO KI-Assistent
+            </oc-button-v1>
+            <oc-button-v1 class="oc-grid__col--12" size="100" variant="secondary">
+                <a href="mailto:BARRIEREFREI@otto.de">Barriere melden</a>
+            </oc-button-v1>
+            <div class="oc-grid oc-grid__col--12 oc-gap-100 oc-mt-50">
+                <oc-interactive-overlay-v2 class="oc-grid__col--12">
+                    <a href="https://frj4.adj.st/www.otto.de/extern/?page=%2F&amp;otto_deep_link=https%3A%2F%2Fwww.otto.de&amp;adjust_t=ne03zg_ig5rmn&amp;adjust_deeplink=otto%3A%2F%2Fwww.otto.de%2Fextern%2F%3Fpage%3D%252F&amp;adjust_fallback=https%3A%2F%2Fwww.otto.de%2Fapp&amp;adjust_redirect_macos=https%3A%2F%2Fwww.otto.de%2Fapp" aria-label="Unsere iOs App installieren (Apple App Store)" rel="noopener noreferrer" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_AppStoreApple&quot;}">
+                        <oc-logo-v1 logo="app-store"></oc-logo-v1>
+                    </a>
+                </oc-interactive-overlay-v2>
+                <oc-interactive-overlay-v2 class="oc-grid__col--12">
+                    <a href="https://frj4.adj.st/www.otto.de/extern/?page=%2F&amp;otto_deep_link=https%3A%2F%2Fwww.otto.de&amp;adjust_t=ne03zg_ig5rmn&amp;adjust_deeplink=otto%3A%2F%2Fwww.otto.de%2Fextern%2F%3Fpage%3D%252F&amp;adjust_fallback=https%3A%2F%2Fwww.otto.de%2Fapp&amp;adjust_redirect_macos=https%3A%2F%2Fwww.otto.de%2Fapp" aria-label="Unsere Android App installieren (Android Play Store)" rel="noopener noreferrer" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_AppStoreAndroid&quot;}">
+                        <oc-logo-v1 logo="play-store"></oc-logo-v1>
+                    </a>
+                </oc-interactive-overlay-v2>
+                <oc-interactive-overlay-v2 class="oc-grid__col--12" target="_blank">
+                    <div data-masked-ref="aHR0cHM6Ly9jZXJ0LmVoaS1zaWVnZWwuZGUvd2Vic2hvcC9PVFRPLS0td3d3LW90dG8tZGVfNDAzNDE2Nz9sYW5nPWRldQ==" role="link" tabindex="0" aria-label="Informationen zu unserem EHI-Siegel" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Shop&quot;}">
+                        <oc-logo-v1 logo="ehi"></oc-logo-v1>
+                    </div>
+                </oc-interactive-overlay-v2>
+            </div>
+        </div>
+        <div class="oc-grid oc-gap-100 oc-grid__col--9">
+            <div class="oc-grid__col--4">
+                <div class="oc-mb-100">
+                    <h3 class="oc-headline-100 oc-mb-100">Zahlungsarten</h3>
+                    <p class="oc-text-color-secondary">
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNWRhOWJlY2Y2ZjFjMjEzNTFjZGU1NmIx" oc-aria-label="SEPA-Lastschrift" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Sepa&quot;}">
+                            <oc-logo-v1 logo="sepa-horizontal" fill-parent style="height: 16px"></oc-logo-v1></oc-link-v2> *
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTgyZGJlZGMzMjIzZTg1OTMyYTNiMjUy" oc-aria-label="PayPal" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_PayPal&quot;}">
+                            <oc-logo-v1 logo="paypal" fill-parent style="height: 16px"></oc-logo-v1>
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTYwZGJlNGIwMzkyOGFlOGMyNmVm" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Rechnung&quot;}">Rechnung*
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTViOTZlNGIwMzkyOGFlOGMyNmVl" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Ratenzahlung&quot;}">Ratenzahlung**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L29ycy8=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_RatenschutzVersicherung&quot;}">Ratenschutz-Versicherung**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTU1ZjRlNGIwYmQ4ODRjNTgyZjFl" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Zahlpause&quot;}">100 Tage Zahlpause**
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTEyMjAxNGJlNGIwNThlZWRlNzMxNTY5" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Kreditkarten&quot;}">Kreditkarte/Debitkarte
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTEyMjA2ZWZlNGIwMzkyOGFlOGMyNmYw" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Vorkasse&quot;}">Vorkasse
+                        </oc-link-v2>
+                    </p>
+                </div>
+            </div>
+            <div class="oc-grid__col--4">
+                <div class="oc-mb-200">
+                    <h3 class="oc-headline-100 oc-mb-100">&#xdc;ber uns</h3>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L25hY2hoYWx0aWdrZWl0Lw==" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Nachhaltigkeit&quot;}">Nachhaltigkeit
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3VudGVybmVobWVuL2Rl" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Unternehmen&quot;}">Unternehmen
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3Nob3BwYWdlcy9jb21wbGlhbmNl" target="_self" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Compliance&quot;}">Compliance
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3VudGVybmVobWVuL2RlL3ByZXNzZQ==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Presse&quot;}">Presse
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L2pvYnM=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Jobs&quot;}">Jobs
+                        </oc-link-v2>
+                    </p>
+                </div>
+                <div>
+                    <h3 class="oc-headline-100 oc-mb-100">Blogs</h3>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_UpdatedBlog&quot;}">
+                            <a href="https://www.otto.de/updated/" target="_blank" rel="noopener noreferrer">UPDATED-Blog</a>
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_TechBlog&quot;}">
+                            <a href="https://www.otto.de/jobs/technology/techblog/" target="_blank" rel="noopener noreferrer">Tech-Blog</a>
+                        </oc-link-v2>
+                    </p>
+                </div>
+            </div>
+            <div class="oc-grid__col--4">
+                <div class="oc-mb-200">
+                    <h3 class="oc-headline-100 oc-mb-100">Verkaufen bei OTTO</h3>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly93d3cub3R0by5tYXJrZXQv" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoMarket&quot;}">OTTO Market
+                        </oc-link-v2>
+                    </p>
+                </div>
+                <div class="oc-mb-200">
+                    <h3 class="oc-headline-100 oc-mb-100">Werben bei OTTO</h3>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly9hZHZlcnRpc2luZy5vdHRvLmRlLw==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoAdvertising&quot;}">OTTO Advertising
+                        </oc-link-v2>
+                    </p>
+                </div>
+                <div>
+                    <h3 class="oc-headline-100 oc-mb-100">OTTO Partner</h3>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3NlcnZpY2Uvb3R0b3BheW1lbnRzLw==" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoPayments&quot;}">OTTO Payments
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="aHR0cHM6Ly93d3cub3R0by1wYXJ0bmVycHJvZ3JhbW0uZGU=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Affiliate&quot;}">OTTO Affiliate
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3RoZW1lbi9zaG9wcGluZy1tb3JlLw==" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_ShoppingMore&quot;}">Shopping&amp;more
+                        </oc-link-v2>
+                    </p>
+                    <p>
+                        <oc-link-v2 variant="secondary" inline="false" base64-href="L3RoZW1lbi92ZXJzaWNoZXJ1bmdlbi8=" target="_blank" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoFinanzPlus&quot;}">OTTO FinanzPlus
+                        </oc-link-v2>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="oc-grid oc-gap-100 oc-grid__col--12 oc-background-color-canvas oc-py-150 oc-px-100">
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="check" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTYwZGJlNGIwMzkyOGFlOGMyNmVm" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_SichererKaufAufRechnung&quot;}">
+            Sicherer Kauf auf Rechnung*
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="check" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L3NlcnZpY2UvcnVlY2tzZW5kdW5nLw==" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_30TageRueckgabegarantie&quot;}">
+            Kostenlose R&#xfc;cksendung
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="check" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L3NlcnZpY2UvcGF5bWVudC8jNTExZTViOTZlNGIwMzkyOGFlOGMyNmVl" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_EinfacheRatenzahlung&quot;}">
+            Einfache Ratenzahlung**
+        </oc-link-v2>
+        <oc-link-v2 class="oc-grid__col--12 oc-grid__col--l-3" variant="secondary" icon-left="check" icon-gap="var(--oc-semantic-spacing-relative-50)" base64-href="L29ycy8=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_RatenschutzVersicherungUSP&quot;}">
+            Ratenschutz-Versicherung**
+        </oc-link-v2>
+    </div>
+    <div class="oc-grid oc-gap-100 oc-grid__col--12 oc-background-color-canvas oc-py-150 oc-px-100" style="display: flex; justify-content: center">
+        <oc-interactive-overlay-v2 data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Pinterest&quot;}">
+            <div data-masked-ref="aHR0cHM6Ly9kZS5waW50ZXJlc3QuY29tL290dG9kZS8=" target="_blank" role="link" tabindex="0" aria-label="Otto auf Pinterest">
+                <oc-logo-v1 logo="pinterest"></oc-logo-v1>
+            </div>
+        </oc-interactive-overlay-v2>
+        <oc-interactive-overlay-v2 data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Facebook&quot;}">
+            <div data-masked-ref="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL090dG8=" target="_blank" role="link" tabindex="0" aria-label="Otto auf Facebook">
+                <oc-logo-v1 logo="facebook"></oc-logo-v1>
+            </div>
+        </oc-interactive-overlay-v2>
+        <oc-interactive-overlay-v2 data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_YoutTube&quot;}">
+            <div data-masked-ref="aHR0cDovL3d3dy55b3V0dWJlLmNvbS9vdHRv" target="_blank" role="link" tabindex="0" aria-label="Otto auf Youtube">
+                <oc-logo-v1 logo="youtube"></oc-logo-v1>
+            </div>
+        </oc-interactive-overlay-v2>
+        <oc-interactive-overlay-v2 data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Instagram&quot;}">
+            <div data-masked-ref="aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9vdHRvX2RlLw==" target="_blank" role="link" tabindex="0" aria-label="Otto auf Instagram">
+                <oc-logo-v1 logo="instagram"></oc-logo-v1>
+            </div>
+        </oc-interactive-overlay-v2>
+    </div>
+    <div class="oc-grid oc-gap-100 oc-grid__col--12 oc-py-150 oc-px-100" style="text-align: center">
+        <div class="oc-grid__col--12">
+            <ul>
+                <li>
+                    <oc-link-v2 variant="secondary" class="reptile_js_footerCookieBanner footerCookieBanner" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_CookieBanner&quot;}">
+                        <a href="#" tabindex="0" target="_blank" rel="noopener noreferrer" data-qa="reptile_footer_cookie-banner_link">Cookie-Einstellungen</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_AGB&quot;}">
+                        <a href="/service/agb/" tabindex="0" rel="noopener noreferrer" aria-label="Allgemeine Gesch&#xe4;ftsbedingungen">AGB</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Datenschutz&quot;}">
+                        <a href="/service/datenschutz/" tabindex="0" rel="noopener noreferrer" data-qa="reptile_footer_datenschutz_link">Datenschutz</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary">
+                        <a href="/service/impressum/" tabindex="0" rel="noopener noreferrer" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Impressum&quot;}">Impressum</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_InformationBarrierefreiheit&quot;}">
+                        <a href="/shoppages/information_zur_barrierefreiheit" tabindex="0" rel="noopener noreferrer">Information zur Barrierefreiheit</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_Produktsicherheitsrueckrufe&quot;}">
+                        <a href="/shoppages/produktsicherheitsrueckrufe" tabindex="0" rel="noopener noreferrer">Produktsicherheitsr&#xfc;ckrufe</a>
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" base64-href="L2NvbnRhY3QtZmVlZGJhY2svZmVlZGJhY2s=" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_LobUndKritikBig&quot;}">Lob &amp; Kritik
+                    </oc-link-v2>
+                    <span aria-hidden="true">&#x30fb;</span>
+                </li>
+                <li>
+                    <oc-link-v2 variant="secondary" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_OttoVersprechen&quot;}">
+                        <a href="/service/ottoversprechen/" tabindex="0" rel="noopener noreferrer">OTTO Versprechen</a>
+                    </oc-link-v2>
+                </li>
+            </ul>
+        </div>
+        <div class="oc-grid__col--12 reptile_js_withdrawalLink reptile_withdrawalLink--hidden">
+            <oc-link-v2 variant="secondary">
+                <a href="/right-of-withdrawal/" tabindex="0" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_VertragWiderrufen&quot;}">Vertrag widerrufen</a>
+            </oc-link-v2>
+        </div>
+        <div class="oc-grid__col--12">
+            <p class="oc-copy-100 oc-text-color-secondary oc-mb-0">Preisangaben inkl. Steuer und zzgl.
+                <oc-link-v2 data-oc-sheet-v1-open data-oc-sheet-v1-open.id="versandkosten-sheet" data-tr-v1 data-tr-v1-tr-next-page-impression="{&quot;ot_Origin&quot;: &quot;footer_ServiceUndVersandkosten&quot;}" variant="secondary" inline="false" tabindex="0">Service- und Versandkosten
+                </oc-link-v2>
+            </p>
+            <oc-sheet-v1 id="versandkosten-sheet" url="/shoppages/versandkostenpopup_otto"></oc-sheet-v1>
+        </div>
+        <div class="oc-grid__col--12 oc-px-200">
+            <p class="oc-copy-100 oc-text-color-secondary oc-mb-0">* Bonit&#xe4;t vorausgesetzt, ** Bonit&#xe4;t vorausgesetzt,
+                gegen Aufpreis</p>
+        </div>
+        <div class="oc-grid__col--12 oc-mt-200 oc-mb-75">
+            <oc-logo-v1 logo="slogan"></oc-logo-v1>
+        </div>
+    </div>
+</div>
+
+<script type="module" crossorigin src="/chat/assets/nucleus.cassandra.floating-action-button.module.DisbJ5_h.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/chat/assets/nucleus.cassandra.AuthenticationTokenService.module.DEHwMT8x.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/chat/assets/nucleus.cassandra.can-show-voice-entry.module.BWKlUOEW.js" fetchpriority="low">
+<style>.voice-toggletip.svelte-bf8qsb{--popover-frame-spacing:var(--oc-semantic-spacing-100,16px);--background-color:var(--oc-base-color-purple-70,#f4eeff)}.voice-toggletip-inner.svelte-bf8qsb{align-items:center;gap:var(--oc-semantic-spacing-50,8px);display:flex}.voice-toggletip-content.svelte-bf8qsb{color:var(--oc-base-color-purple-140,#522eb7);font-weight:var(--oc-base-font-weight-bold,700)}.toggletip-anchor.svelte-bf8qsb{height:var(--oc-base-dimension-relative-48,3rem);width:var(--oc-base-dimension-relative-48,3rem);justify-content:center;align-items:center;display:flex;position:relative}.floating-action-button-container.svelte-bf8qsb{z-index:101;justify-content:flex-end;gap:var(--oc-semantic-spacing-100,16px);pointer-events:none;width:100%;max-width:1152px;line-height:0;display:flex;position:fixed;bottom:20px}@media (min-width:77em){.floating-action-button-container.svelte-bf8qsb{width:84%}}.floating-action-button-container.on-list.svelte-bf8qsb{bottom:84px}@media (min-width:48rem){.floating-action-button-container.on-list.svelte-bf8qsb{bottom:20px}}body.extraBottomSpace .floating-action-button-container.on-list.svelte-bf8qsb{bottom:156px}@media (min-width:48rem){body.extraBottomSpace .floating-action-button-container.on-list.svelte-bf8qsb{bottom:92px}}.floating-action-button-container.floating-banner.svelte-bf8qsb{bottom:var(--oc-semantic-spacing-25,4px)}.floating-action-button-container.floating-banner.svelte-bf8qsb .floating-action-button-wrapper:where(.svelte-bf8qsb){padding:var(--oc-semantic-spacing-100,16px) var(--oc-semantic-spacing-50,8px) var(--oc-semantic-spacing-100,16px) var(--oc-semantic-spacing-100,16px);gap:var(--oc-semantic-spacing-100,16px);max-width:305px;margin-right:var(--oc-semantic-spacing-50,8px);filter:var(--oc-semantic-shadow-sticky,drop-shadow(0px 3px 5px #0000004d) drop-shadow(0px 9px 10px #0000001a))}.floating-action-button-wrapper.svelte-bf8qsb{margin-right:var(--oc-semantic-spacing-100,16px);border-radius:var(--oc-semantic-border-radius-100,.5rem);pointer-events:all;--oc-semantic-color-text-default:var(--oc-base-color-white-100,#fff);display:flex}.floating-banner.svelte-bf8qsb .floating-action-button-wrapper:where(.svelte-bf8qsb){background-color:var(--oc-base-color-purple-140,#522eb7)}.floating-banner.on-list.svelte-bf8qsb .floating-action-button-wrapper:where(.svelte-bf8qsb){background-color:var(--oc-base-color-purple-70,#f4eeff)}.floating-action-button-buttons.svelte-bf8qsb{justify-content:space-between;align-items:flex-end;gap:var(--oc-semantic-spacing-50,8px);flex-direction:column;display:flex}.floating-action-button-description.svelte-bf8qsb{text-align:right;color:var(--oc-base-color-white-100,#fff);flex-direction:column;display:flex}.floating-action-button.svelte-bf8qsb{padding:0 var(--oc-semantic-spacing-75,12px);border-radius:var(--oc-semantic-border-radius-100,.5rem);background-color:var(--oc-base-color-purple-140,#522eb7);filter:var(--oc-semantic-shadow-sticky,drop-shadow(0px 3px 5px #0000004d) drop-shadow(0px 9px 10px #0000001a));cursor:pointer;border:none;align-items:center;transition:width .3s;display:flex;position:absolute;right:0}.floating-action-button.within-banner.svelte-bf8qsb{background-color:var(--oc-base-color-white-100,#fff);filter:none}.on-list.svelte-bf8qsb .floating-action-button:where(.svelte-bf8qsb){background-color:var(--oc-base-color-purple-70,#f4eeff)}.floating-action-button.svelte-bf8qsb:active{background-color:var(--oc-component-icon-button-secondary-on-color-background-color-active)}.floating-action-button-icon-wrapper.svelte-bf8qsb{padding:var(--oc-semantic-spacing-75,12px) 0;line-height:0}.expanded-text.svelte-bf8qsb{width:min-content;padding:var(--oc-semantic-spacing-50,8px) 0 var(--oc-semantic-spacing-50,8px) var(--oc-semantic-spacing-50,8px);overflow:hidden}.expanded-text.svelte-bf8qsb span:where(.svelte-bf8qsb){color:var(--oc-base-color-white-100,#fff);font:var(--oc-semantic-font-copy-100,400 .875rem/1.5rem "OTTOSans", Arial, Helvetica, sans-serif);line-height:var(--oc-base-font-line-height-100,1rem);font-weight:var(--oc-base-font-weight-bold,700);white-space:normal;overflow-x:hidden}.on-list.svelte-bf8qsb .expanded-text:where(.svelte-bf8qsb) span:where(.svelte-bf8qsb){color:var(--oc-base-color-purple-140,#522eb7)}</style>
+<div id="cassandra-floating-btn"></div>
+
+
+</footer>
+</div>
+
+    <div
+        class="infoContainer av_anchor"><link
+    rel="stylesheet"
+    href="/sda-hoarding/static/as-odin.sda-hoarding.sda-hoarding.CHShl2BX.css" />
+
+<style>
+    @media (max-width: 1231px) {
+        #sda-render-slot-web_sf_atf_skyscraper {
+            display: none !important;
+        }
+    }
+</style>
+<div id="sda-render-slot-web_sf_atf_skyscraper" class="sda-render-slot sda-render-slot--skyscraper sda-render-slot-web_sf_atf_skyscraper">
+    <div
+        class="sda-render-slot__container">
+        <div
+            class="sda-render-slot__ad-container">
+            
+            
+        </div>
+        <div class="sda-render-slot__dsa-tag-container"></div>
+    </div>
+</div>
+
+
+<script
+    defer
+    onload="window.o_sda.controller.initialize(&#39;{&quot;slotIdentifier&quot;:&quot;web_sf_atf_skyscraper&quot;,&quot;placementPath&quot;:&quot;/neckermann/&quot;,&quot;onexes&quot;:&quot;E100\u003dE100A,E150\u003dE150A,E200\u003dE200A,E300\u003dE300B,E3429\u003dF,E3707\u003dE3707B,E3717\u003dTestGroup,E3718\u003dStatusQuo,E3721\u003dE3721A,E3794\u003dE3794A,E3846\u003dE3846A,E3850\u003dE3850B,E3864\u003dB,E3878\u003dE3878A,E3885\u003dSQ,E3894\u003dE3894B,E3896\u003dE3896B,E3901\u003dStatusQuo,E3906\u003dTestGroup,E3916\u003dE3916A,E3918\u003dE3918B,E555\u003dexclude,E777\u003dE777B&quot;}&#39;, &#39;{&quot;clientEmergencyToggleKey&quot;:&quot;sda_playout_disabled&quot;,&quot;impressionId&quot;:&quot;df8ce0d8-4c07-4fb9-85b6-2a3bde63bbfd&quot;,&quot;minimumWidth&quot;:1232,&quot;lazyLoad&quot;:false}&#39;)"
+    src="/sda-hoarding/static/as-odin.sda-hoarding.sda.module.Cj77CEoQ.js"></script>
+</div>
+
+
+</div>
+
+<script type="module" crossorigin src="/tracking-bct/assets/tracking.bct.bct.module.CO82pq1w.js" fetchpriority="low"></script>
+
+
+<script type="module" crossorigin src="/apps-assets/assets/apps.global.app.module.Cr4pJ1tB.js" fetchpriority="low"></script>
+<style>.app a{-webkit-touch-callout:none}</style>
+
+
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.CsatuvXK.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.DtR3pbBv.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.detectionFunctions.module.BX3W5tiG.js" fetchpriority="low">
+
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.thirdparty-tracking.module.C_6CxigN.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.DtR3pbBv.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.detectionFunctions.module.BX3W5tiG.js" fetchpriority="low">
+ <!-- will be removed once teams switched to the corresponding module -->
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.cookie-banner.module.duOmsfKD.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+ <!-- will be removed once teams switched to the corresponding module -->
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.focusedMetaTags.module.bDSciZqE.js" fetchpriority="low"></script>
+
+
+
+
+<script type="module" crossorigin src="https://static.otto.de/user-cmp/assets/assets/eprivacy.cmp.cmp_stub.module.C8RV8Uxu.js" fetchpriority="low"></script>
+
+
+<script type="module" crossorigin src="https://static.otto.de/user-cmp/assets/assets/eprivacy.cmp.cmp.module.BRF607un.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/user-cmp/assets/assets/eprivacy.cmp.apps.adapter.module.pBPD2p76.js" fetchpriority="low">
+
+
+<script type="module" crossorigin src="https://static.otto.de/user-cookie-banner/assets/eprivacy.cookie-banner.cookieBanner-onetrust.module.Dm54t1S2.js" fetchpriority="low"></script>
+
+
+<script type="module" crossorigin src="https://static.otto.de/exactag-customer-tracking/assets/identity.exactag-customer-tracking.main.module.ajSTVIy4.js" fetchpriority="low"></script>
+<div class="exactag" data-trigger="customerData"></div>
+
+<script type="module" crossorigin src="https://static.otto.de/assets-static/global-pattern/assets/assets.global-pattern.async.module.DBGWHyJr.js" fetchpriority="low"></script>
+
+
+<script type="module" crossorigin src="https://static.otto.de/feature-components/verint/assets/ofc.verint.main.module.CMB5xZqg.js" fetchpriority="low"></script>
+
+
+<script type="module" crossorigin src="https://static.otto.de/benefit-tag/assets/ft9.benefit-tag.benefit_tag_element_script_and_style.module.CTPk8OiC.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/benefit-tag/assets/ft9.benefit-tag.BenefitElement.module.mIHtX8PK.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/benefit-tag/assets/ft9.benefit-tag.index-client.module.BEtK79nm.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/benefit-tag/assets/ft9.benefit-tag.events.module.z7tXYs6X.js" fetchpriority="low">
+<link rel="stylesheet" crossorigin href="/static-proxy/turtle/reptile.turtle.main.DIWtD04o.css">
+
+
+<script type="module" crossorigin src="/static-proxy/turtle/reptile.turtle.body-js.module.CH7fjHPg.js"></script>
+<link rel="modulepreload" crossorigin href="/static-proxy/turtle/reptile.turtle.dom-client.module.Dl8zL94A.js">
+
+<script type="module" crossorigin src="/wishlist-view/statics/ft1.wishlist-view.addToWishlistService.module.7t2ZuygG.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="/wishlist-view/statics/ft1.wishlist-view.vendor.module.BRmB5ixI.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="/wishlist-view/statics/ft1.wishlist-view.shared.module.P_4zyzb8.js" fetchpriority="low">
+
+
+
+
+<span style="display: none" class="wl_toggleInfo"
+      data-toggles-active="FT1_TQD_AMOUNT_LAMBDA FT1_34606_FIREBASE_AND_ADJUST_TRACKING_VIA_NEXUS FT1_27306_HIDE_POWERPLUGPICTOGRAM FT1_33473_FRONTEND_DISCOUNTS FT1_32815_DELIVERY_STATEMENT_WITH_DATE">
+</span>
+
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.haptic-feedback.module.ClyUpJqw.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+
+<script type="module" crossorigin src="https://static.otto.de/apps-assets/assets/apps.apps-assets.thirdparty-tracking.module.C_6CxigN.js" fetchpriority="low"></script>
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.src.module.DMID3zDA.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.appInfo.module.j9S3IehR.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.global.module.DtR3pbBv.js" fetchpriority="low">
+<link rel="modulepreload" crossorigin href="https://static.otto.de/apps-assets/assets/apps.apps-assets.detectionFunctions.module.BX3W5tiG.js" fetchpriority="low">
+
+
+</body>
+</html>

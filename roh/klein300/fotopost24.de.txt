@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin_neu/
+Disallow: /auto/
+Disallow: /lib/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /galerie/
+Disallow: /log/
+Disallow: /xml/
+Disallow: /swfupload/
+Disallow: /slideshow/
+Disallow: /fpdf/
+Disallow: /photoit/
+Disallow: /ci/
+
+User-agent: facebookexternalhit
+Crawl-delay: 10

@@ -1,0 +1,18 @@
+User-agent: *
+# print pages always have parameters
+Disallow: /*.print?
+Disallow: /*play=1
+sitemap: https://www.deutschlandfunk.de/europathemen-100.sitemap
+sitemap: https://www.deutschlandfunk.de/filter-heute-neu-100.sitemap
+sitemap: https://www.deutschlandfunk.de/filter-heute-neu-audios-100.sitemap
+sitemap: https://www.deutschlandfunk.de/filter-nachrichten-vertieft-100.sitemap
+sitemap: https://www.deutschlandfunk.de/gesellschaftsthemen-100.sitemap
+sitemap: https://www.deutschlandfunk.de/kulturthemen-100.sitemap
+sitemap: https://www.deutschlandfunk.de/nachrichten-100.sitemap
+sitemap: https://www.deutschlandfunk.de/nachrichten-110.sitemap
+sitemap: https://www.deutschlandfunk.de/podcast-filter-296.sitemap
+sitemap: https://www.deutschlandfunk.de/politikthemen-100.sitemap
+sitemap: https://www.deutschlandfunk.de/thema-filter-100.sitemap
+sitemap: https://www.deutschlandfunk.de/wirtschaftsthemen-100.sitemap
+sitemap: https://www.deutschlandfunk.de/wissensthemen-100.sitemap
+Crawl-delay: 5

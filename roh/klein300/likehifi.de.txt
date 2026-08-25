@@ -1,0 +1,13 @@
+Sitemap: https://www.likehifi.de/sitemap_index.xml
+Sitemap: https://www.likehifi.de/sitemap-news.xml
+Disallow: /page/*/?geodir_search=
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+
+# ---------------------------
+# END YOAST BLOCK

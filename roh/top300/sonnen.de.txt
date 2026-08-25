@@ -1,0 +1,12 @@
+# robots.txt
+
+User-agent: axios
+Disallow: /
+
+User-agent: Axios
+Disallow: /
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.sonnen.de/sitemap.xml

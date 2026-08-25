@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /agb/
+Disallow: /bestaetigung-anmeldung/
+Disallow: /bestaetigung-abmeldung/
+Disallow: /bildnachweis/
+Disallow: /cookie-info/
+Disallow: /dankeschoen/
+Disallow: /datenschutzerklaerung/
+Disallow: /tag/newsletter/
+Disallow: /wp-admin/
+Disallow: /weiterempfehlung-dankeschoen/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

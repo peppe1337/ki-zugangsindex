@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: *sitemap.xml*cHash*           # Allow cHash for sitemap.xml
+Allow: /immobiliensuche/inserat-detail*tx_mindshaperealestate_realestatedetails*  # Allow inserat-detail with cHash
+Disallow: /typo3/           # Disallow typo3
+Disallow: /*?id=*      	    # Disallow index.php
+Disallow: /*?filter=*      	    # Disallow wohnungshelden filter
+Disallow: *tx_news*         # Disallow tx_news params
+Disallow: /*?eID=*          # Disallow eID
+Disallow: *tx_solr*         # Disallow solr
+Disallow: /api/             # Disallow api
+Disallow: /layout-vorlage/  # Disallow layout-vorlage
+Disallow: /ajax/            # Disallow ajax
+Disallow: /ajax.*           # Disallow ajax routing
+Disallow: *cHash*           # Disallow cHash
+Disallow: /assets-gag-koeln/js/chunks/js.chunks.real-estate-pdf.min.js # Disallow real estate detail pdf javascript
+Sitemap: https://www.gag-koeln.de/sitemap.xml

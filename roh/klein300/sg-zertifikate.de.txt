@@ -1,0 +1,15 @@
+User-agent: googlebot
+Allow: */product-search/all-exchanges/*/all-assettypes/all-assets$
+Disallow: */product-search/*/*/all-assettypes/all-assets$
+Allow: */product-search/*/all-assettypes/all-assets$
+Disallow: */product-search/*
+Disallow: */Calculators-WarrantsCalculator2/*
+Disallow: */webforms/*
+Disallow: */knock-out-produkte-einfach-erklaert$
+Disallow: */discount-zertifikate-einfach-erklaert$
+Disallow: */user/*
+Disallow: */alerts/*
+Disallow: */watchlists/*
+User-agent: *
+Allow: /
+Sitemap: https://www.sg-zertifikate.de/sitemap.xml

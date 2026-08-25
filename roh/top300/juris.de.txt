@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /static/infodienst/autoren/*
+Disallow: /jportal/cms/juris/media/pdf/corona_lex_e_book/
+Disallow: /jportal/cms/juris/media/pdf/corona_lex_inhalt/
+Disallow: /jportal/portal/page/sammlung.psml/bs/10/
+Disallow: /jportal/portal/bs/10/page/sammlung.psml
+Disallow: /jportal/portal/comm/
+Disallow: /jportal/portal/page/bsverkslprod.psml
+Disallow: /jportal/portal/page/bsbawueprod.psml
+Disallow: /jportal/portal/t/
+Disallow: /jportal/r3/
+Sitemap: https://www.juris.de/jportal/cms/juris/media/sitemap.xml

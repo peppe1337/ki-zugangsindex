@@ -1,0 +1,1530 @@
+
+<!doctype html>
+<html class="no-js" lang="de">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta charset="utf-8">
+<script>document.getElementsByTagName("HTML")[0].classList.remove("no-js");</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preload" href="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/fonts/SourceSansPro-Regular.woff2?915d6e216684dfea10f6ffe95c2a525d" as="font" crossOrigin="anonymous"> <link rel="preload" href="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/fonts/SourceSansPro-Semibold.woff2?07036056a53342b7b44f89a0a4d5590f" as="font" crossOrigin="anonymous"> <link rel="preload" href="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/fonts/Publico-Headline-Bold.woff2?cf125afe4847562d27353ad7a94911f0" as="font" crossOrigin="anonymous"> <link rel="preload" href="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/fonts/axa_iconfont_functional.woff2?f58bb44ae794bbf2b768709dea2e9ed8" as="font" crossOrigin="anonymous"> <link rel="preload" href="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/fonts/axa_iconfont_illustration1px.woff2?f0a8ab2c1bf90abfa2a5549c0a200403" as="font" crossOrigin="anonymous">
+<style>html{--safe-area-top:env(safe-area-inset-top,0);--safe-area-bottom:env(safe-area-inset-bottom,0);--safe-area-left:env(safe-area-inset-left,0);--safe-area-right:env(safe-area-inset-right,0)}body{scroll-behavior:smooth;font-weight:var(--typography-text-small-body1-font-weight,inherit);font-size:var(--typography-text-small-body1-font-size,inherit);line-height:var(--typography-text-small-body1-line-height,inherit);font-family: var(--typography-text-small-body1-font-family, inherit);margin:0;padding:0;color:var(--body-color);background-color:#fff;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}@media screen and (min-width:768px){body{font-weight:var(--typography-text-large-body1-font-weight,inherit);font-size:var(--typography-text-large-body1-font-size,inherit);line-height:var(--typography-text-large-body1-line-height,inherit);font-family: var(--typography-text-large-body1-font-family, inherit)}}body.contact-widget-block-scroll,body.overlay-block-scroll{overflow:hidden}axa-modal.show-modal ~ axa-modal {--backdrop-opacity:0}.axa-delegate-host{display:contents}address{font-style:normal}a{color:inherit;text-decoration:underline}a:focus-visible{outline:none;box-shadow:0 0 0 2px var(--focus-secondary-color) , 0 0 0 4px var(--focus-primary-color)}</style>
+<link rel="stylesheet" href="/site/axa-de/resourceCached/2026-07-07_02/A.output,,_ui-stencil,,_dist,,_css,,_axa,,_theme-base.css+output,,_ui-stencil,,_dist,,_css,,_axa,,_typography.css+output,,_ui-snowflakes,,_dist,,_css,,_axa,,_theme-base.css+header,,_assets,,_css,,_header.css+header,,_assets-imperia,,_css,,_pb_header.css+topContentBar,,_assets,,_css,,_topContentBar.css+stage,,_assets,,_css,,_stage.css+stage,,_assets-imperia,,_css,,_pb_stage.css+standard,,_assets,,_css,,_standard.css+axa_rechenschieber,,_plugin.css+breadcrumb,,_assets,,_css,,_breadcrumb.css+editortools,,_pb_assets,,_css,,_editortools.css+footer,,_assets,,_css,,_footer.css+gesundheitsservice,,_assets,,_css,,_gesundheitsservice.css+headerLight,,_assets,,_css,,_headerLight.css+notification,,_assets,,_css,,_notification.css+pressarchive,,_assets,,_css,,_pressarchive.css+rating,,_assets,,_css,,_rating.css+search,,_assets,,_css,,_search.css+searchAdvisor,,_assets,,_css,,_searchAdvisor.css+assets,,_css,,_maps.css,Mcc.89vxXymG7q.css.pagespeed.cf.tCP8onA4BI.css" type="text/css"/>
+<link rel="stylesheet" href="/site/axa-de/resourceCached/2026-07-07_02/A.searchRepairshop,,_assets,,_css,,_searchRepairshop.css+searchRepairshopEVT,,_assets,,_css,,_searchRepairshopEVT.css+mab,,_assets,,_css,,_mab.css+mab,,_assets-imperia,,_css,,_pb_mab.css+productStage,,_assets-imperia,,_css,,_ekomi.css+accordion,,_assets,,_css,,_accordion.css+accordion,,_assets-imperia,,_css,,_pb_accordion.css+gallery,,_assets,,_css,,_gallery.css+interstitial1Topic,,_assets,,_css,,_interstitial1Topic.css+interstitial2Topic,,_assets,,_css,,_interstitial2Topic.css+multipleEntriesArticles,,_assets,,_css,,_multipleEntriesArticles.css+teasermulti,,_assets,,_css,,_teasermulti.css+socialMedia,,_assets,,_css,,_socialMedia.css+Presse,,_assets,,_css,,_alt,,_presseAlt.css+breadcrumb,,_assets,,_css,,_breadcrumb.css,Mcc.pk4R2hrnt_.css.pagespeed.cf.Px7fGSIi1x.css" type="text/css"/>
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="msapplication-TileImage" content="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-square70x70logo" content="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/msapplication-square70x70logo.png">
+<meta name="msapplication-square150x150logo" content="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/msapplication-square150x150logo.png">
+<meta name="msapplication-square310x310logo" content="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/msapplication-square310x310logo.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/xapple-touch-icon.png,qv=RyMkypbXgz.pagespeed.ic.ijnjaqdStC.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/xfavicon-32x32.png,qv=RyMkypbXgz.pagespeed.ic.XrSOBB24E5.png">
+<link rel="icon" type="image/png" sizes="194x194" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/xfavicon-194x194.png,qv=RyMkypbXgz.pagespeed.ic.VBzePd1l4A.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/xandroid-chrome-192x192.png,qv=RyMkypbXgz.pagespeed.ic.7FmTbZtjaO.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/xfavicon-16x16.png,qv=RyMkypbXgz.pagespeed.ic.h1cFr1XtGh.png">
+<link rel="manifest" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/site.webmanifest?v=RyMkypbXgz">
+<link rel="mask-icon" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/mobil/safari-pinned-tab.svg?v=RyMkypbXgz" color="#00008f">
+<title>Versicherungen von AXA: Wir sind f&uuml;r Sie da!</title>
+<meta name="author" content="AXA Deutschland">
+<meta name="description" content="Bei AXA erhalten Sie g&uuml;nstige Versicherungen und attraktive Finanzdienstleistungen &#10003;rund 8 Millionen Kunden und 200 Jahre Erfahrung &#9654;jetzt versichern!">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://www.axa.de/">
+<link rel="shortcut icon" href="/site/axa-de/resourceCached/2026-07-07_02/seo/assets/img/favicon.ico?v=RyMkypbXgz" type="image/x-icon">
+<script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Organization","name":"AXA","url":"https://www.axa.de","logo":"https://www.axa.de/site/axa-de/resourceCached/4.25-8/header/assets/img/axa-logo-solid-rgb-copy.png.pagespeed.ce.exINi9puBO.png","telephone":"+498003203205","address":{"@type":"PostalAddress","streetAddress":"Colonia-Allee 10-20","addressLocality":"Köln","addressCountry":"DE","postalCode":"51067"},"sameAs":["https://www.facebook.com/AXA.de","https://www.linkedin.com/company/axa","https://www.instagram.com/axa_deutschland/","https://www.youtube.com/user/AXADeutschland"]}
+</script>
+<meta property="og:url" content="https://www.axa.de/"/>
+<meta property="og:title" content="Versicherungen von AXA: Wir sind für Sie da!"/>
+<meta property="og:description" content="Bei AXA erhalten Sie günstige Versicherungen und attraktive Finanzdienstleistungen ✓rund 8 Millionen Kunden und 200 Jahre Erfahrung ▶jetzt versichern!"/>
+<meta property="og:image:url" content="https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png"/>
+<meta property="og:image:secure_url" content="https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png"/>
+<meta property="og:site_name" content="AXA Deutschland"/>
+<meta property="og:type" content="website"/>
+<meta property="og:locale" content="de_DE"/>
+<script type="text/javascript">window.dataLayer=window.dataLayer||[];dataLayer=[{env_work:'prod',env_platform:'www.axa.de',env_website_mode:'generic',broker_id:'',broker_hp_id:'',broker_name:'',broker_status:'',action_code:'14015D',page_type:'home',page_cat1:'',page_cat2:'',page_cat3:'',page_name:'home',search_type:'',search_keywords:'',search_results_number:'',calculator_saveid:''}];</script>
+<script type="text/javascript">var tCPrivacyTagManager="gtm";</script>
+<script type="text/javascript">var banner=document.createElement('script');var action_code=window.dataLayer[0].action_code;banner.type="text/javascript";switch(action_code){case'140064':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_65.js";break;case'44006V':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_45.js";break;case'9400DK':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_43.js";break;case'1400IF':case'1401LF':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_73.js";break;case'1401LG':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_16.js"
+break;case'74009E':banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_77.js"
+break;default:banner.src="https://cdn.trustcommander.net/privacy/1439/privacy_v2_14.js";}document.head.appendChild(banner)</script>
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+<script type="text/tc_privacy" data-category="3" id='vwoCode'>
+window._vwo_code ||
+(function () {
+var w=window,
+d=document;
+var account_id=736626,
+version=2.2,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important';
+/* DO NOT EDIT BELOW THIS LINE */
+if(f=!1,v=d.querySelector('#vwoCode'),cc={},-1<d.URL.indexOf('__vwo_disable__')||w._vwo_code)return;try{var e=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=e&&'object'==typeof e?e:{}}catch(e){}function r(t){try{return decodeURIComponent(t)}catch(e){return t}}var s=function(){var e={combination:[],combinationChoose:[],split:[],exclude:[],uuid:null,consent:null,optOut:null},t=d.cookie||'';if(!t)return e;for(var n,i,o=/(?:^|;\s*)(?:(_vis_opt_exp_(\d+)_combi=([^;]*))|(_vis_opt_exp_(\d+)_combi_choose=([^;]*))|(_vis_opt_exp_(\d+)_split=([^:;]*))|(_vis_opt_exp_(\d+)_exclude=[^;]*)|(_vis_opt_out=([^;]*))|(_vwo_global_opt_out=[^;]*)|(_vwo_uuid=([^;]*))|(_vwo_consent=([^;]*)))/g;null!==(n=o.exec(t));)try{n[1]?e.combination.push({id:n[2],value:r(n[3])}):n[4]?e.combinationChoose.push({id:n[5],value:r(n[6])}):n[7]?e.split.push({id:n[8],value:r(n[9])}):n[10]?e.exclude.push({id:n[11]}):n[12]?e.optOut=r(n[13]):n[14]?e.optOut=!0:n[15]?e.uuid=r(n[16]):n[17]&&(i=r(n[18]),e.consent=i&&3<=i.length?i.substring(0,3):null)}catch(e){}return e}();function i(){var e=function(){if(w.VWO&&Array.isArray(w.VWO))for(var e=0;e<w.VWO.length;e++){var t=w.VWO[e];if(Array.isArray(t)&&('setVisitorId'===t[0]||'setSessionId'===t[0]))return!0}return!1}(),t='a='+account_id+'&u='+encodeURIComponent(w._vis_opt_url||d.URL)+'&vn='+version+'&ph=1'+('undefined'!=typeof platform?'&p='+platform:'')+'&st='+w.performance.now();e||((n=function(){var e,t=[],n={},i=w.VWO&&w.VWO.appliedCampaigns||{};for(e in i){var o=i[e]&&i[e].v;o&&(t.push(e+'-'+o+'-1'),n[e]=!0)}if(s&&s.combination)for(var r=0;r<s.combination.length;r++){var a=s.combination[r];n[a.id]||t.push(a.id+'-'+a.value)}return t.join('|')}())&&(t+='&c='+n),(n=function(){var e=[],t={};if(s&&s.combinationChoose)for(var n=0;n<s.combinationChoose.length;n++){var i=s.combinationChoose[n];e.push(i.id+'-'+i.value),t[i.id]=!0}if(s&&s.split)for(var o=0;o<s.split.length;o++)t[(i=s.split[o]).id]||e.push(i.id+'-'+i.value);return e.join('|')}())&&(t+='&cc='+n),(n=function(){var e={},t=[];if(w.VWO&&Array.isArray(w.VWO))for(var n=0;n<w.VWO.length;n++){var i=w.VWO[n];if(Array.isArray(i)&&'setVariation'===i[0]&&i[1]&&Array.isArray(i[1]))for(var o=0;o<i[1].length;o++){var r,a=i[1][o];a&&'object'==typeof a&&(r=a.e,a=a.v,r&&a&&(e[r]=a))}}for(r in e)t.push(r+'-'+e[r]);return t.join('|')}())&&(t+='&sv='+n)),s&&s.optOut&&(t+='&o='+s.optOut);var n=function(){var e=[],t={};if(s&&s.exclude)for(var n=0;n<s.exclude.length;n++){var i=s.exclude[n];t[i.id]||(e.push(i.id),t[i.id]=!0)}return e.join('|')}();return n&&(t+='&e='+n),s&&s.uuid&&(t+='&id='+s.uuid),s&&s.consent&&(t+='&consent='+s.consent),w.name&&-1<w.name.indexOf('_vis_preview')&&(t+='&pM=true'),w.VWO&&w.VWO.ed&&(t+='&ed='+w.VWO.ed),t}code={nonce:v&&v.nonce,library_tolerance:function(){return'undefined'!=typeof library_tolerance?library_tolerance:void 0},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return performance.getEntriesByName('first-contentful-paint')[0]?'':'string'==typeof cc.hE?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){var t;f||(f=!0,(t=d.getElementById('_vis_opt_path_hides'))&&t.parentNode.removeChild(t),e&&((new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e))},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript',e.src?t.src=e.src:t.text=e.text,v&&t.setAttribute('nonce',v.nonce),d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){t=t||{};var n=new XMLHttpRequest;n.open('GET',e,!0),n.withCredentials=!t.dSC,n.responseType=t.responseType||'text',n.onload=function(){if(t.onloadCb)return t.onloadCb(n,e);200===n.status?_vwo_code.addScript({text:n.responseText}):_vwo_code.finish('&e=loading_failure:'+e)},n.onerror=function(){if(t.onerrorCb)return t.onerrorCb(e);_vwo_code.finish('&e=loading_failure:'+e)},n.send()},init:function(){var e,t=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish()},t),'body'!==this.hide_element()?(n=d.createElement('style'),e=(t=this.hide_element())?t+this.hide_element_style():'',t=d.getElementsByTagName('head')[0],n.setAttribute('id','_vis_opt_path_hides'),v&&n.setAttribute('nonce',v.nonce),n.setAttribute('type','text/css'),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(d.createTextNode(e)),t.appendChild(n)):(n=d.getElementsByTagName('head')[0],(e=d.createElement('div')).style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;',e.setAttribute('id','_vis_opt_path_hides'),e.classList.add('_vis_hide_layer'),n.parentNode.insertBefore(e,n.nextSibling));var n='https://dev.visualwebsiteoptimizer.com/j.php?'+i();-1!==w.location.search.indexOf('_vwo_xhr')?this.addScript({src:n}):this.load(n+'&x=true',{l:1})}};w._vwo_code=code;code.init();})();
+</script>
+<script type="text/tc_privacy" data-category="2">!function(){"use strict";function l(e){for(var t=e,r=0,n=document.cookie.split(";");r<n.length;r++){var o=n[r].split("=");if(o[0].trim()===t)return o[1]}}function s(e){return localStorage.getItem(e)}function u(e){return window[e]}function A(e,t){e=document.querySelector(e);return t?null==e?void 0:e.getAttribute(t):null==e?void 0:e.textContent}var e=window,t=document,r="script",n="dataLayer",o="https://data.axa.de",a="",i="fxwgrdopr",c="44jee=GxRSIyYqWi9LJzwwICBRDk9CQVVUAxlFEwgOShYC",g="cookie",v="ckp_id",E="",d=!1;try{var d=!!g&&(m=navigator.userAgent,!!(m=new RegExp("Version/([0-9._]+)(.*Mobile)?.*Safari.*").exec(m)))&&16.4<=parseFloat(m[1]),f="stapeUserId"===g,I=d&&!f?function(e,t,r){void 0===t&&(t="");var n={cookie:l,localStorage:s,jsVariable:u,cssSelector:A},t=Array.isArray(t)?t:[t];if(e&&n[e])for(var o=n[e],a=0,i=t;a<i.length;a++){var c=i[a],c=r?o(c,r):o(c);if(c)return c}else console.warn("invalid uid source",e)}(g,v,E):void 0;d=d&&(!!I||f)}catch(e){console.error(e)}var m=e,g=(m[n]=m[n]||[],m[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"}),t.getElementsByTagName(r)[0]),v=I?"&bi="+encodeURIComponent(I):"",E=t.createElement(r),f=(d&&(i=8<i.length?i.replace(/([a-z]{8}$)/,"kp$1"):"kp"+i),!d&&a?a:o);E.async=!0,E.src=f+"/"+i+".js?"+c+v,null!=(e=g.parentNode)&&e.insertBefore(E,g)}();</script>
+</head>
+<body class="hyp theme-axa-base">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9WSTRG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="overlay">
+</div>
+<div id="root" class="root">
+<div id="pageMeta">
+<noscript>
+<div class="topContentBar bg-shy-tomato">
+<div class="container-h py-1 row align-items-center text-center">
+<div class="col-12 ">
+<p>Bitte aktivieren Sie JavaScript in den Browser-Einstellungen, um diese Seite nutzen zu k&ouml;nnen.</p>
+</div>
+</div>
+</div>
+</noscript>
+</div>
+<script>var metaNaviUrl="/site/axa-de/metanav/index.html";var shouldAddAriaLabelByJs=true;var linkTypeTexts={anchor:"Scrolle zu %s"||"Scrolle zu %s",mailto:"E-Mail schreiben an %s"||"E-Mail schreiben an %s",tel:"Telefonnummer %s anrufen"||"Telefonnummer %s anrufen",ext:"%s öffnet sich in einem neuen Tab"||"%s öffnet sich in einem neuen Tab",map:"%s auf Karte anzeigen"||"%s auf Karte anzeigen"};</script>
+<header id="pageHeader" data-header-initial-l1-item="0">
+<div class="_headerMeta">
+<div class="container-h">
+<nav class="_navMain" data-menu-level="1" aria-label="Primäre Navigation">
+<ul>
+<li>
+<a href="/home" title="Privatkunden">Privatkunden</a>
+</li>
+<li>
+<a href="/geschaeftskunden" title="Geschäftskunden">Geschäftskunden</a>
+</li>
+<li>
+<a href="/wir-ueber-uns" title="Über AXA">Über AXA</a>
+</li>
+<li>
+<a href="/karriere" title="Karriere">Karriere</a>
+</li>
+<li>
+<a href="/medien" title="Medien">Medien</a>
+</li>
+</ul>
+</nav>
+<nav class="_navMyaxa">
+<ul>
+<li>
+<a class="trackable" href="https://www.axa.de/site/axa-de/redirect/MyAxaLogin?AKTIONSCODE=14015D" title="Meine pers&ouml;nliche Vertragsverwaltung" data-vars-event-category="click" data-vars-event-action="external_link" data-vars-event-label="Kundenlogin - H - 7798864">My Axa<span> Login</span></a>
+</li>
+<li>
+<a class="trackable" href="https://entry.axa.de/schaden-melden" title="Schaden online melden" data-vars-event-category="click" data-vars-event-action="external_link" data-vars-event-label="OnlineSchadenMeldung - H - 7798864">Schaden online melden</a>
+</li>
+<li>
+<a href="/kontakt" class="contact trackable" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontakt - H - 7798864">Kontakt</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="_headerLight">
+<div class="container-h">
+<a class='_logo trackable' tabindex="0" href='https://www.axa.de/' title='Startseite AXA.de' data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Startseite AXA.de - H - 17798864"><img src="/site/axa-de/resourceCached/2026-07-07_02/header/assets/img/axa-logo-solid-rgb-copy.png.pagespeed.ce.exINi9puBO.png" alt="">
+</a> <nav class="_navSub" aria-label="Sekundäre Navigation">
+<ul>
+<li data-menu-level="2" data-menu-parent-index="0">
+<ul>
+<li>
+<button tabindex="0" class="trackable" title="Fahrzeuge" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Fahrzeuge - H - 8502058">
+Fahrzeuge
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Haftpflicht &amp; Recht" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haftpflicht &amp; Recht - H - 8502095">
+Haftpflicht &amp; Recht
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Haus &amp; Wohnung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haus &amp; Wohnung - H - 24069279">
+Haus &amp; Wohnung
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Gesundheit" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gesundheit - H - 8502163">
+Gesundheit
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Vorsorge &amp; Vermögen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Vorsorge &amp; Vermögen - H - 8502212">
+Vorsorge &amp; Vermögen
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Kundenservice" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kundenservice - H - 27650914">
+Kundenservice
+</button>
+</li>
+</ul>
+</li>
+<li data-menu-level="2" data-menu-parent-index="1">
+<ul>
+<li>
+<button tabindex="0" class="trackable" title="Sach- &amp; Ertragsausfall" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Sach- &amp; Ertragsausfall - H - 8502448">
+Sach- &amp; Ertragsausfall
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Haftpflicht" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haftpflicht - H - 8502532">
+Haftpflicht
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Bürgschaften" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bürgschaften - H - 8769850">
+Bürgschaften
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Finanzierung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Finanzierung - H - 9154925">
+Finanzierung
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Weitere Produkte" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Weitere Produkte - H - 8502618">
+Weitere Produkte
+</button>
+</li>
+<li>
+<a tabindex="0" class="trackable" href="/geschaeftskunden/services-fuer-geschaeftskunden" title="Service &amp; Kontakt" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Service &amp; Kontakt - H - 8502760">
+Service &amp; Kontakt
+</a>
+</li>
+</ul>
+</li>
+<li data-menu-level="2" data-menu-parent-index="2">
+<ul>
+<li>
+<button tabindex="0" class="trackable" title="Das Unternehmen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Das Unternehmen - H - 8502766">
+Das Unternehmen
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Unsere Verantwortung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unsere Verantwortung - H - 8502769">
+Unsere Verantwortung
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Unsere Auszeichnungen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unsere Auszeichnungen - H - 8502772">
+Unsere Auszeichnungen
+</button>
+</li>
+</ul>
+</li>
+<li data-menu-level="2" data-menu-parent-index="3">
+<ul>
+<li>
+<button tabindex="0" class="trackable" title="Jobs" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Jobs - H - 27465446">
+Jobs
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Arbeiten bei AXA" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Arbeiten bei AXA - H - 27465468">
+Arbeiten bei AXA
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Berufsfelder" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Berufsfelder - H - 27465489">
+Berufsfelder
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Einstiegslevel" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Einstiegslevel - H - 27465510">
+Einstiegslevel
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Bewerbungstipps" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bewerbungstipps - H - 27465531">
+Bewerbungstipps
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Kontakt" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontakt - H - 27465543">
+Kontakt
+</button>
+</li>
+<li>
+<a tabindex="0" class="trackable" href="https://www.axa-vertriebskarriere.de/" title="Karriere im Vertrieb" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Karriere im Vertrieb - H - 27465554">
+Karriere im Vertrieb
+</a>
+</li>
+</ul>
+</li>
+<li data-menu-level="2" data-menu-parent-index="4">
+<ul>
+<li>
+<button tabindex="0" class="trackable" title="Pressemitteilungen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Pressemitteilungen - H - 29056906">
+Pressemitteilungen
+</button>
+</li>
+<li>
+<button tabindex="0" class="trackable" title="Mediathek" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Mediathek - H - 8502857">
+Mediathek
+</button>
+</li>
+<li>
+<a tabindex="0" class="trackable" href="/medien" title="Medienkontakt" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Medienkontakt - H - 8809425">
+Medienkontakt
+</a>
+</li>
+<li>
+<a tabindex="0" class="trackable" href="/axa-social-media" title="AXA auf Social Media" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA auf Social Media - H - 24478510">
+AXA auf Social Media
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<script>var autocompleteSearchUrl='/site/axa-de/search-autocomplete/7798864/index.html',autocompleteSearchDelay=300,autocompleteSearchMaxTerms=5,autocompleteSearchMinLength=2,autocompleteSearchRows=20,autocompleteSearchAvoidParallelRequests=true;</script>
+<script>var searchUrl='/site/axa-de/search/7798864/index.html',lastLoadedParam,pluginUrl='/site/axa-de/resourceCached/2026-07-07_02';</script>
+<div class="_searchBar" data-menu-searchbar>
+<form action="/site/axa-de/search/7798864/index.html" method="POST" class="be-searchInput" data-quickautosubmit>
+<input tabindex="-1" aria-label="Ihr Suchbegriff" autocomplete="off" id="quicksearchQuery" name="query" placeholder="Ihr Suchbegriff" type="search" value="">
+<input type="hidden" name="viewSecurityToken" value="c3916799615a9ad8907e4d9e9a2b6499f3f83e1"/>
+<button aria-label="Absenden" type="submit" class="magnifier-focus"><axa-theme theme="axa" css-path="/site/axa-de/resourceCached/2026-07-07_02/output/static/axa/css/standard.css">
+<axa-icon name="common-functional-search_right" size="md" aria-label="Suche starten" title=""></axa-icon>
+</axa-theme></button>
+<span class="_divider"></span>
+<button aria-label="Zur&uuml;cksetzen" type="reset" class="close-focus"><axa-theme theme="axa" css-path="/site/axa-de/resourceCached/2026-07-07_02/output/static/axa/css/standard.css">
+<axa-icon name="common-functional-close_menu" size="md"></axa-icon>
+</axa-theme></button>
+<div class="searchPredictions">
+<p class="h5">Suchvorschläge</p>
+<ul></ul>
+</div>
+</form>
+</div>
+<div class="_iconBar" data-menu-iconbar>
+<axa-theme theme="axa" css-path="/site/axa-de/resourceCached/2026-07-07_02/output/static/axa/css/standard.css" class="icon-container">
+<axa-icon tabindex="0" role="button" name="common-functional-search_right" size="md" data-menu-btn="search" aria-label="Suche starten" title=""></axa-icon>
+<span class="_divider"></span>
+<axa-icon tabindex="0" role="button" class="order2" id="burger1" name="common-functional-burger_menu" data-menu-btn="openMenu" aria-label="Menü öffnen"></axa-icon>
+<axa-icon tabindex="0" role="button" class="order1" name="common-functional-close_menu" size="md" data-menu-btn="closeMenu" aria-label="Menü schließen"></axa-icon>
+</axa-theme>
+</div>
+</div>
+</div>
+<nav class="_headerFlyout" data-menu-flyout="" aria-label="Flyout-Navigation">
+<div class="container-h">
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="0" data-menu-level2-id="0">
+<li class="_menuHeadline">
+<p>Fahrzeuge</p>
+<ul class="_headlineDescription">
+<li>Versicherungsschutz mit maximaler Flexibilität und für höchste Fahr-Ansprüche.</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://www.axa.de/pk/kfz" title="Kfz im Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kfz im Überblick - H - 8502062">
+Kfz im Überblick
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/kfz-versicherung" title="Kfz-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kfz-Versicherung - H - 8502065">
+Kfz-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/motorradversicherung" title="Motorradversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Motorradversicherung - H - 8502071">
+Motorradversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/elektroauto-versicherung" title="Elektroauto-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Elektroauto-Versicherung - H - 17125704">
+Elektroauto-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/roller-versicherung" title="Rollerversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Rollerversicherung - H - 8502077">
+Rollerversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/e-scooter-versicherung" title="E-Scooter Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="E-Scooter Versicherung - H - 12798764">
+E-Scooter Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/oldtimer-versicherung" title="Oldtimer-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Oldtimer-Versicherung - H - 8502083">
+Oldtimer-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/p/lieferwagen-versicherung" title="Lieferwagen-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Lieferwagen-Versicherung - H - 8502089">
+Lieferwagen-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/verkehrsrechtsschutz" title="Verkehrsrechtschutzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Verkehrsrechtschutzversicherung - H - 25915987">
+Verkehrsrechtschutzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/s/schadenservice-auto" title="schadenservice360° Auto" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="schadenservice360° Auto - H - 9068208">
+schadenservice360° Auto
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/kfz/r/kfz-ratgeber" title="Ratgeber Kfz" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Kfz - H - 24167621">
+Ratgeber Kfz
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="0" data-menu-level2-id="1">
+<li class="_menuHeadline">
+<p>Haftpflicht &amp; Recht</p>
+<ul class="_headlineDescription">
+<li>Alle Haftpflichtversicherungen bieten einen wichtigen Schutz vor Schadenersatzforderungen, damit man nicht mit seinem Privatvermögen haften muss.</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://www.axa.de/pk/haftpflicht" title="Haftpflichtversicherung im Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haftpflichtversicherung im Überblick - H - 8502099">
+Haftpflichtversicherung im Überblick
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/private-haftpflichtversicherung" title="Private Haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Private Haftpflichtversicherung - H - 8502102">
+Private Haftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/tierhalter-haftpflicht" title="Tierhalterhaftpflicht-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Tierhalterhaftpflicht-Versicherung - H - 8502108">
+Tierhalterhaftpflicht-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/bauherrenhaftpflicht" title="Bauherrenhaftpflicht-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bauherrenhaftpflicht-Versicherung - H - 8502114">
+Bauherrenhaftpflicht-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/haus-grundbesitzerhaftpflicht" title="Haus- und Grundbesitzerhaftpflicht-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haus- und Grundbesitzerhaftpflicht-Versicherung - H - 8502120">
+Haus- und Grundbesitzerhaftpflicht-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/gewaesserschadenhaftpflicht" title="Gewässerschadenhaftpflicht" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gewässerschadenhaftpflicht - H - 8502126">
+Gewässerschadenhaftpflicht
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/p/rechtsschutz" title="Rechtsschutzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Rechtsschutzversicherung - H - 13192067">
+Rechtsschutzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/waldversicherung" title="Waldversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Waldversicherung - H - 26669399">
+Waldversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haftpflicht/r/haftpflichtversicherung-ratgeber" title="Ratgeber Haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Haftpflichtversicherung - H - 24378723">
+Ratgeber Haftpflichtversicherung
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="0" data-menu-level2-id="2">
+<li class="_menuHeadline">
+<p>Haus &amp; Wohnung</p>
+<ul class="_headlineDescription">
+<li>Weil jedes Zuhause anders ist, bieten wir Ihnen ganz individuellen Versicherungsschutz für Ihr Hab und Gut.</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://www.axa.de/pk/haus-wohnung" title="Haus &amp; Wohnung im Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Haus &amp; Wohnung im Überblick - H - 24069282">
+Haus &amp; Wohnung im Überblick
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/p/hausratversicherung" title="Hausratversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Hausratversicherung - H - 24069286">
+Hausratversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/p/gebaeudeversicherung" title="Wohngebäudeversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Wohngebäudeversicherung - H - 24069292">
+Wohngebäudeversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/p/elementarversicherung" title="Elementarversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Elementarversicherung - H - 24069298">
+Elementarversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/p/baufinanzierung" title="Baufinanzierung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Baufinanzierung - H - 25486367">
+Baufinanzierung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/p/bausparvertrag" title="Bausparvertrag" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bausparvertrag - H - 24069301">
+Bausparvertrag
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/s/schadenservice-haus" title="Schadenservice Haus" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Schadenservice Haus - H - 24069304">
+Schadenservice Haus
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/haus-wohnung/r/haus-wohnung-ratgeber" title="Ratgeber Haus &amp; Wohnung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Haus &amp; Wohnung - H - 24069310">
+Ratgeber Haus &amp; Wohnung
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="0" data-menu-level2-id="3">
+<li class="_menuHeadline">
+<p>Gesundheit</p>
+<ul class="_headlineDescription">
+<li>Weil Ihre Gesundheit so wertvoll ist, sichern wir Ihnen eine erstklassige medizinische Versorgung.</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://www.axa.de/pk/gesundheit" title="Gesundheit im Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gesundheit im Überblick - H - 8502167">
+Gesundheit im Überblick
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/private-krankenversicherung" title="Private Krankenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Private Krankenversicherung - H - 8502170">
+Private Krankenversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/auslandskrankenversicherung" title="Auslandskrankenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Auslandskrankenversicherung - H - 8502176">
+Auslandskrankenversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/reiseversicherung" title="Reiseversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Reiseversicherung - H - 25736324">
+Reiseversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/pflegezusatzversicherung" title="Pflegezusatzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Pflegezusatzversicherung - H - 8502182">
+Pflegezusatzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/zahnzusatzversicherung" title="Zahnzusatzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Zahnzusatzversicherung - H - 8502188">
+Zahnzusatzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/ambulante-zusatzversicherung" title="Ambulante Zusatzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ambulante Zusatzversicherung - H - 8502194">
+Ambulante Zusatzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/krankenhauszusatzversicherung" title="Krankenhauszusatzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Krankenhauszusatzversicherung - H - 8502200">
+Krankenhauszusatzversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/p/krankentagegeld-versicherung" title="Krankentagegeld-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Krankentagegeld-Versicherung - H - 25486362">
+Krankentagegeld-Versicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/s/gesundheitsservice" title="Gesundheitsservice" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gesundheitsservice - H - 8712626">
+Gesundheitsservice
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/s/online-arzt" title="Online-Arzt" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Online-Arzt - H - 17158193">
+Online-Arzt
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/s/pflegewelt" title="Pflegewelt" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Pflegewelt - H - 18482827">
+Pflegewelt
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/s/pkv-privatpatient-leitfaden" title="Leitfaden für Privatpatienten" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Leitfaden für Privatpatienten - H - 18985919">
+Leitfaden für Privatpatienten
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/r/ratgeber-krankenversicherung" title="Ratgeber Krankenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Krankenversicherung - H - 18985925">
+Ratgeber Krankenversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/r/ratgeber-gesund-leben" title="Ratgeber Gesund leben" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Gesund leben - H - 18985931">
+Ratgeber Gesund leben
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/pk/gesundheit/r/pflegeratgeber" title="Ratgeber Pflege" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Pflege - H - 24477954">
+Ratgeber Pflege
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="0" data-menu-level2-id="4" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Altersvorsorge - H - 8502315">Altersvorsorge</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Existenzsicherung - H - 8502270">Existenzsicherung</a>
+<a role="listitem" class="trackable nounderline" title="Unfallversicherung" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Unfallversicherung - H - 28655539">Unfallversicherung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="0" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge/p/private-rentenversicherung" title="Private Rentenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Private Rentenversicherung - H - 8502324">Private Rentenversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge/p/betriebliche-altersvorsorge" title="Betriebliche Rentenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebliche Rentenversicherung - H - 15339907">Betriebliche Rentenversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge/geldanlage" title="Geldanlage" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Geldanlage - H - 9226426">Geldanlage</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge/p/vermoegenswirksame-leistungen" title="Vermögenswirksame Leistungen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Vermögenswirksame Leistungen - H - 8502336">Vermögenswirksame Leistungen</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/altersvorsorge-ratgeber" title="Ratgeber Altersvorsorge" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Altersvorsorge - H - 24550909">Ratgeber Altersvorsorge</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/altersvorsorge" title="Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Überblick - H - 29067521">Überblick</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="1" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/berufsunfaehigkeitsversicherung" title="Berufsunfähigkeitsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Berufsunfähigkeitsversicherung - H - 8502273">Berufsunfähigkeitsversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/existenzschutzversicherung" title="Existenzschutzversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Existenzschutzversicherung - H - 24522233">Existenzschutzversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/risikolebensversicherung" title="Risikolebensversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Risikolebensversicherung - H - 8502285">Risikolebensversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/sterbegeld-versicherung" title="Sterbegeldversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Sterbegeldversicherung - H - 8502303">Sterbegeldversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/r/existenzsicherung-ratgeber" title="Ratgeber Existenzsicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Existenzsicherung - H - 24550917">Ratgeber Existenzsicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung" title="Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Überblick - H - 29067527">Überblick</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="2" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/unfallversicherung" title="Unfallversicherung für Erwachsene" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unfallversicherung für Erwachsene - H - 28655541">Unfallversicherung für Erwachsene</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/pk/existenzsicherung/p/kinderunfallversicherung" title="Unfallversicherung für Kinder" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unfallversicherung für Kinder - H - 28655546">Unfallversicherung für Kinder</a>
+</div>
+</div>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="0" data-menu-level2-id="5">
+<li class="_menuHeadline">
+<p>Kundenservice</p>
+<ul class="_headlineDescription">
+<li>Nutzen Sie unsere Online-Services, um Ihr Anliegen direkt zu erledigen. Weitere Services finden Sie auch in unserem Kundenportal My AXA.</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://entry.axa.de/hilfe/selfservice/uebersicht" title="Alle Services im Überblick" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Alle Services im Überblick - H - 27650917">
+Alle Services im Überblick
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/myaxa-kundenportal" title="Kundenportal My AXA" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kundenportal My AXA - H - 27650922">
+Kundenportal My AXA
+</a>
+</li>
+<li>
+<a class="trackable" href="https://entry.axa.de/schaden-melden" title="Schaden online melden" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Schaden online melden - H - 27652072">
+Schaden online melden
+</a>
+</li>
+<li>
+<a class="trackable" href="https://entry.axa.de/hilfe/selfservice/adresse/aendern" title="Adresse ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Adresse ändern - H - 27650925">
+Adresse ändern
+</a>
+</li>
+<li>
+<a class="trackable" href="https://entry.axa.de/hilfe/selfservice/bankverbindung/aendern" title="Bankverbindung ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bankverbindung ändern - H - 27650931">
+Bankverbindung ändern
+</a>
+</li>
+<li>
+<a class="trackable" href="https://entry.axa.de/hilfe/selfservice/nachname/aendern" title="Nachnamen ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Nachnamen ändern - H - 27650937">
+Nachnamen ändern
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/tarif-und-angebotsuebersicht" title="Angebot berechnen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Angebot berechnen - H - 27650943">
+Angebot berechnen
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/site/axade/redirect/Selfservice-Kontakt?AKTIONSCODE=14015D" title="Kontaktformular" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontaktformular - H - 27650949">
+Kontaktformular
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/kontakt/servicenummern" title="Servicenummern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Servicenummern - H - 27650955">
+Servicenummern
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/kontakt/formulare-download" title="Formulare &amp; Downloads" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Formulare &amp; Downloads - H - 27650961">
+Formulare &amp; Downloads
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa-betreuer.de/?AKTIONSCODE=14015D" title="Ansprechpartner vor Ort" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ansprechpartner vor Ort - H - 27650967">
+Ansprechpartner vor Ort
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="1" data-menu-level2-id="0">
+<li class="_menuHeadline">
+<p>Sach- &amp; Ertragsausfall</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/inhaltsversicherung" title="Inhaltsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Inhaltsversicherung - H - 8502454">
+Inhaltsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/betriebsgebaeudeversicherung" title="Betriebsgebäude" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebsgebäude - H - 8502466">
+Betriebsgebäude
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/transportversicherung" title="Transportversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Transportversicherung - H - 8502472">
+Transportversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/autoinhaltsversicherung" title="Autoinhaltsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Autoinhaltsversicherung - H - 17068520">
+Autoinhaltsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/bauleistungsversicherung" title="Bauleistungsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bauleistungsversicherung - H - 8502478">
+Bauleistungsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/elektronikversicherung" title="Elektronikversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Elektronikversicherung - H - 8502490">
+Elektronikversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/industrie-sachversicherung" title="Industrie Sachversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Industrie Sachversicherung - H - 8502496">
+Industrie Sachversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/maschinenversicherung" title="Maschinenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Maschinenversicherung - H - 8502508">
+Maschinenversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/montageversicherung" title="Montageversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Montageversicherung - H - 8502520">
+Montageversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/ertragsausfallversicherung" title="Ertragsausfallversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ertragsausfallversicherung - H - 8502460">
+Ertragsausfallversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/betriebsschliessungsversicherung" title="Betriebsschließungsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebsschließungsversicherung - H - 14654144">
+Betriebsschließungsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/praxisausfallversicherung" title="Praxisausfallversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Praxisausfallversicherung - H - 8502514">
+Praxisausfallversicherung
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="1" data-menu-level2-id="1">
+<li class="_menuHeadline">
+<p>Haftpflicht</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/betriebshaftpflicht" title="Betriebshaftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebshaftpflichtversicherung - H - 8502539">
+Betriebshaftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/berufshaftpflicht" title="Berufshaftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Berufshaftpflichtversicherung - H - 8502545">
+Berufshaftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/veranstalterhaftpflichtversicherung" title="Veranstalterhaftpflicht" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Veranstalterhaftpflicht - H - 8502557">
+Veranstalterhaftpflicht
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/industrie-haftpflichtversicherung" title="Industrie Haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Industrie Haftpflichtversicherung - H - 8502563">
+Industrie Haftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/vermoegensschadenhaftpflicht" title="Vermögensschadenhaftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Vermögensschadenhaftpflichtversicherung - H - 8502569">
+Vermögensschadenhaftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/vertrauensschadenversicherung" title="Vertrauensschadenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Vertrauensschadenversicherung - H - 8502575">
+Vertrauensschadenversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/verkehrshaftungsversicherung" title="Verkehrshaftungsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Verkehrshaftungsversicherung - H - 8502581">
+Verkehrshaftungsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/it-haftpflicht" title="IT-Haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="IT-Haftpflichtversicherung - H - 8502593">
+IT-Haftpflichtversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/waldversicherung" title="Waldversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Waldversicherung - H - 26604743">
+Waldversicherung
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="1" data-menu-level2-id="2">
+<li class="_menuHeadline">
+<p>Bürgschaft &amp; Kaution</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/kautionsversicherung" title="Kautionsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kautionsversicherung - H - 8769855">
+Kautionsversicherung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/zusatzinformationen-buergschaft-kaution" title="Zusatzinformationen Bürgschaft und Kaution" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Zusatzinformationen Bürgschaft und Kaution - H - 16106140">
+Zusatzinformationen Bürgschaft und Kaution
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/kontakt-buergschaft-kaution" title="Kontakt Bürgschaft und Kaution" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontakt Bürgschaft und Kaution - H - 8769861">
+Kontakt Bürgschaft und Kaution
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="1" data-menu-level2-id="3">
+<li class="_menuHeadline">
+<p>Finanzierung</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/finanzierungsloesungen/factoring" title="Factoring" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Factoring - H - 9154936">
+Factoring
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/geschaeftskunden/finanzierungsloesungen/firmenleasing" title="Firmenleasing" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Firmenleasing - H - 9154977">
+Firmenleasing
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="1" data-menu-level2-id="4" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+<a role="listitem" class="trackable nounderline" title="Mitarbeiterversorgung" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Mitarbeiterversorgung - H - 8502622">Mitarbeiterversorgung</a>
+<a role="listitem" class="trackable nounderline" title="Fahrzeug-Flotte" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Fahrzeug-Flotte - H - 8502631">Fahrzeug-Flotte</a>
+<a role="listitem" class="trackable nounderline" title="Cyber-Versicherung" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Cyber-Versicherung - H - 8760200">Cyber-Versicherung</a>
+<a role="listitem" class="trackable nounderline" title="Spezialabsicherung" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Spezialabsicherung - H - 8510073">Spezialabsicherung</a>
+<a role="listitem" class="trackable nounderline" title="Rechtsschutz" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Rechtsschutz - H - 8510109">Rechtsschutz</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="0" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/mitarbeiterabsicherung" title="Ganzheitliche Mitarbeiterabsicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ganzheitliche Mitarbeiterabsicherung - H - 8510033">Ganzheitliche Mitarbeiterabsicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/betriebliche-altersversorgung" title="Betriebliche Altersversorgung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebliche Altersversorgung - H - 8502625">Betriebliche Altersversorgung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/betriebliche-krankenversicherung" title="Betriebliche Krankenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebliche Krankenversicherung - H - 8510069">Betriebliche Krankenversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/internationale-krankenversicherung" title="Internationale Krankenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Internationale Krankenversicherung - H - 8510057">Internationale Krankenversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/betriebliche-gruppenunfallversicherung" title="Betriebliche Gruppenunfallversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Betriebliche Gruppenunfallversicherung - H - 8510051">Betriebliche Gruppenunfallversicherung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="1" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/kfz-flottenversicherung" title="Kfz-Flottenversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kfz-Flottenversicherung - H - 8502652">Kfz-Flottenversicherung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="2" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/cyber-versicherung" title="Cyber-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Cyber-Versicherung - H - 8760202">Cyber-Versicherung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="3" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/internationale-versicherungsprogramme" title="AXA International Services" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA International Services - H - 8510076">AXA International Services</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/luftfahrtversicherung" title="Luftfahrtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Luftfahrtversicherung - H - 8510082">Luftfahrtversicherung</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/waldversicherung" title="Waldversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Waldversicherung - H - 8510100">Waldversicherung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="4" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/geschaeftskunden/rechtsschutzversicherung" title="Gewerblicher Rechtsschutz" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gewerblicher Rechtsschutz - H - 8510112">Gewerblicher Rechtsschutz</a>
+</div>
+</div>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="1" data-menu-level2-id="5" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+</div>
+</div>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="2" data-menu-level2-id="0">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/wir-ueber-uns">Das Unternehmen</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/gesellschaften" title="Gesellschaften der AXA Deutschland" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gesellschaften der AXA Deutschland - H - 8756581">
+Gesellschaften der AXA Deutschland
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/historie-und-fakten" title="Historie &amp; Fakten" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Historie &amp; Fakten - H - 8756587">
+Historie &amp; Fakten
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/konzernvorstand-und-aufsichtsrat" title="Konzernvorstand &amp; Aufsichtsrat" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Konzernvorstand &amp; Aufsichtsrat - H - 8756593">
+Konzernvorstand &amp; Aufsichtsrat
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/corporate-governance" title="Corporate Governance" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Corporate Governance - H - 8756599">
+Corporate Governance
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/daten-und-publikationen" title="Daten und Publikationen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Daten und Publikationen - H - 8756605">
+Daten und Publikationen
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/weltweit" title="AXA weltweit" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA weltweit - H - 8756611">
+AXA weltweit
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="2" data-menu-level2-id="1">
+<li class="_menuHeadline">
+<p>Unsere Verantwortung</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit" title="Nachhaltigkeit bei AXA" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Nachhaltigkeit bei AXA - H - 15338400">
+Nachhaltigkeit bei AXA
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/nachhaltigkeit-versicherungsgeschaeft" title="Nachhaltigkeit in unserem Versicherungsgeschäft" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Nachhaltigkeit in unserem Versicherungsgeschäft - H - 21508645">
+Nachhaltigkeit in unserem Versicherungsgeschäft
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/corporate-social-responsibility" title="Unsere soziale Verantwortung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unsere soziale Verantwortung - H - 21488788">
+Unsere soziale Verantwortung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/umweltschutz" title="Unser Beitrag zum Umweltschutz" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unser Beitrag zum Umweltschutz - H - 21488791">
+Unser Beitrag zum Umweltschutz
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/nachhaltige-kapitalanlage" title="Nachhaltige Kapitalanlage" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Nachhaltige Kapitalanlage - H - 21488720">
+Nachhaltige Kapitalanlage
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/von-herz-zu-herz" title="AXA von Herz zu Herz" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA von Herz zu Herz - H - 9099769">
+AXA von Herz zu Herz
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/kunstsammlung" title="AXA Kunstsammlung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA Kunstsammlung - H - 9099781">
+AXA Kunstsammlung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/nachhaltigkeit/umgang-mit-personenbezogenen-daten" title="Umgang mit personenbezogenen Daten" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Umgang mit personenbezogenen Daten - H - 9099763">
+Umgang mit personenbezogenen Daten
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="2" data-menu-level2-id="2">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/wir-ueber-uns/auszeichnungen">Unsere Auszeichnungen</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/auszeichnungen/tests-produkte-und-services" title="Tests Produkte und Services" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Tests Produkte und Services - H - 9099894">
+Tests Produkte und Services
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/wir-ueber-uns/auszeichnungen/kundenfeedback" title="Kundenfeedback" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kundenfeedback - H - 9099900">
+Kundenfeedback
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="3" data-menu-level2-id="0" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+<a role="listitem" class="trackable nounderline" title="Jobs" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Jobs - H - 27465452">Jobs</a>
+<a role="listitem" class="trackable nounderline" title="Ausbildung" data-vars-event-category="click" data-vars-event-action="view_content" data-vars-event-label="Ausbildung - H - 27465454">Ausbildung</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="0" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/karriere/jobs" title="Jobbörse" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Jobbörse - H - 27465450">Jobbörse</a>
+</div>
+<div class="_menuLevel4" data-menu-level="4" data-parent-id="1" role="list">
+<a role="listitem" class="trackable" href="https://www.axa.de/ausbildung-duales-studium" title="Ausbildung &amp; duales Studium" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ausbildung &amp; duales Studium - H - 27465456">Ausbildung &amp; duales Studium</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/ausbildung-kaufmann-versicherungen-finanzen" title="Kaufmann für Versicherungen und Finanzen (m/w/d)" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kaufmann für Versicherungen und Finanzen (m/w/d) - H - 27466607">Kaufmann für Versicherungen und Finanzen (m/w/d)</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/ausbildung-kaufmann-digitalisierungsmanagement" title="Kaufmann für Digitalisierungsmanagement (m/w/d)" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kaufmann für Digitalisierungsmanagement (m/w/d) - H - 27465459">Kaufmann für Digitalisierungsmanagement (m/w/d)</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/duales-studium-bachelor-informatik" title="Duales Studium für Informatik (m/w/d)" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Duales Studium für Informatik (m/w/d) - H - 27465462">Duales Studium für Informatik (m/w/d)</a>
+<a role="listitem" class="trackable" href="https://www.axa.de/duales-studium-bachelor-risk-insurance" title="Duales Studium Risk &amp; Insurance (m/w/d)" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Duales Studium Risk &amp; Insurance (m/w/d) - H - 27465465">Duales Studium Risk &amp; Insurance (m/w/d)</a>
+</div>
+</div>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="3" data-menu-level2-id="1">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/karriere/i/arbeiten-bei-axa">Arbeiten bei AXA</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/axa-als-arbeitgeber" title="AXA als Arbeitgeber" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="AXA als Arbeitgeber - H - 27465474">
+AXA als Arbeitgeber
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/werte" title="Unsere Werte" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unsere Werte - H - 27465477">
+Unsere Werte
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/benefits" title="Benefits" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Benefits - H - 27465480">
+Benefits
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/diversity-inclusion" title="Diversity, Equity &amp; Inclusion" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Diversity, Equity &amp; Inclusion - H - 27465483">
+Diversity, Equity &amp; Inclusion
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/entwicklungsmoeglichkeiten" title="Entwicklungsmöglichkeiten" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Entwicklungsmöglichkeiten - H - 27465486">
+Entwicklungsmöglichkeiten
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="3" data-menu-level2-id="2">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/berufsfelder">Berufsfelder</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/karriere-aktuariat" title="Aktuariat" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Aktuariat - H - 27465493">
+Aktuariat
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/jobs-data-science" title="Data" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Data - H - 27465496">
+Data
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/jobs-schadenregulierung" title="Schadenregulierung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Schadenregulierung - H - 27465499">
+Schadenregulierung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/jobs-software-engineering" title="Software Engineering" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Software Engineering - H - 27465502">
+Software Engineering
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/jobs-underwriting" title="Underwriting" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Underwriting - H - 27465505">
+Underwriting
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="3" data-menu-level2-id="3">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/einstiegslevel">Einstiegslevel</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/ausbildung-duales-studium" title="Ausbildung &amp; duales Studium" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ausbildung &amp; duales Studium - H - 27465516">
+Ausbildung &amp; duales Studium
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/praktikum-studenten" title="Praktikum" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Praktikum - H - 27465519">
+Praktikum
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/stellenangebote-berufseinsteiger" title="Berufseinstieg" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Berufseinstieg - H - 27465522">
+Berufseinstieg
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/einstieg-berufserfahrene" title="Einstieg für Berufserfahrene" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Einstieg für Berufserfahrene - H - 27465525">
+Einstieg für Berufserfahrene
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/quereinstieg" title="Quereinstieg" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Quereinstieg - H - 27465528">
+Quereinstieg
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="3" data-menu-level2-id="4">
+<li class="_menuHeadline">
+<a href="https://www.axa.de/bewerbungstipps">Bewerbungstipps</a>
+<ul class="_headlineDescription">
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/bewerbung-faq" title="FAQs" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="FAQs - H - 27465537">
+FAQs
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/onboarding" title="Onboarding" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Onboarding - H - 27465540">
+Onboarding
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="3" data-menu-level2-id="5">
+<li class="_menuHeadline">
+<p>Kontakt</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/kontakt-recruiting" title="Kontakt Recruiting" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontakt Recruiting - H - 27465548">
+Kontakt Recruiting
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/events" title="Events" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Events - H - 27465551">
+Events
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="3" data-menu-level2-id="6" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+</div>
+</div>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="4" data-menu-level2-id="0">
+<li class="_menuHeadline">
+<p>Pressemitteilungen</p>
+<ul class="_headlineDescription">
+<li>Hier finden Sie die neuesten Meldungen im Überblick</li>
+<li>
+<a class="btn-link btn-link--arrow arrow-margin trackable" href="https://www.axa.de/presse" title="Aktuelle Pressemitteilungen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Aktuelle Pressemitteilungen - H - 29056909">
+Aktuelle Pressemitteilungen
+</a>
+</li>
+</ul>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/presse/pressemitteilungen-2026" title="2026" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="2026 - H - 29056914">
+2026
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/pressemitteilungen-2025" title="2025" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="2025 - H - 29056917">
+2025
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/pressemitteilungen-2024" title="2024" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="2024 - H - 29056920">
+2024
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/pressemitteilungen-2023" title="2023" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="2023 - H - 29056923">
+2023
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/pressemitteilungen-2022" title="2022" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="2022 - H - 29056926">
+2022
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="_level3Menu" data-menu-type="level3" data-menu-level1-id="4" data-menu-level2-id="1">
+<li class="_menuHeadline">
+<p>Mediathek</p>
+</li>
+<li>
+<ul class="_menuLevel3" data-menu-level="3">
+<li>
+<a class="trackable" href="https://www.axa.de/presse/mediathek/bilder" title="Bilder" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bilder - H - 8802848">
+Bilder
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/mediathek/audio" title="Audio" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Audio - H - 8802854">
+Audio
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/mediathek/studien-und-forschung" title="Studien und Forschung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Studien und Forschung - H - 8802866">
+Studien und Forschung
+</a>
+</li>
+<li>
+<a class="trackable" href="https://www.axa.de/presse/mediathek/daten-und-fakten" title="Daten und Fakten" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Daten und Fakten - H - 8802872">
+Daten und Fakten
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="4" data-menu-level2-id="2" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+</div>
+</div>
+<div class="_level4Menu" data-menu-type="level4" data-menu-level1-id="4" data-menu-level2-id="3" role="navigation" aria-label="">
+<div class="_menuLevel3" data-menu-level="3" role="list">
+</div>
+</div>
+<div class="_iconBar">
+<axa-theme theme="axa" css-path="/site/axa-de/resourceCached/2026-07-07_02/output/static/axa/css/standard.css">
+<axa-icon tabindex="0" role="button" aria-label="Untermenü schließen" name="common-functional-close" size="md" data-menu-flyout-close=""></axa-icon>
+</axa-theme>
+</div>
+</div>
+</nav>
+</header>
+<main>
+<div class="row container-h">
+<div class="col-12">
+<axa-breadcrumb aria-label="Brotkrumennavigation" role="navigation">
+<axa-breadcrumb-item>
+<a aria-label="Home" href="https://www.axa.de/" class="trackable" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Home - B - 7798864">Home
+</a>
+</axa-breadcrumb-item>
+</axa-breadcrumb>
+</div>
+</div>
+<script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                      "@id": "https://www.axa.de/",
+                      "name": "Startseite",
+                      "image": ""
+                      }
+                    }
+              ]
+            }
+    </script>
+<div class="hero-stage-wrapper"><axa-hero-stage theme="dark" variant="left-aligned" hide-gradient="true"><picture slot="image"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/documents_E1534638571/axade/ResponsiveImages/axa.de%20Produktion/29096100/marathon-nah-1920x540px.phone.jpg"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/documents_E995230700/axade/ResponsiveImages/axa.de%20Produktion/29096100/marathon-nah-1920x540px.tablet.jpg"> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E-198359496/29096100/marathon-nah-1920x540px.jpg"> <img data-lazy-load bb alt="Eine Frau geht sich mit der Zunge über die obere Zahnreihe und lacht." title="Zahnzusatzversicherung" class=""></picture><h1><axa-headline-intro><span slot="overline">Versicherungen von AXA</span>Das Alter sollte kein Risiko sein</axa-headline-intro></h1><div slot="navigation" class="stencil-ui-loading">
+<axa-button-group>
+<axa-button variant="hero" href="https://www.axa.de/risiko-alter" target="_self">Mehr erfahren</axa-button>
+<axa-button variant="secondary" href="https://bm.axa.eps.bookingtime.com/organization/f6hmfxnxLuEjfSLZikYiOikp6irKrkip/moduleConfig/5fmXRvdDLmBtATPR8ahkw9rG3ud1aHmB/start" target="_blank">Jetzt beraten lassen</axa-button>
+</axa-button-group>
+</div></axa-hero-stage></div><section class="pageArea">
+<div class="container-h text-center">
+<header>
+<h2>Aktuelle Themen im Fokus</h2>
+</header>
+</div>
+<div class="teasermulti">
+<div class="container-module">
+<div class="row">
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E-1223415030/29131191/privathaftpflichtversicherung.jpg"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E-1223415030/29131191/privathaftpflichtversicherung.jpg"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E-1223415030/29131191/privathaftpflichtversicherung.jpg"> <img data-lazy-load bb alt="Vier Freunde feiern zusammen in einem Zimmer." title="Privathaftpflichtversicherung: Rundumschutz für Sie" class=""></picture></figure>
+<p class="be-tag">Privathaftpflicht</p>
+<h3>Flexibler Schutz gegen Vermögens-, Sach- und Personenschäden</h3>
+<p>Mit unserer Privathaftpflichtversicherung sind Sie in jeder Lebenssituation optimal geschützt.</p><a title="Private Haftpflichtversicherung" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/haftpflicht/p/private-haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Privathaftpflichtversicherung - C - 29131196">Privathaftpflichtversicherung</a>
+</div>
+</article>
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E-775382543/29131199/hausratversicherung-540x300.jpg"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E-775382543/29131199/hausratversicherung-540x300.jpg"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E-775382543/29131199/hausratversicherung-540x300.jpg"> <img data-lazy-load bb alt="Ein junger Mann spielt Luftgitarre auf einem Wischmopp und springt dabei in die Luft" title="Hausratversicherung: Sicherheit für Ihr Zuhause" class=""></picture></figure>
+<p class="be-tag">Hausrat</p>
+<h3>Ihr Zuhause in sicheren Händen</h3>
+<p>Ob Wertvolles oder Liebgewonnenes: Mit der Hausratversicherung von AXA schützen Sie, was Ihnen am Herzen liegt. </p><a title="Informieren Sie sich jetzt zur Hausratversicherung von AXA" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/haus-wohnung/p/hausratversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Hausratversicherung  - C - 29131204">Hausratversicherung </a>
+</div>
+</article>
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E210681603/29131207/unfallversicherung-540x300.jpg"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E210681603/29131207/unfallversicherung-540x300.jpg"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E210681603/29131207/unfallversicherung-540x300.jpg"> <img data-lazy-load bb alt="Vier Menschen sitzen an einem Tisch, während ein Mann in einem gezeichneten Rollstuhl sitzt." title="Risikounfallversicherung" class=""></picture></figure>
+<p class="be-tag">Unfallversicherung</p>
+<h3>Sicherheit für den Fall der Fälle</h3>
+<p>Ein Unfall kann alles verändern. Mit der Unfallversicherung von AXA sind Sie und Ihre Familie finanziell auf der sicheren Seite.</p><a title="Informieren Sie sich jetzt zur Risikounfallversicherung von AXA" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/existenzsicherung/p/unfallversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Unfallversicherung - C - 29131212">Unfallversicherung</a>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
+<axa-interstitial-one-topic class="-ghost" variant="color1">
+<img slot="visual" src="/site/axa-de/get/params_E-939759267/13237305/xcalculator.png.pagespeed.ic.DBxeuGoZ6w.png" alt="Illustration einer Tarifberechnung mit Taschenrechner" title="Jetzt Tarife und Angebote berechnen"/>
+<axa-headline heading="subtitle" tag="h2" inline="false">Tarifrechner von AXA</axa-headline>
+<p>Hier erhalten Sie einen Überblick über die zahlreichen Berechnungsmöglichkeiten unserer Versicherungsprodukte. </p>
+<axa-button slot="cta" variant="secondary" inverted="" href="https://www.axa.de/tarif-und-angebotsuebersicht" target="_self">individuelle Tarife berechnen</axa-button>
+</axa-interstitial-one-topic><section class="pageArea">
+<div class="container-h text-center">
+<header>
+<h2>Online-Services &amp; Bescheinigungen </h2>
+</header>
+</div><article class="multipleEntriesArticles">
+<div class="container-module row">
+<div class="main-tile bg-ocean-blue -ghost">
+<div class="main-tile-content">
+<div class="h3">Kundenservice</div><div class="composedcontent-axa--ce--text-elemente-f-r-multiple-entries-articles" id="anker22928878">
+<div class="basecontent-text" id="anker22928879">
+<div>Über unseren Kundenservice-Bereich können Sie <strong>rund um die Uhr</strong> Ihre Versicherungsangelegenheiten regeln.</div>
+</div> </div>
+<div class="composedcontent-axa--ce--multiple-entries-articles-button-link" id="anker22972571">
+<a href="https://entry.axa.de/hilfe/selfservice/uebersicht" title="Alle Services" role="button" class="btn btn-secondary  trackable" target="_self" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Alle Services - C - 22972573">Alle Services</a> </div>
+</div>
+</div>
+<div class="tile-wrapper">
+<div class="tile">
+<div class="h3">Schadenmeldung</div>
+<p>Mit der AXA Schadenmeldung können Sie schnell Ihren Schaden melden – egal ob Sie selbst Versicherungsnehmer oder Geschädigter einer anderen Versicherung sind.</p><a href="https://entry.axa.de/schaden-melden" title="Zur Schadenmeldung" class="btn-link btn-link--arrow trackable" target="_blank" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Zur Schadenmeldung - C - 22928883">Zur Schadenmeldung</a>
+</div>
+<div class="tile">
+<div class="h3">Adresse ändern</div>
+<p>Sie sind umgezogen und möchten uns Ihre neue Adresse mitteilen? Ihre Adressänderung können Sie bequem über unser Formular beantragen.</p><a href="https://entry.axa.de/hilfe/selfservice/adresse/aendern" title="Zur Adressänderung" class="btn-link btn-link--arrow trackable" target="_blank" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Zur Adressänderung - C - 22928887">Zur Adressänderung</a>
+</div>
+<div class="tile">
+<div class="h3">Bankverbindung ändern</div>
+<p>Teilen Sie uns über unser Formular Ihre neue Bankverbindung mit.</p><a href="https://entry.axa.de/hilfe/selfservice/bankverbindung/aendern" title="Bankverbindung ändern" class="btn-link btn-link--arrow trackable" target="_blank" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bankverbindung ändern - C - 22928891">Bankverbindung ändern</a>
+</div>
+<div class="tile">
+<div class="h3">Versichertenkarte anfordern</div>
+<p>Neue Versichertenkarte für Ihre Krankenversicherung schnell, einfach und ohne Registrierung online anfordern.</p><a href="https://entry.axa.de/hilfe/selfservice/kranken/versichertenkarte/anfordern" title="Versichertenkarte anfordern" class="btn-link btn-link--arrow trackable" target="_blank" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Versichertenkarte anfordern - C - 22928895">Versichertenkarte anfordern</a>
+</div>
+</div>
+</div></article>
+</section><div class="interstitial2topic bg-halfs-interstitial2topic -ghost">
+<div class="container-slim row justify-content-center">
+<article class="col-12 col-lg-6 py-4 py-md-6 pr-lg-6 px-md-4 px-2 bg-bg-interstitial-box-default">
+<header class="mb-2">
+<p class="h2">Finden Sie einen Betreuer in Ihrer Nähe</p>
+</header>
+<div class="mb-4">
+<p>Unsere Experten beraten Sie in ganz Deutschland.</p>
+</div><a href="https://www.axa-betreuer.de/?AKTIONSCODE=14015D" title="Standort auswählen" role="button" class="btn btn-secondary  trackable" target="_blank" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Standort auswählen - C - 22929565">Standort auswählen</a>
+</article>
+<article class="col-12 col-lg-6 py-4 py-md-6 pl-lg-6 px-md-4 px-2 bg-bg-interstitial-box-right">
+<header class="mb-2">
+<p class="h2">Für Sie sind wir erreichbar</p>
+</header>
+<div class="mb-4">
+<p>Hier finden Sie alle Hotlines und Servicenummern. Sie erreichen uns auch via <a href="https://entry.axa.de/hilfe/?action=KONTAKT" title="Kontaktformular" target="_blank">Kontaktformular</a>.</p>
+</div><a title="Zu den Servicenummern" role="button" class="btn btn-secondary  trackable" target="_self" href="https://www.axa.de/kontakt/servicenummern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Servicenummern - C - 24142046">Servicenummern</a>
+</article>
+</div>
+</div>
+<section class="pageArea">
+<div class="container-h text-center">
+<header>
+<h2>Wissenswertes aus unseren Ratgebern</h2>
+</header>
+</div>
+<div class="teasermulti">
+<div class="container-module">
+<div class="row">
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E-1535425393/26290173/ratgeber-haftpflichtversicherung-540x300.png"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E-1535425393/26290173/ratgeber-haftpflichtversicherung-540x300.png"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E-1535425393/26290173/ratgeber-haftpflichtversicherung-540x300.png"> <img data-lazy-load bb alt="Mutter spielt mit Kind in der Wohnung" title="Ratgeber Haftpflicht von AXA" class=""></picture></figure>
+<h3>Haftpflicht</h3>
+<p>Unser Ratgeber mit zahlreichen Artikeln rund um die Privathaftpflicht: Eine Versicherung, die jeder haben sollte! </p><a title="Ratgeber Haftpflicht" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/haftpflicht/r/haftpflichtversicherung-ratgeber" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Haftpflicht - C - 26290178">Ratgeber Haftpflicht</a>
+</div>
+</article>
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E1594188700/26290180/ratgeber-kfz-540x300.png"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E1594188700/26290180/ratgeber-kfz-540x300.png"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E1594188700/26290180/ratgeber-kfz-540x300.png"> <img data-lazy-load bb alt="Zwei Freunde sind im Urlaub mit ihrem eigenen Auto unterwegs" title="Ratgeber KFZ von AXA" class=""></picture></figure>
+<h3>Auto &amp; Mobilität</h3>
+<p>Artikel zu Kfz-Versicherungen, Verkehrssicherheit, Zukunft der Mobilität und zahlreichen weiteren Themen finden Sie hier.</p><a title="Ratgeber KFZ" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/kfz/r/kfz-ratgeber#anker24157719" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber KFZ - C - 26290185">Ratgeber KFZ</a>
+</div>
+</article>
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E1904672451/26290187/ratgeber-bauen-und-wohnen-540x300.png"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E1904672451/26290187/ratgeber-bauen-und-wohnen-540x300.png"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E1904672451/26290187/ratgeber-bauen-und-wohnen-540x300.png"> <img data-lazy-load bb alt="Junges Paar ist zusammengezogen in eine neue Wohnung und glücklich" title="Ratgeber Haus und Wohnen von AXA " class=""></picture></figure>
+<h3>Haus &amp; Wohnen</h3>
+<p>Unser Ratgeber rund um Themen zum Schutz Ihres Eigenheims oder Ihrer Wohnung sowie Hausrat, Gebäude  und vieles mehr.</p><a title="Ratgeber Haus &amp; Wohnung" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/haus-wohnung/r/haus-wohnung-ratgeber" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Haus und Wohnen - C - 26290192">Ratgeber Haus und Wohnen</a>
+</div>
+</article>
+<article class="col-12 col-md-6 col-lg mb-4 mb-lg-0">
+<div>
+<figure class=" be-imageFigure"><picture> <source media="(min-width: 980px)" srcset="/site/axa-de/get/params_E901778972/26290194/ratgeber-altersvorsorge-540x300.png"> <source media="(min-width: 768px) and (max-width: 979px)" srcset="/site/axa-de/get/params_E901778972/26290194/ratgeber-altersvorsorge-540x300.png"> <source media="(max-width: 767px)" srcset="/site/axa-de/get/params_E901778972/26290194/ratgeber-altersvorsorge-540x300.png"> <img data-lazy-load bb alt="Frau relaxt am Strand in den Dünen" title="Ratgeber Altersvorsorge von AXA" class=""></picture></figure>
+<h3>Altersvorsorge</h3>
+<p>Entdecken Sie unsere Fokus-Themen zur privaten Altersvorsorge: Unverzichtbar für eine stabile finanzielle Zukunft. </p><a title="Ratgeber Altersvorsorge" class="btn-link btn-link--arrow trackable" target="_self" href="https://www.axa.de/pk/altersvorsorge/r/altersvorsorge-ratgeber" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ratgeber Altersvorsorge - C - 26290199">Ratgeber Altersvorsorge</a>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section><article class="interstitial1Topic bg-grey-200">
+<div class="container-module">
+<div class="row">
+<div class="col-12 col-lg-8 offset-lg-2 text-center">
+<header>
+<h2>Haben Sie noch Fragen?</h2>
+</header>
+<p>Alles über unsere Produkte und Services erfahren Sie auch in unserem Chatbot</p>
+<div class="row">
+<div class="col-md-6 offset-md-3 col-lg-6 offset-lg-3 mt-4 align-self-center">
+<p></p>
+<script type='module'>
+    document.addEventListener('DOMContentLoaded', () => {
+        const button = document.getElementById('chatbot-button-26686269');
+        
+        if (button) {
+            button.addEventListener('click', function (event) {
+                event.preventDefault();
+                const bus = window.EventBusInstance;
+                if (!bus) {
+                    console.warn("EventBusInstance not available.");
+                    return;
+                }
+                bus.emit("contact-widget-chat-open", { context: "axa" });
+            });
+        }
+    });
+</script>
+<a href="#" id="chatbot-button-26686269" class="btn btn-secondary trackable margintop-18" title="">
+Chatbot starten
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article><section class="pageArea withNoPadding"><axa-theme theme="axa" css-path=/site/axa-de/resourceCached/2026-07-07_02/output/static/axa/css/standard.css><axa-contact-widget teaser-headline="Fragen zu Services und Produkten?" teaser-text="Alles über unsere Produkte und Services erfahren Sie im Chat." teaser-cta-label="Chat starten" teaser-cta-continue-label="Chat fortsetzen" content-headline="Weitere Kontakte:" contact-headline="Ansprechpartner vor Ort" contact-cta-label="Berater finden" contact-cta-href="https://www.axa-betreuer.de" contact-description="" cta-target="_blank" chat-headline="AXA Chat" chat-source="https://entry.axa.de/hilfe/chat/overlay" chat-iframe-loading="lazy" chat-iframe-fetchpriority="high" chat-iframe-referrerpolicy="no-referrer" chat-iframe-sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-forms allow-downloads" chat-iframe-title="AXA Chat"><axa-accordion header="Telefon &amp; Beratung" headline-type="heading-1"><axa-contact-widget-content-wrapper slot="content"><axa-headline heading="heading-2"><div>Kundenservice:</div></axa-headline><axa-text size="body-1">Für Anliegen und Fragen zu bestehenden Verträgen</axa-text><axa-contact-widget-contact-multiline link-href="tel:022114841000" subline="Mo.-Fr. 8.00 - 18.00 Uhr">0221 148 41000</axa-contact-widget-contact-multiline><axa-headline heading="heading-2"><div>Angebots-Hotline:</div></axa-headline><axa-text size="body-1">Wenn Sie ein Vertragsangebot oder Beratung wünschen</axa-text><axa-contact-widget-contact-multiline link-href="tel:08003203205" subline="Mo.-Fr. 8.00 - 19.00 Uhr">0800 3203205</axa-contact-widget-contact-multiline><axa-text size="body-1">Sie haben gerade keine Zeit? Hier einfach einen Termin für Ihr Angebot buchen</axa-text><axa-button variant="secondary" href="https://bm.axa.eps.bookingtime.com/organization/f6hmfxnxLuEjfSLZikYiOikp6irKrkip/moduleConfig/5fS22NklKQPymXVi4BWSV4RXj2eboNpp/templates" target="_blank" title="Jetzt Termin vereinbaren">Jetzt Termin vereinbaren</axa-button></axa-contact-widget-content-wrapper></axa-accordion><axa-accordion header="Schaden melden" headline-type="heading-1"><axa-contact-widget-content-wrapper slot="content"><axa-headline heading="heading-2"><div>Schaden telefonisch melden</div></axa-headline><axa-contact-widget-contact-multiline link-href="tel:08002920333" subline="Kostenlose 24h-Schaden-Hotline">0800 2920333</axa-contact-widget-contact-multiline><axa-text size="body-1">Mit der AXA Online-Schadenmeldung können Sie Ihren Schaden schnell und einfach melden</axa-text><axa-button variant="secondary" href="https://entry.axa.de/schaden-melden" target="_blank" title="">Online-Schadenmeldung</axa-button><axa-headline heading="heading-2"><div>Jetzt Vorteile nutzen mit unserem schadenservice360°</div></axa-headline><axa-link-list><axa-link href="https://www.axa.de/schadenservice-360">schadenservice360°</axa-link></axa-link-list></axa-contact-widget-content-wrapper></axa-accordion></axa-contact-widget></axa-theme></section>
+<div class="container">
+<div class="row socialMedia">
+<div class="col-12 col-md-6 col-lg-6 container-module order-1 order-md-0">
+</div>
+<div class="col-12 col-md-6 col-lg-6 container-module  order-0 order-md-1">
+</div>
+</div>
+</div>
+</main>
+<axa-footer>
+<axa-footer-navigation slot="navigation" header="Beliebte Versicherungen">
+<axa-link inverted="" no-icon="" href="https://www.axa.de/pk/haus-wohnung/p/hausratversicherung" class="py-md-0 px-md-0 trackable" title="Hausratversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Hausratversicherung - F - 8140210">Hausratversicherung</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/pk/existenzsicherung/p/berufsunfaehigkeitsversicherung" class="py-md-0 px-md-0 trackable" title="Berufsunfähigkeitsversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Berufsunfähigkeitsversicherung - F - 7941726">Berufsunfähigkeitsversicherung</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/pk/haus-wohnung/p/gebaeudeversicherung" class="py-md-0 px-md-0 trackable" title="Gebäudeversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Gebäudeversicherung - F - 8141073">Gebäudeversicherung</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/pk/haftpflicht/p/private-haftpflichtversicherung" class="py-md-0 px-md-0 trackable" title="Private Haftpflichtversicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Private Haftpflichtversicherung - F - 7936409">Private Haftpflichtversicherung</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/pk/kfz/p/kfz-versicherung" class="py-md-0 px-md-0 trackable" title="Kfz-Versicherung" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kfz-Versicherung - F - 8132839">Kfz-Versicherung</axa-link>
+</axa-footer-navigation>
+<axa-footer-navigation slot="navigation" header="Services">
+<axa-link inverted="" no-icon="" href="https://entry.axa.de/hilfe/selfservice/adresse/aendern" target="_blank" class="py-md-0 px-md-0 trackable" title="Adresse ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Adresse ändern - F - 13194500" aria-label="Adresse ändern öffnet sich in einem neuen Tab">Adresse ändern</axa-link>
+<axa-link inverted="" no-icon="" href="https://entry.axa.de/hilfe/selfservice/bankverbindung/aendern" target="_blank" class="py-md-0 px-md-0 trackable" title="Bankverbindung ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Bankverbindung ändern - F - 13093420" aria-label="Bankverbindung ändern öffnet sich in einem neuen Tab">Bankverbindung ändern</axa-link>
+<axa-link inverted="" no-icon="" href="https://entry.axa.de/hilfe/selfservice/nachname/aendern" target="_blank" class="py-md-0 px-md-0 trackable" title="Namen ändern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Namen ändern - F - 15114300" aria-label="Namen ändern öffnet sich in einem neuen Tab">Namen ändern</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/service-apps" class="py-md-0 px-md-0 trackable" title="Service Apps" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Service Apps - F - 8026085">Service Apps</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/versicherungslexikon" class="py-md-0 px-md-0 trackable" title="Versicherungslexikon" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Versicherungslexikon - F - 8165224">Versicherungslexikon</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/freundewerben" class="py-md-0 px-md-0 trackable" title="Kunden werben Kunden" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Freunde werben - F - 7923719">Freunde werben</axa-link>
+</axa-footer-navigation>
+<axa-footer-navigation slot="navigation" header="Kontakt">
+<axa-link inverted="" no-icon="" href="https://www.axa.de/schadenservice-360/schadenmeldung" class="py-md-0 px-md-0 trackable" title="Hilfe im Schadensfall" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Hilfe im Schadensfall - F - 7922045">Hilfe im Schadensfall</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/site/axade/redirect/Selfservice-Kontakt" target="_blank" class="py-md-0 px-md-0 trackable" title="Kontaktformular" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Kontaktformular - F - 13061896" aria-label="Kontaktformular öffnet sich in einem neuen Tab">Kontaktformular</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa-betreuer.de/" target="_blank" class="py-md-0 px-md-0 trackable" title="Ansprechpartner vor Ort" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Ansprechpartner vor Ort - F - 13061862" aria-label="Ansprechpartner vor Ort öffnet sich in einem neuen Tab">Ansprechpartner vor Ort</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/kontakt/servicenummern" class="py-md-0 px-md-0 trackable" title="Servicenummern" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Servicenummern - F - 8026201">Servicenummern</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/kontakt/adressen" class="py-md-0 px-md-0 trackable" title="Adressen" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Adressen - F - 8026206">Adressen</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/kontakt/beschwerdemanagement" class="py-md-0 px-md-0 trackable" title="Lob & Kritik" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Lob & Kritik - F - 8026216">Lob & Kritik</axa-link>
+</axa-footer-navigation>
+<axa-footer-navigation slot="navigation" header="Rechtliche Informationen">
+<axa-link inverted="" no-icon="" href="https://www.axa.de/impressum" class="py-md-0 px-md-0 trackable" title="Impressum" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Impressum - F - 8043868">Impressum</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/datenschutz" class="py-md-0 px-md-0 trackable" title="Datenschutz & Cookies" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Datenschutz & Cookies - F - 8043938">Datenschutz & Cookies</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/nutzungshinweise" class="py-md-0 px-md-0 trackable" title="Nutzungshinweise" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Nutzungshinweise - F - 8044064">Nutzungshinweise</axa-link>
+<axa-link inverted="" no-icon="" href="https://www.axa.de/erklaerung-zur-barrierefreiheit" class="py-md-0 px-md-0 trackable" title="Erklärung zur Barrierefreiheit / AXA" data-vars-event-category="click" data-vars-event-action="navigation" data-vars-event-label="Barrierefreiheit - F - 27621407">Barrierefreiheit</axa-link>
+</axa-footer-navigation>
+<axa-social-media-bar slot="social-media" inverted="">
+<axa-headline heading="heading-2" slot="headline">AXA IN SOCIAL MEDIA</axa-headline>
+<axa-social-media-bar-item type="facebook" title="Folge AXA Deutschland auf Facebook" href="https://www.facebook.com/AXA.de" target="_blank">
+Facebook
+</axa-social-media-bar-item>
+<axa-social-media-bar-item type="linkedin" title="Folge AXA Deutschland auf LinkedIn" href="https://www.linkedin.com/company/axa" target="_blank">
+LinkedIn
+</axa-social-media-bar-item>
+<axa-social-media-bar-item type="youtube" title="Folge AXA Deutschland auf YouTube" href="https://www.youtube.com/user/AXADeutschland" target="_blank">
+YouTube
+</axa-social-media-bar-item>
+<axa-social-media-bar-item type="instagram" title="Folge AXA Deutschland auf Instagram" href="https://www.instagram.com/axa_deutschland/" target="_blank">
+Instagram
+</axa-social-media-bar-item>
+</axa-social-media-bar>
+<axa-button slot="revoke-button" small="" href="https://www.axa.de/redirect/widerruf" target="_blank" variant="secondary" inverted="">Vertrag widerrufen</axa-button>
+<div slot="copy">
+<span> © AXA Konzern AG, Köln. Alle Rechte vorbehalten.</span>
+</div>
+</axa-footer>
+</div>
+<script>var resourceCachedUri="/site/axa-de/resourceCached/2026-07-07_02";var agencysearchfilter="AXA";var betreuersucheBaseUrl="https://www.axa-betreuer.de";var aktionscode_from_session="14015D";var googleapisversion="3.45"</script>
+<script>var YTURL="https://www.axa-video.de/yt/youtube-ssl.html?videoId=";</script>
+<script src="/site/axa-de/resourceCached/2026-07-07_02/standard/assets/js/standard.js.pagespeed.jm.M6la4KwfMY.js"></script>
+<script type="module">
+    // ESM-Bundle importieren
+
+    await import('/site/axa-de/resourceCached/2026-07-07_02/output/ui-stencil/dist/axa-design-system/axa-design-system.esm.js');
+    await import('/site/axa-de/resourceCached/2026-07-07_02/output/ui-snowflakes/dist/axa-snowflakes/axa-snowflakes.esm.js');
+
+    const stencilUiLoadingElements = document.querySelectorAll('.stencil-ui-loading');
+    stencilUiLoadingElements.forEach(el => el.classList.remove('stencil-ui-loading'));
+</script>
+<script src="/site/axa-de/resourceCached/2026-07-07_02/accordion,_assets,_js,_accordion.js+axa_rechenschieber,_accounting.min.js.pagespeed.jc.wsuoBivUaF.js"></script><script>eval(mod_pagespeed_5hQrsPss$G);</script> <script>eval(mod_pagespeed_rRIPqUGfXz);</script> <script src="/site/axa-de/resourceCached/2026-07-07_02/axa_rechenschieber/bootstrap-slider.min.js.pagespeed.jm.rTev9H02fb.js"></script> <script src="/site/axa-de/resourceCached/2026-07-07_02/axa_rechenschieber,_plugin.js+breadcrumb,_assets,_js,_breadcrumb.js+editortools,_pb_assets,_js,_editortools.js+footer,_assets,_js,_footer.js+gesundheitsservice,_assets,_js,_gesundheitsservice.js.pagespeed.jc.g2mIuLsI9N.js"></script><script>eval(mod_pagespeed_Prhrnm7o48);</script>
+<script>eval(mod_pagespeed_IUgKzZjrdt);</script>
+<script>eval(mod_pagespeed_xE7eCswWmf);</script> <script>eval(mod_pagespeed_jb5DWK1UZz);</script> <script>eval(mod_pagespeed_p8ZfnQwaXv);</script> <script src="/site/axa-de/resourceCached/2026-07-07_02/header/assets/js/header.js"></script> <script src="/site/axa-de/resourceCached/2026-07-07_02/headerLight,_assets-imperia,_js,_pb_headerLight.js+assets,_js,_jquery,_jquery.mCustomScrollbar.concat.min.js+mab,_assets,_js,_mab.js+assets,_js,_globals.js+mab,_assets-imperia,_js,_pb_mab.js.pagespeed.jc.SRc0CFbyig.js"></script><script>eval(mod_pagespeed_Cj$RfIrhCi);</script> <script>eval(mod_pagespeed_1y6TVJzTMQ);</script> <script>eval(mod_pagespeed_nKSXPQODdg);</script> <script>eval(mod_pagespeed_QFMqQWwU7E);</script> <script>eval(mod_pagespeed_JwGx80HnRs);</script>
+<script src="/site/axa-de/resourceCached/2026-07-07_02/gallery,_assets,_js,_gallery.js+multipleEntriesArticles,_assets,_js,_multipleEntriesArticles.js.pagespeed.jc.EurVPX3Gqh.js"></script><script>eval(mod_pagespeed_asJ$pibb1N);</script> <script>eval(mod_pagespeed_taYV4GsWnk);</script> <script src="/site/axa-de/resourceCached/2026-07-07_02/pressarchive,_assets,_js,_pressarchive.js+preventLoadPhoneAppInDesktopView,_assets,_js,_preventLoadPhoneAppInDesktopView.js+rating,_assets,_js,_rating.js+rating,_plugin.js+stage,_assets,_js,_stage.js+teasermulti,_assets,_js,_teasermulti.js+topContentBar,_assets,_js,_topContentBar.js+search,_assets,_js,_search.js.pagespeed.jc.tTuj3A0Y9x.js"></script><script>eval(mod_pagespeed_6kczdbXUup);</script> <script>eval(mod_pagespeed_PE81iYPnGt);</script> <script>eval(mod_pagespeed_WgusfdnRYO);</script> <script>eval(mod_pagespeed_78P3PrY8_t);</script> <script>eval(mod_pagespeed_sroHFvvQWK);</script> <script>eval(mod_pagespeed_f$4L1N4Xo9);</script> <script>eval(mod_pagespeed_ZZEGKsC781);</script>
+<script>eval(mod_pagespeed__7PoPVWfM_);</script> <script src="/site/axa-de/resourceCached/2026-07-07_02/search-autocomplete,_cms_autocomplete.js+search,_cms_search.js+mediathek,_assets,_js,_mediathek.js+backToTopButton,_assets-imperia,_js,_pb_topBtn.js+notification,_assets,_js,_notification.js+searchRepairshop,_assets,_js,_searchRepairshop.js+searchRepairshopEVT,_assets,_js,_searchRepairshopEVT.js+socialMedia,_assets,_js,_shariff.min.js+socialMedia,_assets,_js,_socialMedia.js.pagespeed.jc.4_Mz7KENE8.js"></script><script>eval(mod_pagespeed_HjU0k2tjTY);</script> <script>eval(mod_pagespeed_VyEm7aECtp);</script> <script>eval(mod_pagespeed_ftyzn74mmW);</script>
+<script>eval(mod_pagespeed_0JPigGv5Ou);</script> <script>eval(mod_pagespeed_9Lm0UGWkqf);</script>
+<script>eval(mod_pagespeed_46enGjCPSh);</script> <script>eval(mod_pagespeed_iMLEf0oPRZ);</script> <script>eval(mod_pagespeed_wYswZf4aGA);</script> <script>eval(mod_pagespeed_W45ZNR0AgY);</script>
+<input id="googleapisVersion" value="3.45"/>
+<input id="googleMapsApiKey" value="AIzaSyAkCpCKyAR0i0qwcicve8dLoPRcWIFrx0s"/>
+<input id="googlechannel" value="AXADE.Betreuer.Suche"/>
+<script src="/site/axa-de/resourceCached/2026-07-07_02/assets,_js,_googlesearches,_acceptGoogleMaps.js+assets,_js,_googlesearches,_loadScript.js+assets,_js,_googlesearches,_latLng.js+assets,_js,_googlesearches,_basic.js+assets,_js,_googlesearches,_acceptGoogleMaps.js+assets,_js,_googlesearches,_loadScript.js+assets,_js,_googlesearches,_latLng.js+assets,_js,_agencysearch,_initmab.js+productRecommendation,_assets-imperia,_js,_pb_standalone.js.pagespeed.jc.w2wX5wELAe.js"></script><script>eval(mod_pagespeed_o9L92eFxDy);</script>
+<script>eval(mod_pagespeed_qeS_YJUCEF);</script>
+<script>eval(mod_pagespeed_X2B1YtMw3e);</script>
+<script>eval(mod_pagespeed_AhLOCB3qnl);</script>
+<script>eval(mod_pagespeed_o9L92eFxDy);</script> <script>eval(mod_pagespeed_qeS_YJUCEF);</script> <script>eval(mod_pagespeed_X2B1YtMw3e);</script> <script>eval(mod_pagespeed_lV_bmzi8Zm);</script>
+<script>eval(mod_pagespeed_PIFMLGa_Dd);</script> </body>
+</html>

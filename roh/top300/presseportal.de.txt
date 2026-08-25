@@ -1,0 +1,29 @@
+# robots.txt
+# Server: presseportal.de
+# last change: 2026-08-19 automatic
+
+#Sitemaps
+Sitemap: https://www.presseportal.de/sitemaps/stories/month/sitemap-de-index-stories-blaulicht.xml
+Sitemap: https://www.presseportal.de/sitemaps/stories/month/sitemap-de-index-stories-portal.xml
+Sitemap: https://www.presseportal.de/sitemaps/stories/month/sitemap-de-index-stories-newsroom.xml
+Sitemap: https://www.presseportal.de/sitemaps/stories/month/sitemap-de-index-stories-voices.xml
+Sitemap: https://www.presseportal.de/sitemaps/keywords/sitemap-de-index-keywords.xml
+Sitemap: https://www.presseportal.de/sitemaps/newsrooms/sitemap-de-index-newsrooms.xml
+Sitemap: https://www.presseportal.de/sitemaps/latest-news/sitemap-de-latestnews.xml
+Sitemap: https://www.presseportal.de/sitemaps/topics/sitemap-de-topics.xml
+Sitemap: https://www.presseportal.de/sitemaps/cities/sitemap-de-index-cities.xml
+
+
+User-agent: BurdaForward
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+
+User-agent: *
+Disallow: /images/
+Disallow: /text/
+
+
+

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/*
+Disallow: /wp-includes/*
+Disallow: /*?
+Disallow: /fileadmin/*
+Sitemap: https://www.cas.de/sitemap.xml

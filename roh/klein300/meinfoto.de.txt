@@ -1,0 +1,132 @@
+# robots.txt for meinfoto.de
+# CMS: Picturator / JSF
+# Last updated: 2026-04-21
+
+# --- AI / LLM crawlers: explicitly allowed (full access including PDFs) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+# --- All search engines and other crawlers ---
+User-agent: *
+
+# Picturator system paths (upload tools, configurator, session order URLs)
+Disallow: /singleupload.jsf
+Disallow: /simpleupload.jsf
+Disallow: /konfigurator/
+Disallow: /configurator/
+Disallow: /*ordernumber*
+Disallow: /*.pdf$
+
+# Tracking parameters (UTM, ad platform click IDs, email campaign IDs)
+Disallow: /*?utm_
+Disallow: /*?gclid=
+Disallow: /*?fbclid=
+Disallow: /*?msclkid=
+Disallow: /*?mc_cid=
+Disallow: /*?mc_eid=
+Disallow: /*?srsltid=
+
+# Internal search
+Disallow: /*?s=
+Disallow: /*?q=
+Disallow: /*?search=
+
+# Static resources must remain crawlable (preserving legacy allows)
+Allow: /java/
+Allow: /banner/
+Allow: /css/
+Allow: /staticimages/
+Allow: /jquery/
+Allow: /dynamicimage/
+Allow: /components/
+Allow: /assets/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.ico$
+Allow: /*.woff$
+Allow: /*.woff2$
+
+# --- Block noisy / low-value crawlers ---
+User-agent: startmebot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: Domain Re-Animator Bot
+Disallow: /
+
+User-agent: Digincore crawler bot
+Disallow: /
+
+User-agent: SafeDNSBot
+Disallow: /
+
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: seoscanners.net
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: JobboerseBot
+Disallow: /
+
+# --- Sitemaps ---
+Sitemap: https://www.meinfoto.de/sitemap.xml

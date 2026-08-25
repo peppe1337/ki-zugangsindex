@@ -1,0 +1,65 @@
+User-agent: *
+Disallow: /captcha/
+Disallow: /_flash/
+Disallow: /config/
+Disallow: /functions/
+Disallow: /templates/
+Disallow: /*print=on
+Disallow: /*?ical=true
+Disallow: /*?iCalendar=on
+Disallow: /login/
+Disallow: /tv-programm/sendungen/wiederholungen.html*
+
+# ===========================================
+# Blocked AI crawlers used for model training
+# ===========================================
+User-agent: Amazonbot
+Disallow: /
+User-agent: Anchor Browser
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Google-CloudVertexBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: meta-externalagent
+Disallow: /
+User-agent: Novellum
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: ProRataInc
+Disallow: /
+User-agent: Timpibot
+Disallow: /
+User-agent: FriendlyCrawler
+Disallow: /
+
+# ===========================================
+# Allowed AI crawlers (chat interfaces, search,
+# or explicit exceptions like Google-Extended, Alexa)
+# ===========================================
+#Googlebot
+#Bingbot
+#ChatGPT-User
+#Claude-SearchBot
+#Claude-User
+#Applebot
+#PerplexityBot
+#OAI-SearchBot
+#archive.org_bot
+#DuckAssistBot
+#MistralAI-User
+#Manus Bot
+#Perplexity-User
+#Google-Extended
+#AlexaWebCrawler
+#AlexaCrawler
+#Meta-ExternalFetcher

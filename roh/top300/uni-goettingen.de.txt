@@ -1,0 +1,27 @@
+# robots.txt zu http://www.uni-goettingen.de
+
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /admin/bilder/
+Disallow: /docs/
+Disallow: /downloads/
+Disallow: /storage/docs/
+Disallow: /storage/downloads/
+Disallow: /storage/pictures/
+Disallow: /storage/upload/
+Disallow: /storage/userdata/
+Disallow: /error.php
+Disallow: /index.php
+Disallow: /verify.php
+
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+User-agent: DataForSeoBot
+Disallow: /
+

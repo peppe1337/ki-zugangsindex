@@ -1,0 +1,2811 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	TYPO3 Website - Powered by Communiacs - www.communiacs.de
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>404 - Seite nicht gefunden | Stadt Passau</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="robots" content="noindex,follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:image" content="https://www.passau.de/typo3conf/ext/theme/Resources/Public/Assets/img/opengraph.png" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/theme/Resources/Public/Assets/css/app.1784108263.css" media="all">
+<link href="/typo3conf/ext/theme/Resources/Public/Assets/css/vendors/swiper-style.1784108263.css" rel="stylesheet" >
+<link href="/typo3conf/ext/theme/Resources/Public/Assets/css/extensions/weather/modules/weather.1784108263.css" rel="stylesheet" >
+
+
+
+
+
+
+    <link href='/typo3conf/ext/theme/Resources/Public/Assets/fonts/icomoon/icomoon.woff?t078u1' rel='preload' as='font' crossorigin='crossorigin' type='font/woff'>
+    <link href='/typo3conf/ext/theme/Resources/Public/Assets/fonts/icomoon/icomoon.ttf?t078u1' rel='preload' as='font' crossorigin='crossorigin' type='font/ttf'>    <script>    window.communiacs_loader = {};
+    window.communiacs_loader.options = {};    window.communiacs_loader.options.typekitKey = '';    </script>
+<link rel="icon" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon.png">
+<link rel="icon" type="image/png" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon-16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon-24.png" sizes="24x24">
+<link rel="icon" type="image/png" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/favicon-96.png" sizes="96x96">
+
+<link rel="icon" sizes="36x36" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-36x36.png">
+<link rel="icon" sizes="48x48" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-48x48.png">
+<link rel="icon" sizes="72x72" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-72x72.png">
+<link rel="icon" sizes="96x96" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-96x96.png">
+<link rel="icon" sizes="144x144" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-144x144.png">
+<link rel="icon" sizes="192x192" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/android-icon-192x192.png">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/apple-icon-180x180.png">
+
+<link rel="mask-icon" sizes="any" href="/typo3conf/ext/theme/Resources/Public/Assets/favicons/safari-pinned-tab.svg">
+
+<meta name="msapplication-square70x70logo" content="/typo3conf/ext/theme/Resources/Public/Assets/favicons/ms-icon-70x70.png">
+<meta name="msapplication-square144x144logo" content="/typo3conf/ext/theme/Resources/Public/Assets/favicons/ms-icon-144x144.png">
+<meta name="msapplication-square310x310logo" content="/typo3conf/ext/theme/Resources/Public/Assets/favicons/ms-icon-310x310.png">
+<meta name="msapplication-square70x70logo" content="/typo3conf/ext/theme/Resources/Public/Assets/favicons/ms-icon-70x70.png">
+
+
+
+</head>
+<body class="page-502 language-0 level-1 template-default transition-preload">
+<div class="page" id="readspeakerContent">
+  <!-- header -->
+
+  <header class="page__header ">
+    
+        <div class="header__top ">
+          <div class="right-part">
+            <span class="print-website">
+              <a href="javascript:window.print()"><span class="icon icon-print-before"></span>
+                Seite drucken
+              </a>
+            </span>
+            
+              
+
+
+    <span class="english-version">
+        <a href="https://tourism.passau.de/" target="_blank">
+            <span class="icon icon-extern-link-before"></span>
+            English
+        </a>
+    </span>
+
+
+
+
+
+
+            
+            
+                <span class="light-language ">
+                  <a href="/leichte-sprache/"><span class="icon icon-light-site-before"></span>
+                    Leichte Sprache
+                  </a>
+                </span>
+              
+          </div>
+        </div>
+      
+
+    <div class="header__main  ">
+      <div class="passau-logo">
+        <a href="/" aria-label="Zur Startseite" title="Zur Startseite"><img src="/typo3conf/ext/theme/Resources/Public/Assets/img/passauLogo.png" width="1440" height="463"   alt="Passau - Die Drei Flüsse Stadt" ></a>
+      </div>
+
+      <div class="module-searchbox">
+        <form method="post" action="/suche/?tx_indexedsearch_pi2%5Baction%5D=search&amp;tx_indexedsearch_pi2%5Bcontroller%5D=Search&amp;cHash=fc0aca7586fcce3c90209dec5ace4f98">
+<div>
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@extension]" value="Theme" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@controller]" value="Standard" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@action]" value="index" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][arguments]" value="YTowOnt9e859ca675c39d36e6dd80cbab92f9411206071fa" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@request]" value="{&quot;@extension&quot;:&quot;Theme&quot;,&quot;@controller&quot;:&quot;Standard&quot;,&quot;@action&quot;:&quot;index&quot;}88ff3b5f07e70bd59d1b0df70b2b23221e6377dd" />
+<input type="hidden" name="tx_indexedsearch_pi2[__trustedProperties]" value="{&quot;search&quot;:{&quot;sword&quot;:1}}bbf7757193efd483f9bb25d48d5060c63eb4f9f2" />
+</div>
+
+        <div class="form-group">
+          <div class="input">
+            <input placeholder="Suche" id="search-word" type="text" name="tx_indexedsearch_pi2[search][sword]" />
+          </div>
+        </div>
+        <button aria-label="Search" type="submit" class="search-icon icon-search-after"></button>
+        </form>
+      </div>
+      <div class="module-searchbox-mobile">
+        <span class="search-icon-mobile icon-search-after "></span>
+        <span class="searchbox-placeholder bold">
+          Suche
+        </span>
+      </div>
+
+      <div class="module-nav module-nav--hamburger">
+        <div class="hamburger__label bold"><span>
+            Menü
+          </span></div>
+        <div class="hamburger__icon">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </div>
+      </div>
+      <div class="module-nav-wrapper">
+        <div class="module-nav--header">
+          <div class="left-part">
+            <div class="header-label">
+              Aktuelle Seite
+            </div>
+            <div class="current-page">404 - Seite nicht gefunden</div>
+          </div>
+          <div class="right-part">
+            <span class=" icon-close-before close-button"></span>
+          </div>
+        </div>
+        <div class="module-nav--middle">
+          <nav class="module-nav module-nav--main menu-aim">
+            
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  ">
+                <a href="/aktuelles/">
+                    <span>Aktuelles</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl2">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/aktuelles/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Aktuelles
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/alle-nachrichten-aus-passau/">
+                    <span>Alle Nachrichten aus Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/verkehrs-und-busmeldungen/">
+                    <span>Verkehrs- und Busmeldungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/aktuelles/veranstaltungen/">
+                    <span>Veranstaltungen</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/aktuelles/veranstaltungen/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Veranstaltungen
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/veranstaltungen/veranstaltungskalender/">
+                    <span>Veranstaltungskalender</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/veranstaltungen/veranstaltungskalender/veranstaltung-eintragen/">
+                    <span>Veranstaltung eintragen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/bekanntmachungen/">
+                    <span>Bekanntmachungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/ausschreibungen-nach-vergaberecht/">
+                    <span>Ausschreibungen nach Vergaberecht</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  ">
+                <a href="/rathaus-buergerservice/">
+                    <span>Rathaus &amp; Bürgerservice</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl2">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Rathaus &amp; Bürgerservice
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/dienstleistungen/">
+                    <span>Dienstleistungen</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/dienstleistungen/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Dienstleistungen
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/dienstleistungen/lebenslagen/">
+                    <span>Lebenslagen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/dienstleistungen/a-z/">
+                    <span>A-Z</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.bayernportal.de/dokumente/behoerde/39220431386/leistungen?rekursiv=true&amp;plz=94032&amp;behoerde=39220431386&amp;gemeinde=884967555699" external="true" target="_blank">
+                    <span>Bayern Portal</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://ratsinfo.passau.de/" external="true" target="_blank">
+                    <span>Ratsinformationssystem der Stadt Passau</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/karriere/">
+                    <span>Karriere</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/karriere/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Karriere
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/karriere/ausbildung-studium/">
+                    <span>Ausbildung &amp; Studium</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.mein-check-in.de/passau" external="true" target="_blank">
+                    <span>Stellenausschreibungen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/buergerservice/">
+                    <span>Bürgerservice</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/buergerservice/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Bürgerservice
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://termine-reservieren.de/termine/passau/?rs" external="true" target="_blank">
+                    <span>Terminvereinbarung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/downloadcenter/">
+                    <span>Downloadcenter</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/buergermelder/">
+                    <span>Bürgermelder</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://ratsinfo.passau.de/" external="true" target="_blank">
+                    <span>Ratsinformationssystem</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/webcam/">
+                    <span>Webcam</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/stadtplan/">
+                    <span>Stadtplan</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/dienstleistungen/a-z/zivil-und-katastrophenschutz/">
+                    <span>Zivil- und Katastrophenschutz</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/">
+                    <span>Rathaus-Wegweiser</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Rathaus-Wegweiser
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/dienststellen-von-a-z/">
+                    <span>Dienststellen von A-Z</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/">
+                    <span>Stabsstellen</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Stabsstellen
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/buero-des-oberbuergermeisters-pressestelle/">
+                    <span>Büro des Oberbürgermeisters, Pressestelle</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/rechnungspruefungsamt/">
+                    <span>Rechnungsprüfungsamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/gleichstellungsstelle/">
+                    <span>Gleichstellungsstelle</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stabsstellen/wirtschaft-und-unternehmensentwicklung/">
+                    <span>Wirtschaft und Unternehmensentwicklung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/wirtschaft-bildung/passau-tourismus-und-stadtmarketing/">
+                    <span>Passau Tourismus und Stadtmarketing</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/wirtschaft-bildung/veranstaltungen/">
+                    <span>Veranstaltungen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/">
+                    <span>Finanzen &amp; Personal</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Finanzen &amp; Personal
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/hauptamt/">
+                    <span>Hauptamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/personalamt/">
+                    <span>Personalamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/kaemmerei-beteiligungscontrolling/">
+                    <span>Kämmerei, Beteiligungscontrolling</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/kasse/">
+                    <span>Kasse</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/liegenschaften/">
+                    <span>Liegenschaften</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/finanzen-und-personal/gebaeudeservice/">
+                    <span>Gebäudeservice</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/ordnung-sicherheit/">
+                    <span>Ordnung &amp; Sicherheit</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/ordnung-sicherheit/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Ordnung &amp; Sicherheit
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/ordnung-sicherheit/amt-fuer-oeffentliche-ordnung/">
+                    <span>Amt für öffentliche Ordnung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/ordnung-sicherheit/buergerbuero-und-wahlen/">
+                    <span>Bürgerbüro und Wahlen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/ordnung-sicherheit/standesamt-und-bestattungswesen/">
+                    <span>Standesamt und Bestattungswesen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/">
+                    <span>Kultur &amp; Bildung</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Kultur &amp; Bildung
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/kultur/">
+                    <span>Kulturamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/museum-und-veste-oberhaus/">
+                    <span>Museum und Veste Oberhaus</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/theater-und-redoute/">
+                    <span>Theater und Redoute</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/kultur-bildung/archaeologie-und-roemermuseum/">
+                    <span>Archäologie und Römermuseum</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/wirtschaft-bildung/schulen-und-sport/">
+                    <span>Schulen und Sport</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/">
+                    <span>Bau &amp; Umwelt</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Bau &amp; Umwelt
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/hochbauamt/">
+                    <span>Hochbauamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/bauhof/">
+                    <span>Bauhof</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/strassen-und-brueckenbau/">
+                    <span>Straßen- und Brückenbau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/stadtentwaesserung/">
+                    <span>Stadtentwässerung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/gaertnerei/">
+                    <span>Gärtnerei</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/bau-umwelt/umweltschutz-und-klima/">
+                    <span>Umweltschutz und Klima</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/">
+                    <span>Stadtentwicklung &amp; Mobilität</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Stadtentwicklung &amp; Mobilität
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/stadtplanung/">
+                    <span>Stadtplanung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/verkehrsplanung/">
+                    <span>Verkehrsplanung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/bauordnungsamt-/-bauverwaltung/">
+                    <span>Bauordnungsamt / Bauverwaltung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/stadtentwicklung-mobilitaet/bauverwaltung/">
+                    <span>Bauverwaltung</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/">
+                    <span>Soziales &amp; Senioren</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Soziales &amp; Senioren
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/amt-fuer-kinder-jugend-und-familie/">
+                    <span>Amt für Kinder, Jugend und Familie</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/sozialamt/">
+                    <span>Sozialamt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/stiftungen/">
+                    <span>Stiftungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/rathaus-wegweiser/soziales-senioren/rechtsamt-vergabestelle-und-universitaetsangelegenheiten/">
+                    <span>Rechtsamt, Vergabestelle und Universitätsangelegenheiten</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/rathaus-buergerservice/politik/">
+                    <span>Politik</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/rathaus-buergerservice/politik/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Politik
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/oberbuergermeister-und-stellvertreter/">
+                    <span>Oberbürgermeister und Stellvertreter</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/stadtrat-sitzungen/">
+                    <span>Stadtrat &amp; Sitzungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/stadtrecht-satzungen-verordnungen/">
+                    <span>Stadtrecht (Satzungen &amp; Verordnungen)</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/wahlen/">
+                    <span>Wahlen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/live-stream-stadtratssitzungen/">
+                    <span>Live-Stream Stadtratssitzungen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  ">
+                <a href="/stadtleben/">
+                    <span>Stadtleben</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl2">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Stadtleben
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/stadtleben/familie-betreuung/">
+                    <span>Familie &amp; Betreuung</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/familie-betreuung/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Familie &amp; Betreuung
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/kinder-jugendbetreuung/">
+                    <span>Kinder- &amp; Jugendbetreuung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/elternbriefe/">
+                    <span>Elternbriefe</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/familienpass/">
+                    <span>Familienpass</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/familiennetzwerk/">
+                    <span>Familiennetzwerk</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/senioren/">
+                    <span>Senioren &amp; Soziales</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/familie-betreuung/haus-der-generationen/">
+                    <span>Haus der Generationen</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/stadtleben/gesundheit-soziales/">
+                    <span>Gesundheit &amp; Soziales</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/gesundheit-soziales/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Gesundheit &amp; Soziales
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/gesundheit-soziales/notdienste-notrufe/">
+                    <span>Notdienste &amp; Notrufe</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/gesundheit-soziales/kliniken/">
+                    <span>Kliniken</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/gesundheit-soziales/beratung-hilfe/">
+                    <span>Beratung &amp; Hilfe</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/stadtleben/schule-weiterbildung/">
+                    <span>Schule &amp; Weiterbildung</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/schule-weiterbildung/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Schule &amp; Weiterbildung
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/grund-und-mittelschulen/">
+                    <span>Grund- und Mittelschulen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/weiterfuehrende-schulen/">
+                    <span>Weiterführende Schulen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/berufliche-schulen/">
+                    <span>Berufliche Schulen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/sonderpaedagogische-schulen/">
+                    <span>Sonderpädagogische Schulen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/universitaet-passau/">
+                    <span>Universität Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/volkshochschule/">
+                    <span>Volkshochschule</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/schule-weiterbildung/bildungsportal-passau/">
+                    <span>Bildungsportal Passau</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/stadtleben/sport-freizeit/">
+                    <span>Sport &amp; Freizeit</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/sport-freizeit/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Sport &amp; Freizeit
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/sportstaetten/">
+                    <span>Sportstätten</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/spielplaetze/">
+                    <span>Spielplätze</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/natur-freizeitflaechen/">
+                    <span>Natur- &amp; Freizeitflächen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/essen-trinken/" external="true" target="_blank">
+                    <span>Essen &amp; Trinken</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/baden-sauna/">
+                    <span>Baden &amp; Sauna</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/schwimmfoerderung-fuer-kinder/">
+                    <span>Schwimmförderung für Kinder</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/eis-arena/">
+                    <span>Eis-Arena</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://freizeitspass.passau.de/" external="true" target="_blank">
+                    <span>Ferienprogramm</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/sport-und-freizeitvereine/">
+                    <span>Sport- und Freizeitvereine</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/stadtleben/kunst-kultur/">
+                    <span>Kunst &amp; Kultur</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/stadtleben/kunst-kultur/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Kunst &amp; Kultur
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/passau-sehen-erleben/museen-in-passau/" external="true" target="_blank">
+                    <span>Museen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/passau-sehen-erleben/kunst-galerien-in-passau/" external="true" target="_blank">
+                    <span>Kunst &amp; Galerien</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/theater-buehnen/">
+                    <span>Theater &amp; Bühnen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/bibliotheken-archive-heimatpflege/">
+                    <span>Bibliotheken, Archive &amp; Heimatpflege</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/kulturelle-vereine/">
+                    <span>Kulturelle Vereine</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/gedenkkultur/">
+                    <span>Gedenkkultur</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/welterbe-donaulimes/">
+                    <span>Welterbe Donaulimes</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/staedtische-musikschule/">
+                    <span>Städtische Musikschule</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/volkssternwarte-passau/">
+                    <span>Volkssternwarte Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/einrichtungen-der-zeitkultur-/-sonstiges/">
+                    <span>Einrichtungen der Zeitkultur / Sonstiges</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/kunst-kultur/passau-international/">
+                    <span>Passau international</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  ">
+                <a href="/bauen-umwelt/">
+                    <span>Bauen &amp; Umwelt</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl2">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/bauen-umwelt/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Bauen &amp; Umwelt
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/bauen-umwelt/bauen-wohnen/">
+                    <span>Bauen &amp; Wohnen</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/bauen-umwelt/bauen-wohnen/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Bauen &amp; Wohnen
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/stadtimmobilien/">
+                    <span>Stadtimmobilien</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.o-sp.de/passau/" external="true" target="_blank">
+                    <span>Bauleitplanung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnungsbaufoerderung/">
+                    <span>Wohnungsbauförderung</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl4">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnungsbaufoerderung/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Wohnungsbauförderung
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnungsbaufoerderung/foerderung-junger-familien-beim-bau-oder-erwerb-von-eigenheimen/">
+                    <span>Förderung junger Familien beim Bau oder Erwerb von Eigenheimen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnungsbaufoerderung/foerderung-von-barrierefreiem-wohnen/">
+                    <span>Förderung von barrierefreiem Wohnen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnungsbaufoerderung/foerderung-von-eigengenutztem-wohnraum/">
+                    <span>Förderung von eigengenutztem Wohnraum</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/wohnberechtigungsbescheinigung/">
+                    <span>Wohnberechtigungsbescheinigung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/bauen-wohnen/mietspiegel/">
+                    <span>Mietspiegel</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/">
+                    <span>Umwelt &amp; Klimaschutz</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Umwelt &amp; Klimaschutz
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/integriertes-klimaschutzkonzept/">
+                    <span>Integriertes Klimaschutzkonzept</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/hitzeschutzmassnahmen/">
+                    <span>Hitzeschutzmaßnahmen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/hochwasser/">
+                    <span>Hochwasser</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/energie-foerderprogramme/">
+                    <span>Energie-Förderprogramme</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/passau-spart-energie/">
+                    <span>Passau spart Energie</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/abfall-recycling/">
+                    <span>Abfall &amp; Recycling</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/naturschutz/">
+                    <span>Naturschutz</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/obstbaeume-beerenstraeucher/">
+                    <span>Obstbäume &amp; Beerensträucher</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/klima-buendnis-ev/">
+                    <span>Klima-Bündnis e.V.</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/umwelt-klimaschutz/kommunale-waermeplanung/">
+                    <span>Kommunale Wärmeplanung</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/bauen-umwelt/versorgung-abgaben/">
+                    <span>Versorgung &amp; Abgaben</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/bauen-umwelt/versorgung-abgaben/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Versorgung &amp; Abgaben
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/breitbandausbau/">
+                    <span>Breitbandausbau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/abwassergebuehren/">
+                    <span>Abwassergebühren</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/erschliessungsbeitraege/">
+                    <span>Erschließungsbeiträge</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/grundsteuer/">
+                    <span>Grundsteuer</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/kanalherstellungsbeitraege/">
+                    <span>Kanalherstellungsbeiträge</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/versorgung-abgaben/strassenreinigungsgebuehren/">
+                    <span>Straßenreinigungsgebühren</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/" external="true" target="_blank">
+                    <span>Tourismus</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  ">
+                <a href="/wirtschaft-mobilitaet/">
+                    <span>Wirtschaft &amp; Mobilität</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl2">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/wirtschaft-mobilitaet/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Wirtschaft &amp; Mobilität
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/wirtschaftsstandort-passau/">
+                    <span>Wirtschaftsstandort Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/service-fuer-unternehmen/">
+                    <span>Service für Unternehmen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/wirtschaft-mobilitaet/veranstaltungen-wirtschaftsfoerderung/">
+                    <span>Veranstaltungen Wirtschaftsförderung</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/wirtschaft-mobilitaet/veranstaltungen-wirtschaftsfoerderung/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Veranstaltungen Wirtschaftsförderung
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/veranstaltungen-wirtschaftsfoerderung/vielen-dank-fuer-ihre-rueckmeldung/">
+                    <span>Vielen Dank für Ihre Rückmeldung</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/messestadt-passau/">
+                    <span>Messestadt Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/aussenwerbung/">
+                    <span>Außenwerbung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/wirtschaft-mobilitaet/einkaufen/">
+                    <span>Einkaufen</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/wirtschaft-mobilitaet/einkaufen/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Einkaufen
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/freizeit-sport/shoppen-in-passau/" external="true" target="_blank">
+                    <span>Einkaufsmöglichkeiten</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/sport-freizeit/regionales-vom-wochenmarkt/">
+                    <span>Regionales vom Wochenmarkt</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li
+                class="module-nav__item module-nav__item--hasSubpages  icon-angle-down-after">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/">
+                    <span>Mobilität &amp; Verkehr</span>
+                </a>
+                
+                    
+    
+    <ul class="module-nav__lvl3">
+        
+            <li class="module-back-link">
+                <span class=" icon-angle-down-before">
+                Zurück
+            </span>
+            </li>
+            <li class="module-overview">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/" class="">
+                <span class="icon-overview-before icon-ubersicht-before">Mobilität &amp; Verkehr
+                    (Übersicht)
+                </span>
+                </a>
+            </li>
+
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/pendlernetzwerk-/-carsharing-passau/">
+                    <span>Pendlernetzwerk / Carsharing Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/parkmoeglichkeiten/">
+                    <span>Parkmöglichkeiten</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/fahrradstadt-passau/">
+                    <span>Fahrradstadt Passau</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/oepnv/">
+                    <span>ÖPNV</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/stadtplan/">
+                    <span>Stadtplan</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+          </nav>
+          <nav class="module-nav-bottom">
+            <ul class="helper-links">
+              
+                <li class="icon icon-contact-before">
+                  <a href="/kontakt/">
+                    <span>
+                      Kontakt
+                    </span>
+                  </a>
+                </li>
+              
+              <li class="icon icon-print-before">
+                <a href="javascript:window.print()">
+                  <span>
+                    Seite drucken
+                  </span>
+                </a>
+              </li>
+              
+                  <li class="icon icon-light-site-before">
+                    <a href="/leichte-sprache/">
+                  <span>
+                    Leichte Sprache
+                  </span>
+                    </a>
+                  </li>
+                
+              
+                <li class="icon icon-download-before">
+                  <a href="/rathaus-buergerservice/buergerservice/downloadcenter/">
+                  <span>
+                    Downloads &amp; Broschüren
+                  </span>
+                  </a>
+                </li>
+              
+
+            </ul>
+            
+                <nav class="module-nav module-nav--meta">
+                  
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.facebook.com/StadtPassau" class="icon-facebook-before" external="true" target="_blank">
+                    <span>Facebook</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.instagram.com/stadt.passau/" class="icon-instagram-before" external="true" target="_blank">
+                    <span>Instagram</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.linkedin.com/company/stadt-passau/" class="icon-linkedin-brands-before" external="true" target="_blank">
+                    <span>LinkedIn</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.youtube.com/user/StadtPassau" class="icon-youtube-before" external="true" target="_blank">
+                    <span>Youtube</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+                </nav>
+              
+            <div class="module-logo">
+              <a href="/" aria-label="Zur Startseite" title="Zur Startseite"><img src="/typo3conf/ext/theme/Resources/Public/Assets/img/logo.png" width="110" height="22"   alt="Passau - Die Drei Flüsse Stadt" ></a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+    
+      <div class="background__container-bread-crumb">
+        <div class="container-bread-crumb">
+          
+
+  <nav class="module-nav module-nav--breadcrumb">
+    <div class="swiper">
+      <div class="swiper-wrapper">
+        
+          <div class="swiper-slide module-nav__item">
+            
+                <a href="/">
+                  <span>Stadt Passau</span>
+                </a>
+                <span class="slash">/</span>
+              
+          </div>
+        
+      </div>
+    </div>
+  </nav>
+
+
+        </div>
+      </div>
+    
+  </header>
+
+  <!-- content -->
+  <main class="page__content">
+    
+        <div class="module-aside-helper">
+          <div class="aside-container">
+            <div class="aside contact-function">
+              <a href="/kontakt/">
+            <span class="icon-email-before">
+              Kontakt
+            </span>
+              </a>
+            </div>
+            <div class="aside search-function">
+              <a href="/suche/">
+            <span class="icon-search-before">
+              Suche
+            </span>
+              </a>
+            </div>
+            
+                <div class="aside read-aloud-function">
+              <span class="icon-speaker-before">
+                Vorlesen Lassen
+              </span>
+                </div>
+              
+          </div>
+          <div class="speaker-container">
+            <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+              <a rel="nofollow" class="rsbtn_play"
+                 title="Um den Text anzuh&ouml;ren, verwenden Sie bitte ReadSpeaker webReader" href="">
+                <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Vorlesen</span></span></span>
+                <span class="rsbtn_right rsimg rsplay rspart"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+      
+    
+  <!--TYPO3SEARCH_begin--><div id="c16082" class="section-row -padded-wide   ">
+
+    
+        <div id="c16083" class="col-wrapper l-1col -max-width-limited  ">
+<div class="col -decrease-width -centered">
+    
+        
+            
+
+<div id="c16084" class="content-item module-headline-paragraph">
+  
+    <h1 class=" delta  -margin-headline">Wir bitten um Entschuldigung!</h1>
+  
+  
+    <h2 class=" ">Die gesuchte Seite wurde leider nicht gefunden</h2>
+  
+  
+</div>
+
+
+
+        
+    
+        
+            
+
+
+<div id="c16085" class="content-item module-button">
+  <div class="button__link">
+    
+        
+      
+    <a href="/" class="btn -btn-red"><span>Zur Startseite</span></a>
+  </div>
+</div>
+
+
+
+        
+    
+</div>
+</div>
+
+    
+
+</div>
+<!--TYPO3SEARCH_end-->
+
+  </main>
+
+  <!-- footer -->
+  <footer class="page__footer">
+    <div class="mobile-billboard">
+      <div class="module-logo">
+        <a href="/" aria-label="Zur Startseite" title="Zur Startseite"><img src="/typo3conf/ext/theme/Resources/Public/Assets/img/logo.png" width="110" height="22"   alt="Passau - Die Drei Flüsse Stadt" ></a>
+      </div>
+      <div class="basics__weather">
+        
+
+<div class="tx-weather module-weather">
+    <div class="weather-container">
+        <div class="w-icon">
+            
+                    <img src="/typo3conf/ext/theme/Resources/Public/Assets/img/weather-icons/03n.svg" alt="Wetter">
+                
+        </div>
+        <div class="w-temp">
+            15°C
+        </div>
+    </div>
+</div>
+
+
+
+      </div>
+    </div>
+    <div class="module-scroll-top" id="nach-oben">
+      <span class="icon-arrow-right-before"></span>
+    </div>
+    <div class="footer__main ">
+      <div class="info__container">
+        <div class="nav__headline icon-arrow-down-after">
+          <span class="heading">Stadt Passau</span>
+        </div>
+        <div class="contents">
+          <div class="basics__address">
+            <span class="meta">Stadt Passau<br>
+                Rathausplatz 2<br>
+                94032 Passau<br>
+                Deutschland</span>
+          </div>
+          
+              <div class="icon-contact-before"><a href="tel:00498513960">
+                +49-(0)851-396-0</a></div>
+            
+          
+              <div class="icon-email-before"><a
+                href="mailto:kontakt.internet@passau.de">
+                E-Mail senden
+              </a></div>
+            
+        </div>
+      </div>
+      <div class="main__basics">
+        <div class="nav__headline icon-arrow-down-after">
+          <span class="heading">Stadt Passau</span>
+        </div>
+        <div class="contents">
+          <div class="basics__weather">
+            
+
+<div class="tx-weather module-weather">
+    <div class="weather-container">
+        <div class="w-icon">
+            
+                    <img src="/typo3conf/ext/theme/Resources/Public/Assets/img/weather-icons/03n.svg" alt="Wetter">
+                
+        </div>
+        <div class="w-temp">
+            15°C
+        </div>
+    </div>
+</div>
+
+
+
+          </div>
+          <div class="basics__address">
+            <span class="meta">Stadt Passau<br>
+                Rathausplatz 2<br>
+                94032 Passau<br>
+                Deutschland</span>
+          </div>
+          
+              <div class="icon-contact-before"><a href="tel:00498513960">
+                +49-(0)851-396-0</a></div>
+            
+          
+              <div class="icon-email-before"><a
+                  href="mailto:kontakt.internet@passau.de">
+                  E-Mail senden
+                </a></div>
+            
+        </div>
+      </div>
+      
+          <div class="main__contents ">
+            <div class="nav__headline icon-arrow-down-after">
+              <span class="heading">Inhalte</span>
+            </div>
+            <div class="contents">
+              <nav class="module-nav module-nav--content">
+                
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/">
+                    <span>Aktuelles</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/">
+                    <span>Rathaus &amp; Bürgerservice</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/stadtleben/">
+                    <span>Stadtleben</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/bauen-umwelt/">
+                    <span>Bauen &amp; Umwelt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://tourismus.passau.de/" external="true" target="_blank">
+                    <span>Tourismus</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/">
+                    <span>Wirtschaft &amp; Mobilität</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+              </nav>
+            </div>
+          </div>
+        
+      <div class="main__services ">
+        <div class="nav__headline icon-arrow-down-after">
+          <span class="heading">Service</span>
+        </div>
+        <div class="contents">
+          <nav class="module-nav module-nav--service">
+            
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/dienstleistungen/">
+                    <span>Dienstleistungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://ratsinfo.passau.de/" external="true" target="_blank">
+                    <span>Ratsinformationssystem</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/politik/live-stream-stadtratssitzungen/">
+                    <span>Live-Stream</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://termine-reservieren.de/termine/passau/?rs" external="true" target="_blank">
+                    <span>Terminvereinbarung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/downloadcenter/">
+                    <span>Downloadcenter</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://achtung.passau.de/" external="true" target="_blank">
+                    <span>ACHTUNG.PASSAU!</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+          </nav>
+        </div>
+      </div>
+      
+          <div class="main__extra ">
+            <div class="nav__headline icon-arrow-down-after">
+              <span class="heading">Sonstiges</span>
+            </div>
+            <div class="contents">
+              <nav class="module-nav module-nav--extra">
+                
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/kontakt/">
+                    <span>Kontakt</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/buergermelder/">
+                    <span>Bürgermelder</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/karriere/">
+                    <span>Karriere</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/alle-nachrichten-aus-passau/">
+                    <span>Pressearchiv</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/rathaus-buergerservice/buergerservice/webcam/">
+                    <span>Webcam</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/wirtschaft-mobilitaet/mobilitaet-verkehr/stadtplan/">
+                    <span>Stadtplan</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+              </nav>
+            </div>
+          </div>
+        
+      <div class="main__legal ">
+        <div class="nav__headline icon-arrow-down-after">
+          <span class="heading">Rechtliches</span>
+        </div>
+        <div class="contents">
+          <nav class="module-nav module-nav--legal">
+            
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="/impressum/">
+                    <span>Impressum</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/datenschutzerklaerung/">
+                    <span>Datenschutzerklärung</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/aktuelles/ausschreibungen-nach-vergaberecht/">
+                    <span>Ausschreibungen</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/elektronische-kommunikation/">
+                    <span>Elektronische Kommunikation</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="/barrierefreiheit/">
+                    <span>Barrierefreiheit</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="footer__bottom ">
+      <div class="bottom__left">
+        <div class="module-logo">
+          <a href="/" aria-label="Zur Startseite" title="Zur Startseite"><img src="/typo3conf/ext/theme/Resources/Public/Assets/img/logo.png" width="110" height="22"   alt="Passau - Die Drei Flüsse Stadt" ></a>
+        </div>
+      </div>
+      <div class="bottom__right">
+        <div class="module-social">
+          
+
+
+    
+    
+
+    
+    
+    <ul class="module-nav__lvl1">
+        
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.facebook.com/StadtPassau" class="icon-facebook-before" external="true" target="_blank">
+                    <span>Facebook</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.instagram.com/stadt.passau/" class="icon-instagram-before" external="true" target="_blank">
+                    <span>Instagram</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.linkedin.com/company/stadt-passau/" class="icon-linkedin-brands-before" external="true" target="_blank">
+                    <span>LinkedIn</span>
+                </a>
+                
+            </li>
+        
+            <li
+                class="module-nav__item ">
+                <a href="https://www.youtube.com/user/StadtPassau" class="icon-youtube-before" external="true" target="_blank">
+                    <span>Youtube</span>
+                </a>
+                
+            </li>
+        
+    </ul>
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<script src="/typo3conf/ext/theme/Resources/Public/Assets/js/app.1784108263.js" defer="defer"></script>
+
+
+
+</body>
+</html>

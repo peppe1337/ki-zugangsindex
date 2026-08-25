@@ -1,0 +1,694 @@
+User-agent: *
+Disallow: /3for2
+Disallow: /acc-merge
+Disallow: /adde/store/welcome.jsp?source_code=GAW*
+Disallow: /account-details
+Disallow: /account-prefs-change
+Disallow: /account-settings
+Disallow: /account/
+Disallow: /ajaxcart
+Disallow: /ajaxcartrecommendation
+Disallow: /allprodreviews
+Disallow: /allproductreview
+Disallow: /allproductreviewajax
+Disallow: /allset
+Disallow: /am-cookie-helper
+Disallow: /amazon-chat
+Disallow: /amazon100dollarsale
+Disallow: /ap/forgotpassword
+Disallow: /audible-air-sms
+Disallow: /audible-hug-alert
+Disallow: /audible-sample-player
+Disallow: /audiblehug
+Disallow: /audiblewords/
+Disallow: /betacc
+Disallow: /betaem
+Disallow: /billing
+Disallow: /blog/audible-listening-clubs
+Disallow: /blog/cgi-bin
+Disallow: /blog/media
+Disallow: /cancel-membership
+Disallow: /change-email
+Disallow: /change-password
+Disallow: /change-shipping
+Disallow: /chooseccaddress
+Disallow: /cloudplayer
+Disallow: /contact-preferences
+Disallow: /create-account
+Disallow: /create-sign-in
+Disallow: /credit-alert
+Disallow: /dc? 
+Disallow: /device-ajax
+Disallow: /device-prefs
+Disallow: /deviceList
+Disallow: /dynamic-offer
+Disallow: /easyrenewal
+Disallow: /edit-subscriptions
+Disallow: /elp
+Disallow: /email-help
+Disallow: /emailability
+Disallow: /error-page
+Disallow: /expresscart
+Disallow: /expresssale
+Disallow: /extracredits
+Disallow: /forgot-password
+Disallow: /forgot-username
+Disallow: /get-author-review
+Disallow: /get-giftmodule
+Disallow: /gift-redemption
+Disallow: /gift-terms
+Disallow: /giftemail-recipient
+Disallow: /HMDThankYou
+Disallow: /int/Free_For_Mem
+Disallow: /known-issues
+Disallow: /lib
+Disallow: /lib-ajax
+Disallow: /lib-search-data
+Disallow: /library 
+Disallow: /listener
+Disallow: /membergiving-lp
+Disallow: /membership*
+Disallow: /morerecenthistory
+Disallow: /morerecenthistoryajax
+Disallow: /my-reviews
+Disallow: /mycart
+Disallow: /negRating
+Disallow: /nl
+Disallow: /offers
+Disallow: /oneclick
+Disallow: /optout
+Disallow: /optoutemail
+Disallow: /order-detail
+Disallow: /pap$
+Disallow: /password-changed-email
+Disallow: /patents
+Disallow: /payments/
+Disallow: /personalrecommend
+Disallow: /plan/selection
+Disallow: /podcast-experience
+Disallow: /posRating
+Disallow: /preorders
+Disallow: /purchase-history
+Disallow: /purchaseconfirm
+Disallow: /purchased-gift
+Disallow: /r
+Disallow: /rd
+Disallow: /received-gift
+Disallow: /refund-detail
+Disallow: /refund-history
+Disallow: /relnotes
+Disallow: /review-by-author
+Disallow: /review-sample
+Disallow: /selectpayment
+Disallow: /sendemail
+Disallow: /sendwelcometest
+Disallow: /set-rating
+Disallow: /sign-in
+Disallow: /sign-in-6for6Sale
+Disallow: /signup-intlredirect
+Disallow: /sitecounterajax
+Disallow: /sp/2for1/ 
+Disallow: /sp/3for2/
+Disallow: /special-promo/2for1/ 
+Disallow: /storyemail
+Disallow: /submitstory
+Disallow: /subscription/confirmation
+Disallow: /subswitch
+Disallow: /surprise-sale
+Disallow: /surprise-sale-in-library
+Disallow: /survey-feedback-email
+Disallow: /survey-thank-you-email
+Disallow: /sweepstakes
+Disallow: /switch-membership
+Disallow: /tabdisplay
+Disallow: /tfemail
+Disallow: /ty$
+Disallow: /ty?
+Disallow: /typ$
+Disallow: /typ?
+Disallow: /validate-user
+Disallow: /viewrecentepisode
+Disallow: /vote-review
+Disallow: /welcome-email
+Disallow: /wireless-email
+Disallow: /wishlistajax
+Disallow: /wl
+Disallow: /write-review
+
+#----------do not edit below ----------
+
+#Block plink params
+Disallow: *?plink=
+
+#Block no result page
+Disallow: /no-search-results
+
+#Block search keywords/title pagination excess
+Disallow: /search*title=*page=
+Disallow: /search*keywords=*page=
+
+#Block non-canonical node + searchAuthor/Narrator pagination
+Disallow: /search*node=*searchAuthor=*page=
+Disallow: /search*node=*searchNarrator=*page=
+Disallow: /search*node=*searchAuthor=*page=
+Disallow: /search*node=*searchNarrator=*page=
+Disallow: /search*cache*node=*searchAuthor=*page=
+Disallow: /search*cache*node=*searchNarrator=*page=
+
+#Block more than one feature_ and/or node filter combination 
+Disallow: /search*feature_*feature_
+Disallow: /search*searchNarrator=*node=*feature_
+Disallow: /search*searchNarrator=*feature_*node=
+Disallow: /search*searchAuthor=*node*feature_
+Disallow: /search*searchAuthor=*feature_*node=
+
+#Block alternative filter parameters on /search pages
+Disallow: /search*field_
+
+#Block alternative sort order for /search
+Disallow: /search*sort=pubdate
+Disallow: /search*sort=title
+Disallow: /search*sort=runtime
+Disallow: /search*sort=review-rank
+
+#Block searchAuthor/Narrator + category 
+Disallow: /search*searchAuthor=*node=
+Disallow: /search*searchNarrator=*node=
+Disallow: /search*node=*searchAuthor=
+Disallow: /search*node=*searchNarrator=
+
+#Block more than two filters searchAuthor/Narrator/Provider/Keywords
+Disallow: /search*searchAuthor=*=*=*=
+Disallow: /search*searchNarrator=*=*=*=
+Disallow: /search*searchProvider=*=*=*=
+Disallow: /search?keywords=*=*=
+Disallow: /search?feature_*keywords*node
+Disallow: /search?node*keywords*feature_
+
+#Block audible_programs
+Disallow: *audible_programs=
+
+#Block Whisper Sync 
+Disallow: *feature_three_browse-bin=
+
+#Block /search publication_date
+Disallow: /search*publication_date=
+
+#Block Abridgment
+Disallow: *feature_nine_browse-bin=
+
+#Block /search Audiobook Format
+Disallow: /search*feature_twelve_browse-bin=
+
+#Block Duration
+Disallow: *feature_seven_browse-bin=
+
+#Block search.ref
+Disallow: /search.ref
+
+#Block Webplayer
+Disallow: /webplayer
+
+#Block Gift share
+Disallow: /gift-title/
+
+#Block Duplicate search titles
+Disallow: /search?title=
+Disallow: /search?*searchTitle=
+
+#Block Failed cat
+Disallow: /cat/*failedPage=
+
+#Block language params
+Disallow: /*feature_six_browse-bin
+
+#Block browseNode pagination
+Disallow: /*browseNode=*&page=
+
+#Block browseNode subcat
+Disallow: /*browseNode=*&node=
+
+#Block /search node= sort
+Disallow: /search?node=*&sort=
+
+#Block /search keywords sort
+Disallow: /search?keywords=*&sort=
+
+#Block sort pagination
+Disallow: /*&sort*&page=
+
+#Block /search ending in &node=
+Disallow: /search*node=$
+
+#Block /search ending in &sort=
+Disallow: /search*sort=$
+
+#Block /search skip_spell_correction
+Disallow: /search*skip_spell_correction=
+
+#Block /search &node= &sort=
+Disallow: /search*&node=*&sort=
+
+#Block searchAuthor/Narrator/Provider &sort=
+Disallow: /search?searchAuthor=*&sort=
+Disallow: /search?searchNarrator=*&sort=
+Disallow: /search?searchProvider=*&sort=
+
+#Block /search
+Disallow: /search?&*
+
+#Temp block excess advsearchKeywords
+Disallow: /search?advsearchKeywords=*node=
+Disallow: /search?advsearchKeywords=*feature_
+Disallow: /search?advsearchKeywords=*page=
+Disallow: /search?advsearchKeywords=*keywords=
+Disallow: /search?advsearchKeywords=*sort=
+
+#Block bad /search
+Disallow: /search*18573351011
+Disallow: /search*18573352011
+
+#Block Podcast Type
+Disallow: /search*feature_twenty-two_browse-bin
+
+#Block amazon-reviews
+Disallow: /amazon-reviews
+
+#Block /search audibleGroupID
+Disallow: /search*audibleGroupID
+
+Disallow: /*action_code=
+
+#Block search.H and similar
+Disallow: /search.
+
+#Block old mobile narrator params
+Disallow: /search?narrator=
+
+#Block /search with multiple authors
+Disallow: /search*%7C
+Disallow: /search*|
+
+#Block legacy adwords 5xx
+Disallow: /adde/store/welcome.jsp*source_code=GAWS0241SH011411DE
+
+#Block new signin URLs redirects
+Disallow: /audible/signinRedirect
+
+#Block staging generated URLs
+Disallow: /arya/
+
+#Block /topic/ excess params
+Disallow: /topic/*?*
+
+#Block excess /coming-soon
+Disallow: /coming-soon
+Allow: /coming-soon$
+Allow: /coming-soon?page=
+
+#Block newrelease excess
+Disallow: /newreleases
+Allow: /newreleases$
+Allow: /newreleases?feature_nine_browse-bin=16290244031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_nine_browse-bin=16290245031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290273031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290274031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290275031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290276031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290277031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_seven_browse-bin=16290278031&feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290301031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290308031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290309031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290310031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290313031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290322031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290323031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290337031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290340031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290345031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_six_browse-bin=16290346031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_three_browse-bin=16290362031&feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&feature_twelve_browse-bin=16290281031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&feature_twelve_browse-bin=16290284031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&feature_twelve_browse-bin=21506584031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16206636031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16206714031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16209708031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16209739031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16209860031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16209910031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16214666031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16217454031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16217510031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16217616031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16217764031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16217948031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16244720031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16244863031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16244918031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16245159031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16245830031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16245872031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16254070031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=16254451031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&node=34003932031&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&publication_date=20250911-20251009&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&publication_date=20250918-20251009&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&publication_date=20250925-20251002&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&publication_date=20250925-20251009&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=price-asc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=price-desc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=pubdate-asc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=pubdate-desc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=review-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=runtime-asc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=runtime-desc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=title-asc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&sort=title-desc-rank&submitted=1$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1&page=0$
+Allow: /newreleases?feature_six_browse-bin=16290314031&feature_twelve_browse-bin=16290280031&submitted=1&page=2$
+Allow: /newreleases?feature_six_browse-bin=16290314031&submitted=1$
+Allow: /newreleases?feature_twelve_browse-bin=16290280031&submitted=1$
+Allow: /newreleases?submitted=1$
+
+
+#Allow LoP marketing landing pages
+Disallow: /en_GB/
+Allow: /en_GB/$
+Allow: /en_GB/ep/anmelden
+Allow: /en_GB/ep/vorteile
+Allow: /en_GB/ep/plan-picker
+Allow: /en_GB/ep/kostenlose-testversion
+Allow: /en_GB/ep/kostenlose-testversion-amazon-prime
+Allow: /en_GB/ep/apps-und-geraete
+Allow: /en_GB/ep/hoerbuecher
+Allow: /en_GB/ep/podcasts
+Allow: /en_GB/ep/audible-originals
+Allow: /en_GB/ep/kostenlose-hoerbuecher
+Allow: /en_GB/ep/enthalten-im-audible-abo
+Allow: /en_GB/ep/affiliate-program
+Allow: /en_GB/ep/redeemgift
+Allow: /en_GB/ep/gutschein-einloesen
+
+Disallow: /nl_NL/
+Allow: /nl_NL/$
+Allow: /nl_NL/ep/anmelden
+Allow: /nl_NL/ep/vorteile
+Allow: /nl_NL/ep/plan-picker
+Allow: /nl_NL/ep/kostenlose-testversion
+Allow: /nl_NL/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_NL/ep/apps-und-geraete
+Allow: /nl_NL/ep/hoerbuecher
+Allow: /nl_NL/ep/podcasts
+Allow: /nl_NL/ep/audible-originals
+Allow: /nl_NL/ep/kostenlose-hoerbuecher
+Allow: /nl_NL/ep/enthalten-im-audible-abo
+Allow: /nl_NL/ep/affiliate-program
+Allow: /nl_NL/ep/redeemgift
+Allow: /nl_NL/ep/gutschein-einloesen
+
+Disallow: /nl_BE/
+Allow: /nl_BE/$
+Allow: /nl_BE/ep/anmelden
+Allow: /nl_BE/ep/vorteile
+Allow: /nl_BE/ep/plan-picker
+Allow: /nl_BE/ep/kostenlose-testversion
+Allow: /nl_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_BE/ep/apps-und-geraete
+Allow: /nl_BE/ep/hoerbuecher
+Allow: /nl_BE/ep/podcasts
+Allow: /nl_BE/ep/audible-originals
+Allow: /nl_BE/ep/kostenlose-hoerbuecher
+Allow: /nl_BE/ep/enthalten-im-audible-abo
+Allow: /nl_BE/ep/affiliate-program
+Allow: /nl_BE/ep/redeemgift
+Allow: /nl_BE/ep/gutschein-einloesen
+
+Disallow: /fr_BE/
+Allow: /fr_BE/$
+Allow: /fr_BE/ep/anmelden
+Allow: /fr_BE/ep/vorteile
+Allow: /fr_BE/ep/plan-picker
+Allow: /fr_BE/ep/kostenlose-testversion
+Allow: /fr_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /fr_BE/ep/apps-und-geraete
+Allow: /fr_BE/ep/hoerbuecher
+Allow: /fr_BE/ep/podcasts
+Allow: /fr_BE/ep/audible-originals
+Allow: /fr_BE/ep/kostenlose-hoerbuecher
+Allow: /fr_BE/ep/enthalten-im-audible-abo
+Allow: /fr_BE/ep/affiliate-program
+Allow: /fr_BE/ep/redeemgift
+Allow: /fr_BE/ep/gutschein-einloesen
+
+Disallow: /sv_SE/
+Allow: /sv_SE/$
+Allow: /sv_SE/ep/anmelden
+Allow: /sv_SE/ep/vorteile
+Allow: /sv_SE/ep/plan-picker
+Allow: /sv_SE/ep/kostenlose-testversion
+Allow: /sv_SE/ep/kostenlose-testversion-amazon-prime
+Allow: /sv_SE/ep/apps-und-geraete
+Allow: /sv_SE/ep/hoerbuecher
+Allow: /sv_SE/ep/podcasts
+Allow: /sv_SE/ep/audible-originals
+Allow: /sv_SE/ep/kostenlose-hoerbuecher
+Allow: /sv_SE/ep/enthalten-im-audible-abo
+Allow: /sv_SE/ep/affiliate-program
+Allow: /sv_SE/ep/redeemgift
+Allow: /sv_SE/ep/gutschein-einloesen
+
+Disallow: /pl_PL/
+Allow: /pl_PL/$
+Allow: /pl_PL/ep/anmelden
+Allow: /pl_PL/ep/vorteile
+Allow: /pl_PL/ep/plan-picker
+Allow: /pl_PL/ep/kostenlose-testversion
+Allow: /pl_PL/ep/kostenlose-testversion-amazon-prime
+Allow: /pl_PL/ep/apps-und-geraete
+Allow: /pl_PL/ep/hoerbuecher
+Allow: /pl_PL/ep/podcasts
+Allow: /pl_PL/ep/audible-originals
+Allow: /pl_PL/ep/kostenlose-hoerbuecher
+Allow: /pl_PL/ep/enthalten-im-audible-abo
+Allow: /pl_PL/ep/affiliate-program
+Allow: /pl_PL/ep/redeemgift
+Allow: /pl_PL/ep/gutschein-einloesen
+
+
+#AdsBot does not follow User-agent: * — must be explicitly blocked
+User-agent: AdsBot-Google
+Disallow: /en_GB/
+Allow: /en_GB/$
+Allow: /en_GB/ep/anmelden
+Allow: /en_GB/ep/vorteile
+Allow: /en_GB/ep/plan-picker
+Allow: /en_GB/ep/kostenlose-testversion
+Allow: /en_GB/ep/kostenlose-testversion-amazon-prime
+Allow: /en_GB/ep/apps-und-geraete
+Allow: /en_GB/ep/hoerbuecher
+Allow: /en_GB/ep/podcasts
+Allow: /en_GB/ep/audible-originals
+Allow: /en_GB/ep/kostenlose-hoerbuecher
+Allow: /en_GB/ep/enthalten-im-audible-abo
+Allow: /en_GB/ep/affiliate-program
+Allow: /en_GB/ep/redeemgift
+Allow: /en_GB/ep/gutschein-einloesen
+Disallow: /nl_NL/
+Allow: /nl_NL/$
+Allow: /nl_NL/ep/anmelden
+Allow: /nl_NL/ep/vorteile
+Allow: /nl_NL/ep/plan-picker
+Allow: /nl_NL/ep/kostenlose-testversion
+Allow: /nl_NL/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_NL/ep/apps-und-geraete
+Allow: /nl_NL/ep/hoerbuecher
+Allow: /nl_NL/ep/podcasts
+Allow: /nl_NL/ep/audible-originals
+Allow: /nl_NL/ep/kostenlose-hoerbuecher
+Allow: /nl_NL/ep/enthalten-im-audible-abo
+Allow: /nl_NL/ep/affiliate-program
+Allow: /nl_NL/ep/redeemgift
+Allow: /nl_NL/ep/gutschein-einloesen
+Disallow: /nl_BE/
+Allow: /nl_BE/$
+Allow: /nl_BE/ep/anmelden
+Allow: /nl_BE/ep/vorteile
+Allow: /nl_BE/ep/plan-picker
+Allow: /nl_BE/ep/kostenlose-testversion
+Allow: /nl_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_BE/ep/apps-und-geraete
+Allow: /nl_BE/ep/hoerbuecher
+Allow: /nl_BE/ep/podcasts
+Allow: /nl_BE/ep/audible-originals
+Allow: /nl_BE/ep/kostenlose-hoerbuecher
+Allow: /nl_BE/ep/enthalten-im-audible-abo
+Allow: /nl_BE/ep/affiliate-program
+Allow: /nl_BE/ep/redeemgift
+Allow: /nl_BE/ep/gutschein-einloesen
+Disallow: /fr_BE/
+Allow: /fr_BE/$
+Allow: /fr_BE/ep/anmelden
+Allow: /fr_BE/ep/vorteile
+Allow: /fr_BE/ep/plan-picker
+Allow: /fr_BE/ep/kostenlose-testversion
+Allow: /fr_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /fr_BE/ep/apps-und-geraete
+Allow: /fr_BE/ep/hoerbuecher
+Allow: /fr_BE/ep/podcasts
+Allow: /fr_BE/ep/audible-originals
+Allow: /fr_BE/ep/kostenlose-hoerbuecher
+Allow: /fr_BE/ep/enthalten-im-audible-abo
+Allow: /fr_BE/ep/affiliate-program
+Allow: /fr_BE/ep/redeemgift
+Allow: /fr_BE/ep/gutschein-einloesen
+Disallow: /sv_SE/
+Allow: /sv_SE/$
+Allow: /sv_SE/ep/anmelden
+Allow: /sv_SE/ep/vorteile
+Allow: /sv_SE/ep/plan-picker
+Allow: /sv_SE/ep/kostenlose-testversion
+Allow: /sv_SE/ep/kostenlose-testversion-amazon-prime
+Allow: /sv_SE/ep/apps-und-geraete
+Allow: /sv_SE/ep/hoerbuecher
+Allow: /sv_SE/ep/podcasts
+Allow: /sv_SE/ep/audible-originals
+Allow: /sv_SE/ep/kostenlose-hoerbuecher
+Allow: /sv_SE/ep/enthalten-im-audible-abo
+Allow: /sv_SE/ep/affiliate-program
+Allow: /sv_SE/ep/redeemgift
+Allow: /sv_SE/ep/gutschein-einloesen
+Disallow: /pl_PL/
+Allow: /pl_PL/$
+Allow: /pl_PL/ep/anmelden
+Allow: /pl_PL/ep/vorteile
+Allow: /pl_PL/ep/plan-picker
+Allow: /pl_PL/ep/kostenlose-testversion
+Allow: /pl_PL/ep/kostenlose-testversion-amazon-prime
+Allow: /pl_PL/ep/apps-und-geraete
+Allow: /pl_PL/ep/hoerbuecher
+Allow: /pl_PL/ep/podcasts
+Allow: /pl_PL/ep/audible-originals
+Allow: /pl_PL/ep/kostenlose-hoerbuecher
+Allow: /pl_PL/ep/enthalten-im-audible-abo
+Allow: /pl_PL/ep/affiliate-program
+Allow: /pl_PL/ep/redeemgift
+Allow: /pl_PL/ep/gutschein-einloesen
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /en_GB/
+Allow: /en_GB/$
+Allow: /en_GB/ep/anmelden
+Allow: /en_GB/ep/vorteile
+Allow: /en_GB/ep/plan-picker
+Allow: /en_GB/ep/kostenlose-testversion
+Allow: /en_GB/ep/kostenlose-testversion-amazon-prime
+Allow: /en_GB/ep/apps-und-geraete
+Allow: /en_GB/ep/hoerbuecher
+Allow: /en_GB/ep/podcasts
+Allow: /en_GB/ep/audible-originals
+Allow: /en_GB/ep/kostenlose-hoerbuecher
+Allow: /en_GB/ep/enthalten-im-audible-abo
+Allow: /en_GB/ep/affiliate-program
+Allow: /en_GB/ep/redeemgift
+Allow: /en_GB/ep/gutschein-einloesen
+Disallow: /nl_NL/
+Allow: /nl_NL/$
+Allow: /nl_NL/ep/anmelden
+Allow: /nl_NL/ep/vorteile
+Allow: /nl_NL/ep/plan-picker
+Allow: /nl_NL/ep/kostenlose-testversion
+Allow: /nl_NL/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_NL/ep/apps-und-geraete
+Allow: /nl_NL/ep/hoerbuecher
+Allow: /nl_NL/ep/podcasts
+Allow: /nl_NL/ep/audible-originals
+Allow: /nl_NL/ep/kostenlose-hoerbuecher
+Allow: /nl_NL/ep/enthalten-im-audible-abo
+Allow: /nl_NL/ep/affiliate-program
+Allow: /nl_NL/ep/redeemgift
+Allow: /nl_NL/ep/gutschein-einloesen
+Disallow: /nl_BE/
+Allow: /nl_BE/$
+Allow: /nl_BE/ep/anmelden
+Allow: /nl_BE/ep/vorteile
+Allow: /nl_BE/ep/plan-picker
+Allow: /nl_BE/ep/kostenlose-testversion
+Allow: /nl_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /nl_BE/ep/apps-und-geraete
+Allow: /nl_BE/ep/hoerbuecher
+Allow: /nl_BE/ep/podcasts
+Allow: /nl_BE/ep/audible-originals
+Allow: /nl_BE/ep/kostenlose-hoerbuecher
+Allow: /nl_BE/ep/enthalten-im-audible-abo
+Allow: /nl_BE/ep/affiliate-program
+Allow: /nl_BE/ep/redeemgift
+Allow: /nl_BE/ep/gutschein-einloesen
+Disallow: /fr_BE/
+Allow: /fr_BE/$
+Allow: /fr_BE/ep/anmelden
+Allow: /fr_BE/ep/vorteile
+Allow: /fr_BE/ep/plan-picker
+Allow: /fr_BE/ep/kostenlose-testversion
+Allow: /fr_BE/ep/kostenlose-testversion-amazon-prime
+Allow: /fr_BE/ep/apps-und-geraete
+Allow: /fr_BE/ep/hoerbuecher
+Allow: /fr_BE/ep/podcasts
+Allow: /fr_BE/ep/audible-originals
+Allow: /fr_BE/ep/kostenlose-hoerbuecher
+Allow: /fr_BE/ep/enthalten-im-audible-abo
+Allow: /fr_BE/ep/affiliate-program
+Allow: /fr_BE/ep/redeemgift
+Allow: /fr_BE/ep/gutschein-einloesen
+Disallow: /sv_SE/
+Allow: /sv_SE/$
+Allow: /sv_SE/ep/anmelden
+Allow: /sv_SE/ep/vorteile
+Allow: /sv_SE/ep/plan-picker
+Allow: /sv_SE/ep/kostenlose-testversion
+Allow: /sv_SE/ep/kostenlose-testversion-amazon-prime
+Allow: /sv_SE/ep/apps-und-geraete
+Allow: /sv_SE/ep/hoerbuecher
+Allow: /sv_SE/ep/podcasts
+Allow: /sv_SE/ep/audible-originals
+Allow: /sv_SE/ep/kostenlose-hoerbuecher
+Allow: /sv_SE/ep/enthalten-im-audible-abo
+Allow: /sv_SE/ep/affiliate-program
+Allow: /sv_SE/ep/redeemgift
+Allow: /sv_SE/ep/gutschein-einloesen
+Disallow: /pl_PL/
+Allow: /pl_PL/$
+Allow: /pl_PL/ep/anmelden
+Allow: /pl_PL/ep/vorteile
+Allow: /pl_PL/ep/plan-picker
+Allow: /pl_PL/ep/kostenlose-testversion
+Allow: /pl_PL/ep/kostenlose-testversion-amazon-prime
+Allow: /pl_PL/ep/apps-und-geraete
+Allow: /pl_PL/ep/hoerbuecher
+Allow: /pl_PL/ep/podcasts
+Allow: /pl_PL/ep/audible-originals
+Allow: /pl_PL/ep/kostenlose-hoerbuecher
+Allow: /pl_PL/ep/enthalten-im-audible-abo
+Allow: /pl_PL/ep/affiliate-program
+Allow: /pl_PL/ep/redeemgift
+Allow: /pl_PL/ep/gutschein-einloesen
+
+# Tag-to-tag Related Tags links
+Disallow: */tag/*?pLink=
+
+# Tag page ref_pageloadid tracking params
+Disallow: */tag/*?ref_pageloadid=
+
+# API endpoint — timezone prefs
+Disallow: /api/prefs/localization
+
+Allow: *ref=
+
+#----------do not edit above ----------
+
+Sitemap: https://www.audible.de/sitemaps/productDetail_sitemap_index.xml
+Sitemap: https://www.audible.de/sitemaps/author_sitemap_index.xml
+Sitemap: https://www.audible.de/sitemaps/narrator_sitemap_index.xml
+Sitemap: https://www.audible.de/sitemaps/series_sitemap_index.xml
+Sitemap: https://www.audible.de/sitemaps/recentlyLaunchedProductDetail_sitemap.xml.gz

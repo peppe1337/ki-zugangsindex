@@ -1,0 +1,64 @@
+User-agent: *
+Disallow: /api/
+Disallow: /cdn-cgi/
+
+User-agent: Google-Extended
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: GPTBot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: ChatGPT-User
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: CCBot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: ClaudeBot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: Bytespider
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: Amazonbot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: Applebot-Extended
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: Arquivo-web-crawler
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: anthropic-ai
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /urlaub-in-mv/
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /urlaub-in-mv/
+Disallow: /
+
+
+Sitemap: https://www.nordkurier.de/sitemaps/nord/google-news-sitemap-index.xml
+Sitemap: https://www.nordkurier.de/sitemaps/nord/organic-sitemap-index.xml
+Sitemap: https://www.nordkurier.de/sitemaps/nord/themen/index.xml

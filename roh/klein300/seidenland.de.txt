@@ -1,0 +1,112 @@
+# Version vom 20 November 2023
+
+User-agent:*
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /*SID=
+Disallow: /*?
+Disallow: /stores/store/switch/
+Disallow: /*page/
+Disallow: /*feed
+Disallow: /*home
+Disallow: /stores/
+Disallow: /graphql
+Disallow: /*admin
+Disallow: /*index.php
+Disallow: /ads.txt
+Disallow: /apple-app-site-association
+
+# Disable Tag & Review (Avoid duplicate content)
+Disallow: /tag/
+Disallow: /review/
+
+# Disable checkout & customer account
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /customer/account/create/
+
+# Disable Search pages
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+# Disallow URL Filter Searches
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode
+
+#Common Files
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Disallow: /CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+Disallow: /RELEASE_NOTES.txt
+
+# Disable common folders
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+
+# Disable sorting (Avoid duplicate content)
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+
+# Disable version control folders and others
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+
+#Disable legal pages
+Disallow: /versand
+Disallow: /widerrufsrecht
+Disallow: /agb
+Disallow: /datenschutz
+Disallow: /impressum
+Disallow: /zahlungsmethoden
+Disallow: /gdpr
+
+
+# alte Daten
+Disallow: / api.php
+Disallow: / cron.php
+Disallow: / cron.sh
+Disallow: / error_log
+Disallow: / get.php
+Disallow: / install.php
+Disallow: / LICENSE.html
+Disallow: / LICENSE.txt
+Disallow: / LICENSE_AFL.txt
+Disallow: / README.txt
+Disallow: / RELEASE_NOTES.txt
+
+Sitemap: https://www.seidenland.de/sitemap4.xml
+Sitemap: https://www.allergie2000.de/sitemap2.xml
+Sitemap: https://www.pink-zebra.de/sitemap3.xml

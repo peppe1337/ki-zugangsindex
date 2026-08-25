@@ -1,0 +1,125 @@
+User-agent: TwengaBot
+Disallow: /
+
+User-agent: URLMetriken
+Disallow: /
+
+User-agent: SurveyBot
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: Jakarta Commons-HttpClient
+Disallow: /
+
+User-Agent: AboutUsBot
+Disallow: /
+
+User-agent: Semager
+Disallow: /
+
+User-agent: Linguee
+Disallow: /
+
+User-agent: Updownerbot
+Disallow: /
+
+User-agent: gonzo
+Disallow: /
+
+User-agent: Zeusbot
+Disallow: /
+
+Sitemap: https://www.vdv.de/googlesitemap.aspx
+
+User-agent: *
+Disallow: /system/
+Disallow: /webadmin/
+Disallow: /onpublix/
+Disallow: /service/
+Disallow: /module/captcha
+Disallow: /kostenloser-nahverkehr.aspx
+Disallow: /1600-vdv-verbandsbeirat.icsx
+Disallow: /404.aspx
+Disallow: /500.aspx
+Disallow: /agi/ckitest.aspx
+Disallow: /agi/default.aspx
+Disallow: /agi/master.aspx
+Disallow: /agi/overlay.aspx
+Disallow: /aktuelles--teaser-kvb-koeln.aspx
+Disallow: /ausschuesse-im-vdv.aspx
+Disallow: /autologin.aspx
+Disallow: /autonomes-fahren.aspx
+Disallow: /bahnlog-zeitungsartikel-zu-umfragebogen-regionalverband-saarbruecken-2020-12-24.pdfx
+Disallow: /bausteine.aspx
+Disallow: /dokumenthandler.aspx
+Disallow: /forum.aspx
+Disallow: /gremiendienst.aspx
+Disallow: /hsl-praesentation-logicpile.pdfx
+Disallow: /impressionen-der-vdv-jahrestagung-2024.aspx
+Disallow: /jahrestagung-impressionen.aspx
+Disallow: /jahrestagung-vortraege-und-praesentationen.aspx
+Disallow: /newsdetails.aspx
+Disallow: /newsletter-mitglieder-vdv-eisenbahn-nachrichten.aspx
+Disallow: /newsletter-vorlage.aspx
+Disallow: /newslettervorlageagiinfo.aspx
+Disallow: /newslettervorlageemailservice.aspx
+Disallow: /newslettervorlagegremiendienst.aspx
+Disallow: /newsletter-vorlage-lg.aspx
+Disallow: /newsletter-vorlage-mitglieder-arbeitgeberinitiative.aspx
+Disallow: /newsletter-vorlage-mitglieder-vdv-e-mail-service.aspx
+Disallow: /newsletter-vorlage-mitglieder-vdv-gremiendienst.aspx
+Disallow: /newsletter-vorlage-mitglieder-vdv-nachrichten.aspx
+Disallow: /newsletter-vorlage-mitglieder-vdv-rundschreiben.aspx
+Disallow: /newslettervorlagenachrichten.aspx
+Disallow: /newslettervorlagepositionen.aspx
+Disallow: /newslettervorlagepresseallgemein.aspx
+Disallow: /newslettervorlagepresseeuropa.aspx
+Disallow: /newslettervorlagepressegueterverkehr.aspx
+Disallow: /newslettervorlagepressepersonenverkehr.aspx
+Disallow: /newslettervorlagerundschreiben.aspx
+Disallow: /newslettervorlagetermine.aspx
+Disallow: /newsroom-rss.aspx
+Disallow: /notfallmanagement-login.aspx
+Disallow: /notfallmanagement-login-helper.aspx
+Disallow: /notfallmanagement-login-v2.aspx
+Disallow: /nrw-gleisanschlusskonferenz-2026.icsx
+Disallow: /organisation-des-vdv.aspx
+Disallow: /parlamentarisches-vdv-fruehstueck-digitalisierung-im-eisenbahnverkehr.icsx
+Disallow: /pseudologinvorlage.aspx
+Disallow: /pve-newsletter.aspx
+Disallow: /pve-newsletter-10.2018.aspx
+Disallow: /pve-newsletter-11.2018.aspx
+Disallow: /pve-newsletter-12.2018.aspx
+Disallow: /pve-newsletter-2.2019.aspx
+Disallow: /rsspolitik.aspx
+Disallow: /rsspresse.aspx
+Disallow: /rssrundschreiben.aspx
+Disallow: /rsstermine.aspx
+Disallow: /schriften---mitteilungen-xsl.aspx
+Disallow: /schriften---mitteilungen-xsl.en.aspx
+Disallow: /schriften---mitteilungen-xsl---xxl.aspx
+Disallow: /sgv-newsletter.aspx
+Disallow: /sgv-newsletter-10.2018.aspx
+Disallow: /sgv-newsletter-11.2018.aspx
+Disallow: /sgv-newsletter-12.2018.aspx
+Disallow: /sgv-newsletter-2.2019.aspx
+Disallow: /so-funktioniert-der-einzelwagenverkehr.aspx
+Disallow: /test-rheinischer-abend-des-vdv.icsx
+Disallow: /themenradar.aspx
+Disallow: /treffen-der-deutschen-uitp-mitglieder-des-vdv.icsx
+Disallow: /vdv-abendessen.icsx
+Disallow: /vdv-gremienuebersicht.aspx
+Disallow: /vdv-jahrestagung-2025.icsx
+Disallow: /vdv-jahrestagung-2026.icsx
+Disallow: /vdv-jahrestagung-2027.icsx
+Disallow: /vdv-rheinischer-abend-2024.icsx
+Disallow: /vdv-rheinischer-abend-2025.icsx
+Disallow: /vdv-rheinischer-abend-2026.icsx
+Disallow: /vdv-verbandsbeirat-2025.icsx
+Disallow: /verbandsbeirat.aspx
+Disallow: /verkehrspolitischer-gespraechskreis-des-vdv.icsx
+Disallow: /zufallsbegriff.aspx
+Disallow: /zufallsbegriffjson.aspx
+Disallow: /DokumentHandler.aspx

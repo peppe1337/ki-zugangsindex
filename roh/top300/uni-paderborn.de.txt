@@ -1,0 +1,1948 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	Copyright Universität Paderborn
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<link rel="icon" href="/_assets/2fef5a57ccfb6518b32ca960619c0f44/Icons/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Universität Paderborn</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Die Universität Paderborn zählt mit rund 20 000 Studierenden zu den leistungsstarken mittelgroßen Universitäten in Deutschland.">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5">
+<meta name="twitter:card" content="summary">
+<meta property="upb:pageid" content="1">
+<meta property="upb:changed" content="27.07.2026 15:26:08">
+<meta property="upb:changedts" content="1785158768">
+<meta name="copyright" content="Universität Paderborn">
+
+
+<link rel="stylesheet" href="/typo3temp/assets/compressed/merged-3ba10d9c4670db1583ff72a2c04c5e83-ca61de02f991d9915de58944006008ac.css?1785903217" media="all">
+
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/favicon-16x16.png" sizes="16x16">
+
+
+<meta name="msapplication-TileImage" content="/typo3conf/ext/upb_base/Resources/Public/Icons/favicons/ms-icon-144x144.png">
+<link href="/typo3conf/ext/upb/Resources/Public/Files/fonts/fontawesome-webfont.woff2" as="font" crossorigin><title>Fehler - Seite nicht gefunden (404)</title>
+<link rel="canonical" href="https://www.uni-paderborn.de/404.html">
+
+<link rel="alternate" hreflang="de-DE" href="https://www.uni-paderborn.de/">
+<link rel="alternate" hreflang="en-GB" href="https://www.uni-paderborn.de/en/">
+<link rel="alternate" hreflang="x-default" href="https://www.uni-paderborn.de/">
+</head>
+<body>
+
+    
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="main-header sticky-top w-100">
+    <nav class="navbar">
+        <div class="container">
+            
+                    
+                            <a class="navbar-brand" title="Zur Startseite" href="/">
+                                <img alt="UPB Logo" src="/_assets/41f313ddc60e6583fa91411440628db0/Dist/Media/images/upb-logo-de.svg" width="393" height="123" />
+                            </a>
+                        
+                
+            <div class="d-flex navbar-actions">
+                <div class="navbar-action-item d-none d-lg-block lang-switch">
+                    <button class="navbar-button" data-bs-toggle="popover" data-bs-placement="bottom"
+                            data-bs-offset="-40,0" data-bs-content-id="popover-content" tabindex="0" role="button">
+                        <span class="header">
+                            <span>Sprache</span>
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-language"></use></svg>
+
+                            <span class="label">Sprache</span>
+                        </span>
+                        
+                            
+                                <span class="lang">Deutsch
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-expand_more"></use></svg>
+</span>
+                            
+                        
+                            
+                        
+                    </button>
+                </div>
+                
+                <div class="d-flex navbar-actions_main">
+                    <ul class="navbar-actions_main-items">
+                        
+                            <li class="d-none d-lg-block navbar-action-item">
+                                <button class="navbar-button navbar-button--collapse-search" type="button"
+                                        aria-controls="searchBarUPB" aria-expanded="false" aria-label="Suche umschalten">
+                                    <span>Suche</span>
+                                    
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-open search"><use xlink:href="#icon-search"></use></svg>
+
+                                    
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-close close"><use xlink:href="#icon-close"></use></svg>
+
+                                </button>
+                            </li>
+                        
+                        <li class="navbar-action-item">
+                            <button class="navbar-button navbar-button--collapse-menu" type="button"
+                                    aria-controls="navbarUPB" aria-expanded="false" aria-label="Menü umschalten">
+                                <span>Menü</span>
+                                <div class="css-icon-wrapper">
+                                    <div class="menu-toggle-icon"></div>
+                                </div>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="popover-content" class="language-switcher d-none">
+            <ul class="list-group list-group-flush">
+                
+                    
+                    
+                    
+                        <li class="list-group-item active" aria-current="true">
+                            <a class="d-block" href="/">Deutsch</a>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="list-group-item" aria-current="false">
+                            <a class="d-block" href="/en/">English</a>
+                        </li>
+                    
+                
+            </ul>
+        </div>
+    </nav>
+    <nav class="navbar-collapse navbar-navigation bg-white collapse" id="navbarUPB">
+        
+
+<div class="container">
+    <div class="row">
+        <div class="col overflow-auto-mobile">
+            <div class="controls">
+                <button type="button" class="close-submenu">
+                    Zurück
+                </button>
+                <ul class="breadcrumb" aria-label="breadcrumb">
+                    <li>
+                        <button type="button" aria-label="Zurück zum Hauptmenü">
+                            Hauptmenü
+                        </button>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-wrapper">
+                <div class="grid">
+                    <ul class="main-menu" role="menubar">
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Studium
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/studium" role="">
+                    Seite &quot;Studium&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/studium/studieninteressierte" role="">
+                            Studieninteressierte
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/studium/studierende" role="">
+                            Studierende
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/studium/schulen-lehrerinnen" role="">
+                            Schulen &amp; Lehrer*innen
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Lehre
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre" role="">
+                    Seite &quot;Lehre&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Profil
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/profil" role="">
+                    Seite &quot;Profil&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/profil/leitbild-fuer-studium-und-lehre" role="">
+                            Leitbild für Studium und Lehre
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/profil/digitalisierung-e-learning" role="">
+                            Digitalisierung &amp; E-Learning
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/profil/open-source" role="">
+                            Open Source
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Lehren
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/lehren" role="">
+                    Seite &quot;Lehren&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehren/kompetenzorientiert-lehren" role="">
+                            Kompetenzorientiert Lehren
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehren/pruefungen-gestalten" role="">
+                            Prüfungen gestalten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehren/lehre-organisieren" role="">
+                            Lehre organisieren
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehren/lehrevaluation" role="">
+                            Lehrevaluation
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehren/studium-generale" role="">
+                            Studium Generale
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Digitale Lehre
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/digitale-lehre" role="">
+                    Seite &quot;Digitale Lehre&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre" role="">
+                            Digitale Lehre
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre/lehrmaterial-digitalisieren" role="">
+                            Digitale Lernräume
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre/digitale-pruefformate" role="">
+                            Digitale Prüfformate
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre/uebersicht-pruefungssysteme" role="">
+                            Übersicht Prüfungssysteme
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre/digitale-tools" role="">
+                            Digitale Tools
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/digitale-lehre/faqs" role="">
+                            FAQs
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Qualifizierung und Service
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/qualifizierung-und-service" role="">
+                    Seite &quot;Qualifizierung und Service&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/hochschuldidaktik" role="">
+                            Hochschuldidaktik
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/kompetenzzentrum-schreiben" role="">
+                            Kompetenzzentrum Schreiben
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/interne-fort-und-weiterbildung" role="">
+                            Interne Fort- und Weiterbildung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/plaz" role="">
+                            Angebote in der Lehrkräftebildung (PLAZ)
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/angebote-der-fakultaeten" role="">
+                            Angebote der Fakultäten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qualifizierung-und-service/lehre-international" role="">
+                            Lehre International
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Lehrinnovationen
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/lehrinnovationen" role="">
+                    Seite &quot;Lehrinnovationen&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrinnovationen/lehrpreise-an-der-upb" role="">
+                            Lehrpreise an der UPB
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrinnovationen/fellowship" role="">
+                            Fellowship
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrinnovationen/tag-der-lehre" role="">
+                            Tag der Lehre
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrinnovationen/lehrprojekte" role="">
+                            Lehrprojekte
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrinnovationen/e-learning-label" role="">
+                            E-Learning Label
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Lehrforschungsverbünde
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/lehre/lehrforschungsverbuende" role="">
+                    Seite &quot;Lehrforschungsverbünde&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrforschungsverbuende/dh-nrw-projekte" role="">
+                            DH.NRW
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrforschungsverbuende/stiftung-innovation-in-der-hochschullehre" role="">
+                            Stiftung Innovation in der Hochschullehre
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/lehrforschungsverbuende/kompetenzzentrum-hochschuldidaktik-mathematik-khdm" role="">
+                            Kompetenzzentrum Hochschuldidaktik Mathematik (khdm)
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/lehre/qpl" role="">
+                            Qualitätspakt Lehre
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Forschung
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/forschung" role="">
+                    Seite &quot;Forschung&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Forschungsprofil
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/forschung/forschungsprofil" role="">
+                    Seite &quot;Forschungsprofil&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="https://www.uni-paderborn.de/forschung/forschungsprofil#profilbereiche" role="">
+                            Profilbereiche
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://www.uni-paderborn.de/forschung/forschungsprofil#c478569" role="">
+                            Interdisziplinäre Forschungseinrichtungen
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://www.uni-paderborn.de/forschung/forschungsprofil#orte-der-forschung" role="">
+                            Forschung in den Fakultäten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/sonderforschungsbereiche" role="">
+                            Sonderforschungsbereiche
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/graduiertenkollegs" role="">
+                            Graduiertenkollegs und -schulen
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/dfg-forschungsgruppen" role="">
+                            DFG-Forschungsgruppen
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/dfg-schwerpunktprogramme" role="">
+                            DFG-Schwerpunktprogramme
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/erc-grants" role="">
+                            ERC-Grants
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsprofil/leibniz-preistraegerinnen" role="">
+                            Leibniz Preisträger*innen
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Wissenschaftliche Karriere
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/forschung/wissenschaftliche-karriere" role="">
+                    Seite &quot;Wissenschaftliche Karriere&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/phdpostdoc" role="">
+                            Frühe Karrierephase
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/zv/4-5/personalentwicklung/prof" role="">
+                            Professur an der Universität Paderborn
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/zv/4-4/stellenangebote" role="">
+                            Stellenportal
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/zv/4-5/personalentwicklung" role="">
+                            Universität als Arbeitgeberin
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Forschungsservices
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/forschung/forschungsservices" role="">
+                    Seite &quot;Forschungsservices&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/forschung/foerder-und-antragsberatung" role="">
+                            Förder- und Antragsberatung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/rechtliche-beratung-in-forschung-und-entwicklung" role="">
+                            Rechtliche Beratung in Forschung und Entwicklung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/ethik-kommission" role="">
+                            Ethik-Kommission
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungsinformationen-an-der-upb" role="">
+                            Forschungsinformationen an der UPB
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/foerder-und-antragsberatung/forschungsdaten" role="">
+                            Forschungsdatenmanagement
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://digital.ub.uni-paderborn.de/ubpb" role="">
+                            Publikationsservice der Universitätsbibliothek
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://www.ub.uni-paderborn.de/publizieren/open-access" role="">
+                            Open Access-Portal
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/patente" role="">
+                            Erfindungen und Patente
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://www.tecup.de" role="">
+                            Gründung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/netzwerk-interdisziplinaere-forschung" role="">
+                            Netzwerk interdisziplinäre Forschung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/fk" role="">
+                            Interne Fördermittel (Forschungskommission)
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Forschungskultur
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/forschung/forschungskultur" role="">
+                    Seite &quot;Forschungskultur&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/gleichstellung/gleichstellungsbeauftragte/auszeichnungen/forschungsorientierte-gleichstellungsstandards" role="">
+                            Forschungsorientierte Gleichstellungsstandards
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/gleichstellung/gleichstellungsbeauftragte/angebote/beratungsangebot-zu-gleichstellungsaspekten-bei-der-beantragung-von-forschungsprojekten" role="">
+                            Gender &amp; Diversity Consulting
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/ethik-kommission" role="">
+                            Ethikkommission
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/gute-wissenschaftliche-praxis" role="">
+                            Gute wissenschaftliche Praxis
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/forschung/forschungskultur/hrs4r" role="">
+                            Human Resources Strategy for Researchers
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Transfer
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/transfer" role="">
+                    Seite &quot;Transfer&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/transfer/gemeinsam-gestalten" role="">
+                            Gemeinsam gestalten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/transfer/gemeinsam-innovieren" role="">
+                            Gemeinsam innovieren
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/transfer/gemeinsam-reflektieren" role="">
+                            Gemeinsam reflektieren
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/transfer/kontakte-1" role="">
+                            Kontakte
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            International
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/international" role="">
+                    Seite &quot;International&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/international/internationales-profil" role="">
+                            Internationales Profil
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/international/internationaler-campus" role="">
+                            Internationaler Campus
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Universität
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/universitaet" role="">
+                    Seite &quot;Universität&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Über uns
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/universitaet" role="">
+                    Seite &quot;Über uns&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/universitaet/leitbild" role="">
+                            Leitbild
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/presse-kommunikation-marketing/geschichte-der-hochschule" role="">
+                            Geschichte
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/ehrungen-der-universitaet" role="">
+                            Ehrungen der Universität
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/universitaetsgesellschaft-paderborn" role="">
+                            Universitätsgesellschaft
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/alumni" role="">
+                            Alumni
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="http://www.unishop-paderborn.de" role="">
+                            Unishop
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Organisation
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/universitaet/organisation-der-universitaet" role="">
+                    Seite &quot;Organisation&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/universitaet/praesidium" role="">
+                            Präsidium
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/hochschulrat" role="">
+                            Hochschulrat
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/senat" role="">
+                            Senat
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/fakultaeten" role="">
+                            Fakultäten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/zv" role="">
+                            Zentrale Hochschulverwaltung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/zentrale-wissenschaftliche-einrichtungen" role="">
+                            Zentrale wissenschaftliche Einrichtungen
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/zentrale-betriebseinheiten" role="">
+                            Zentrale Betriebseinheiten
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/vertretungen-und-beauftragte" role="">
+                            Vertretungen und Beauftragte
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/anlauf-und-beratungsstellen" role="">
+                            Anlauf- und Beratungsstellen
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/universitaetskommissionen" role="">
+                            Universitätskommissionen
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                            Arbeiten bei uns
+                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        </button>
+                    
+                
+                    
+    <ul role="menu">
+        <li>
+            <a href="/universitaet/die-universitaet-als-arbeitgeberin" role="">
+                    Seite &quot;Arbeiten bei uns&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="/zv/4-4/stellenangebote" role="">
+                            Stellenangebote
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/gleichstellung" role="">
+                            Gleichstellung, Vereinbarkeit und Diversity
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/international-relations/welcomeservices" role="">
+                            Welcome Services
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/zv/4-5/personalentwicklung" role="">
+                            Personalentwicklung
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/phdpostdoc" role="">
+                            Wissenschaftliche Karrierewege
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/referent-praesidium/dual-career-couples" role="">
+                            Dual Career Service
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/gesunde-hochschule" role="">
+                            Gesunde Hochschule
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/studium/kultur-sport-und-freizeit-an-der-universitaet-paderborn" role="">
+                            Kultur, Sport und Freizeit
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li>
+                
+                        <a href="/universitaet/anreise-lageplan" role="">
+                            Anfahrt und Lageplan
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        <button type="button" title="toggle submenu" class="toggle-submenu">
+                                            Fakultäten
+                                            
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                                        </button>
+                                    
+                                
+                                    
+    <ul role="menu">
+        <li>
+            <a href="/fakultaeten" role="">
+                    Seite &quot;Fakultäten&quot; öffnen
+            </a>
+        </li>
+        
+            <li>
+                
+                        <a href="https://kw.uni-paderborn.de" role="">
+                            Fakultät für Kulturwissenschaften
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://wiwi.uni-paderborn.de" role="">
+                            Fakultät für Wirtschaftswissenschaften
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://nw.uni-paderborn.de" role="">
+                            Fakultät für Naturwissenschaften
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="https://mb.uni-paderborn.de" role="">
+                            Fakultät für Maschinenbau
+                        </a>
+                    
+                
+            </li>
+        
+            <li>
+                
+                        <a href="http://www.eim.uni-paderborn.de" role="">
+                            Fakultät für Elektrotechnik, Informatik und Mathematik
+                        </a>
+                    
+                
+            </li>
+        
+    </ul>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+                                        
+                                                <a href="/universitaet/presse-kommunikation-marketing/landingpage-presse" role="menuitem">
+                                                    Presse
+                                                </a>
+                                            
+                                    
+                                
+                            </li>
+                        
+                    </ul>
+                    <div class="active-submenu"></div>
+                </div>
+            </div>
+            <div class="more-links">
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </nav>
+    <div class="navbar-collapse navbar-search bg-white collapse" id="searchBarUPB">
+        <div class="container">
+            <form class="form-inline" id="searchbox_000811303303555764227:ajae23nnrte"
+                  action="https://www.google.com/cse" accept-charset="utf-8">
+                <input type="hidden" name="cx" value="000811303303555764227:ajae23nnrte" />
+                <input type="hidden" name="cof" value="FORID:0" />
+                <div class="input-group">
+                    <input class="form-control" type="search" name="q"
+                        placeholder="Suchen (Google)"
+                        aria-label="Search">
+                    <button class="btn btn-primary search-submit-btn" type="submit">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-open"><use xlink:href="#icon-search"></use></svg>
+
+                    </button>
+                </div>
+            </form>
+            <script type="text/javascript">
+                let form = document.getElementById("searchbox_000811303303555764227:ajae23nnrte");
+                form.action='/suche';
+                form.cof.value='FORID:11';
+            </script>
+        </div>
+    </div>
+</header>
+
+
+
+      <main class="main-content">
+
+            <div class="container errormessage-de" style="display:none;">
+
+                  <header>
+                        <h1>Fehler 404 - Seite nicht gefunden</h1>
+                  </header>
+
+                  <div class="ce-bodytext">               
+                  <p>Die von Ihnen aufgerufene Webseite konnte leider nicht gefunden werden.</p>
+                  <h2 style="margin-top: 4rem; font-size: 2rem;">Was kann ich tun?</h2>
+                  <ul>
+                  <li>Falls Sie die Webadresse in die Adresszeile des Webbrowsers eingegeben haben, prüfen Sie bitte die Eingabe auf Tippfehler.</li>
+                  <li>Nutzen Sie das Menü oder die Suchfunktion rechts oben.</li>
+                  <li>Gehen Sie <a href="/">zur Startseite</a></li>
+                  </ul>
+                  <p>Sollten Sie über einen fehlerhaften Link auf diese Seite gelangt sein, würden wir uns freuen, wenn Sie eine Mitteilung mit Fehlerbeschreibung an <a href="mailto:webmaster@uni-paderborn.de">webmaster@uni-paderborn.de</a> schicken. Wir werden uns bemühen, den Fehler baldmöglichst zu beheben.</p>
+                  </div>
+            </div>                        
+
+            <div class="container errormessage-en" style="opacity: 0; transition: opacity 0.6s linear;">
+
+                  <header>
+                        <h1>Error 404 - Page not found</h1>
+                  </header>
+                  
+                  <div class="ce-bodytext">               
+                        <p>Sorry, the web page you requested could not be found.</p>
+                        <h2 style="margin-top: 4rem; font-size: 2rem;">What can I do?</h2>
+                        <ul>
+                        <li>If you have entered the web address in the address line of the web browser, please check the entry for typing errors.</li>
+                        <li>Use the menu or the search function at the top right.</li>
+                        <li>Go <a href="/">to the homepage</a></li>
+                        </ul>
+                        <p>If you have reached this page via an incorrect link, we would be pleased if you could send a message with a description of the error to <a href="mailto:webmaster@uni-paderborn.de">webmaster@uni-paderborn.de</a>. We will do our best to correct the error as soon as possible.</p>
+                  </div>                        
+            </div>
+
+      </main>
+    
+
+
+
+
+
+
+
+        
+
+
+<footer class="footer text-white">
+    <div class="bg-primary">
+        
+            <div class="footer_emotional prevent-select">
+                
+
+
+
+
+
+    
+        
+    
+
+    
+    
+    <figure class="">
+        <picture>
+            
+            
+            
+                
+        
+                
+                <source srcset="/fileadmin/_processed_/d/e/csm_future_579ab74c42.png" media="(max-width: 768px)" />
+            
+    
+            
+            
+                
+        
+                
+                <source srcset="/fileadmin/_processed_/d/e/csm_future_75a955daf6.png" media="(max-width: 992px)" />
+            
+    
+            
+            
+                
+        
+                
+                <source srcset="/fileadmin/_processed_/d/e/csm_future_291cfd2c8c.png" media="(max-width: 1200px)" />
+            
+    
+            
+            
+                    <img itemprop="image" class="img-fluid" loading="lazy" src="/fileadmin/_processed_/d/e/csm_future_d0dd631a63.png" width="1920" height="1281" alt="" />
+                
+        </picture>
+    </figure>
+
+
+
+            </div>
+        
+        <div class="container position-relative">
+            <div class="footer_grid">
+                <div class="footer_column" style="">
+                    <div class="row justify-content-center">
+                        <div class="col-xs-12 col-sm-7 col-md-12">
+                            
+
+
+
+
+
+
+
+        
+    
+
+
+        <a href="http://www.uni-paderborn.de/" title="Universität Paderborn" class="d-flex justify-content-center justify-content-lg-start">
+            <img alt="Universität Paderborn" class="img-fluid" src="/_assets/41f313ddc60e6583fa91411440628db0/Dist/Media/images/upb-logo-negativ-de.svg" width="393" height="123" />
+        </a>
+    
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="footer_column">
+                    <address>
+                        <p class="d-none d-sm-block mb-2">Warburger Str. 100<br>33098 Paderborn<br>Deutschland</p>
+                    </address>
+
+                    <div class="footer-phones">
+                        <div class="d-flex align-items-start">
+                            <svg class="icon-contact-data" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#FFFF"><path d="M798-120q-125 0-247-54.5T329-329Q229-429 174.5-551T120-798q0-18 12-30t30-12h162q14 0 25 9.5t13 22.5l26 140q2 16-1 27t-11 19l-97 98q20 37 47.5 71.5T387-386q31 31 65 57.5t72 48.5l94-94q9-9 23.5-13.5T670-390l138 28q14 4 23 14.5t9 23.5v162q0 18-12 30t-30 12ZM241-600l66-66-17-94h-89q5 41 14 81t26 79Zm358 358q39 17 79.5 27t81.5 13v-88l-94-19-67 67ZM241-600Zm358 358Z"/></svg>
+                            <div class="text-start">
+                                <p class="mb-0">Telefon Universität</p>
+                                <p><a class="text-white" href="tel:+49 5251 60-0" title="Telefon" target="_blank" onclick="_paq.push(['trackEvent', 'UPB-Footer', 'Click Phone', '+49 5251 60-0']);">
+                                    +49 5251 60-0
+                                </a></p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+
+                
+                    <div class="footer_column">
+                        
+
+
+
+    <div class="footer_nav-section">
+        <h5 class="footer_headline text-white">
+            Schnellzugriffe
+        </h5>
+        <ul class="nav footer_nav-quicklinks">
+            
+                <li class="nav-item">
+                    <a href="https://www.uni-paderborn.de/quicklink/mensa" onclick="_paq.push([&#039;trackEvent&#039;,&#039;UPB-Footer&#039;,&#039;Quicklink clicked&#039;,&#039;Mensa&#039;]);" title="Mensa" class="btn-icon-link text-white">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        Mensa
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a href="https://paul.uni-paderborn.de/scripts/mgrqispi.dll?APPNAME=CampusNet&amp;PRGNAME=EXTERNALPAGES&amp;ARGUMENTS=-N000000000000001,-N000568,-Awelcome%5Fbuz" onclick="_paq.push([&#039;trackEvent&#039;,&#039;UPB-Footer&#039;,&#039;Quicklink clicked&#039;,&#039;Online-Bewerbung&#039;]);" title="Online-Bewerbung" class="btn-icon-link text-white">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        Online-Bewerbung
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a href="https://www.ub.uni-paderborn.de" onclick="_paq.push([&#039;trackEvent&#039;,&#039;UPB-Footer&#039;,&#039;Quicklink clicked&#039;,&#039;Bibliothek&#039;]);" title="Bibliothek" class="btn-icon-link text-white">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        Bibliothek
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a href="https://www.uni-paderborn.de/quicklink/paul" onclick="_paq.push([&#039;trackEvent&#039;,&#039;UPB-Footer&#039;,&#039;Quicklink clicked&#039;,&#039;PAUL&#039;]);" title="PAUL" class="btn-icon-link text-white">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        PAUL
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a href="https://panda.uni-paderborn.de" onclick="_paq.push([&#039;trackEvent&#039;,&#039;UPB-Footer&#039;,&#039;Quicklink clicked&#039;,&#039;PANDA&#039;]);" title="PANDA" class="btn-icon-link text-white">
+                        
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" class="icon "><use xlink:href="#icon-arrow_forward"></use></svg>
+
+                        PANDA
+                    </a>
+                </li>
+            
+            
+        </ul>
+    </div>
+
+
+
+                    </div>
+                
+
+                <div class="footer_column">
+                    
+
+
+
+
+
+                </div>
+
+                <div class="footer_column">
+                    
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="footer_decor">
+            <div class="footer_decor-left"></div>
+            <div class="footer_decor-right"></div>
+        </div>
+    </div>
+</footer>
+
+
+        
+
+
+
+<!-- Matomo -->
+<script>
+    (async () => {
+        let isOptedOut = false;
+        try {
+            const res = await fetch('https://piwik.uni-paderborn.de/optout/optout.php', { credentials: 'include' });
+            const data = await res.json();
+            isOptedOut = data.isOptedOut;
+        } catch (e) {
+            console.warn('Opt-Out Status konnte nicht abgefragt werden', e);
+        }
+
+        if (isOptedOut) {
+            console.info('Matomo-Tracking für diesen Benutzer deaktiviert.');
+            return;
+        }
+
+        var _paq = window._paq = window._paq || [];
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="https://piwik.uni-paderborn.de/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '32']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+    })();
+</script>
+<noscript><p><img src="https://piwik.uni-paderborn.de/matomo.php?idsite=32" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+<script src="/typo3temp/assets/compressed/merged-bd8524c01199ddd428ebfb8637c1ff94-a20752b05c8efda12379cd8ab83bc310.js?1785903217"></script>
+<script src="/typo3temp/assets/compressed/merged-63e6c8a879725b0c9f6e3786c8a69270-b663443a82c0a59e5d7775849a6a65e5.js?1779942636"></script>
+<script src="/typo3temp/assets/compressed/merged-cec32101a39e17b48f594a8970032f6f-23f1880dd0480995ec469bf25ac2c567.js?1778057375"></script>
+<script src="/_assets/41f313ddc60e6583fa91411440628db0/Dist/js/errorpage.min.js?1785842932"></script>
+<script defer="defer" src="/_assets/41f313ddc60e6583fa91411440628db0/Dist/js/navbar.min.js?1785842932"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+# robots.txt zu http://www.gegen-hartz.de/
+
+User-agent: *
+Disallow:
+Sitemap: https://gegen-hartz.de/sitemap_index.xml

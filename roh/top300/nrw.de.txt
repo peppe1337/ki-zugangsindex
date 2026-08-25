@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics.nrw.de/" : "https://analytics.nrw.de/");_paq.push(["setSiteId", "37"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["disableCookies"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="canonical" href="https://www.land.nrw/" />
+<link rel="shortlink" href="https://www.land.nrw/" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/nrw_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Startseite | Land.NRW</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/misc/components/autocomplete-loading.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/libraries/cookiesjsr/dist/cookiesjsr.min.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/modules/custom/nrw_breakingnews/css/nrw-breakingnews.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/css/extlink.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/themes/custom/nrw_theme/dist/vendor/sanitize-css/sanitize.min.css?tkb54v" />
+<link rel="stylesheet" media="screen" href="/themes/custom/nrw_theme/dist/styles.min.css?tkb54v" />
+<link rel="stylesheet" media="print" href="/themes/custom/nrw_theme/dist/print.min.css?tkb54v" />
+<link rel="stylesheet" media="all" href="/themes/custom/nrw_theme/css/editor.css?tkb54v" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"taxonomy\/term\/4669","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":true,"trackColorbox":false,"trackMailto":true},"ajaxPageState":{"libraries":"eJxtkVuugzAMRDdEyJKQA9PgkpdiU9rd3_Slcku_LJ-xPOPEQRV1wLVkwTScOLRWrEdCpdCNOS8Msa96lvoD9aK3AOlw1cBpsVNdC4X-1XaRNMdsn6VLdRtcBS2cfMIm9hs8JgRUx9nSqnnMsQQoHlxnRDTrpEhqJPCEuhN8yI6Cuedp23bCmTjmQfLI7agPjvBkItJqtkql_NsVoS9Ns_dh75_o4qj-4C3-MZSwwkTi9Nh2EN4238LTZE-Vx-W2A9peuFdyAcMx_gVpyrXP7oxRzYnVcCSPrlAl36Znef_Th_RrKqsLLDOmTm6iiNaR4A-j5NdO","theme":"nrw_theme","theme_token":null},"ajaxTrustedUrl":{"\/suche":true},"theme_breakpoints":"[{\u0022name\u0022:\u0022mp\u0022,\u0022mediaQuery\u0022:\u0022all and (max-width: 399px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022ml\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 400px) and (max-width: 599px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022tp\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 600px) and (max-width: 899px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022tl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 900px) and (max-width: 1199px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022ds\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 1200px) and (max-width: 1599px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022dl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 1600px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022xl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 2400px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]},{\u0022name\u0022:\u0022xxl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 3000px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022,\u00222x\u0022]}]","data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":true,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"0","extLabel":"(Link ist extern)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Dieser Link f\u00fchrt Sie zu einer externen Website. Wir sind nicht f\u00fcr deren Inhalte verantwortlich.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(Link sendet E-Mail)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"nrw-icons nrw-icons--new-window","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"nrw_search":{"suggestions":[]},"search_api_autocomplete":{"content_search":{"auto_submit":true,"min_length":3}},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":31536000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"\/libraries\/cookiesjsr\/dist","libPath":"\/libraries\/cookiesjsr\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["en","de"],"defaultLang":"de","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"base","type":"functional","name":"Erforderliche Cookies","info":{"value":"\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie-Name\u003C\/th\u003E\u003Cth\u003EStandard Ablaufzeit\u003C\/th\u003E\u003Cth\u003EBeschreibung\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/td\u003E\u003Ctd\u003E1 Monat\u003C\/td\u003E\u003Ctd\u003EWenn Sie auf dieser Website eingeloggt sind, wird ein Session-Cookie ben\u00f6tigt, um Ihren Browser zu identifizieren und mit Ihrem Benutzerkonto im Server-Backend dieser Website zu verbinden.\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Ecookiesjsr\u003C\/td\u003E\u003Ctd\u003E1 Jahr\u003C\/td\u003E\u003Ctd\u003EBeim ersten Besuch dieser Website wurden Sie um Ihr Einverst\u00e4ndnis zur Nutzung mehrerer Dienste (auch von Dritten) gebeten, die das Speichern von Daten in Ihrem Browser erfordern (Cookies, lokale Speicherung). Ihre Entscheidungen zu den einzelnen Diensten (Zulassen, Ablehnen) werden in diesem Cookie gespeichert und bei jedem Besuch dieser Website wieder verwendet.\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E","format":"editor"},"uri":"","needConsent":false},{"key":"facebook","type":"functional","name":"Facebook","info":{"value":"","format":"editor"},"uri":"","needConsent":true},{"key":"instagram","type":"functional","name":"Instagram","info":{"value":"","format":"editor"},"uri":"","needConsent":true},{"key":"threads","type":"functional","name":"Threads","info":{"value":"","format":"editor"},"uri":"","needConsent":true},{"key":"twitter","type":"functional","name":"X","info":{"value":"","format":"editor"},"uri":"","needConsent":true},{"key":"youtube","type":"functional","name":"YouTube","info":{"value":"","format":"editor"},"uri":"","needConsent":true}],"weight":1}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"de","bannerText":"Wir verwenden Cookies, um Ihnen die optimale Nutzung unserer Webseite zu erm\u00f6glichen. Es werden f\u00fcr den Betrieb der Seite notwendige Cookies gesetzt. Dar\u00fcber hinaus k\u00f6nnen Sie Inhalte von Drittanbietern erlauben. Ein Widerruf ist jederzeit m\u00f6glich. Weitere Informationen finden Sie in den Datenschutzhinweisen.","privacyPolicy":"Datenschutzhinweise","privacyUri":"\/datenschutzhinweise","imprint":"Impressum","imprintUri":"\/impressum","cookieDocs":"Informationen zu Cookies","cookieDocsUri":"\/datenschutzhinweise#cookies","officialWebsite":"Offizielle Website anzeigen","denyAll":"Optionale Cookies ablehnen","alwaysActive":"St\u00e4ndig aktiv","settings":"Datenschutzeinstellungen","acceptAll":"Alle akzeptieren","requiredCookies":"Erforderliche Cookies","cookieSettings":"Datenschutzeinstellungen","close":"Schlie\u00dfen","readMore":"Weiterlesen","allowed":"Erlaubt","denied":"abgelehnt","settingsAllServices":"Einstellungen f\u00fcr alle Dienste","saveSettings":"Speichern","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Datenschutzeinstellungen","details":"Es werden f\u00fcr den Betrieb der Seite technisch notwendige Cookies gesetzt. Dar\u00fcber hinaus k\u00f6nnen Sie Inhalte von Drittanbietern erlauben. Ein Widerruf ist jederzeit m\u00f6glich. Weitere Informationen finden Sie in den Datenschutzhinweisen."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"de","bannerText":"Wir verwenden Cookies, um Ihnen die optimale Nutzung unserer Webseite zu erm\u00f6glichen. Es werden f\u00fcr den Betrieb der Seite notwendige Cookies gesetzt. Dar\u00fcber hinaus k\u00f6nnen Sie Inhalte von Drittanbietern erlauben. Ein Widerruf ist jederzeit m\u00f6glich. Weitere Informationen finden Sie in den Datenschutzhinweisen.","privacyPolicy":"Datenschutzhinweise","privacyUri":"\/node\/16823","imprint":"Impressum","imprintUri":"\/node\/16821","cookieDocs":"Informationen zu Cookies","cookieDocsUri":"\/datenschutzhinweise#cookies","officialWebsite":"Offizielle Website anzeigen","denyAll":"Optionale Cookies ablehnen","alwaysActive":"St\u00e4ndig aktiv","settings":"Datenschutzeinstellungen","acceptAll":"Alle akzeptieren","requiredCookies":"Erforderliche Cookies","cookieSettings":"Datenschutzeinstellungen","close":"Schlie\u00dfen","readMore":"Weiterlesen","allowed":"Erlaubt","denied":"abgelehnt","settingsAllServices":"Einstellungen f\u00fcr alle Dienste","saveSettings":"Speichern","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"base":{"uuid":"aea8886d-7509-4dfc-86b1-a1584243ebc1","langcode":"de","status":true,"dependencies":[],"id":"base","label":"Erforderliche Cookies","group":"functional","info":{"value":"\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie-Name\u003C\/th\u003E\u003Cth\u003EStandard Ablaufzeit\u003C\/th\u003E\u003Cth\u003EBeschreibung\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/td\u003E\u003Ctd\u003E1 Monat\u003C\/td\u003E\u003Ctd\u003EWenn Sie auf dieser Website eingeloggt sind, wird ein Session-Cookie ben\u00f6tigt, um Ihren Browser zu identifizieren und mit Ihrem Benutzerkonto im Server-Backend dieser Website zu verbinden.\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Ecookiesjsr\u003C\/td\u003E\u003Ctd\u003E1 Jahr\u003C\/td\u003E\u003Ctd\u003EBeim ersten Besuch dieser Website wurden Sie um Ihr Einverst\u00e4ndnis zur Nutzung mehrerer Dienste (auch von Dritten) gebeten, die das Speichern von Daten in Ihrem Browser erfordern (Cookies, lokale Speicherung). Ihre Entscheidungen zu den einzelnen Diensten (Zulassen, Ablehnen) werden in diesem Cookie gespeichert und bei jedem Besuch dieser Website wieder verwendet.\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E","format":"editor"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"facebook":{"uuid":"48c4723f-c1f6-47c2-829e-9faf1ab7e5c4","langcode":"en","status":true,"dependencies":[],"id":"facebook","label":"Facebook","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because facebook cookies have not been accepted.","placeholderAcceptText":"Only accept facebook cookies"},"flockler":{"uuid":"a5112e84-c12a-4a21-b3e2-9c9d37f8680e","langcode":"de","status":false,"dependencies":[],"_core":{"default_config_hash":"Rpf7vr1JeEewDW5kMRRiZD04o6-eZqdJgWfFAnD-xv8"},"id":"flockler","label":"Flockler","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because flockler cookies have not been accepted.","placeholderAcceptText":"Only accept flockler cookies"},"functional":{"uuid":"14bfec02-80d6-44d2-909e-cdfd1a67d1bb","langcode":"de","status":false,"dependencies":[],"id":"functional","label":"Erforderliche Cookies","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie-Name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EStandard Ablaufzeit\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EBeschreibung\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 Monat\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWenn Sie auf dieser Website eingeloggt sind, wird ein Session-Cookie ben\u00f6tigt, um Ihren Browser zu identifizieren und mit Ihrem Benutzerkonto im Server-Backend dieser Website zu verbinden.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 Jahr\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EBeim ersten Besuch dieser Website wurden Sie um Ihr Einverst\u00e4ndnis zur Nutzung mehrerer Dienste (auch von Dritten) gebeten, die das Speichern von Daten in Ihrem Browser erfordern (Cookies, lokale Speicherung). Ihre Entscheidungen zu den einzelnen Diensten (Zulassen, Ablehnen) werden in diesem Cookie gespeichert und bei jedem Besuch dieser Website wieder verwendet.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"editor"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"instagram":{"uuid":"69495eba-c756-4223-9d48-91a52a9b9289","langcode":"en","status":true,"dependencies":[],"id":"instagram","label":"Instagram","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because instagram cookies have not been accepted.","placeholderAcceptText":"Only accept instagram cookies"},"threads":{"uuid":"eb9bb3cd-92b7-4b8a-bdd5-46569923e59f","langcode":"de","status":true,"dependencies":[],"id":"threads","label":"Threads","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because threads cookies have not been accepted.","placeholderAcceptText":"Only accept threads cookies"},"twitter":{"uuid":"fcb33e76-952a-443d-85ec-05c8d444c5ce","langcode":"en","status":true,"dependencies":[],"id":"twitter","label":"X","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because x cookies have not been accepted.","placeholderAcceptText":"Only accept x cookies"},"youtube":{"uuid":"1f613b67-314a-4533-8550-ee923ab9ccaf","langcode":"en","status":true,"dependencies":[],"id":"youtube","label":"YouTube","group":"functional","info":{"value":"","format":"editor"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because youtube cookies have not been accepted.","placeholderAcceptText":"Only accept youtube cookies"}},"groups":{"functional":{"uuid":"f02cc7ae-4397-422b-b166-bac935ad8495","langcode":"de","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Datenschutzeinstellungen","details":"Es werden f\u00fcr den Betrieb der Seite technisch notwendige Cookies gesetzt. Dar\u00fcber hinaus k\u00f6nnen Sie Inhalte von Drittanbietern erlauben. Ein Widerruf ist jederzeit m\u00f6glich. Weitere Informationen finden Sie in den Datenschutzhinweisen."}}},"mediaelement":{"attachSitewide":0,"stretching":"fill","alwaysShowControls":"1"},"user":{"uid":0,"permissionsHash":"d0d97da5595cb27bd9456b842bafe7db05d45703847089bd5bfbea97c5a8b086"}}</script>
+<script src="/sites/default/files/js/js_J67cKGXtCV4wQPu_LMn6odaQPe050mb-KAWYISvY2V8.js?scope=header&amp;delta=0&amp;language=de&amp;theme=nrw_theme&amp;include=eJxtkNFugzAMRX-IwCdFJtymhiSOHFO6vx9qqcbGniyfK_tYHmEG9XhWaZj8jdPetiGiQCl1QWRhtOGoc9MOT0tclmHStVLqj7bLZJJleJeu6OYbSMN9oNUkSK4Jhhe3OzL2jcVQzLXEE_QUzMRZfJPAu_8HZ0RyGWV1m1Ktv0Yy7MhMYkxnTaHHSPoPx9au7sYGl4nLa9sl-Gj-Bm_JmRqH5esEbH9TbzQm-Ov5D5RJtJdxRjB3Y3OcKeIbBgSglg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.6.15" defer></script>
+<script src="/libraries/cookiesjsr/dist/cookiesjsr-preloader.min.js?v=10.6.15" defer></script>
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Direkt zum Inhalt
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div>
+    <div id="block-cookiesui">
+  
+    
+        
+<div id="cookiesjsr"></div>
+
+  </div>
+
+  </div>
+
+<div data-site class="site  "><div class="site__admin-toolbar">  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div><div class="site__wrapper">
+        <header class="site__navbar" role="banner">
+      <div data-sticky class="sticky  " data-sticky-offset-top="-50"><div data-site-navbar data-sticky-state-listener="true" data-site-navbar-sticky="false" class="site-navbar   u-max-width" >
+  <div class="site-navbar__columns u-columns u-columns--mp u-columns--no-vertical-gaps">
+    <div class="site-navbar__column site-navbar__column--menus u-col u-col--half u-col--10-tl">
+      <div class="site-navbar__menu-wrapper">
+        <div class="site-navbar__menu-toggle-wrapper site-navbar__menu-toggle-wrapper--meta"><button data-meta-menu-toggle title="Einstellungen öffnen" data-meta-menu-toggle-title-pressed="Einstellungen schließen" class="meta-menu-toggle  "  aria-controls="site-navbar-menu--meta" role="button">
+    <span class="meta-menu-toggle__icon" data-meta-menu-toggle-icon="default" aria-hidden="false"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--cog"></span></em></span>
+
+    <span class="meta-menu-toggle__icon meta-menu-toggle__icon--close" data-meta-menu-toggle-icon="close" aria-hidden="true"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span>
+
+    <span class="meta-menu-toggle__label">Einstellungen</span>
+</button>
+</div>
+
+        <div class="site-navbar__menu site-navbar__menu--meta" id="site-navbar-menu--meta" data-site-navbar-menu="meta"><div class="site-navbar__meta-menu"><nav role="navigation" aria-labelledby="block-metanavigation-menu" id="block-metanavigation">
+            
+  <h2 class="visually-hidden" id="block-metanavigation-menu">Meta navigation</h2>
+  
+
+        <nav data-site-meta-menu data-sticky-state-listener="true" class="site-meta-menu  " data-region="navbar">
+    <ul class="site-meta-menu__items site-meta-menu__items--root"><li class="site-meta-menu__item site-meta-menu__item--root" data-site-meta-menu-item="with-children">
+        <a href="/" title="Sprache" data-site-meta-menu-item-link="root" class="site-meta-menu__item-link site-meta-menu__item-link--root is-active" aria-controls="site-meta-menu-children-0" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">      <span class="site-meta-menu__item-link-icon" data-site-meta-menu-item-link-icon-toggle><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-down"></span></em></span><span class="site-meta-menu__item-link-text">Sprache</span></a>
+
+    <ul data-site-meta-menu-items-children="site-meta-menu-children-0" id="site-meta-menu-children-0" class="site-meta-menu__items site-meta-menu__items--children" aria-hidden="true"><li class="site-meta-menu__item site-meta-menu__item--child">
+        <a href="/" data-site-meta-menu-item-link="child" class="site-meta-menu__item-link site-meta-menu__item-link--child is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page"><span class="site-meta-menu__item-link-text">Deutsch</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--child">
+        <a href="/english" data-site-meta-menu-item-link="child" class="site-meta-menu__item-link site-meta-menu__item-link--child" data-drupal-link-system-path="node/17361"><span class="site-meta-menu__item-link-text">English</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--child">
+        <a href="/francais" data-site-meta-menu-item-link="child" class="site-meta-menu__item-link site-meta-menu__item-link--child" data-drupal-link-system-path="node/17601"><span class="site-meta-menu__item-link-text">Français</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--child">
+        <a href="/nederlands" data-site-meta-menu-item-link="child" class="site-meta-menu__item-link site-meta-menu__item-link--child" data-drupal-link-system-path="node/17603"><span class="site-meta-menu__item-link-text">Nederlands</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--child">
+        <a href="/turk" data-site-meta-menu-item-link="child" class="site-meta-menu__item-link site-meta-menu__item-link--child" data-drupal-link-system-path="node/17604"><span class="site-meta-menu__item-link-text">Türk</span></a>
+
+    </li></ul></li><li class="site-meta-menu__item site-meta-menu__item--root site-meta-menu__item--icon site-meta-menu__item--hands-outline" data-site-meta-menu-item="hands-outline">
+        <a href="/geb%C3%A4rdensprache" title="Gebärdensprache" data-site-meta-menu-item-link="root" class="site-meta-menu__item-link site-meta-menu__item-link--root" data-drupal-link-system-path="node/16837">      <span class="site-meta-menu__item-link-icon">
+        <span class="material-symbols-outlined">sign_language</span>
+      </span><span class="site-meta-menu__item-link-text">Gebärdensprache</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--root site-meta-menu__item--icon site-meta-menu__item--simple-language" data-site-meta-menu-item="simple-language">
+        <a href="/leichte-sprache" title="Leichte Sprache" data-site-meta-menu-item-link="root" class="site-meta-menu__item-link site-meta-menu__item-link--root" data-drupal-link-system-path="node/16835">      <span class="site-meta-menu__item-link-icon">
+        <span class="material-symbols-outlined">local_library</span>
+      </span><span class="site-meta-menu__item-link-text">Leichte Sprache</span></a>
+
+    </li><li class="site-meta-menu__item site-meta-menu__item--root site-meta-menu__item--icon site-meta-menu__item--keyboard" data-site-meta-menu-item="keyboard">
+        <a href="/barrierefreiheit" title="Barrierefreiheit" data-site-meta-menu-item-link="root" class="site-meta-menu__item-link site-meta-menu__item-link--root" data-drupal-link-system-path="node/16833">      <span class="site-meta-menu__item-link-icon">
+        <span class="material-symbols-outlined">keyboard</span>
+      </span><span class="site-meta-menu__item-link-text">Barrierefreiheit</span></a>
+
+    </li></ul>
+  </nav>
+  </nav>
+</div></div>
+
+        <div class="site-navbar__menu-toggle-wrapper site-navbar__menu-toggle-wrapper--main-n-search">
+          <div class="site-navbar__menu-toggle site-navbar__menu-toggle--main"><button data-navbar-toggle="hamburger" title="Hauptmenü öffnen" data-navbar-toggle-title-pressed="Hauptmenü schließen" class="navbar-toggle navbar-toggle--hamburger "  aria-controls="site-navbar-menu--main" role="button">
+    <span class="navbar-toggle__icon navbar-toggle__icon--default" data-navbar-toggle-icon="default" aria-hidden="false"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--hamburger"></span></em></span>
+
+    <span class="navbar-toggle__icon navbar-toggle__icon--close" data-navbar-toggle-icon="close" aria-hidden="true"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span>
+</button>
+</div>
+          <div class="site-navbar__menu-toggle site-navbar__menu-toggle--search"><button data-navbar-toggle="search" title="Suche öffnen" data-navbar-toggle-title-pressed="Suche schließen" class="navbar-toggle navbar-toggle--search "  aria-controls="site-navbar-menu--main" role="button">
+    <span class="navbar-toggle__icon navbar-toggle__icon--default" data-navbar-toggle-icon="default" aria-hidden="false"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--search"></span></em></span>
+
+    <span class="navbar-toggle__icon navbar-toggle__icon--close" data-navbar-toggle-icon="close" aria-hidden="true"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span>
+</button>
+</div>
+        </div>
+
+        <div class="site-navbar__menu site-navbar__menu--main" id="site-navbar-menu--main" data-site-navbar-menu="main"><nav data-site-main-menu data-sticky-state-listener="true" data-site-main-menu-sticky="false" class="site-main-menu  " role="navigation">
+    <ul class="site-main-menu__items"><li data-site-main-menu-item="default" class="site-main-menu__item">
+        <a href="/" data-site-main-menu-item-link="site-main-menu-item-link-0" class="site-main-menu__item-link is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page"><span class="site-main-menu__item-link-text">Startseite</span></a>
+
+    </li><li data-site-main-menu-item="with-mega-menu" class="site-main-menu__item">
+        <a href="/nrw-informieren" data-site-main-menu-item-link="site-main-menu-item-link-1" class="site-main-menu__item-link" aria-controls="site-main-menu-mega-menu-1" data-drupal-link-system-path="taxonomy/term/4673"><span class="site-main-menu__item-link-text">NRW informieren</span>      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--after"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></a>
+
+    <div data-site-main-menu-item-mega-menu="site-main-menu-mega-menu-1" id="site-main-menu-mega-menu-1" class="site-main-menu__item-mega-menu" aria-hidden="true">
+<div data-mega-menu-wrapper class="mega-menu-wrapper  " >
+    <div class="mega-menu-wrapper__inner">
+            <div class="mega-menu-wrapper__back-link"><a class="icon-with-text icon-with-text--inherit-color " data-mega-menu-wrapper-back href="javascript:void(0);" title="Zurück"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-left"></span></em></span><span class="icon-with-text__text">Zurück</span></a></div>
+
+      <div class="mega-menu-wrapper__content-wrapper">
+        <div class="mega-menu-wrapper__top-bar">
+          <div class="mega-menu-wrapper__overview-link"><a href="/nrw-informieren" title="NRW informieren" data-drupal-link-system-path="taxonomy/term/4673"><span class="icon-with-text icon-with-text--icon-after icon-with-text--icon-one-quarter-smaller icon-with-text--inherit-color "><span class="icon-with-text__text">NRW informieren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>          <div class="mega-menu-wrapper__close-link"><a class="icon-with-text icon-with-text--icon-one-half-larger " data-mega-menu-wrapper-close href="javascript:void(0);" title="Schließen"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span><span class="icon-with-text__text">Schließen</span></a></div>
+        </div>
+
+                <div class="mega-menu-wrapper__content"><div class="menu-four-column  " >
+  <div class="menu-four-column__columns u-columns u-columns--multiline u-columns--no-vertical-gaps">
+        <div class="menu-four-column__col menu-four-column__col--first u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/pressemitteilungen" title="Pressemitteilungen" data-drupal-link-system-path="taxonomy/term/4679"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Pressemitteilungen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Pressemitteilungen der Landesregierung suchen</div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/mediathek" title="Mediathek" data-drupal-link-system-path="taxonomy/term/4681"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mediathek</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Fotos, Videos, Galerien und Audios suchen und downloaden</div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/medientermine" title="Medientermine" data-drupal-link-system-path="node/17437"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Medientermine</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Medientermine des Ministerpräsidenten sowie der Ministerinnen und Minister</div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--second u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/pressekontakt" title="Pressekontakt" data-drupal-link-system-path="node/17561"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Pressekontakt</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Ansprechpartner und Kontaktdaten der Pressestelle der Staatskanzlei für Journalistinnen und Journalisten </div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/newsletter" title="Newsletter „Neues aus NRW“" data-drupal-link-system-path="node/17566"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Newsletter „Neues aus NRW“</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Abonnieren Sie den Newsletter der Landesregierung</div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--third u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/antisemitismusbeauftragte" title="Die Antisemitismusbeauftragte" data-drupal-link-system-path="node/17584"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Die Antisemitismusbeauftragte</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Informationen zum Kampf gegen Antisemitismus</div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--fourth u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"></div>
+    </div>
+  </div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div></li><li data-site-main-menu-item="with-mega-menu" class="site-main-menu__item">
+        <a href="/nrw-gestalten" data-site-main-menu-item-link="site-main-menu-item-link-2" class="site-main-menu__item-link" aria-controls="site-main-menu-mega-menu-2" data-drupal-link-system-path="taxonomy/term/4671"><span class="site-main-menu__item-link-text">NRW gestalten</span>      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--after"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></a>
+
+    <div data-site-main-menu-item-mega-menu="site-main-menu-mega-menu-2" id="site-main-menu-mega-menu-2" class="site-main-menu__item-mega-menu" aria-hidden="true">
+<div data-mega-menu-wrapper class="mega-menu-wrapper  " >
+    <div class="mega-menu-wrapper__inner">
+            <div class="mega-menu-wrapper__back-link"><a class="icon-with-text icon-with-text--inherit-color " data-mega-menu-wrapper-back href="javascript:void(0);" title="Zurück"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-left"></span></em></span><span class="icon-with-text__text">Zurück</span></a></div>
+
+      <div class="mega-menu-wrapper__content-wrapper">
+        <div class="mega-menu-wrapper__top-bar">
+          <div class="mega-menu-wrapper__overview-link"><a href="/nrw-gestalten" title="NRW gestalten" data-drupal-link-system-path="taxonomy/term/4671"><span class="icon-with-text icon-with-text--icon-after icon-with-text--icon-one-quarter-smaller icon-with-text--inherit-color "><span class="icon-with-text__text">NRW gestalten</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>          <div class="mega-menu-wrapper__close-link"><a class="icon-with-text icon-with-text--icon-one-half-larger " data-mega-menu-wrapper-close href="javascript:void(0);" title="Schließen"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span><span class="icon-with-text__text">Schließen</span></a></div>
+        </div>
+
+                <div class="mega-menu-wrapper__content"><div class="menu-four-column  " >
+  <div class="menu-four-column__columns u-columns u-columns--multiline u-columns--no-vertical-gaps">
+        <div class="menu-four-column__col menu-four-column__col--first u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/ministerpraesident" title="Ministerpräsident" data-drupal-link-system-path="node/16819"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Ministerpräsident</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__links"><ul class="submenu-item-links  "><li class="submenu-item-links__link"><a href="/ministerpraesident/hendrik-wuest" title="Zur Person" data-drupal-link-system-path="node/16817">Zur Person</a></li><li class="submenu-item-links__link"><a href="/ministerpraesident/amt" title="Amt des Ministerpräsidenten" data-drupal-link-system-path="node/16825">Amt des Ministerpräsidenten</a></li><li class="submenu-item-links__link"><a href="/ministerpraesident/staatskanzlei" title="Staatskanzlei" data-drupal-link-system-path="node/16827">Staatskanzlei</a></li></ul></div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/landeskabinett" title="Landeskabinett" data-drupal-link-system-path="node/17367"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Landeskabinett</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/ministerien-und-vertretungen" title="Ministerien und Vertretungen" data-drupal-link-system-path="node/17465"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Ministerien und Vertretungen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--second u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/staatssekret%C3%A4rinnen-und-staatssekret%C3%A4re" title="Staatssekretärinnen und Staatssekretäre"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Staatssekretärinnen und Staatssekretäre</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/regierungssprecher" title="Regierungssprecher" data-drupal-link-system-path="node/20278"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Regierungssprecher</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/landesbeauftragte" title="Landesbeauftragte" data-drupal-link-system-path="node/17499"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Landesbeauftragte</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--third u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/orden-preise-ehrenzeichen" title="Orden, Preise, Ehrenzeichen" data-drupal-link-system-path="node/17551"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Orden, Preise, Ehrenzeichen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__links"><ul class="submenu-item-links  "><li class="submenu-item-links__link"><a href="/nrw-gestalten/staatspreis-nordrhein-westfalen" title="Staatspreis des Landes" data-drupal-link-system-path="node/17553">Staatspreis des Landes</a></li><li class="submenu-item-links__link"><a href="/nrw-gestalten/landesverdienstorden" title="Landesverdienstorden" data-drupal-link-system-path="node/17558">Landesverdienstorden</a></li><li class="submenu-item-links__link"><a href="/nrw-gestalten/rettungsmedaille-des-landes-nordrhein-westfalen" title="Rettungsmedaille" data-drupal-link-system-path="node/20829">Rettungsmedaille</a></li><li class="submenu-item-links__link"><a href="/nrw-gestalten/mevluede-genc-medaille" title="Mevlüde-Genç-Medaille" data-drupal-link-system-path="node/17559">Mevlüde-Genç-Medaille</a></li></ul></div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/ministerpr%C3%A4sidenten-seit-1946" title="Ministerpräsidenten seit 1946"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Ministerpräsidenten seit 1946</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/regierungserklaerungen" title="Regierungserklärungen seit 1946" data-drupal-link-system-path="node/17457"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Regierungserklärungen seit 1946</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--fourth u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/themen" title="Themen der Landesregierung" data-drupal-link-system-path="themen"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Themen der Landesregierung</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/einsamkeit" title="Einsamkeit" data-drupal-link-system-path="node/20561"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Einsamkeit</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/themen/nordrhein-westfalen-plan" title="Nordrhein-Westfalen-Plan" data-drupal-link-system-path="taxonomy/term/5778"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Nordrhein-Westfalen-Plan</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/biooekonomie-rat-nrw" title="Bioökonomie-Rat NRW" data-drupal-link-system-path="node/22440"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Bioökonomie-Rat NRW</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/sportland-nrw" title="Sportland.NRW" data-drupal-link-system-path="node/17403"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Sportland.NRW</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="https://www.land.nrw/ehrenamt" title="Ehrenamt"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Ehrenamt</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div></li><li data-site-main-menu-item="with-mega-menu" class="site-main-menu__item">
+        <a href="/nrw-erleben" title="NRW erleben" data-site-main-menu-item-link="site-main-menu-item-link-3" class="site-main-menu__item-link" aria-controls="site-main-menu-mega-menu-3" data-drupal-link-system-path="taxonomy/term/4675"><span class="site-main-menu__item-link-text">NRW erleben</span>      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--after"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></a>
+
+    <div data-site-main-menu-item-mega-menu="site-main-menu-mega-menu-3" id="site-main-menu-mega-menu-3" class="site-main-menu__item-mega-menu" aria-hidden="true">
+<div data-mega-menu-wrapper class="mega-menu-wrapper  " >
+    <div class="mega-menu-wrapper__inner">
+            <div class="mega-menu-wrapper__back-link"><a class="icon-with-text icon-with-text--inherit-color " data-mega-menu-wrapper-back href="javascript:void(0);" title="Zurück"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-left"></span></em></span><span class="icon-with-text__text">Zurück</span></a></div>
+
+      <div class="mega-menu-wrapper__content-wrapper">
+        <div class="mega-menu-wrapper__top-bar">
+          <div class="mega-menu-wrapper__overview-link"><a href="/nrw-erleben" title="NRW erleben" data-drupal-link-system-path="taxonomy/term/4675"><span class="icon-with-text icon-with-text--icon-after icon-with-text--icon-one-quarter-smaller icon-with-text--inherit-color "><span class="icon-with-text__text">NRW erleben</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>          <div class="mega-menu-wrapper__close-link"><a class="icon-with-text icon-with-text--icon-one-half-larger " data-mega-menu-wrapper-close href="javascript:void(0);" title="Schließen"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span><span class="icon-with-text__text">Schließen</span></a></div>
+        </div>
+
+                <div class="mega-menu-wrapper__content"><div class="menu-four-column  " >
+  <div class="menu-four-column__columns u-columns u-columns--multiline u-columns--no-vertical-gaps">
+        <div class="menu-four-column__col menu-four-column__col--first u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/landessymbole" title="Landessymbole" data-drupal-link-system-path="node/17489"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Landessymbole</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__links"><ul class="submenu-item-links  "><li class="submenu-item-links__link"><a href="/landessymbole/landeswappen" title="Landeswappen" data-drupal-link-system-path="node/17491">Landeswappen</a></li><li class="submenu-item-links__link"><a href="/landessymbole/landessiegel" title="Landessiegel" data-drupal-link-system-path="node/17493">Landessiegel</a></li><li class="submenu-item-links__link"><a href="/landessymbole/landesflagge" title="Landesflagge" data-drupal-link-system-path="node/17495">Landesflagge</a></li><li class="submenu-item-links__link"><a href="/landesdesign" title="Landesdesign" data-drupal-link-system-path="node/24107">Landesdesign</a></li></ul></div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--second u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/nordrhein-westfalen-tag" title="Nordrhein-Westfalen-Tag" data-drupal-link-system-path="node/17471"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Nordrhein-Westfalen-Tag</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Der Landesgeburtstag heißt bei uns „Nordrhein-Westfalen-Tag“.</div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/heydemokratie" title="Tag der offenen Tür" data-drupal-link-system-path="node/23703"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Tag der offenen Tür</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">Unter dem Slogan „Hey, Demokratie!“ veranstaltet die Landesregierung den Tag der offenen Tür im Regierungsviertel.</div></div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/18millionen" title="1 von 18 Millionen" data-drupal-link-system-path="node/23906"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">1 von 18 Millionen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__text">In der Videoserie „1 von 18 Millionen“ stellen wir Menschen vor, die täglich in Nordrhein-Westfalen Außergewöhnliches leisten und unser Land prägen.</div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--third u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/geschichte-des-landes-nordrhein-westfalen" title="Geschichte des Landes Nordrhein-Westfalen" data-drupal-link-system-path="node/17463"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Geschichte des Landes Nordrhein-Westfalen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/nrw-erleben/nordrhein-westfalen-und-der-parlamentarische-rat" title="Nordrhein-Westfalen und der Parlamentarische Rat" data-drupal-link-system-path="node/22282"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Nordrhein-Westfalen und der Parlamentarische Rat</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/landesverfassung-nordrhein-westfalen" title="Landesverfassung " data-drupal-link-system-path="node/17487"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Landesverfassung </span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/landesverwaltung-nordrhein-westfalen" title="Landesverwaltung" data-drupal-link-system-path="node/17497"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Landesverwaltung</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--fourth u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"></div>
+    </div>
+  </div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div></li><li data-site-main-menu-item="with-mega-menu" class="site-main-menu__item">
+        <a href="/nrw-service" title="NRW Service" data-site-main-menu-item-link="site-main-menu-item-link-4" class="site-main-menu__item-link" aria-controls="site-main-menu-mega-menu-4" data-drupal-link-system-path="taxonomy/term/4677"><span class="site-main-menu__item-link-text">NRW-Service</span>      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--after"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></a>
+
+    <div data-site-main-menu-item-mega-menu="site-main-menu-mega-menu-4" id="site-main-menu-mega-menu-4" class="site-main-menu__item-mega-menu" aria-hidden="true">
+<div data-mega-menu-wrapper class="mega-menu-wrapper  " >
+    <div class="mega-menu-wrapper__inner">
+            <div class="mega-menu-wrapper__back-link"><a class="icon-with-text icon-with-text--inherit-color " data-mega-menu-wrapper-back href="javascript:void(0);" title="Zurück"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-left"></span></em></span><span class="icon-with-text__text">Zurück</span></a></div>
+
+      <div class="mega-menu-wrapper__content-wrapper">
+        <div class="mega-menu-wrapper__top-bar">
+          <div class="mega-menu-wrapper__overview-link"><a href="/nrw-service" title="NRW-Service" data-drupal-link-system-path="taxonomy/term/4677"><span class="icon-with-text icon-with-text--icon-after icon-with-text--icon-one-quarter-smaller icon-with-text--inherit-color "><span class="icon-with-text__text">NRW-Service</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>          <div class="mega-menu-wrapper__close-link"><a class="icon-with-text icon-with-text--icon-one-half-larger " data-mega-menu-wrapper-close href="javascript:void(0);" title="Schließen"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span><span class="icon-with-text__text">Schließen</span></a></div>
+        </div>
+
+                <div class="mega-menu-wrapper__content"><div class="menu-four-column  " >
+  <div class="menu-four-column__columns u-columns u-columns--multiline u-columns--no-vertical-gaps">
+        <div class="menu-four-column__col menu-four-column__col--first u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/nrw-direkt" title="Nordrhein-Westfalen direkt" data-drupal-link-system-path="node/17901"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Nordrhein-Westfalen direkt</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/buergertelefon-spezial" title="Bürgertelefon Spezial " data-drupal-link-system-path="node/17509"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Bürgertelefon Spezial </span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/serviceangebote" title="Serviceangebote" data-drupal-link-system-path="node/17511"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Serviceangebote</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__links"><ul class="submenu-item-links  "><li class="submenu-item-links__link"><a href="/ministerpraesident/staatskanzlei/karriere" title="Staatskanzlei als Arbeitgeber" data-drupal-link-system-path="node/22874">Staatskanzlei als Arbeitgeber</a></li><li class="submenu-item-links__link"><a href="/serviceangebote/praktikum-in-der-Staatskanzlei" title="Praktikum in der Staatskanzlei" data-drupal-link-system-path="node/17517">Praktikum in der Staatskanzlei</a></li><li class="submenu-item-links__link"><a href="https://karriere.nrw/" title="Karriere.NRW">Karriere.NRW</a></li><li class="submenu-item-links__link"><a href="http://www.verkehr.nrw.de/" title="Verkehrsinformationen">Verkehrsinformationen</a></li><li class="submenu-item-links__link"><a href="http://www.kita-finder.nrw.de/" title="KiTa-Finder">KiTa-Finder</a></li><li class="submenu-item-links__link"><a href="/serviceangebote/adressdatenbanken" title="Adressdatenbanken" data-drupal-link-system-path="node/17519">Adressdatenbanken</a></li></ul></div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--second u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/NRW-Shop" title="NRW-Shop" data-drupal-link-system-path="node/17545"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">NRW-Shop</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/buergerservice" title="Bürgerservice" data-drupal-link-system-path="node/17527"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Bürgerservice</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  <div class="submenu-item__links"><ul class="submenu-item-links  "><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-alter-und-pflege" title="Infobereich Alter und Pflege" data-drupal-link-system-path="node/17521">Infobereich Alter und Pflege</a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-bauen-und-wohnen" title="Infobereich Bauen und Wohnen" data-drupal-link-system-path="node/17523">Infobereich Bauen und Wohnen</a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-beruf" title="Infobereich Beruf " data-drupal-link-system-path="node/17529">Infobereich Beruf </a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-bildung" title="Infobereich Bildung " data-drupal-link-system-path="node/17531">Infobereich Bildung </a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-familie" title="Infobereich Familie" data-drupal-link-system-path="node/17533">Infobereich Familie</a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-gesundheit" title="Infobereich Gesundheit" data-drupal-link-system-path="node/17535">Infobereich Gesundheit</a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-recht" title="Infobereich Recht" data-drupal-link-system-path="node/17537">Infobereich Recht</a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-rechtsextremismus" title="Infobereich Rechtsextremismus " data-drupal-link-system-path="node/17539">Infobereich Rechtsextremismus </a></li><li class="submenu-item-links__link"><a href="/buergerservice/infobereich-klimaschutz-und-energie" title="Infobereich Klimaschutz und Energie " data-drupal-link-system-path="node/17541">Infobereich Klimaschutz und Energie </a></li></ul></div></div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--third u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"><div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/broschuerenservice" title="Broschürenservice" data-drupal-link-system-path="node/17507"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Broschürenservice</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/schulferien-nordrhein-westfalen" title="NRW-Schulferien" data-drupal-link-system-path="node/17515"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">NRW-Schulferien</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/konsularische-vertretungen" title="Konsularische Vertretungen" data-drupal-link-system-path="node/17467"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Konsularische Vertretungen</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+<div class="submenu-item  ">
+    <div class="submenu-item__headline"><a href="/kontakt" title="Kontakt" data-drupal-link-system-path="node/17451"><span class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Kontakt</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></span></a></div>
+
+  </div>
+</div>
+    </div>
+
+        <div class="menu-four-column__col menu-four-column__col--fourth u-col u-col--full u-col--half-tp-only u-col--one-quarter-tl">
+      <div class="menu-four-column__col-content"></div>
+    </div>
+  </div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div></li><li data-site-main-menu-item="search" class="site-main-menu__item site-main-menu__item--icon site-main-menu__item--search">
+        <button title="Suche" data-site-main-menu-item-link="site-main-menu-item-link-5" class="site-main-menu__item-link" aria-controls="site-main-menu-mega-menu-5" type="button">      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--before"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--search"></span></em></span><span class="site-main-menu__item-link-text">Suche</span>      <span class="site-main-menu__item-link-icon site-main-menu__item-link-icon--after"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></button>
+
+    <div data-site-main-menu-item-mega-menu="site-main-menu-mega-menu-5" id="site-main-menu-mega-menu-5" class="site-main-menu__item-mega-menu" aria-hidden="true">
+<div data-mega-menu-wrapper="search" class="mega-menu-wrapper mega-menu-wrapper--search " >
+    <div class="mega-menu-wrapper__inner">
+            <div class="mega-menu-wrapper__back-link"><a class="icon-with-text icon-with-text--inherit-color " data-mega-menu-wrapper-back href="javascript:void(0);" title="Zurück"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--angle-left"></span></em></span><span class="icon-with-text__text">Zurück</span></a></div>
+
+      <div class="mega-menu-wrapper__content-wrapper">
+        <div class="mega-menu-wrapper__top-bar">
+                    <div class="mega-menu-wrapper__close-link"><a class="icon-with-text icon-with-text--icon-one-half-larger " data-mega-menu-wrapper-close href="javascript:void(0);" title="Schließen"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--close"></span></em></span><span class="icon-with-text__text">Schließen</span></a></div>
+        </div>
+
+                <div class="mega-menu-wrapper__content"><div class="search-in-navbar  " >
+    <div class="search-in-navbar__form"><div class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-content-search-search-in-navbar" id="block-search-in-navbar">
+  
+    
+      <form action="/suche" method="get" id="views-exposed-form-content-search-search-in-navbar" accept-charset="UTF-8">
+  <div class="search-navbar  " >
+  <div class="search-navbar__content">
+    <div class="search-navbar__field">
+<div class="form-element-wrapper  ">
+  <div class="form-element-wrapper__label visually-hidden">
+<div class="form-element-label form-element-label--hidden "><label class="form-element-label__label visually-hidden" for="edit-search--2">
+        Schlüsselwörter der Suche
+      </label></div></div>
+    <div class="form-element-wrapper__field"><div class="form-element-text form-element-text--with-search-button ">
+  <div class="form-element-text__wrapper">
+    <input placeholder="Bitte geben Sie einen Suchbegriff ein" data-drupal-selector="edit-search" data-search-api-autocomplete-search="content_search" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/content_search?display=search_in_navbar&amp;&amp;filter=search" type="text" id="edit-search--2" name="search" value="" size="30" maxlength="128" spellcheck="false" />
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+    <div class="search-navbar__action"><button class="search-button search-button--purple-icon-m button js-form-submit form-submit"  data-drupal-selector="edit-search-button-2" type="submit" id="edit-search-button--2" value="Suche">
+  <span class="search-button__label">Suche</span>
+</button>
+</div>
+  </div>
+</div>
+
+</form>
+
+  </div>
+</div>
+
+    <div class="search-in-navbar__links"></div>
+</div>
+</div>
+      </div>
+    </div>
+  </div>
+
+</div></li></ul>
+  </nav></div>
+      </div>
+    </div>
+
+    <div class="site-navbar__column site-navbar__column--crest u-col u-col--half u-col--2-tl">
+      <div class="site-navbar__crest"><a class="site-navbar-crest  " href="/">
+  Die Landesregierung Nordrhein-Westfalen
+</a>
+</div>
+    </div>
+  </div>
+</div>
+</div></header>
+
+    <main class="site__content" role="main">
+      <a id="main-content" tabindex="-1"></a>
+        <div>
+    <article class="channel-template  "><div class="channel-template__header-wrapper"><div class="paragraph-type- paragraph-uuid- content-item  u-max-width"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col   u-col--full"><div
+  class="search-page-header  u-max-width" >
+  <div class="search-page-header__columns u-columns u-columns--no-vertical-gaps">
+    <div class="search-page-header__column u-col u-col--full u-col--7-tl">
+      <div class="search-page-header__intro">
+        <div class="search-page-header__title"><h1 class="headline headline--1 headline--white ">Wir sind 18 Millionen.</h1>
+</div><div class="search-page-header__subline"><p class="subline subline--white subline--3 ">Wir sind das einwohnerstärkste Bundesland, im Westen Deutschlands, im Herzen Europas.</p>
+</div></div>
+        <div class="search-page-header__media">
+          <div class="nrw_corner_wrapper"><figure class="image image--object-fit-cover " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/channel_header_search__1x__desktop/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=2qjsI0wR 1x, /sites/default/files/styles/channel_header_search__2x__desktop/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=Fod53kMd 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="691" height="691"/>
+              <source srcset="/sites/default/files/styles/channel_header_search__1x__desktop/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=2qjsI0wR 1x, /sites/default/files/styles/channel_header_search__2x__desktop/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=Fod53kMd 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="691" height="691"/>
+              <source srcset="/sites/default/files/styles/channel_header_search__1x__tablet_landscape/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=X_PsLebq 1x, /sites/default/files/styles/channel_header_search__2x__tablet_landscape/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=w2keBShZ 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="666" height="666"/>
+              <source srcset="/sites/default/files/styles/channel_header_search__1x__tablet_portrait/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=_lzBAUWY 1x, /sites/default/files/styles/channel_header_search__2x__tablet_portrait/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=7BWh0u_4 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="899" height="378"/>
+              <source srcset="/sites/default/files/styles/channel_header_search__1x__mobile_landscape/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=Zq-NQTPq 1x, /sites/default/files/styles/channel_header_search__2x__mobile_landscape/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=9QyAweWr 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="599" height="252"/>
+              <source srcset="/sites/default/files/styles/channel_header_search_header__1x__mobile_portrait/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=u625ejPb 1x, /sites/default/files/styles/channel_header_search__2x__mobile_portrait/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=T5NYekRV 2x" media="all and (max-width: 399px)" type="image/jpeg" width="399" height="165"/>
+                  <img loading="eager" width="399" height="165" src="/sites/default/files/styles/channel_header_search_header__1x__mobile_portrait/public/assets/images/startseite-1.jpg?h=f405c703&amp;itok=u625ejPb" alt="Menschen sitzen auf einer Treppe am Rheinufer im Sonnenuntergang" />
+
+  </picture>
+
+</div>
+  </figure>
+</div>
+      </div><div class="search-page-header__search-box">
+          <div class="search-page-header__search"><div class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-content-search-channel-header-search" id="block-channel-header-search-block">
+  
+    
+      <form action="/suche" method="get" id="views-exposed-form-content-search-channel-header-search" accept-charset="UTF-8">
+  <div class="search-header  " >
+  <div class="search-header__content">
+    <div class="search-header__field">
+<div class="form-element-wrapper  ">
+  <div class="form-element-wrapper__label visually-hidden">
+<div class="form-element-label form-element-label--hidden "><label class="form-element-label__label visually-hidden" for="edit-search">
+        Schlüsselwörter der Suche
+      </label></div></div>
+    <div class="form-element-wrapper__field"><div class="form-element-text form-element-text--with-search-button ">
+  <div class="form-element-text__wrapper">
+    <input placeholder="Bitte geben Sie einen Suchbegriff ein" data-drupal-selector="edit-search" data-search-api-autocomplete-search="content_search" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/content_search?display=channel_header_search&amp;&amp;filter=search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" spellcheck="false" />
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+    <div class="search-header__action"><button class="search-button search-button--purple-icon-m button js-form-submit form-submit"  data-drupal-selector="edit-search-button" type="submit" id="edit-search-button" value="Suche">
+  <span class="search-button__label">Suche</span>
+</button>
+</div>
+  </div>
+</div>
+
+</form>
+
+  </div>
+</div></div></div>
+  </div>
+</div>
+
+
+</div>
+    </div></div>
+</div><div class="channel-template__content-wrapper">
+    <div class="channel-template__content">
+
+
+
+
+<div class="paragraph-type-content_slider paragraph-uuid-d9e8e412-302d-4821-b76e-cb5e3ba6a3d9 content-item  u-max-width" data-uuid="d9e8e412-302d-4821-b76e-cb5e3ba6a3d9" data-type="content_slider"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full"><div data-content-slider class="content-slider content-slider--has-headline  u-max-width" ><div class="content-slider__top-bar">
+                  <div class="content-slider__headline"><h2 class="headline headline--white headline--6 ">Aktuelle Top-Meldung</h2>
+</div><div class="content-slider__controls">
+            <div class="content-slider__controls-button content-slider__controls-button--previous"><button class="arrow-button arrow-button--smaller arrow-button--arrow-left arrow-button--inverted arrow-button--hover-gray "  data-content-slider-button="prev" title="Der vorherige Inhalt wird angezeigt">
+  
+</button>
+</div>
+            <div class="content-slider__controls-button content-slider__controls-button--next"><button class="arrow-button arrow-button--smaller arrow-button--inverted arrow-button--hover-gray "  data-content-slider-button="next" title="Der nächste Inhalt wird angezeigt">
+  
+</button>
+</div>
+          </div></div>    <div class="content-slider__slides-wrapper">
+      <div class="content-slider__slides" data-content-slider-slides data-tns-nav-container-aria-label="Seitennummerierung&#x20;Aktuelle&#x20;Top-Meldung"><div class="content-slider__slide">            <article class="content-slider-slide  ">
+  <div class="content-slider-slide__columns">
+        <div class="content-slider-slide__column content-slider-slide__column--media">
+      <div class="content-slider-slide__media-wrapper">
+        <div class="content-slider-slide__nrw_wrapper">
+        <div class="content-slider-slide__media"><a href="/pressemitteilung/ministerpraesident-hendrik-wuest-verleiht-verdienstorden-des-landes-nordrhein-0" title="Öffnet die Pressemitteilung 'Ministerpräsident Hendrik Wüst verleiht Verdienstorden des Landes Nordrhein-Westfalen'"><figure class="image image--object-fit-cover " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=BIiv_n8r 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=0eqnGENR 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=BIiv_n8r 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=0eqnGENR 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_landscape/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=MDGhJd0H 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_landscape/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=mbe9Odmy 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="770"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_portrait/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=ldjf3a7t 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_portrait/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=FYnTiSd6 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_landscape/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=OD-PCca9 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_landscape/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=6C-i9kTg 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="559" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=dirMjZat 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_portrait/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=u10Z9zod 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/2026-08-24_15-26-05%20-%20Z8A_3987%20%28Foto%20Mark%20Hermenau%29.jpg?h=790be497&amp;itok=dirMjZat" alt="Ministerpräsident Hendrik Wüst verleiht Verdienstorden des Landes Nordrhein-Westfalen" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+        </div>
+      </div>
+    </div>
+
+        <div class="content-slider-slide__column content-slider-slide__column--content">
+      <div class="content-slider-slide__content">
+        <div class="content-slider-slide__meta"><div class="content-slider-slide__date">24.08.2026</div></div><div class="content-slider-slide__headline"><h3 class="headline headline--white headline--5 "><a href="/pressemitteilung/ministerpraesident-hendrik-wuest-verleiht-verdienstorden-des-landes-nordrhein-0" title="Ministerpräsident Hendrik Wüst verleiht Verdienstorden des Landes Nordrhein-Westfalen">Ministerpräsident Hendrik Wüst verleiht Verdienstorden des Landes Nordrhein-Westfalen</a></h3>
+</div><div class="content-slider-slide__subline"><p class="subline subline--white subline--1 ">Ministerpräsident Wüst: Nordrhein-Westfalen lebt seit 80 Jahren vom Miteinander und der...</p>
+</div><div class="content-slider-slide__text"><div class="text text--white text--l "><p>Anlässlich des 80. Landesgeburtstags verleiht Ministerpräsident Hendrik Wüst am Montag, 24. August 2026, den Verdienstorden des Landes Nordrhein-Westfalen an 16 besonders engagierte Menschen. Mit dem Verdienstorden ehrt die Landesregierung traditionell den herausragenden Einsatz für das Gemeinwohl...</p></div>
+</div></div>
+
+      <div class="content-slider-slide__button"><a class="button button--primary button--icon "  href="/pressemitteilung/ministerpraesident-hendrik-wuest-verleiht-verdienstorden-des-landes-nordrhein-0" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div><div class="content-slider__slide">            <article class="content-slider-slide  ">
+  <div class="content-slider-slide__columns">
+        <div class="content-slider-slide__column content-slider-slide__column--media">
+      <div class="content-slider-slide__media-wrapper">
+        <div class="content-slider-slide__nrw_wrapper">
+        <div class="content-slider-slide__media"><a href="/nrw-erleben/benedikt-hoewedes-fragt-nach-was-olympia-mit-nrw-machen-wuerde" title="Öffnet die Seite 'Benedikt Höwedes fragt nach: Was Olympia mit NRW machen würde'"><figure class="image image--object-fit-cover " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=2TcVwTab 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=lPOwIMRx 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=2TcVwTab 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=lPOwIMRx 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_landscape/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=Tx9h960Y 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_landscape/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=29cd0714&amp;itok=btQa3wAs 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="770"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_portrait/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=d1f3ee6c&amp;itok=OEDH2YnH 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_portrait/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=d1f3ee6c&amp;itok=k5ADdQw_ 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_landscape/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=155d8840&amp;itok=Y-4l_tVM 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_landscape/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=155d8840&amp;itok=g6gmN0KL 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="559" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=155d8840&amp;itok=aNspEyPW 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_portrait/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=155d8840&amp;itok=pPEfIZMG 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/bildschirmfoto-2026-08-20-um-12.09.44.jpg?h=155d8840&amp;itok=aNspEyPW" alt="Benedikt Höwedes fragt nach: Was Olympia mit NRW machen würde" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+        </div>
+      </div>
+    </div>
+
+        <div class="content-slider-slide__column content-slider-slide__column--content">
+      <div class="content-slider-slide__content">
+        <div class="content-slider-slide__meta"><div class="content-slider-slide__date">20.08.2026</div><div class="content-slider-slide__category"><a class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--inherit-color " href="/themen/sport" title="Sport"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Sport</span></a></div></div><div class="content-slider-slide__headline"><h3 class="headline headline--white headline--5 "><a href="/nrw-erleben/benedikt-hoewedes-fragt-nach-was-olympia-mit-nrw-machen-wuerde" title="Benedikt Höwedes fragt nach: Was Olympia mit NRW machen würde">Benedikt Höwedes fragt nach: Was Olympia mit NRW machen würde</a></h3>
+</div><div class="content-slider-slide__subline"><p class="subline subline--white subline--1 ">KölnRheinRuhr</p>
+</div><div class="content-slider-slide__text"><div class="text text--white text--l "><p>Was könnten Olympische und Paralympische Spiele für ein ganzes Land bedeuten? Benedikt Höwedes im Gespräch mit: einer Bundestrainerin, einer Olympiasiegerin von 2008 und dem Leiter eines Olympiastützpunkts. Dazu war in Aachen, der Bühne des internationalen Reitsports und bei der Regattabahn in...</p></div>
+</div></div>
+
+      <div class="content-slider-slide__button"><a class="button button--primary button--icon "  href="/nrw-erleben/benedikt-hoewedes-fragt-nach-was-olympia-mit-nrw-machen-wuerde" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div><div class="content-slider__slide">            <article class="content-slider-slide  ">
+  <div class="content-slider-slide__columns">
+        <div class="content-slider-slide__column content-slider-slide__column--media">
+      <div class="content-slider-slide__media-wrapper">
+        <div class="content-slider-slide__nrw_wrapper">
+        <div class="content-slider-slide__media"><a href="/pressemitteilung/wir-gemeinsam-fuer-koelnrheinruhr-landesregierung-unternehmensverbaende-und" title="Öffnet die Pressemitteilung '„Wir gemeinsam für KölnRheinRuhr“'"><figure class="image image--object-fit-cover " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=Y4cyCCXE 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=Z-V_vN4u 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__desktop/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=Y4cyCCXE 1x, /sites/default/files/styles/teaser_in_content_slider__2x__desktop/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=Z-V_vN4u 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="720"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_landscape/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=2N9M_KlB 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_landscape/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=-8q4-EVA 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="770"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__tablet_portrait/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=92cf391e&amp;itok=yLrRYTUB 1x, /sites/default/files/styles/teaser_in_content_slider__2x__tablet_portrait/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=92cf391e&amp;itok=AZJpkEPs 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_landscape/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=HTfhjrgJ 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_landscape/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=1-abI3WD 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="559" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=kIAxU2Mi 1x, /sites/default/files/styles/teaser_in_content_slider__2x__mobile_portrait/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=fEwzcky6 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_content_slider__1x__mobile_portrait/public/assets/images/2026-08-17_12-11-08-33-1nw07768-foto-land-nrw-martin-gotz.jpg?h=790be497&amp;itok=kIAxU2Mi" alt="Die 3 Vertreter halten die unterzeichnete Erklärung hoch" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+        </div>
+      </div>
+    </div>
+
+        <div class="content-slider-slide__column content-slider-slide__column--content">
+      <div class="content-slider-slide__content">
+        <div class="content-slider-slide__meta"><div class="content-slider-slide__date">17.08.2026</div><div class="content-slider-slide__category"><a class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--inherit-color " href="/themen/sport" title="Sport"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Sport</span></a></div></div><div class="content-slider-slide__headline"><h3 class="headline headline--white headline--5 "><a href="/pressemitteilung/wir-gemeinsam-fuer-koelnrheinruhr-landesregierung-unternehmensverbaende-und" title="„Wir gemeinsam für KölnRheinRuhr“">„Wir gemeinsam für KölnRheinRuhr“</a></h3>
+</div><div class="content-slider-slide__subline"><p class="subline subline--white subline--1 ">Minister Liminski und Vertreter der Sozialpartner bekennen sich zur Bewerbung...</p>
+</div><div class="content-slider-slide__text"><div class="text text--white text--l "><p>Neben Bevölkerung, Landtag, Landeskabinett, beteiligten Kommunen und Religionsgemeinschaften erhält die Bewerbung KölnRheinRuhr für Olympische und Paralympische Spiele weitere Unterstützung. Minister und Chef der Staatskanzlei Nathanael Liminski, Unternehmerpräsident Arndt G. Kirchhoff und der...</p></div>
+</div></div>
+
+      <div class="content-slider-slide__button"><a class="button button--primary button--icon "  href="/pressemitteilung/wir-gemeinsam-fuer-koelnrheinruhr-landesregierung-unternehmensverbaende-und" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div></div>
+    </div>
+  </div></div>
+    </div></div>
+<div class="paragraph-type-current_news paragraph-uuid-9dd1c439-b06a-44b2-8ef7-a999ef920aa3 content-item  u-max-width" data-uuid="9dd1c439-b06a-44b2-8ef7-a999ef920aa3" data-type="current_news"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full"><div class="paragraph-type- paragraph-uuid- content-item  u-max-width"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full"><div class="latest-news   u-max-width" >
+  <div class="latest-news__wrapper u-columns u-columns--multiline u-columns--no-vertical-gaps">
+    <div class="latest-news__column latest-news__column--slider u-col u-col--full u-col--7-tl ">
+      <div class="latest-news__slider"><div data-news-slider class="news-slider news-slider--has-headline " >
+    <div class="news-slider__top-bar">
+              <div class="news-slider__headline"><h2 class="headline headline--5 ">Aktuelle Meldungen</h2>
+</div><div class="news-slider__controls">
+          <div class="news-slider__controls-button news-slider__controls-button--previous"><button class="arrow-button arrow-button--smaller arrow-button--arrow-left "  data-news-slider-button="prev" title="Der vorherige Inhalt wird angezeigt">
+  
+</button>
+</div>
+          <div class="news-slider__controls-button news-slider__controls-button--next"><button class="arrow-button arrow-button--smaller "  data-news-slider-button="next" title="Der nächste Inhalt wird angezeigt">
+  
+</button>
+</div>
+        </div></div>
+
+        <div class="news-slider__slides-wrapper">
+      <div class="news-slider__slides" data-news-slider-slides data-tns-nav-container-aria-label="Seitennummerierung&#x20;Aktuelle&#x20;Meldungen"><div class="news-slider__slide"><article class="news-slider-slide  ">
+  <div class="news-slider-slide__columns">
+        <div class="news-slider-slide__column news-slider-slide__column--media">
+      <div class="news-slider-slide__media-wrapper">
+        <div class="news-slider-slide__media"><a href="/pressemitteilung/vereinsrecht-verstehen-neuauflage-der-weiterbildungsreihe-fuer-engagierte-startet" title="Öffnet die Pressemitteilung 'Vereinsrecht verstehen'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=zxt24awl 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=HpU65dtX 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=zxt24awl 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=HpU65dtX 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_landscape/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=8pPOISmj 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_landscape/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=WZgHvksD 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="359"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_portrait/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=WRAgnRax 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_portrait/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?itok=AyleW8GA 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_landscape/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=bB7GWHUc 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_landscape/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=No1ZeeHf 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="520"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=skGSPdhS 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_portrait/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=AUzwcXLd 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/buero_papier_chaos_stress_verwaltung_-_cc0_pexels.com_via_tookapic.com_when_it_was_cc0_night-office-shirt-mail.jpg?h=ba049d05&amp;itok=skGSPdhS" alt="Ein Stapel weißes Papier, welches jemanden aus den Händen fällt. Der Hintergurnd ist schwarz." />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+      </div>
+    </div>
+
+        <div class="news-slider-slide__column news-slider-slide__column--content">
+      <div class="news-slider-slide__content">
+        <div class="news-slider-slide__meta"><div class="news-slider-slide__date">24.08.2026</div><div class="news-slider-slide__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/ehrenamt" title="Ehrenamt"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Ehrenamt</span></a></div></div><div class="news-slider-slide__subline"><h3 class="subline subline--1 "><a href="/pressemitteilung/vereinsrecht-verstehen-neuauflage-der-weiterbildungsreihe-fuer-engagierte-startet">Vereinsrecht verstehen</a></h3>
+</div></div>
+
+      <div class="news-slider-slide__button"><a class="button button--primary button--icon "  href="/pressemitteilung/vereinsrecht-verstehen-neuauflage-der-weiterbildungsreihe-fuer-engagierte-startet" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div><div class="news-slider__slide"><article class="news-slider-slide  ">
+  <div class="news-slider-slide__columns">
+        <div class="news-slider-slide__column news-slider-slide__column--media">
+      <div class="news-slider-slide__media-wrapper">
+        <div class="news-slider-slide__media"><a href="/pressemitteilung/ausbildungstour-minister-laumann-besucht-unternehmen-und-auszubildende-der-0" title="Öffnet die Pressemitteilung 'Ausbildungstour 2026 - Sechster Stopp der Tour in Herford, Bad-Salzuflen und Lemgo'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=2SJZHFxN 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=4Wi41uI7 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=2SJZHFxN 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=4Wi41uI7 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_landscape/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=5QWeh_jD 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_landscape/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=IdVAO1-q 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="359"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_portrait/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=ah3tc1xA 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_portrait/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?itok=7QhzLZYh 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_landscape/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=dphG8qaP 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_landscape/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=Nc1w_JYy 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="520"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=bg1oFO1Z 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_portrait/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=3WMiq8tX 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/ausbildung_-_auszubildende_misst_foto_panthermedia.net_bernd_galler_stk_-_landes-lizenz_2014_-_6422517.jpg?h=4213e3d6&amp;itok=bg1oFO1Z" alt="Auszubildene in Arbeit" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+      </div>
+    </div>
+
+        <div class="news-slider-slide__column news-slider-slide__column--content">
+      <div class="news-slider-slide__content">
+        <div class="news-slider-slide__meta"><div class="news-slider-slide__date">24.08.2026</div><div class="news-slider-slide__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/arbeit" title="Arbeit"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Arbeit</span></a></div></div><div class="news-slider-slide__subline"><h3 class="subline subline--1 "><a href="/pressemitteilung/ausbildungstour-minister-laumann-besucht-unternehmen-und-auszubildende-der-0">Ausbildungstour 2026 - Sechster Stopp der Tour in Herford, Bad-Salzuflen und Lemgo</a></h3>
+</div></div>
+
+      <div class="news-slider-slide__button"><a class="button button--primary button--icon "  href="/pressemitteilung/ausbildungstour-minister-laumann-besucht-unternehmen-und-auszubildende-der-0" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div><div class="news-slider__slide"><article class="news-slider-slide  ">
+  <div class="news-slider-slide__columns">
+        <div class="news-slider-slide__column news-slider-slide__column--media">
+      <div class="news-slider-slide__media-wrapper">
+        <div class="news-slider-slide__media"><a href="/pressemitteilung/staatssekretaer-wiermer-besucht-das-nordrhein-westfaelische-partnerland" title="Öffnet die Pressemitteilung 'Staatssekretär Wiermer besucht das nordrhein-westfälische Partnerland Nordmazedonien sowie...'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=XogV_d4k 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=uWllE5OG 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__desktop/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=XogV_d4k 1x, /sites/default/files/styles/teaser_in_news_slider__2x__desktop/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=uWllE5OG 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="720" height="336"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_landscape/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=cdRKX_Ef 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_landscape/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=64jWt0vo 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="770" height="359"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__tablet_portrait/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=p2WyVUiZ 1x, /sites/default/files/styles/teaser_in_news_slider__2x__tablet_portrait/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?itok=pPXlnFpn 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="859" height="484"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_landscape/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=GmP7TenX 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_landscape/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=ika3pU-d 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="520"/>
+              <source srcset="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=EJXcK5yr 1x, /sites/default/files/styles/teaser_in_news_slider__2x__mobile_portrait/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=aNQ4e1_m 2x" media="all and (max-width: 399px)" type="image/jpeg" width="359" height="311"/>
+                  <img loading="eager" width="359" height="311" src="/sites/default/files/styles/teaser_in_news_slider__1x__mobile_portrait/public/assets/images/Wiermer_Thissen_BT2_4016_HR.jpg?h=fb8e9dfc&amp;itok=EJXcK5yr" alt="Porträtfoto" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div>
+      </div>
+    </div>
+
+        <div class="news-slider-slide__column news-slider-slide__column--content">
+      <div class="news-slider-slide__content">
+        <div class="news-slider-slide__meta"><div class="news-slider-slide__date">21.08.2026</div><div class="news-slider-slide__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/europa" title="Europa"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Europa</span></a></div></div><div class="news-slider-slide__subline"><h3 class="subline subline--1 "><a href="/pressemitteilung/staatssekretaer-wiermer-besucht-das-nordrhein-westfaelische-partnerland">Staatssekretär Wiermer besucht das nordrhein-westfälische Partnerland Nordmazedonien sowie...</a></h3>
+</div></div>
+
+      <div class="news-slider-slide__button"><a class="button button--primary button--icon "  href="/pressemitteilung/staatssekretaer-wiermer-besucht-das-nordrhein-westfaelische-partnerland" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></div>
+  </div>
+</article>
+</div></div>
+    </div>
+  </div></div>
+    </div>
+    <div class="latest-news__column latest-news__column--list u-col u-col--full u-col--5-tl">
+      <div class="latest-news__list"><div class="news-list  ">
+    <ul class="news-list__items"><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">24.08.2026</div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/ministerpraesident-hendrik-wuest-verleiht-verdienstorden-des-landes-nordrhein-0">Ministerpräsident Hendrik Wüst verleiht Verdienstorden des Landes Nordrhein-Westfalen</a></h3>
+</div>
+</article>
+</li><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">21.08.2026</div><div class="news-list-item__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/soziales" title="Soziales"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Soziales</span></a></div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/nordrhein-westfalen-tag-soziale-innovation-am-stand-der-sozialstiftungnrw-hautnah">Nordrhein-Westfalen-Tag: Stand der SozialstiftungNRW</a></h3>
+</div>
+</article>
+</li><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">21.08.2026</div><div class="news-list-item__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/wissenschaft" title="Wissenschaft"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Wissenschaft</span></a></div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/ministerin-brandes-reist-zur-groessten-deutschen-karriere-und-recruiting-messe">Ministerin Brandes reist zur größten deutschen Karriere- und Recruiting-Messe</a></h3>
+</div>
+</article>
+</li><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">20.08.2026</div><div class="news-list-item__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/arbeit" title="Arbeit"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Arbeit</span></a></div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/krankenhaustransformationsfonds-land-investiert-rund-26-milliarden-fuer-eine">Rund 2,6 Milliarden für eine zukunftsfeste Krankenhausversorgung</a></h3>
+</div>
+</article>
+</li><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">20.08.2026</div><div class="news-list-item__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/schule" title="Schule"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Schule</span></a></div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/nordrhein-westfalen-macht-seine-schueler-und-schuelerinnen-fit-life-schulen">Schüler und Schülerinnen „Fit for Life“</a></h3>
+</div>
+</article>
+</li><li class="news-list__item"><article class="news-list-item  ">
+  <div class="news-list-item__header">
+    <div class="news-list-item__date">20.08.2026</div><div class="news-list-item__category"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/arbeit" title="Arbeit"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Arbeit</span></a></div></div>
+
+    <div class="news-list-item__subline"><h3 class="subline subline--4 "><a href="/pressemitteilung/ausbildungstour-minister-laumann-besucht-unternehmen-und-auszubildende-dortmund">Ausbildungstour in Dortmund</a></h3>
+</div>
+</article>
+</li></ul>
+  </div></div>
+    </div>
+  </div>
+</div>
+</div>
+    </div></div>
+</div>
+    </div></div>
+
+<div class="paragraph-type-text paragraph-uuid-09ee62f5-f984-4861-a360-2dca16dda8d3 content-item  u-max-width" data-uuid="09ee62f5-f984-4861-a360-2dca16dda8d3" data-type="text"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><div class="text  "><p><a href="/pressemitteilungen" title="Pressemitteilungsdatenbank">Alle Pressemitteilungen</a> | <a href="/medientermine">Medientermine</a> | <a href="/pressekontakt">Pressekontakt</a></p></div>
+</div>
+    </div></div>
+
+<div class="paragraph-type-quote paragraph-uuid-7e872340-842e-4287-be93-7ae57542fdf2 content-item  u-max-width" data-uuid="7e872340-842e-4287-be93-7ae57542fdf2" data-type="quote"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--10-tl u-col--offset-1-tl"><blockquote
+  class="quote quote--blue-bg quote--with-meta-info ">
+  <div class="quote__content">
+    <div class="quote__text">
+            <div class="quote__nrw_wrapper">Wie Sie bin ich einer von 18 Millionen, der sich jeden Tag dafür einsetzt, Nordrhein-Westfalen noch lebenswerter zu machen. Ich will unser Land weiter nach vorne bringen: Mit der Versöhnung von Klimaschutz und Industrie mit ihren guten Arbeitsplätzen, bei der Mobilitätswende, bei der digitalen Transformation und der Inneren Sicherheit – und ganz besonders mit guten Bildungschancen für alle.
+
+Wir werden diese vor uns liegenden Aufgaben meistern. Mit Zusammenhalt, Erfindergeist und Tatkraft.</div>
+          </div><div class="quote__meta">
+        <div class="quote__meta-infos"><div class="quote__meta-headline">Ministerpräsident Hendrik Wüst MdL</div><div class="quote__meta-subline">28. Juni 2022</div></div>
+           </div></div>
+</blockquote>
+</div>
+    </div></div>
+<div class="paragraph-type-jaimo_social_feed paragraph-uuid-4e82ce2a-998a-42ff-92ed-6a4f9acef094 content-item  u-max-width" data-uuid="4e82ce2a-998a-42ff-92ed-6a4f9acef094" data-type="jaimo_social_feed"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col   u-col--full"><div class="social-feed u-max-width  ">
+  <div class="u-columns u-columns--multiline u-columns--no-vertical-gaps u-columns--vcentered">
+    <div class="u-col u-col--full u-col--8-tl">
+      <div class="social-feed__headline paragraph-type-social_feed"><h2 class="headline headline--2 ">Land.NRW auf Social Media</h2>
+</div></div>
+
+        <div class="u-col u-col--full u-col--3-tl u-col--offset-1-tl"><ul class="social-feed__social-items">
+          <li class="social-feed__social-item">
+  <a href="https://www.instagram.com/land.nrw/" title="Instagram" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--instagram"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://www.tiktok.com/@land.nrw" title="TikTok" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--tiktok"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://de.linkedin.com/company/staatskanzlei-des-landes-nordrhein-westfalen" title="LinkedIn" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--linkedin"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://www.facebook.com/NRW/" title="Facebook" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--facebook"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://x.com/landnrw" title="X" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--x"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://www.threads.net/@land.nrw" title="Threads" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--threads"></span></em></a>
+</li>
+<li class="social-feed__social-item">
+  <a href="https://www.youtube.com/c/LandNRWyt" title="YouTube" class="social-feed__social-link" rel="nofollow"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--youtube"></span></em></a>
+</li>
+
+        </ul></div>
+  </div>
+
+    <div class="social-feed__feed">
+    <div id="stage-widget" data-widget-id="f315bc29808f3eb1bfedce1f0af75d42"></div>
+  </div>
+</div>
+</div>
+    </div></div>
+
+    
+<div class="paragraph-type-press_events_channel paragraph-uuid-2d5ed659-b119-49d1-8101-4c6f4ee7807e content-item  u-max-width" data-uuid="2d5ed659-b119-49d1-8101-4c6f4ee7807e" data-type="press_events_channel"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col   u-col--full"><div class="listing-teaser   u-max-width">
+  <div class="listing-teaser__row listing-teaser__headline">
+    <div class="listing-teaser__columns u-columns u-columns--mp u-columns--no-vertical-gaps">
+      <div class="listing-teaser__column listing-teaser__column--headline u-col u-col--full u-col--9-tl-only u-col--8-ds"><h2 class="headline headline--3 headline--white ">Medientermine</h2>
+</div>
+    </div>
+  </div>
+  <div class="listing-teaser__items-wrapper">
+    <div class="listing-teaser__columns u-columns u-columns--mp u-columns--no-vertical-gaps u-columns--multiline">
+      <div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-third-tl"><article class="event-teaser  ">
+  <div class="event-teaser__media"><a href="/node/25407" title="Öffnet die Seite 'Besuch der JVA Köln mit Haftraumkontrolle'"><figure class="image image--full-width " >
+    <div class="image__picture"><div>
+  
+      <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=LGr1ACOS 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=MlImh62C 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=LGr1ACOS 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=MlImh62C 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_landscape/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=ppPFJ8g- 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_landscape/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=VaH0hdOT 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="386" height="217"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_portrait/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=Z_wF4dt8 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_portrait/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=S_14YUeq 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="247"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_landscape/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=1oK1oyNm 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_landscape/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=gkq3DHXq 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=JWegmbCh 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_portrait/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=jwWKDQKz 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="400" height="225" src="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220630-01-291n.jpg?h=baf051e8&amp;itok=JWegmbCh" alt="PHB Limbach, Benjamin - neutral, blauer Hintergrund (2022)" />
+
+  </picture>
+
+
+</div>
+</div>
+  </figure>
+</a></div><div class="event-teaser__content">
+        <div class="event-teaser__meta">
+      <div class="event-teaser__meta-item event-teaser__meta-item--date"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--calendar"></span></em></span><span class="icon-with-text__text">25.08.2026</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--time"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--clock-regular"></span></em></span><span class="icon-with-text__text">08:30</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--location"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--map-marker-alt-solid"></span></em></span><span class="icon-with-text__text">Köln</span></div></div></div>
+
+    <div class="event-teaser__title"><h3 class="subline subline--3 "><a href="/node/25407">Besuch der JVA Köln mit Haftraumkontrolle</a></h3>
+</div><div class="event-teaser__text"><div class="text  "></div>
+</div></div>
+
+  <div class="event-teaser__button"><a class="button button--primary button--icon button--full-width-mobile "  href="/node/25407" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></article>
+</div><div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-third-tl"><article class="event-teaser  ">
+  <div class="event-teaser__media"><a href="/node/25434" title="Öffnet die Seite 'Nach dem Waldbrand: Ministerin Gorißen begleitet EU-Kommissarin Lahbib beim Besuch von Helfern, Einsatzkräften und Betroffenen rund um Monschau und im Hohen Venn'"><figure class="image image--full-width " >
+    <div class="image__picture"><div>
+  
+      <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=BUC-fipW 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=JZr9CzrT 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=BUC-fipW 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=JZr9CzrT 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_landscape/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=xHLXQ_CF 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_landscape/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=79Zym2Py 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="386" height="217"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_portrait/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=400tMmPS 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_portrait/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=RatfcNIk 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="247"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_landscape/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=YMtc8rLT 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_landscape/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=tHDJjfO7 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=Y4EbGaGz 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_portrait/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=cGcz70HJ 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="400" height="225" src="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220701-01-196n.jpg?h=49180102&amp;itok=Y4EbGaGz" alt="Silke Gorißen" />
+
+  </picture>
+
+
+</div>
+</div>
+  </figure>
+</a></div><div class="event-teaser__content">
+        <div class="event-teaser__meta">
+      <div class="event-teaser__meta-item event-teaser__meta-item--date"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--calendar"></span></em></span><span class="icon-with-text__text">25.08.2026</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--time"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--clock-regular"></span></em></span><span class="icon-with-text__text">15:45</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--location"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--map-marker-alt-solid"></span></em></span><span class="icon-with-text__text">Monschau-Kalterherberg</span></div></div></div>
+
+    <div class="event-teaser__title"><h3 class="subline subline--3 "><a href="/node/25434">Nach dem Waldbrand: Ministerin Gorißen begleitet EU-Kommissarin Lahbib beim Besuch von Helfern, Einsatzkräften und Betroffenen rund um Monschau und im Hohen Venn</a></h3>
+</div><div class="event-teaser__text"><div class="text  "></div>
+</div></div>
+
+  <div class="event-teaser__button"><a class="button button--primary button--icon button--full-width-mobile "  href="/node/25434" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></article>
+</div><div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-third-tl"><article class="event-teaser  ">
+  <div class="event-teaser__media"><a href="/node/25416" title="Öffnet die Seite 'Öffentlicher Wohnungsbau im Blickpunkt: WohneNRW-Tage 2026'"><figure class="image image--full-width " >
+    <div class="image__picture"><div>
+  
+      <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=ExsFTyFF 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=MuHjftI3 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_desktop/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=ExsFTyFF 1x, /sites/default/files/styles/teaser_in_event_list_2x_desktop/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=MuHjftI3 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="460" height="260"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_landscape/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=e5tbMtQp 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_landscape/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=E3GngAIQ 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="386" height="217"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_tablet_portrait/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=ysfoAxaf 1x, /sites/default/files/styles/teaser_in_event_list_2x_tablet_portrait/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=ULlxr7X2 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="247"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_landscape/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=5MeERNZo 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_landscape/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=fwIIGVQh 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=PqdgadGr 1x, /sites/default/files/styles/teaser_in_event_list_2x_mobile_portrait/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=QcYdvIk1 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="400" height="225" src="/sites/default/files/styles/teaser_in_event_list_1x_mobile_portrait/public/assets/images/rso220819-01-051n.jpg?h=ee8414d3&amp;itok=PqdgadGr" alt="Portraitfoto" />
+
+  </picture>
+
+
+</div>
+</div>
+  </figure>
+</a></div><div class="event-teaser__content">
+        <div class="event-teaser__meta">
+      <div class="event-teaser__meta-item event-teaser__meta-item--date"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--calendar"></span></em></span><span class="icon-with-text__text">26.08.2026 - 28.08.2026</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--time"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--clock-regular"></span></em></span><span class="icon-with-text__text">Ganztägig</span></div></div><div class="event-teaser__meta-item event-teaser__meta-item--location"><div class="icon-with-text icon-with-text--icon-one-half-larger icon-with-text--vtop "><span class="icon-with-text__icon"><em class="icon icon--fw "><span class="icon__icon nrw-icons nrw-icons--map-marker-alt-solid"></span></em></span><span class="icon-with-text__text">Viersen, Krefeld, Düsseldorf, Bonn, Köln, Moers, Hattingen, Herdecke, Essen, Dortmund, Kamen, Unna und Paderborn</span></div></div></div>
+
+    <div class="event-teaser__title"><h3 class="subline subline--3 "><a href="/node/25416">Öffentlicher Wohnungsbau im Blickpunkt: WohneNRW-Tage 2026</a></h3>
+</div><div class="event-teaser__text"><div class="text  "></div>
+</div></div>
+
+  <div class="event-teaser__button"><a class="button button--primary button--icon button--full-width-mobile "  href="/node/25416" title="Mehr erfahren"><div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Mehr erfahren</span><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span></div></a></div></article>
+</div></div>
+  </div>
+      <div class="listing-teaser__footer"></div>
+  </div></div>
+    </div></div>
+<div class="paragraph-type-listing_teaser paragraph-uuid-58b52a9b-56cf-478a-8717-d8abc119d475 content-item  u-max-width" data-uuid="58b52a9b-56cf-478a-8717-d8abc119d475" data-type="listing_teaser"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full"><div class="listing-teaser   u-max-width">
+  <div class="listing-teaser__row listing-teaser__headline">
+    <div class="listing-teaser__columns u-columns u-columns--mp u-columns--no-vertical-gaps">
+      <div class="listing-teaser__column listing-teaser__column--headline u-col u-col--full u-col--9-tl-only u-col--8-ds"><h2 class="headline headline--3 headline--white ">Unsere Themen</h2>
+</div>
+    </div>
+  </div>
+  <div class="listing-teaser__items-wrapper">
+    <div class="listing-teaser__columns u-columns u-columns--mp u-columns--no-vertical-gaps u-columns--multiline">
+      <div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-quarter-tl">  <div data-uuid="5d3aa27c-34ee-4be2-b968-863aaa4bcc94" data-type="content_reference" class="paragraph paragraph--type--content-reference paragraph--view-mode--in-teaser-list">
+          <article class="content-teaser content-teaser--less-padding ">
+<div class="content-teaser__image"><a href="/einsamkeit" title="Öffnet die Seite 'Einsamkeit'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/1_67.png?h=51785efb&amp;itok=-qrU_Gyj 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/1_67.png?h=51785efb&amp;itok=0Ajqf5uT 2x" media="all and (min-width: 1600px)" type="image/png" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/1_67.png?h=51785efb&amp;itok=-qrU_Gyj 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/1_67.png?h=51785efb&amp;itok=0Ajqf5uT 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/png" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_landscape/public/assets/images/1_67.png?h=51785efb&amp;itok=FIOZreen 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_landscape/public/assets/images/1_67.png?h=51785efb&amp;itok=onYGcncc 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/png" width="285" height="160"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_portrait/public/assets/images/1_67.png?h=51785efb&amp;itok=2bf1MqXf 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_portrait/public/assets/images/1_67.png?h=51785efb&amp;itok=dk_wGrW2 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/png" width="440" height="248"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/1_67.png?h=51785efb&amp;itok=JV_-RsNH 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_landscape/public/assets/images/1_67.png?h=51785efb&amp;itok=xmFUVGg2 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/png" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_portrait/public/assets/images/1_67.png?h=51785efb&amp;itok=wg6NC3jD 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_portrait/public/assets/images/1_67.png?h=51785efb&amp;itok=xi2Pke3V 2x" media="all and (max-width: 399px)" type="image/png" width="400" height="225"/>
+                  <img loading="eager" width="600" height="338" src="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/1_67.png?h=51785efb&amp;itok=JV_-RsNH" alt="Du Wir Eins – Nordrhein-Westfalen gegen Einsamkeit." />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div><div class="content-teaser__meta">
+      <div class="content-teaser__topic"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/einsamkeit" title="Einsamkeit"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Einsamkeit</span></a></div>          <ul class="content-teaser__meta-items"><li class="content-teaser__meta-item d-flex justify-space-between"></li></ul></div><div class="content-teaser__title"><h3 class="subline subline--2 "><a href="/einsamkeit">Einsamkeit</a></h3>
+</div><div class="content-teaser__text">    <div class="text  "><p>Viele Menschen in Nordrhein-Westfalen leiden unter Einsamkeit, einem Phänomen, das alle Generationen und Menschen in unterschiedlichsten...</p></div>
+</div></article>
+
+      </div>
+</div><div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-quarter-tl">  <div data-uuid="a9bec8ee-5d2b-4e34-89c8-f7202e56c181" data-type="content_reference" class="paragraph paragraph--type--content-reference paragraph--view-mode--in-teaser-list">
+          <article class="content-teaser content-teaser--less-padding ">
+<div class="content-teaser__image"><a href="/sportland-nrw" title="Öffnet die Seite 'Sportland.NRW'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=9ji8bWNI 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=_OAJ4wud 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=9ji8bWNI 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=_OAJ4wud 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_landscape/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=zNp15v_v 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_landscape/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=JSF8de04 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="285" height="160"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_portrait/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=5QU4MDDG 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_portrait/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=Drvhm_rQ 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="248"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=wBHDP9jm 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_landscape/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=2adkvZta 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_portrait/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=wEfULofL 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_portrait/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=MUo0Xnf8 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="600" height="338" src="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/IMG_4625.jpg?h=c74750f6&amp;itok=wBHDP9jm" alt="PHB Sportland NRW" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div><div class="content-teaser__meta">
+      <div class="content-teaser__topic"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/sport" title="Sport"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Sport</span></a></div>          <ul class="content-teaser__meta-items"><li class="content-teaser__meta-item d-flex justify-space-between"></li></ul></div><div class="content-teaser__title"><h3 class="subline subline--2 "><a href="/sportland-nrw">Sportland.NRW</a></h3>
+</div><div class="content-teaser__text">    <div class="text  "><p>Sport fördert neben der Ausbildung von motorischen Fähigkeiten und Fertigkeiten auch kognitives, soziales und emotionales Lernen und Können...</p></div>
+</div></article>
+
+      </div>
+</div><div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-quarter-tl">  <div data-uuid="c65edba0-26f6-40c6-8082-3d16ee92b3c5" data-type="content_reference" class="paragraph paragraph--type--content-reference paragraph--view-mode--in-teaser-list">
+          <article class="content-teaser content-teaser--less-padding ">
+<div class="content-teaser__image"><a href="/ehrenamt" title="Öffnet die Seite 'Ehrenamt'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=3MotB2nx 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=mD3obkkl 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=3MotB2nx 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=mD3obkkl 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_landscape/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=Yrk3vf_C 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_landscape/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=wpqL8xxz 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="285" height="160"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_portrait/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=ZDl1U6ye 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_portrait/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=k0CGkWHE 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="248"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=0lhImKcl 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_landscape/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=YhMbgzxq 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_portrait/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=6R36GPb2 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_portrait/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=HqULfumb 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="600" height="338" src="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/vis_ehrenamt_foto_panthermedia.net_randolf_berold_stk_-_landes-lizenz_2014_-_4703892.jpg?h=bebd914f&amp;itok=0lhImKcl" alt="phb Stempel, Ehrenamt" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div><div class="content-teaser__meta">
+      <div class="content-teaser__topic"><a class="icon-with-text icon-with-text--icon-one-half-larger " href="/themen/ehrenamt" title="Ehrenamt"><span class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--category"></span></em></span><span class="icon-with-text__text">Ehrenamt</span></a></div>          <ul class="content-teaser__meta-items"><li class="content-teaser__meta-item d-flex justify-space-between"></li></ul></div><div class="content-teaser__title"><h3 class="subline subline--2 "><a href="/ehrenamt">Ehrenamt</a></h3>
+</div><div class="content-teaser__text">    <div class="text  "><p>Die Bereitschaft zum freiwilligen Ehrenamt ist groß. Viele Menschen leisten einen freiwilligen Beitrag für das Gemeinwesen. Die...</p></div>
+</div></article>
+
+      </div>
+</div><div class="listing-teaser__item u-col u-col--full u-col--half-tp u-col--one-quarter-tl">  <div data-uuid="d3f3dc10-da13-404b-8dca-58a3d8ac5365" data-type="content_reference" class="paragraph paragraph--type--content-reference paragraph--view-mode--in-teaser-list">
+          <article class="content-teaser content-teaser--less-padding ">
+<div class="content-teaser__image"><a href="/ministerpraesident/staatskanzlei/karriere" title="Öffnet die Seite 'Das Land als Arbeitgeber'"><figure class="image image--full-width " >
+    <div class="image__picture">    <picture>
+                  <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=iM6HR00M 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=4H1M1lW6 2x" media="all and (min-width: 1600px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__desktop/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=iM6HR00M 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__desktop/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=4H1M1lW6 2x" media="all and (min-width: 1200px) and (max-width: 1599px)" type="image/jpeg" width="338" height="190"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_landscape/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=1p2HfO8c 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_landscape/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=vRRJ_6We 2x" media="all and (min-width: 900px) and (max-width: 1199px)" type="image/jpeg" width="285" height="160"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__tablet_portrait/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=hUn5BNTL 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__tablet_portrait/public/assets/images/eingang-landeshaus.jpg?h=51785efb&amp;itok=kIlgjWkl 2x" media="all and (min-width: 600px) and (max-width: 899px)" type="image/jpeg" width="440" height="248"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=zwFkDBdk 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_landscape/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=sNsidyE7 2x" media="all and (min-width: 400px) and (max-width: 599px)" type="image/jpeg" width="600" height="338"/>
+              <source srcset="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_portrait/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=H39sRTPv 1x, /sites/default/files/styles/teaser_in_side_by_side_list__2x__mobile_portrait/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=cvG7L8mC 2x" media="all and (max-width: 399px)" type="image/jpeg" width="400" height="225"/>
+                  <img loading="eager" width="600" height="338" src="/sites/default/files/styles/teaser_in_side_by_side_list__1x__mobile_landscape/public/assets/images/eingang-landeshaus.jpg?h=9ec70659&amp;itok=zwFkDBdk" alt="Der Eingang der Staatskanzlei mit den Absenderkennungen des Ministerpräsidenten sowie des Europaministers als Schilder an der Wand des Eingangsbereichs" />
+
+  </picture>
+
+</div>
+  </figure>
+</a></div><div class="content-teaser__title"><h3 class="subline subline--2 "><a href="/ministerpraesident/staatskanzlei/karriere">Das Land als Arbeitgeber</a></h3>
+</div><div class="content-teaser__text"><div class="text  "><p>Werden Sie Teil des „Team Staatskanzlei“ und gestalten Sie die Zukunft unseres Landes!</p>
+
+
+</div>
+</div></article>
+
+      </div>
+</div></div>
+  </div>
+  </div></div>
+    </div></div>
+
+  <div data-uuid="5a013ea2-ac70-4c86-be60-1745f0ed1927" data-type="link_button" class="paragraph paragraph-type-link-button u-max-width paragraph-link-button">
+          <div class="content-item__columns u-columns u-columns--multiline">
+        <div class="link-button-container content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><a class="button button--primary button--icon "
+   href="/themen"
+   title="Alle Themen">
+  <div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Alle Themen</span><span
+      class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span>
+  </div>
+</a>
+</div>
+      </div>
+      </div>
+
+
+<div class="paragraph-type-text paragraph-uuid-b4e08910-d863-462a-a7f9-c120effaf197 content-item  u-max-width" data-uuid="b4e08910-d863-462a-a7f9-c120effaf197" data-type="text"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><div class="text text--blue-bg "><h2>Newsletter „Neues aus NRW“</h2><p>Im Newsletter der Landesregierung informieren wir aus erster Hand zu den Topthemen der Woche, wichtigen Terminen und neuen Informationsangeboten – kurz und übersichtlich zusammengestellt.</p></div>
+</div>
+    </div></div>
+<div class="paragraph-type-html_snippet paragraph-uuid-6beb33f9-72cf-4126-a128-875609e36bfe content-item  u-max-width" data-uuid="6beb33f9-72cf-4126-a128-875609e36bfe" data-type="html_snippet"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><div id="newsletter-ausgabe" style="display:none">
+    <img src="/sites/default/files/assets/images/Newsletter%20%E2%80%9ENeues%20aus%20NRW%E2%80%9C%20Teaser%20Startseite%20%281%29.png" alt="Screenshot des oberen Teils einer Newsletter-Ausgabe">
+</div>
+<style>
+/*
+ * 
+ * Newsletter
+ * 
+ */
+
+.paragraph-uuid-b4e08910-d863-462a-a7f9-c120effaf197 {
+	& h2 {
+		font-size: 56px;
+		letter-spacing: 2.25px;
+		line-height: 1.0833;
+		padding-top: 40px;
+		padding-bottom: 20px;
+	}
+	& .content-item__body .text {
+		padding-bottom: 60px;
+	
+		& p {
+			font-size: 1.4rem
+		}
+	}
+}
+
+@media (min-width:1600px) {
+	.paragraph-uuid-b4e08910-d863-462a-a7f9-c120effaf197 {
+		& .content-item__body {
+			margin-left: 0 !important;
+		}
+	}
+}
+
+@media (max-width: 899px) {
+	.paragraph-type-html_snippet.paragraph-uuid-6beb33f9-72cf-4126-a128-875609e36bfe {
+		display: none !important;
+	}
+}
+
+/*
+ * Abbildung
+ */
+
+@media (min-width: 900px) {
+	.paragraph-type-html_snippet.paragraph-uuid-6beb33f9-72cf-4126-a128-875609e36bfe {
+		height: 0;
+		margin-top: 0;
+		& #newsletter-ausgabe {
+			display: inline !important;
+			float: right;
+			margin-right: -380px;
+			margin-top: -375px;
+			
+			& img {
+				height: 360px;
+			}
+		}
+	}
+}
+
+@media (min-width:900px) and (max-width:1599px) {
+	.paragraph-type-text.paragraph-uuid-b4e08910-d863-462a-a7f9-c120effaf197 .content-item__body {
+		margin-left: 20px !important;
+		padding-right: 50px;
+	}
+}
+
+@media (max-width:1200px) {
+	.paragraph-type-html_snippet.paragraph-uuid-6beb33f9-72cf-4126-a128-875609e36bfe #newsletter-ausgabe {
+		margin-top: -370px;
+	}
+}
+
+@media (min-width: 1600px) {
+	.paragraph-type-html_snippet.paragraph-uuid-6beb33f9-72cf-4126-a128-875609e36bfe #newsletter-ausgabe {
+		float: right;
+		margin-right: -320px;
+		margin-top: -315px;
+		
+		& img {
+			height: 300px;
+		}
+	}
+}
+</style></div>
+    </div></div>
+
+  <div data-uuid="6bbff069-13ce-4496-855d-54b998887814" data-type="link_button" class="paragraph paragraph-type-link-button u-max-width paragraph-link-button">
+          <div class="content-item__columns u-columns u-columns--multiline">
+        <div class="link-button-container content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><a class="button button--primary button--icon "
+   href="/newsletter"
+   title="Jetzt abonnieren!">
+  <div class="icon-with-text icon-with-text--icon-after "><span class="icon-with-text__text">Jetzt abonnieren!</span><span
+      class="icon-with-text__icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--arrow-right"></span></em></span>
+  </div>
+</a>
+</div>
+      </div>
+      </div>
+
+<div class="paragraph-type-html_snippet paragraph-uuid-e8112b15-1d49-4fe4-9e8d-b26f9751ca8f content-item  u-max-width" data-uuid="e8112b15-1d49-4fe4-9e8d-b26f9751ca8f" data-type="html_snippet"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><style>
+/* Dieses HTML Snippet */
+.paragraph-type-html_snippet.paragraph-uuid-e8112b15-1d49-4fe4-9e8d-b26f9751ca8f {
+    margin-top: 0 !important;
+    height: 0;
+}
+
+/* * * * * * * * * * * * * * * * * *
+ * 
+ * Jaimo Stage
+ * 
+ * * * * * * * * * * * * * * * * * */
+
+:root {
+	--stage-text-color: #003064;
+	--stage-link-color: #882345;
+	--stage-border-color: #ebebeb;
+}
+
+/*
+ * Font
+ */
+#stage-widget,
+#stage-fullscreen-root {
+    line-height: 24px !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+}
+
+/*
+ * Button "Mehr laden"
+ */
+::part(load-more-button),
+::part(load-more-button):hover {
+    transition: all 0.1s ease-in-out !important;  
+}
+::part(load-more-button) {
+    margin-top: 30px;
+    border: 2px solid #882345 !important;
+    background-color: #882345 !important;
+    color: #fff !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    border-radius: 0px !important;
+    text-transform: none !important;
+    line-height: 1.8 !important;
+    letter-spacing: .67px !important;
+}
+::part(load-more-button):hover,
+::part(load-more-button):active,
+::part(load-more-button):focus {
+    background-color: #fff !important;
+    color: #882345 !important;
+}
+/* * * ENDE Jaimo Stage * * */
+</style></div>
+    </div></div>
+<div class="paragraph-type-html_snippet paragraph-uuid-02a458a1-2a1f-4431-b893-5be3f0cbfccd content-item  u-max-width" data-uuid="02a458a1-2a1f-4431-b893-5be3f0cbfccd" data-type="html_snippet"><div class="content-item__columns u-columns u-columns--multiline"><div class="content-item__body  u-col  u-col--full u-col--8-tl u-col--offset-1-tl"><div style="display: none;"><a href="mailto:info@mhfgt.nrw.de">info@mhfgt.nrw.de</a></div>
+
+<style>
+/* Dieses HTML Snippet */
+.paragraph-type-html_snippet.paragraph-uuid-02a458a1-2a1f-4431-b893-5be3f0cbfccd {
+    margin-top: 0 !important;
+    height: 0;
+}
+
+.paragraph-uuid-1917b3fa-7109-4cb2-a43e-66286b0b0906 + .paragraph-type-social-media-embed {
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+.livestream-bild {
+    margin-top: -100px !important;
+    width:100%;
+    height:auto;
+}
+.livestream-ankuendigung p + h3 {
+	margin-top: 0 !important;
+}
+.content-item + .paragraph-uuid-09ee62f5-f984-4861-a360-2dca16dda8d3 {
+    margin-top: 40px;
+}
+.paragraph-uuid-de815a1d-ae66-4907-a054-77538ea86f4e .content-teaser__meta {
+    display: none;
+}
+.paragraph-type-social-media-embed.content-item+.content-item {
+    margin-top: 80px !important;
+}
+
+/*
+ * Zitat mobil zu groß
+ */
+@media (max-width:680px) {
+    .paragraph-type-quote .quote__text {
+        font-size: 24px;
+        line-height: 1.4em !important;
+    }
+}
+
+/*
+ * Unsere Themen ohne Meta-Zeile
+ */
+.paragraph-uuid-58b52a9b-56cf-478a-8717-d8abc119d475 .content-teaser__meta {
+    display: none;
+}
+
+/*
+ * Land NRW auf Social Media
+ */
+.social-feed__social-item {
+    & .nrw-icons--x {
+        margin-right: -7px;
+    }
+}
+
+/*
+ * Footer
+ */
+@media (min-width: 900px) {
+    .site__footer {
+        margin-top: 30px;
+    }
+}
+</style>
+
+<script>
+function waitForKeyElements(e,t,n,a){(o=void 0===a?jQuery(e):jQuery(a).contents().find(e))&&o.length>0?(l=!0,o.each(function(){var e=jQuery(this);!e.data("alreadyFound")&&(t(e)?l=!1:e.data("alreadyFound",!0))})):l=!1;var o,l,r=waitForKeyElements.controlObj||{},i=e.replace(/[^\w]/g,"_"),d=r[i];l&&n&&d?(clearInterval(d),delete r[i]):d||(d=setInterval(function(){waitForKeyElements(e,t,n,a)},300),r[i]=d),waitForKeyElements.controlObj=r}
+
+
+document.addEventListener("DOMContentLoaded", function(event) { 
+    /* Überschrift Social Media Wall */
+    jQuery(".paragraph-uuid-b2c9ccbb-8b24-4d15-b11c-5f552ac88a37 h2").text("Land.NRW auf Social Media");
+
+    /* Kanalname in CSS ausblendet > "  • " vor dem Datum entfernen */ 
+    waitForKeyElements( ".post-header .post-date", stage_postDate );
+    function stage_postDate( jNode ) {
+        jNode.text( jNode.html().replace("  • ","") );
+    }
+});
+</script></div>
+    </div></div>
+</div>
+  </div></article>
+
+  </div>
+
+    </main>
+
+              <footer class="site__footer" role="contentinfo"><div class="site-footer   u-max-width" >
+  <div class="site-footer__row site-footer__row--columns" style="padding-top:2em">
+    <div class="site-footer__columns u-columns u-columns--no-vertical-gaps u-columns--multiline">
+
+      <div class="u-col qu-columns">
+        <div class="u-columns nrw_corner_wrapper_footer">
+                    <div class="site-footer__column site-footer__column--contact u-col u-col--full u-col--5-tp-only u-col--5-tl-only u-col--4-ds"><div class="site-footer__wrapper site-footer__wrapper--contact"><div class="site-footer-item  " role="region" aria-labelledby="site-footer-item-title-1817166601">
+    <div class="site-footer-item__title" id="site-footer-item-title-1817166601" role="heading">Land Nordrhein-Westfalen</div><div class="site-footer-item__content"><address class="site-footer-contact-address  ">
+  Staatskanzlei des Landes Nordrhein-Westfalen<br />
+  Horionplatz 1<br />
+  40213 Düsseldorf
+</address>
+</div></div><div class="site-footer-item  " role="region">
+    <div class="site-footer-item__content">  <nav class="site-footer-menu  " role="navigation">
+    <ul class="site-footer-menu__items"><li class="site-footer-menu__item"><a href="/impressum" data-drupal-link-system-path="node/16821">Impressum</a></li><li class="site-footer-menu__item"><a href="/datenschutzhinweise" data-drupal-link-system-path="node/16823">Datenschutzhinweise</a></li><li class="site-footer-menu__item"><a href="/datenschutzhinweise#cookies" data-drupal-link-system-path="node/16823">Informationen zu Cookies</a></li><li class="site-footer-menu__item"><a href="#editCookieSettings">Datenschutzeinstellungen</a></li><li class="site-footer-menu__item"><a href="/kontakt" data-drupal-link-system-path="node/17451">Kontakt</a></li></ul>
+  </nav></div></div></div></div>
+
+                    <div class="site-footer__column site-footer__column--popular-links u-col u-col--full u-col--3-tp-only u-col--4-tl-only u-col--3-ds"><div class="site-footer__wrapper site-footer__wrapper--popular-links"><div class="site-footer-item  " role="region" aria-labelledby="site-footer-item-title-1704633005">
+    <div class="site-footer-item__title" id="site-footer-item-title-1704633005" role="heading">Beliebte Links</div><div class="site-footer-item__content">  <nav class="site-footer-menu  " role="navigation">
+    <ul class="site-footer-menu__items"><li class="site-footer-menu__item"><a href="/pressemitteilungen" data-drupal-link-system-path="taxonomy/term/4679">Pressemitteilungen</a></li><li class="site-footer-menu__item"><a href="/mediathek" data-drupal-link-system-path="taxonomy/term/4681">Mediathek</a></li><li class="site-footer-menu__item"><a href="/pressekontakt" data-drupal-link-system-path="node/17561">Pressekontakt</a></li><li class="site-footer-menu__item"><a href="/ministerpraesident" data-drupal-link-system-path="node/16819">Ministerpräsident</a></li><li class="site-footer-menu__item"><a href="/landeskabinett" data-drupal-link-system-path="node/17367">Landeskabinett</a></li><li class="site-footer-menu__item"><a href="/einsamkeit" data-drupal-link-system-path="node/20561">Einsamkeit</a></li><li class="site-footer-menu__item"><a href="/newsletter" data-drupal-link-system-path="node/17566">Newsletter</a></li></ul>
+  </nav></div></div></div></div>
+
+                    <div class="site-footer__column site-footer__column--social-links u-col u-col--full u-col--3-tl-only u-col--3-ds"><div class="site-footer__wrapper site-footer__wrapper--social-links"><div class="site-footer-item  " role="region" aria-labelledby="site-footer-item-title-612434517">
+    <div class="site-footer-item__title" id="site-footer-item-title-612434517" role="heading">Folgen Sie uns</div><div class="site-footer-item__content"><nav class="site-footer-social-links  ">
+<ul class="site-footer-social-links__items">
+  <li class="site-footer-social-links__item">
+    <a href="https://www.instagram.com/land.nrw" title="Instagram" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--instagram"></span></em></span>
+      <span class="site-footer-social-links__link-text">Instagram</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://www.tiktok.com/@land.nrw" title="TikTok" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--tiktok"></span></em></span>
+      <span class="site-footer-social-links__link-text">TikTok</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://de.linkedin.com/company/staatskanzlei-des-landes-nordrhein-westfalen" title="LinkedIn" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--linkedin"></span></em></span>
+      <span class="site-footer-social-links__link-text">LinkedIn</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://www.facebook.com/NRW" title="Facebook" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--facebook"></span></em></span>
+      <span class="site-footer-social-links__link-text">Facebook</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://x.com/landnrw" title="X" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--x"></span></em></span>
+      <span class="site-footer-social-links__link-text">X</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://www.threads.net/@land.nrw" title="Threads" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--threads"></span></em></span>
+      <span class="site-footer-social-links__link-text">Threads</span>
+    </a>
+  </li><li class="site-footer-social-links__item">
+    <a href="https://www.youtube.com/c/LandNRWyt" title="YouTube" class="site-footer-social-links__link" rel="nofollow">
+      <span class="site-footer-social-links__link-icon"><em class="icon  "><span class="icon__icon nrw-icons nrw-icons--youtube"></span></em></span>
+      <span class="site-footer-social-links__link-text">YouTube</span>
+    </a>
+  </li></ul>
+</nav>
+</div></div></div></div>
+        </div>
+      </div>
+
+
+
+            <div class="site-footer__column site-footer__column--crest u-col u-col--full u-col--2-ds"><div class="site-footer__wrapper site-footer__wrapper--crest"><div class="site-footer-item  " role="region">
+    <div class="site-footer-item__content"><div class="site-footer-crest  " aria-hidden="true">
+  <a href="/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="369" viewBox="0 0 349 369"><defs><path data-id="path-1" d="M0 .17h348.425v368.256H0z"/></defs><g data-id="nrw-crest" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g data-id="crest"><path data-id="Fill-1" fill="#b3c1d1" d="M174.5 308.455c6.1 0 11.048 4.945 11.048 11.044 0 6.104-4.948 11.048-11.048 11.048s-11.046-4.944-11.046-11.048c0-6.099 4.946-11.044 11.046-11.044m0 26.545c8.562 0 15.5-6.938 15.5-15.5 0-8.559-6.938-15.5-15.5-15.5-8.56 0-15.5 6.941-15.5 15.5 0 8.562 6.94 15.5 15.5 15.5"/><path data-id="Fill-3" fill="#b3c1d1" d="M299.91 108.567c3.598 1.236 5.704 5.148 5.704 7.931 0 5.463-6.614 12.84-6.614 22.1 0 17.713 24.305 17.119 24.305 28.397 0 3.707-3.047 4.442-3.047 4.442 4.88 1.644 12.408.033 12.408-9.486 0-9.207-9.49-13.812-9.49-23.354 0-8.064 9.824-12.732 9.824-23.534v-.052c-.02-8.265-4.907-15.66-16.334-20.011 2.027 6.462.449 13.107-1.278 17.574-2.15-5.363-10.504-7.515-15.479-4.007"/><path data-id="Fill-5" fill="#b3c1d1" d="M229.98 238.78h4.425c3.377-3.716 31.485-2.412 31.485-2.412 0-20.082 7.11-25.538 7.11-25.538-3.559-8.06-4.51-19.631-4.561-29.297-1.868-4.11-4.128-7.142-6.644-9.533-11.009 2.88-15.126 9.201-15.126 19.48 0 15.215 9.54 23.75 9.54 36.758h-31.163c.054.308.082.626.082.95 0 3.01-2.408 5.45-5.378 5.45-.545 0-1.068-.083-1.696-.107 0 0-6.054 5.199-6.054 10.911 4.613 2.153 11.054 2.074 17.98-.233v-6.43z"/><path data-id="Fill-7" fill="#b3c1d1" d="M241.174 48.273c1.079-6.79 8.266-.005 8.266-.005s-5.929 3.88-8.266.005m-27.086 118.4c0 .546-.08 1.072-.098 1.704 0 0 5.767 6.086 10.88 6.086 2.122-4.367 2.042-10.842-.243-18.07h-6.411v-4.001c-9.352-4.006-10.498-11.67-5.153-16.97l13.96.756.202.002 12.7.69c3.94-.02 7.532-2.662 8.837-6.301 1.982-.866 3.899 1.678 2.525 3.913-2.377 3.867-6.385 6.422-11.47 6.422l-11.226-.606c9.012 21.937 34.351 19.079 43.643 40.72 0 13.805 1.941 28.828 8.25 33.965 23.042 18.767 26.977 22.607 12.11 49.058.326.695.506 1.467.506 2.286 0 2.985-2.427 5.404-5.42 5.404-.286 0-.564-.022-.839-.066-.547.466-6.027 5.273-6.027 10.831 4.324 2.089 11.722 2.002 19.006-.263v-6.39c0-4.217 3.97-4.194 3.97-4.194 0-7.474 2.103-15.976 4.906-23.717a217.034 217.034 0 015.655-14.037c-6.25-12.281-8.266-17.119-8.266-29.143 18.457-23.729 12.612-37.102-10.803-54.754-17.57-18.49-15.663-32.832-15.164-39.74a37.115 37.115 0 0113.47-3.097c-3.228-2.438-5.868-6.131-7.662-9.13 5.742-1.11 13.176-3.065 20.814-6.49-5.606-2.864-9.701-9.136-12.345-14.519 5.466 1.846 12.405 2.504 20.827.175-6.493-3.985-9.464-13.847-17.053-20.435 4.138-.804 8.304-2.068 12.114-3.999-4.865-8.072-14.591-11.955-22.5-13.818 4.356-1.94 8.497-4.626 11.71-8.34-16.575 1.668-27.101-1.136-34.486-1.797.778 2.759.635 4.723.299 6.405-.424 2.1-3.48 2.805-4.799 1.865.75-1.975 1.757-4.523.214-8.341-2.108-5.216-7.81-7.737-7.81-7.737 0 3.815-1.553 9.21-1.26 13.299-2.418 1.251-7.866 4.156-10.598 6.317l-18.845 14.912c-2.343 1.854-2.89 3.864-2.94 4.84 1.191 0 2.16 1.07 2.16 2.387 0 1.32-.969 2.39-2.262 2.388.086 1.21.653 3.763 3.924 3.763l2.533-1.837a1.515 1.515 0 01-.019-.24c0-1.326 1.659-2.4 3.703-2.399 2.044 0 3.701 1.073 3.701 2.399 0 1.325-1.657 2.398-3.701 2.398-.234 0-.462-.014-.683-.04l-2.702 1.962s11.045 4.981 13.44-2.96c1.42-4.705 9.972-2.931 20.571-2.931 4.255 0 7.338-1.196 9.599-7.56 1.842-.803 4.148 1.076 2.705 3.998-2.65 5.373-6.498 7.714-12.683 7.58-3.752 19.368-34.116 25.043-34.755 50.97l-21.829 7.319-5.97 7.231c7.878 11.475 7.395 21.79 10.438 26.612a5.442 5.442 0 011.228-.138c2.995 0 5.422 2.419 5.422 5.403"/><path data-id="Fill-9" fill="#b3c1d1" d="M197.515 109.388l2.858-2.881c-3.93-9.406.723-15.706 8.308-15.706l12.495 23.338c1.38-6.96 4.729-12.41 8.824-17.068L207.058 79h-9.334c-2.417 12.86-8.374 17.568-11.436 26.63a5.465 5.465 0 01-.285 9.514c-.025 1.285.005 8.496 3.39 11.856 4.828-1.84 9.227-6.398 12.52-12.94l-4.398-4.672z"/><g data-id="Group-13"><mask data-id="mask-2" fill="#fff"><use xlink:href="#path-1"/></mask><path data-id="Fill-11" fill="#b3c1d1" d="M54.32 246.058c13.572-21.982 15.595-49.804 31.678-70.283 14.893-18.96 41.174-24.215 55.175-42.862 13.35-17.78 17.44-40.281 28.544-59.31v119.94c0 60.49-32.243 113.38-80.362 142.366-24.507-14.762-44.898-35.724-59.005-60.733 8.741-9.096 17.3-18.32 23.97-29.118zM8.991 193.543V9.146H145.67c-5.088 5.58-10.032 11.275-14.57 17.324-17.228 22.962-15.527 55-32.927 77.459-15.21 19.632-40.976 24.774-55.21 42.909-16.139 20.56-17.176 48.822-32.375 69.856a167.837 167.837 0 01-1.596-23.151zm140.45 92.58c3.54-.394 7.142.279 10.308 1.938-2.122 2.038-3.452 4.623-3.287 7.707-2.897-1.12-5.77-.648-8.364.745a17.906 17.906 0 011.342-10.39zm37.867 12.991a2.892 2.892 0 002.91 2.111c5.568-5.59 13.504-.137 16.302 8.463 2.798 8.597-.41 17.667-8.208 16.41a2.888 2.888 0 00-1.11 3.417c7.046 3.56 4.303 12.782-3.025 18.096-7.324 5.312-16.954 5.068-18.167-2.723a2.893 2.893 0 00-3.597 0c-1.213 7.791-10.844 8.035-18.172 2.72-7.32-5.313-10.066-14.534-3.018-18.094a2.885 2.885 0 00-1.111-3.415c-7.797 1.255-11.006-7.816-8.209-16.416 2.8-8.596 10.735-14.049 16.304-8.458a2.89 2.89 0 002.907-2.111c-3.604-7.016 4.044-12.87 13.1-12.87 9.053.002 16.7 5.854 13.094 12.87zm13.017-2.6c-2.6-1.388-5.475-1.853-8.362-.74.166-3.087-1.165-5.674-3.288-7.713a17.947 17.947 0 0110.31-1.936 17.904 17.904 0 011.34 10.39zM178.709 9.147h160.724v184.397c0 60.49-32.244 113.38-80.361 142.366-48.121-28.986-80.363-81.877-80.363-142.366V9.146zm26.103 328.51c.518-2.894.073-5.766-1.876-8.166 3.004-.793 5.049-2.862 6.328-5.51a17.925 17.925 0 015.03 9.191 17.938 17.938 0 01-9.482 4.484zm-30.6 24.593a17.929 17.929 0 01-7.2-7.62c2.916-.4 5.516-1.71 7.196-4.304 1.685 2.607 4.287 3.911 7.206 4.306a17.925 17.925 0 01-7.201 7.618zm-30.6-24.595a17.932 17.932 0 01-9.48-4.484 17.93 17.93 0 015.029-9.192c1.287 2.648 3.338 4.71 6.333 5.506-1.954 2.401-2.4 5.274-1.883 8.17zm30.6 30.773c96.162 0 174.213-78.287 174.213-174.884V.17H0v193.373c0 96.597 78.051 174.884 174.213 174.884z" mask="url(#mask-2)"/></g></g></g></svg></a>
+</div>
+</div></div></div></div>
+
+    </div>
+
+  </div>
+</div>
+</footer>
+      </div>
+</div>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_Ql-vyO7oLe9r6EyfjnsR6hZYWL5bRDjhBsvEG5nJFU8.js?scope=footer&amp;delta=0&amp;language=de&amp;theme=nrw_theme&amp;include=eJxtkNFugzAMRX-IwCdFJtymhiSOHFO6vx9qqcbGniyfK_tYHmEG9XhWaZj8jdPetiGiQCl1QWRhtOGoc9MOT0tclmHStVLqj7bLZJJleJeu6OYbSMN9oNUkSK4Jhhe3OzL2jcVQzLXEE_QUzMRZfJPAu_8HZ0RyGWV1m1Ktv0Yy7MhMYkxnTaHHSPoPx9au7sYGl4nLa9sl-Gj-Bm_JmRqH5esEbH9TbzQm-Ov5D5RJtJdxRjB3Y3OcKeIbBgSglg"></script>
+<script src="https://dashboard.stage.bio/static/bundle.js"></script>
+<script src="/sites/default/files/js/js_sVBFWS2P0Z1602fwk_z0G-9kqsvbu5sLSVVcqA7K9Qw.js?scope=footer&amp;delta=2&amp;language=de&amp;theme=nrw_theme&amp;include=eJxtkNFugzAMRX-IwCdFJtymhiSOHFO6vx9qqcbGniyfK_tYHmEG9XhWaZj8jdPetiGiQCl1QWRhtOGoc9MOT0tclmHStVLqj7bLZJJleJeu6OYbSMN9oNUkSK4Jhhe3OzL2jcVQzLXEE_QUzMRZfJPAu_8HZ0RyGWV1m1Ktv0Yy7MhMYkxnTaHHSPoPx9au7sYGl4nLa9sl-Gj-Bm_JmRqH5esEbH9TbzQm-Ov5D5RJtJdxRjB3Y3OcKeIbBgSglg"></script>
+
+  </body>
+</html>

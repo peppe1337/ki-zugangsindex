@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /entdecken/referenzen/branche*
+Disallow: /entdecken/referenzen/articlecount*
+Disallow: /entdecken/referenzen/country*
+Disallow: /discover/showcases/branche*
+Disallow: /discover/showcases/articlecount*
+Disallow: /discover/showcases/country*
+Disallow: /ueber-uns/team/mitarbeiter*
+Disallow: /about-us/team/employee*
+Sitemap: https://www.gambio.de/share/gambio-de.xml
+Sitemap: https://www.gambio.de/share/gambio-com.xml

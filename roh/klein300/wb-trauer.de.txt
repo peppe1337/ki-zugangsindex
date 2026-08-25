@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /Microsite/Views/Controls/
+Disallow: /traueranzeige/content/
+Disallow: /content/User/LoginForm
+Disallow: /content/user/LoginUser
+Disallow: /meine-daten/
+Disallow: /account/registieren
+Disallow: /trauerratgeber-suche/
+Disallow: /content/Search/
+Disallow: /*.pdf$
+Disallow: /*.m4v$
+
+Sitemap: https://www.wb-trauer.de/sitemap.xml

@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /4023/
+Disallow: /et/wf/
+Disallow: /form.html
+Disallow: /30
+Disallow: /freunde
+Disallow: /gold
+Disallow: /agb-gs
+Disallow: /agb-gold
+Disallow: /result/
+Disallow: /payback/versicherungen/*
+Disallow: /payback/konto-kredit/
+Disallow: /payback/strom-gas/
+Disallow: /payback/mietwagen/
+Disallow: /tariffbox/
+Disallow: /kundenbereich/
+Disallow: /suche/
+Disallow: /*/vergleich/
+Disallow: /*/result_jumpin/
+Disallow: /files/
+Disallow: /unternehmen/presse/*
+Disallow: /unternehmen/news/*
+Disallow: /news/*
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+Sitemap: https://www.check24.de/news-sitemap.xml
+Sitemap: https://urlaub.check24.de/urlaub-sitemap.xml
+Sitemap: https://www.check24.de/sitemap.xml

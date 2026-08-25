@@ -1,0 +1,118 @@
+User-agent:*
+
+Disallow: /*.php$
+
+Disallow: /index.php/
+Allow: /*html?p=
+Disallow: /*html?p=*&
+Disallow: /*html?
+Disallow: /app/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /wishlist/
+Disallow: /epages/
+
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /simplequoteform/
+
+Disallow: /de-de/catalog/
+Disallow: /de-de/customer/
+Disallow: /de-de/sendfriend/
+Disallow: /de-de/review/
+Disallow: /de-de/simplequoteform/
+Disallow: /de-de/wishlist/
+Disallow: /de-de/catalogsearch/
+Disallow: /de-de/epages/
+Disallow: /de-de/?ObjectPath
+Disallow: /de-de/?ViewObjectPath
+
+Disallow: /eu-en/catalog/
+Disallow: /eu-en/customer/
+Disallow: /eu-en/sendfriend/
+Disallow: /eu-en/review/
+Disallow: /eu-en/simplequoteform/
+Disallow: /eu-en/wishlist/
+Disallow: /eu-en/catalogsearch/
+Disallow: /eu-en/?ObjectPath
+Disallow: /eu-en/?ViewObjectPath
+
+Disallow: /eu-fr/catalog/
+Disallow: /eu-fr/customer/
+Disallow: /eu-fr/sendfriend/
+Disallow: /eu-fr/review/
+Disallow: /eu-fr/simplequoteform/
+Disallow: /eu-fr/wishlist/
+Disallow: /eu-fr/catalogsearch/
+Disallow: /eu-fr/?ObjectPath
+Disallow: /eu-fr/?ViewObjectPath
+
+Disallow: /eu-es/catalog/
+Disallow: /eu-es/customer/
+Disallow: /eu-es/sendfriend/
+Disallow: /eu-es/review/
+Disallow: /eu-es/simplequoteform/
+Disallow: /eu-es/wishlist/
+Disallow: /eu-es/catalogsearch/
+Disallow: /eu-es/?ObjectPath
+Disallow: /eu-es/?ViewObjectPath
+
+Disallow: /*SID=
+
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+Disallow: /*?product_list_dir*
+Disallow: /*?product_list_dir=desc
+Disallow: /*?product_list_dir=asc
+Disallow: /*?product_list_limit=all
+Disallow: /*?product_list_mode*
+
+Disallow: /tag/
+Disallow: /review/
+
+
+Disallow: /customer_information
+Disallow: /customer-gallery/
+
+Disallow: /*/graphql*
+
+# Sitemap CMS pages
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_cms.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_en_cms.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_es_cms.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_fr_cms.xml
+
+
+# Sitemap Categories
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_category.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_en_category.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_es_category.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_fr_category.xml
+
+# Sitemap Products
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_product.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_en_product.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_es_product.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_fr_product.xml
+
+User-agent: SeekportBot
+Crawl-delay: 2
+
+
+
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_category.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_product.xml
+Sitemap: https://www.parkettkaiser.de/media/sitemap/sitemap_de_cms.xml

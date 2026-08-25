@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /game.php
+Disallow: /slot.php
+Disallow: /webslot.php
+Sitemap: https://www.retresco.de/sitemap_index.xml

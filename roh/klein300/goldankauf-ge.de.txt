@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /begleitschreiben.pdf
+Allow: /
+Sitemap: https://www.goldankauf-ge.de/sitemap.xml

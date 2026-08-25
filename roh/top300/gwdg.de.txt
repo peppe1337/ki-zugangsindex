@@ -1,0 +1,65 @@
+<!doctype html><html lang=de><head><meta charset=utf-8><title>Inhalt nicht gefunden | GWDG - IT in der Wissenschaft</title><meta name=viewport content="width=device-width,initial-scale=1"><meta property="og:url" content="https://gwdg.de/404/"><meta property="og:site_name" content="GWDG - IT in der Wissenschaft"><meta property="og:title" content="Inhalt nicht gefunden"><meta property="og:description" content="Leider konnten wir den gewünschten Inhalt nicht finden. Vielleicht kann unsere Suche Ihnen weiterhelfen.
+Die Suche steht ausschließlich mit JavaScript zur Verfügung. Suchbegriff Sprache Alle Sprachen Deutsch Englisch Typ Alles Homepage Neuigkeiten Anleitungen FAQ Suchen Bei der Suche ist ein unerwarteter Fehler aufgetreten:
+Sollte dieser Fehler über eine längere Zeit bestehen, so wenden Sie sich bitte an unseren Support.
+Suchergebnisse Vorherige Seite Seite 1 von 1 Nächste Seite"><meta property="og:locale" content="de_de"><meta property="og:type" content="article"><meta itemprop=name content="Inhalt nicht gefunden"><meta itemprop=description content="Leider konnten wir den gewünschten Inhalt nicht finden. Vielleicht kann unsere Suche Ihnen weiterhelfen.
+Die Suche steht ausschließlich mit JavaScript zur Verfügung. Suchbegriff Sprache Alle Sprachen Deutsch Englisch Typ Alles Homepage Neuigkeiten Anleitungen FAQ Suchen Bei der Suche ist ein unerwarteter Fehler aufgetreten:
+Sollte dieser Fehler über eine längere Zeit bestehen, so wenden Sie sich bitte an unseren Support.
+Suchergebnisse Vorherige Seite Seite 1 von 1 Nächste Seite"><meta itemprop=wordCount content="68"><meta name=twitter:card content="summary"><meta name=twitter:title content="Inhalt nicht gefunden"><meta name=twitter:description content="Leider konnten wir den gewünschten Inhalt nicht finden. Vielleicht kann unsere Suche Ihnen weiterhelfen.
+Die Suche steht ausschließlich mit JavaScript zur Verfügung. Suchbegriff Sprache Alle Sprachen Deutsch Englisch Typ Alles Homepage Neuigkeiten Anleitungen FAQ Suchen Bei der Suche ist ein unerwarteter Fehler aufgetreten:
+Sollte dieser Fehler über eine längere Zeit bestehen, so wenden Sie sich bitte an unseren Support.
+Suchergebnisse Vorherige Seite Seite 1 von 1 Nächste Seite"><link rel=stylesheet href=/scss/main.min.f089b14e08ed3076bc5da9b54eb3bf5d59ddfcc9a369b2d269c01bebc3e5d9c6.css integrity="sha256-8ImxTgjtMHa8Xam1TrO/XVnd/MmjabLSacAb68Pl2cY="><link rel="shortcut icon" type=image/x-icon href=/favicon.ico><script defer src=/js/main.min.8a5613c24b74b2516f484800b298a87f6c053db3df9e3fd79cad63a0da1f89d6.js integrity="sha256-ilYTwkt0slFvSEgAspiof2wFPbPfnj/XnK1joNofidY="></script></head><body class=uid-1081257717><header><div class=page-header><nav aria-label=Hauptmenü id=menu aria-expanded=false><button id=open-menu aria-label="Menü öffnen" class=hamburger-menu-btn>
+<i class="fa fa-bars" aria-hidden=true></i></button><div class=main-menu><button id=close-menu aria-label="Menü schließen" class=hamburger-menu-btn>
+<i class="fa fa-close" aria-hidden=true></i></button><ul><li><a class=nav-root href=https://gwdg.de/><img class=logo aria-hidden=true src=/images/logos/gwdg_logo_only_invert.min.svg alt="GWDG Logo" width=48 height=48>
+<span class=sr-only>Startseite</span></a></li><li><a class=nav-link href=/news/>Neuigkeiten</a></li><li><a class=nav-link href=/services/>Dienste</a></li><li><a class=nav-link href=/hpc/>Computing</a></li><li><a class=nav-link href=/fdm/>Daten</a></li><li><a class=nav-link href=/research-education/>Forschung & Lehre</a></li><li><a class=nav-link href=/about-us/>Über uns</a></li><li><a class=nav-link href=/academy/>Academy</a></li><li><a class=nav-link href=/support/>Support</a></li></ul></div></nav><div class=main-nav-right><div class=login-block><a href=https://id.academiccloud.de><i class="fa fa-user"></i> Meine AcademicID</a></div><ul class=language><li><span>De</span></li><li><a title=English href=/en/404/>En</a></li></ul><div class=search-block><a href=/search/><i class="fa fa-search"></i><span class=sr-only>Suche</span></a></div></div></div><div class="banner gwdg-old-style"><img class=banner-background src=/images/gwdg_background_hu_183578a74bf0178f.webp srcset="/images/gwdg_background_hu_183578a74bf0178f.webp, /images/gwdg_background_hu_f1948d52a2c4618f.webp 2x" width=1500 height=633 alt><div class=gwdg-header aria-hidden=true><div><img src=/images/logos/gwdg_logo.min.svg class=gwdg-logo alt></div><div><img src=/images/logos/mpg-with-text.min.svg class=mpg-logo alt>
+<img src=/images/logos/uni.min.svg class=ga-logo alt></div></div><div class=header-content-old-style><div class=container><h1>Inhalt nicht gefunden</h1></div></div></div></div></header><div class="container page-root-container"><main><p><strong>Leider konnten wir den gewünschten Inhalt nicht finden.</strong> Vielleicht kann unsere Suche Ihnen weiterhelfen.</p><main class=search><noscript>Die Suche steht ausschließlich mit JavaScript zur Verfügung.</noscript><form id=search-form method=get><div role=search class=search-form><input type=hidden name=page id=page value=1><div class=search-query-outer><label for=query class=sr-only>Suchbegriff</label>
+<input type=search id=query name=q minlength=3 required placeholder="Die Webseiten der GWDG durchsuchen..." incremental=true enterkeyhint=search></div><div class=search-meta><div><label for=lang class=sr-only>Sprache</label>
+<select id=lang name=lang><option value>Alle Sprachen</option><option value=deu selected>Deutsch</option><option value=eng>Englisch</option></select></div><div><label for=hostname class=sr-only>Typ</label>
+<select id=hostname name=hostname><option value>Alles</option><option value=gwdg.de>Homepage</option><option value=info.gwdg.de>Neuigkeiten</option><option value=docs.gwdg.de>Anleitungen</option><option value=faq.gwdg.de>FAQ</option></select></div></div><button type=submit>
+<i class="fa fa-search"></i>
+<span>Suchen</span></button></div></form><section class=search-error><p>Bei der Suche ist ein unerwarteter Fehler aufgetreten:</p><pre id=error-inner></pre><p>Sollte dieser Fehler über eine längere Zeit bestehen, so wenden Sie sich bitte an unseren Support.</p></section><section class=search-results-outer id=search-results-container><h2><span id=number-of-search-results></span> Suchergebnisse</h2><div id=search-results class=search-results></div><div class=pagination><a id=previous-page href><i class="fa fa-chevron-left"></i>
+Vorherige Seite</a><p class=current>Seite <b id=current-page>1</b> von <b id=total-pages>1</b></p><a id=next-page href>Nächste Seite
+<i class="fa fa-chevron-right"></i></a></div></section><template id=single-search-result-template><article class=post><h2><a data-id=link href></a></h2><div data-id=excerpt></div></article></template></main></main></div><footer><div class=footer-breadcrumbs><div class=container><ol class=breadcrumbs itemscope itemtype=https://schema.org/BreadcrumbList><li itemprop=itemListElement itemscope itemtype=https://schema.org/ListItem><a itemprop=item href=/><i class="fa fa-home"></i>
+<span class=sr-only itemprop=name>GWDG</span>
+</a><meta itemprop=position content="1"></li><li itemprop=itemListElement itemscope itemtype=https://schema.org/ListItem><a itemprop=item href=/404/><span itemprop=name>Inhalt nicht gefunden</span>
+</a><meta itemprop=position content="2"></li></ol></div></div><div class=service><div class=container><span>SERVICE HOTLINE
+<a href=tel:+495513930000>+49 551 39-30000</a> /
+<a href=mailto:support@gwdg.de>support@gwdg.de</a>
+</span><a href=/support/ class=support-btn>Support</a></div></div><div class=sitemap><div class=container><div><h2>GWDG</h2><a href=/about-us/gwdg-news/>GWDG-Nachrichten</a>
+<a href=/events/>Veranstaltungen</a>
+<a href=/about-us/career/>Karriere</a>
+<a href=/about-us/catalog/terms-and-conditions/>Nutzungsvoraussetzungen</a>
+<a href=/about-us/catalog/>Leistungskatalog</a>
+<a href=/about-us/catalog/applications-forms/>Antragsformulare</a>
+<a href=/discounts-offers/>Aktionen und Angebote</a>
+<a href=/support/>Support</a>
+<a href=/about-us/organization/soc/>Security Operations Center</a></div><div><h2>Dienste</h2><a href=/services/storage-services/>Speicherdienste</a>
+<a href=/services/application-services/>Anwendungsdienste</a>
+<a href=/services/e-mail-collaboration/>E-Mail & Kollaboration</a>
+<a href=/services/general-services/>Allgemeine Dienste</a>
+<a href=/services/server-services/>Server-Dienste</a>
+<a href=/services/it-consulting/>IT-Beratung</a>
+<a href=/services/network-services/>Netzwerkdienste</a>
+<a href=/services/it-security-services/>IT-Sicherheit</a>
+<a href=/services/research-data-management/>Forschungsdatenmanagement</a></div><div><h2>Forschung & Lehre</h2><a href=/research-education/>Forschung & Lehre</a>
+<a href=/research-education/projects/>Forschungsprojekte</a>
+<a href=https://www.eresearch.uni-goettingen.de/>Göttingen eResearch Alliance</a>
+<a href=/research-education/publications/>Veröffentlichungen</a>
+<a href=/research-education/library/>Bibliothek</a>
+<a href=/about-us/organization/departments/>Arbeitsgruppen</a></div><div><h2>Über uns</h2><a href=/about-us/contact/>Kontakt</a>
+<a href=/imprint/>Impressum</a>
+<a href=/data-protection-notice/>Datenschutzerklärung</a>
+<a href=/about-us/declaration-on-accessibility/>Erklärung zur Barrierefreiheit</a><br><br><div class=iso-certs-row><a href=/pdf/iso-certs/GWDG_Cert_9001_de.pdf><img src=/images/logos/ISO-9001_de_hu_887597ad60a1456.png srcset="/images/logos/ISO-9001_de_hu_887597ad60a1456.png, /images/logos/ISO-9001_de_hu_c45dad8fd2c317ec.png 2x" alt="ISO 9001/27001 certification logo" width=200 height=200>
+</a><a href=/pdf/iso-certs/GWDG_Cert_27001_de.pdf><img src=/images/logos/ISO-27001_de_hu_3da854f1805e5adc.png srcset="/images/logos/ISO-27001_de_hu_3da854f1805e5adc.png, /images/logos/ISO-27001_de_hu_5aef93effa985c44.png 2x" alt="ISO 9001/27001 certification logo" width=200 height=200></a></div></div></div></div><div class=dark-footer><div class=container><div class="grid grid-auto"><p>Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen |
+Stand: 24. August 2026</p><div class=dark-footer-links><a href=https://sharepoint.gwdg.de target=_blank>Intern</a>
+<a href=/imprint/>Impressum</a>
+<a href=/data-protection-notice/>Datenschutzerklärung</a>
+<a href=https://academiccloud.social/@gwdg class=mastodon target=_blank><svg class="mastodon-logo" width="74" height="79" viewBox="0 0 74 79" fill="#fff"><path d="M73.7014 17.9592C72.5616 9.62034 65.1774 3.04876 56.424 1.77536 54.9472 1.56019 49.3517.7771 36.3901.7771H36.2933c-12.9652.0-15.7468.78309-17.2236.99826C10.56 3.01348 2.78877 8.91838.903306 17.356-.00357857 21.5113-.100361 26.1181.068112 30.3439.308275 36.404.354874 42.4535.91406 48.489c.38658 4.009 1.06096 7.9861 2.01809 11.9015 1.79226 7.2312 9.04735 13.249 16.15545 15.704C26.6979 78.6548 34.8821 79.0799 42.724 77.3221 43.5866 77.1245 44.4398 76.8953 45.2833 76.6342 47.1867 76.0381 49.4199 75.3714 51.0616 74.2003 51.0841 74.1839 51.1026 74.1627 51.1156 74.1382 51.1286 74.1138 51.1359 74.0868 51.1368 74.0592V68.2108C51.1364 68.185 51.1302 68.1596 51.1185 68.1365 51.1069 68.1134 51.0902 68.0932 51.0695 68.0773 51.0489 68.0614 51.0249 68.0503 50.9994 68.0447 50.9738 68.0391 50.9473 68.0392 50.9218 68.045c-5.0242 1.181-10.1727 1.773-15.3382 1.7637C26.694 69.8087 24.3031 65.6569 23.6184 63.9285 23.0681 62.4347 22.7186 60.8764 22.5789 59.2934 22.5775 59.2669 22.5825 59.2403 22.5934 59.216 22.6043 59.1916 22.621 59.1702 22.6419 59.1533 22.6629 59.1365 22.6876 59.1248 22.714 59.1191 22.7404 59.1134 22.7678 59.1139 22.794 59.1206 27.7345 60.2936 32.799 60.8856 37.8813 60.8843c1.2223.0 2.441.0 3.6634-.0317000000000007C46.6562 60.7115 52.0437 60.454 57.0728 59.4874 57.1983 59.4628 57.3237 59.4416 57.4313 59.4098c7.9325-1.4991 15.4815-6.2047 16.2486-18.1203C73.7086 40.8204 73.7803 36.3758 73.7803 35.889 73.7839 34.2347 74.3216 24.1533 73.7014 17.9592zM61.4925 47.6918H53.1514V27.5855c0-4.2329-1.7923-6.3917-5.4378-6.3917-4.0075.0-6.0148 2.5538-6.0148 7.5981V39.7974h-8.291V28.7919c0-5.0443-2.0109-7.5981-6.0184-7.5981-3.624.0-5.4342 2.1588-5.4378 6.3917V47.6918h-8.334V26.9752c0-4.2329 1.0981-7.5957 3.2942-10.0884 2.2654-2.4868 5.237-3.7637 8.9255-3.7637 4.2691.0 7.4952 1.6155 9.6459 4.8431L37.5587 21.3949l2.079-3.4287c2.1507-3.2276 5.3768-4.8431 9.6388-4.8431 3.6849.0 6.6564 1.2769 8.929 3.7637 2.1962 2.4904 3.2942 5.8532 3.2942 10.0884L61.4925 47.6918z" fill="inherit"/></svg>
+<span class=sr-only>Mastodon</span>
+</a><a href=https://www.linkedin.com/company/gwdg---gesellschaft-f-r-wissenschaftliche-datenverarbeitung-mbh-g-ttingen/ target=_blank><i class="fa fa-linkedin"></i>
+<span class=sr-only>LinkedIn</span>
+</a><a href=https://www.youtube.com/@gwdg-goe target=_blank><i class="fa fa-youtube"></i>
+<span class=sr-only>YouTube</span>
+</a><a href=https://www.instagram.com/gwdg_official/ target=_blank><i class="fa fa-instagram"></i>
+<span class=sr-only>Instagram</span>
+</a><a href=https://www.facebook.com/GWDGinfo/ target=_blank><i class="fa fa-facebook-official"></i>
+<span class=sr-only>Facebook</span></a></div></div></div></div></footer></body></html>

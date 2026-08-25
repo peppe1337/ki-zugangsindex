@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /is-bin/intershop.enfinity/BOS/
+Disallow: /is-bin/intershop.static/
+
+Sitemap: https://www.telekom.de/content/robots/sitemap

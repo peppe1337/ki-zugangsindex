@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Allow: /
+
+Sitemap: https://www.arbeitsagentur.de/sitemap-portal.xml
+Sitemap: https://www.arbeitsagentur.de/vor-ort/sitemap-lp.xml
+Sitemap: https://www.arbeitsagentur.de/int/sitemap.xml

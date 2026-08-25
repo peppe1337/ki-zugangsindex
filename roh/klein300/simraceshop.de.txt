@@ -1,0 +1,46 @@
+# BITTE NICHT LOESCHEN, SEO SERVER OPTIMIERUNG
+User-agent: Bingbot
+User-agent: AdIdxBot
+User-agent: BingPreview
+User-agent: MicrosoftPreview
+User-agent: Amazonbot
+Crawl-delay: 5
+Disallow: /*__*
+Disallow: /navi.php
+Disallow: /druckansicht.php
+Disallow: /suche.php
+Disallow: /bestellabschluss.php
+Disallow: /bestellvorgang.php
+Disallow: /jtl.php
+Disallow: /pass.php
+Disallow: /registrieren.php
+Disallow: /warenkorb.php
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /dbeS/*
+Disallow: /jtl-store/__
+Disallow: /extension-store/__
+Allow: *
+
+User-agent: *
+Crawl-delay: 5
+Disallow: /navi.php
+Disallow: /druckansicht.php
+Disallow: /suche.php
+Disallow: /bestellabschluss.php
+Disallow: /bestellvorgang.php
+Disallow: /jtl.php
+Disallow: /pass.php
+Disallow: /registrieren.php
+Disallow: /warenkorb.php
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /dbeS/*
+Disallow: /jtl-store/__
+Disallow: /extension-store/__
+Allow: *
+
+
+User-agent: *
+Disallow: 
+Sitemap: https://simraceshop.de/sitemap_index.xml

@@ -1,0 +1,41 @@
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+
+User-agent: *
+Disallow: /fh-ma/
+Disallow: /cdn-cgi/
+
+
+User-agent: meta-webindexer
+Disallow: /
+
+# Legal notice: This website expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).

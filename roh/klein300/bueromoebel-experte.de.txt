@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /search/
+Disallow: /customer/
+Disallow: /cart/
+Disallow: /contact/
+Disallow: /graphql/
+Disallow: /contact/
+# Disallow: /catalog/product/view/
+# Disallow: /catalog/category/view/
+# Disallow: /media/oneserv/product/attachment/
+Disallow: /media/maintenance
+Disallow: /d41d8cd98f00b204e9800998ecf8427e/
+Sitemap: https://www.bueromoebel-experte.de/media/sitemap/sitemap_bede.xml
+Sitemap: https://www.bueromoebel-experte.de/bueroplanung/page-sitemap.xml

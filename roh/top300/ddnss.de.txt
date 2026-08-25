@@ -1,0 +1,20 @@
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /sysadmin/
+Disallow: /ua/
+Disallow: /IDS/
+Disallow: /images/
+Disallow: /webalizer/
+Disallow: /tmp/
+Disallow: /inc/
+Disallow: /do.php
+Disallow: /user_del.php
+Disallow: /upd.php
+Disallow: /impressum.php
+
+
+
+
+# End robots.txt file
+

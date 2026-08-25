@@ -1,0 +1,77 @@
+### Pages with rec parameter - IAI Recommendation System
+User-agent: *
+Disallow: /*?rec=*
+Disallow: /*&rec=*
+Sitemap: https://unitrailer.de/sitemap.xml.gz
+
+
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: dotbot
+User-agent: rogerbot
+User-agent: SemrushBot
+User-agent: BLEXBot
+User-agent: Lumar
+User-agent: Ezooms
+User-agent: cognitiveSEO
+User-agent: Screaming Frog SEO Spider
+Crawl-delay: 10
+
+User-agent: DealavoBot
+User-agent: SzpiegomatBot
+User-agent: 008
+User-agent: ApifyBot
+User-agent: PriceSentryBot
+User-agent: Exabot
+User-agent: MojeekBot
+User-agent: metajobbot
+User-agent: fyberspider
+User-agent: wotbox
+User-agent: Scrapy
+Crawl-delay: 10
+User-agent: *
+Crawl-delay: 1
+Disallow: /basketchange.php
+Disallow: /basketedit.php
+Disallow: /basket-onchange.php
+Disallow: /client-address.php
+Disallow: /client-addresses.php
+Disallow: /client-new.php
+Disallow: /client-orders.php
+Disallow: /client-save.php
+Disallow: /client-files.php
+Disallow: /download-attachment.php
+Disallow: /login.php
+Disallow: /loginedit.php
+Disallow: /loginonce.php
+Disallow: /membership-card.php
+Disallow: /order1.php
+Disallow: /order2.php
+Disallow: /order3.php
+Disallow: /ordercancel.php
+Disallow: /orderconfirm.php
+Disallow: /orderdetails.php
+Disallow: /order-document.php
+Disallow: /order-newpayment.php
+Disallow: /order-payment.php
+Disallow: /order-postauction.php
+Disallow: /order-wrappers.php
+Disallow: /payments-confirm.php
+Disallow: /products-bought.php
+Disallow: /products-requests.php
+Disallow: /przelew.php
+Disallow: /rebate-code.php
+Disallow: /rma-add.php
+Disallow: /rma-list.php
+Disallow: /settings.php
+Disallow: /edi/
+Disallow: /checkup.php
+Disallow: /search.php
+Disallow: /affiliate-orders.php
+Disallow: /client-rebate.php
+Disallow: /affiliate-stats.php
+Disallow: /affiliate-clients.php
+Disallow: /signin.php
+Disallow: /*?counter=
+Disallow: /*&counter=
+

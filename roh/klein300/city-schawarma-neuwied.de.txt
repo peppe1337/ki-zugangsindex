@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: https://top-casinos-ohne-lugas.de.com/wp-sitemap.xml

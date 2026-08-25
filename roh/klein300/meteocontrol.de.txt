@@ -1,0 +1,1859 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	Website Design, Development & Code by visionbites GmbH Munich http://www.visionbites.de
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="meteocontrol entwickelt Monitoring- und Parkreglerlösungen für Photovoltaikanlagen weltweit. Technische Beratung und Solarstromprognosen runden das Portfolio ab.">
+<meta name="robots" content="index,follow">
+<meta name="author" content="meteocontrol">
+<meta property="og:image" content="https://www.meteocontrol.com/fileadmin/_processed_/2/b/csm_web_header_startseite_neu_2025_1923630738.jpg">
+<meta property="og:image:url" content="https://www.meteocontrol.com/fileadmin/_processed_/2/b/csm_web_header_startseite_neu_2025_1923630738.jpg">
+<meta property="og:image:width" content="1219">
+<meta property="og:image:height" content="640">
+<meta name="twitter:card" content="summary">
+<meta name="revisit-after" content="0 days">
+<meta name="email" content="info@meteocontrol.com">
+<meta name="copyright" content="meteocontrol GmbH, Augsburg">
+<meta name="distribution" content="global">
+<meta name="language" content="de">
+
+
+<link rel="stylesheet" href="/_assets/24b4d8cfd18a943a443e8da5fec38748/Stylesheets/Poll.css?1784016598" media="all">
+<link rel="stylesheet" href="/_assets/e13c22023bf5a8616b8d2d04abb998e5/css/custom.css?1769780013" media="all">
+<link href="/_assets/f6ef6adaf5c92bf687a31a3adbcb0f7b/Css/news-basic.css?1786427958" rel="stylesheet" >
+<link href="/assets/main.css" rel="stylesheet" >
+
+
+
+
+
+
+<title>meteocontrol - meteocontrol GmbH</title>        <script data-cookieconsent="ignore">
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("consent", "default", {
+                ad_personalization: "denied",
+                ad_storage: "denied",
+                ad_user_data: "denied",
+                analytics_storage: "denied",
+                functionality_storage: "denied",
+                personalization_storage: "denied",
+                security_storage: "granted",
+                wait_for_update: 500,
+            });
+            gtag("set", "ads_data_redaction", true);
+            gtag("set", "url_passthrough", true);
+        </script>        <!-- Google Tag Manager -->
+        <script data-cookieconsent="ignore">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N5DXFR3');</script>
+        <!-- End Google Tag Manager -->            <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="dfa720f3-7bbc-40fd-9c44-cbedc0cde23a" data-blockingmode="auto" type="text/javascript" async></script>            <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/6af75947-1375-4884-b5ea-4989adcb68d2.css">        <link rel="shortcut icon" href="/fileadmin/favicon.ico" type="image/x-icon; charset=binary" /> <link rel="icon" href="/fileadmin/favicon.ico" type="image/x-icon; charset=binary" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1"><script>var pageInfo = {id:"1",langId:"",langCode:"",userAuthenticated:"false",applicationContext:"Production",};var actions = {};</script><meta property="og:title" content="meteocontrol" /><meta property="og:url" content="https://www.meteocontrol.com/" /><meta property="og:description" content="meteocontrol entwickelt Monitoring- und Parkreglerlösungen für Photovoltaikanlagen weltweit. Technische Beratung und Solarstromprognosen runden das Portfolio ab." /><meta name="image" property="og:image" content="https://www.meteocontrol.com///fileadmin/Daten/Bilder/0_Startseite/web_header_startseite_neu_2025.jpg" />
+<link rel="canonical" href="https://www.meteocontrol.com/">
+
+<link rel="alternate" hreflang="de" href="https://www.meteocontrol.com/">
+<link rel="alternate" hreflang="en" href="https://www.meteocontrol.com/en/">
+<link rel="alternate" hreflang="fr" href="https://www.meteocontrol.com/fr/">
+<link rel="alternate" hreflang="it" href="https://www.meteocontrol.com/it/">
+<link rel="alternate" hreflang="es" href="https://www.meteocontrol.com/es/">
+<link rel="alternate" hreflang="ja" href="https://www.meteocontrol.com/ja/">
+<link rel="alternate" hreflang="x-default" href="https://www.meteocontrol.com/">
+</head>
+<body id="p-1">
+    
+
+
+
+
+		<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5DXFR3"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display:none;position:absolute;width:0;height:0;overflow:hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol fill="currentColor" viewBox="0 0 24 25" id="arrow-left"><path d="M2.25 12.033c0 .2.08.39.22.53l3.72 3.72c.29.29.77.29 1.06 0 .29-.29.29-.77 0-1.06l-2.45-2.45H21c.41 0 .75-.34.75-.75s-.34-.74-.75-.74H4.81l2.44-2.44c.29-.29.29-.77 0-1.06a.742.742 0 0 0-.53-.22c-.19 0-.38.07-.53.22l-3.71 3.71c-.07.07-.13.16-.17.26 0 .01 0 .02-.01.03-.03.08-.05.16-.05.25Z"/></symbol><symbol fill="currentColor" viewBox="0 0 24 24" id="arrow-right"><path d="M21.75 12.467c0-.2-.08-.39-.22-.53l-3.72-3.72a.754.754 0 0 0-1.06 0c-.29.29-.29.77 0 1.06l2.45 2.45H3c-.41 0-.75.34-.75.75s.34.74.75.74h16.19l-2.44 2.44c-.29.29-.29.77 0 1.06.15.15.34.22.53.22s.38-.07.53-.22l3.71-3.71c.07-.07.13-.16.17-.26 0-.01 0-.02.01-.03.03-.08.05-.16.05-.25Z"/></symbol><symbol fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="cfeather cfeather-chevron-down" viewBox="0 0 24 24" id="chevron-down"><path d="m6 9 6 6 6-6"/></symbol><symbol fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="dfeather dfeather-chevron-left" viewBox="0 0 24 24" id="chevron-left"><path d="m15 18-6-6 6-6"/></symbol><symbol fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="efeather efeather-chevron-right" viewBox="0 0 24 24" id="chevron-right"><path d="m9 18 6-6-6-6"/></symbol><symbol fill="none" viewBox="0 0 28 28" id="close"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 12.4 7.6 6 6 7.6l6.4 6.4L6 20.4 7.6 22l6.4-6.4 6.4 6.4 1.6-1.6-6.4-6.4L22 7.6 20.4 6 14 12.4Z" fill="#fff"/></symbol><symbol fill="currentColor" stroke="currentColor" viewBox="0 0 32 32" id="cloud"><path d="M28.795 16.433c-.582-2.157-2.423-3.824-4.56-4.3A7.776 7.776 0 0 0 23.34 12c-.5-3.11-3.326-5.215-6.175-4.981-1.724.14-3.323 1.114-4.288 2.535-.16.23-.337.472-.395.696l.033.092.368.172c.073.034.135.09.217.095.108.01.062.043.16-.14.747-1.431 2.257-2.444 3.871-2.631 1.544-.178 3.122.463 4.169 1.599.747.81 1.149 1.903 1.268 3.014.046.466.147.356.147.356.22 0 .441 0 .656.015 2.75.184 4.959 2.805 4.84 5.457-.09 1.927-1.352 3.744-3.104 4.548-.79.365-1.675.482-2.551.47-.077 0-.163-.004-.163-.004-4.279 0-8.554.034-12.83 0-1.994-.024-3.921-1.138-4.947-2.832-1.158-1.918-1.035-4.42.19-6.23.162-.24.37-.494.37-.494a6.057 6.057 0 0 1 3.327-1.968c.1-.021.16-.033.3-.052 1.675-.205 3.381.304 4.616 1.375.27.236.328.11.328.11.134-.113.27-.226.404-.343l.03-.04v-.101c-.015-.028-.002-.022-.119-.126a6.682 6.682 0 0 0-4.414-1.731H9.6c-2.282.006-4.416 1.234-5.602 3.127a6.7 6.7 0 0 0-.634 5.69 6.694 6.694 0 0 0 3.376 3.775c.903.433 1.902.65 2.91.65 4.588.007 9.124 0 13.688 0 .04 0 .076-.003.113-.006 1.501-.11 2.922-.819 3.945-1.915 1.403-1.513 1.936-3.762 1.4-5.748Z"/></symbol><symbol fill="none" viewBox="0 0 32 24" id="contact"><path d="M29.419 18.982h-3.03a.35.35 0 1 1 0-.702h3.03c.92 0 1.667-.748 1.667-1.668V3.046c0-.92-.748-1.667-1.667-1.667H9.23a.351.351 0 0 1 0-.703H29.42a2.373 2.373 0 0 1 2.37 2.37v13.566a2.373 2.373 0 0 1-2.37 2.37Z" fill="currentColor" stroke="currentColor" stroke-width=".8"/><path d="m22.363 9.83 6.093-5.59a.351.351 0 1 0-.475-.518l-8.657 7.941-7.688-7.053a.351.351 0 1 0-.475.517l5.125 4.702-2.905 2.665a.351.351 0 0 0 .475.518l2.949-2.707 2.282 2.094a.351.351 0 0 0 .475 0l2.281-2.093 6.138 5.63a.35.35 0 0 0 .496-.021.351.351 0 0 0-.022-.497L22.363 9.83Z" fill="currentColor" stroke="currentColor" stroke-width=".8"/><path d="M18.128 23.574c-3.49 0-8.046-2.933-11.533-6.42C1.952 12.512-1.708 5.971 1.23 2.582c.14-.162.323-.288.544-.375.39-.153 1.118-.46 2.103-.887.447-.194.876-.382 1.204-.526a1.12 1.12 0 0 1 1.413.455l2.78 4.686c.2.336.21.758.024 1.102l-1.724 3.212a.415.415 0 0 0 .073.493l5.36 5.36c.132.132.33.16.493.073l3.213-1.724a1.127 1.127 0 0 1 1.101.024l4.687 2.78c.486.29.682.896.455 1.413-.145.33-.332.757-.526 1.204a76.684 76.684 0 0 0-.888 2.104c-.086.22-.212.403-.374.544-.843.731-1.883 1.054-3.04 1.054ZM4.129 1.976c-.992.43-1.698.728-2.098.885a.677.677 0 0 0-.27.181c-2.643 3.05.91 9.195 5.33 13.616 4.421 4.42 10.568 7.974 13.617 5.331a.674.674 0 0 0 .18-.27c.048-.121.11-.273.184-.452l-.022.022.74-1.704c.193-.445.38-.872.524-1.2a.417.417 0 0 0-.17-.525l-4.688-2.781a.419.419 0 0 0-.41-.009l-3.213 1.724c-.439.235-.97.157-1.322-.195l-5.36-5.36a1.114 1.114 0 0 1-.196-1.323L8.68 6.704a.42.42 0 0 0-.01-.41L5.89 1.606a.417.417 0 0 0-.526-.17c-.336.148-.776.34-1.235.539Z" fill="currentColor"/><path d="m22.084 19.71-.225-.225m-3.731 4.089c-3.49 0-8.046-2.933-11.533-6.42C1.952 12.512-1.708 5.971 1.23 2.582c.14-.162.323-.288.544-.375.39-.153 1.118-.46 2.103-.887.447-.194.876-.382 1.204-.526a1.12 1.12 0 0 1 1.413.455l2.78 4.686c.2.336.21.758.024 1.102l-1.724 3.212a.415.415 0 0 0 .073.493l5.36 5.36c.132.132.33.16.493.073l3.213-1.724a1.127 1.127 0 0 1 1.101.024l4.687 2.78c.486.29.682.896.455 1.413-.145.33-.332.757-.526 1.204a76.684 76.684 0 0 0-.888 2.104c-.086.22-.212.403-.374.544-.843.731-1.883 1.054-3.04 1.054ZM4.129 1.976c-.992.43-1.698.728-2.098.885a.677.677 0 0 0-.27.181c-2.643 3.05.91 9.195 5.33 13.616 4.421 4.42 10.568 7.974 13.617 5.331a.674.674 0 0 0 .18-.27c.048-.121.11-.273.184-.452l-.022.022.74-1.704c.193-.445.38-.872.524-1.2a.417.417 0 0 0-.17-.525l-4.688-2.781a.419.419 0 0 0-.41-.009l-3.213 1.724c-.439.235-.97.157-1.322-.195l-5.36-5.36a1.114 1.114 0 0 1-.196-1.323L8.68 6.704a.42.42 0 0 0-.01-.41L5.89 1.606a.417.417 0 0 0-.526-.17c-.336.148-.776.34-1.235.539Z" stroke="currentColor" stroke-width=".8"/></symbol><symbol fill="none" viewBox="0 0 31 30" id="facebook"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.834 15.002C1.834 7.545 7.879 1.5 15.336 1.5c7.457 0 13.501 6.045 13.501 13.502 0 7.457-6.044 13.502-13.501 13.502S1.834 22.459 1.834 15.002ZM15.336 0C7.05 0 .334 6.717.334 15.002s6.717 15.002 15.002 15.002 15.001-6.717 15.001-15.002S23.621 0 15.336 0Zm.697 12.846h2.272l-.222 2.172h-2.05v6.516h-2.662v-6.516h-1.598v-2.172h1.598V11.68c0-1.021.396-2.617 2.487-2.617l2.305.007v2.14h-1.591c-.223 0-.539.114-.539.6v1.035Z" fill="currentColor"/></symbol><symbol fill="none" stroke="currentColor" viewBox="0 0 24 24" id="globe"><path d="M2 12c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2 2 6.477 2 12Z" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 2.05S16 6 16 12c0 6-3 9.95-3 9.95m-2 0S8 18 8 12c0-6 3-9.95 3-9.95M2.63 15.5h18.74m-18.74-7h18.74" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></symbol><symbol fill="none" viewBox="0 0 31 30" id="linkedin"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.842 15.002C1.842 7.545 7.887 1.5 15.344 1.5c7.456 0 13.501 6.045 13.501 13.502 0 7.457-6.045 13.502-13.501 13.502-7.457 0-13.502-6.045-13.502-13.502ZM15.344 0C7.058 0 .342 6.717.342 15.002s6.716 15.002 15.002 15.002c8.285 0 15.001-6.717 15.001-15.002S23.63 0 15.344 0Zm1.158 16.538a1.067 1.067 0 1 1 2.134 0v3.736h2.668v-3.551c0-2.22-1.12-3.364-2.7-3.364-1.276 0-2.102.77-2.102.77v-.793h-2.669c.032.534 0 6.938 0 6.938h2.668v-3.736Zm-5.092-4.27h.016c.838 0 1.36-.611 1.36-1.305-.017-.709-.522-1.306-1.344-1.306-.822 0-1.36.578-1.36 1.287 0 .694.522 1.324 1.328 1.324Zm1.354 8.006h-2.668v-6.938h2.668v6.938Z" fill="currentColor"/></symbol><symbol viewBox="0 0 468 100" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" id="logo-desktop"><path d="M263.869 107.997c-.854.785-1.357 1.503-2.57 3.43l.14-6.145c-2.218.212-4.433.285-6.648.285h-6.934v1.718h6.146l.072 6.79v18.3l-.072 6.009h-6.146v1.715h18.873v-1.715h-5.506l-.067-6.009v-8.724c.067-4.718.067-11.648 4.573-14.794a8.763 8.763 0 0 1 4.857-1.503c.93 0 2.076.212 2.861.643 1.433.86 2.433 2.436 2.718 5.721.073 1.573.073 3.215.073 4.788v13.869l-.073 6.009h-5.645v1.715h18.514v-1.715h-5.715l-.079-6.009v-8.579c.146-4.718.291-10.293 4.009-13.866 2.288-2.145 4.646-2.364 5.858-2.364.572 0 2.075-.066 3.287 1.004 2.146 1.721 2.146 5.793 2.146 8.154.079 5.215-.07 10.436-.139 15.581l-.07 6.079h-5.582v1.715h18.663v-1.715h-5.863l-.073-6.009.212-16.511c0-1.716-.069-3.576-.569-5.288-.643-1.864-1.57-2.864-2.215-3.437-2.57-2.43-6.076-2.357-7.076-2.357-2.288 0-7.079.215-10.794 4.933-.433.576-.93 1.358-1.715 2.788-.506-2.07-.788-2.93-1.436-3.864-2.573-3.857-7.221-4-8.579-4-1.285 0-6.003.212-9.436 3.358Zm56.405 3.36c-3.215 4.722-3.288 9.294-3.288 11.367 0 7.936 3.003 12.008 5.579 14.306 3.218 2.851 6.645 3.784 10.863 3.784 2.506 0 8.439 0 12.657-5.863 1.146-1.573 1.715-3.003 2.5-4.785l-1.854-.648c-.785 2.145-1.073 2.715-1.791 3.718-1.003 1.496-4 5.433-9.509 5.433-1.212 0-5.43-.358-7.864-3.937-2.642-3.933-2.575-9.717-2.575-14.151h23.739c-.073-.86-.146-3.286-1-5.79-2.073-6.221-7.649-10.079-14.227-10.079-2.437 0-9.082.639-13.23 6.645Zm8.512-3.43c1.639-1.288 3.212-1.357 4.003-1.357 1.142 0 2.218.284 3.218.788 4.003 2.072 4.145 7.433 4.218 11.148l-15.157.076c.288-3.507.572-8.291 3.718-10.655Zm28.881-11.797-.143 9.44h-5.506v2h5.506l-.142 24.305c0 .288-.146 2.788.5 4.433 1.142 3.361 4.503 4.218 7.648 4.218 1.434 0 5.361.073 7.857-3.503.44-.572.791-1.139 1.437-2.503l-1.5-.712c-.288.57-1.718 4.215-5.079 4.215-.788 0-1.5-.212-2.145-.642-1.782-1.354-1.782-4-1.782-6.006l.07-23.805h7.578v-2h-7.578l.142-9.44h-6.863Zm23.951 15.227c-3.218 4.722-3.291 9.294-3.291 11.367 0 7.936 3.006 12.008 5.582 14.306 3.218 2.851 6.648 3.784 10.863 3.784 2.5 0 8.439 0 12.661-5.863 1.139-1.573 1.711-3.003 2.496-4.785l-1.86-.648c-.782 2.145-1.073 2.715-1.788 3.718-1 1.496-4.003 5.433-9.506 5.433-1.215 0-5.43-.358-7.867-3.937-2.639-3.933-2.569-9.717-2.569-14.151h23.736c-.076-.86-.146-3.286-1.006-5.79-2.073-6.221-7.646-10.079-14.224-10.079-2.43 0-9.082.639-13.227 6.645Zm8.506-3.43c1.645-1.288 3.221-1.357 4.012-1.357 1.136 0 2.209.284 3.212.788 4 2.072 4.148 7.433 4.218 11.148l-15.154.076c.285-3.507.569-8.291 3.712-10.655Zm42.253-3.36c-4.36 0-9.078 1.86-12.081 5.148-1.858 2.069-4.573 6.364-4.573 13.227 0 3.361.636 5.572 1.07 6.788 1.645 4.648 5.221 8.581 10.012 10.224.857.288 2.712.787 5.218.787 7.999 0 12.081-5.006 13.654-7.363 2.715-4.36 2.86-8.863 2.86-10.654 0-6.794-2.933-13.727-9.369-16.727-2.557-1.187-4.838-1.446-6.234-1.446-.206 0-.392.006-.557.016Zm-7.718 28.381c-.857-3.361-.857-9.652-.857-9.797 0-2.282.136-5.861.427-8.147.927-6.934 4.433-8.577 7.863-8.65 1 0 4.573.073 6.506 3.073 1.361 2.142 1.5 5.218 1.57 5.791.285 2.503.361 5.079.361 7.575 0 4.721-.285 8.512-.716 10.231-1.43 5.426-5.506 5.857-7.651 5.857-5.572 0-7.006-4-7.503-5.933Zm59.835-26.094c-8.294 4.285-8.794 13.509-8.794 16.158 0 9.721 6.221 17.729 16.442 17.729 7.509 0 11.227-4.145 12.8-6.578 1-1.497 1.715-3.43 2.358-5.142l-1.716-.503c-.072.357-.712 2.36-1.575 3.933-.997 1.712-4.073 6.072-10.152 6.072-5.575 0-8.36-3.933-9.575-8.863-.646-2.857-.646-6.148-.646-6.933 0-6.367 1.004-10.363 2.649-12.658 1.997-2.93 5.076-3.291 6.291-3.291 1.073 0 4.503.292 5.93 3.576.503 1.364.503 2.864.503 3.364 0 1.357-.142 3.215 1.139 4.142.788.576 1.934.576 2.221.576 2.146.073 3.143-1.285 3.503-1.999.216-.504.285-1 .285-1.574 0-2.718-1.996-5.148-2.427-5.578-.218-.358-.503-.57-.861-.855-3.718-3.294-8.933-3.506-10.293-3.506-1.431 0-4.649.07-8.082 1.93Zm45.041-2.287c-4.357 0-9.079 1.86-12.082 5.148-1.863 2.069-4.578 6.364-4.578 13.227 0 3.361.646 5.572 1.078 6.788 1.637 4.648 5.216 8.581 10.01 10.224.854.288 2.715.787 5.215.787 8.009 0 12.085-5.006 13.66-7.363 2.712-4.36 2.851-8.863 2.851-10.654 0-6.794-2.93-13.727-9.36-16.727-2.556-1.187-4.841-1.446-6.24-1.446-.205 0-.392.006-.554.016Zm-7.725 28.381c-.85-3.361-.85-9.652-.85-9.797 0-2.282.146-5.861.423-8.147.931-6.934 4.434-8.577 7.868-8.65 1 0 4.572.073 6.506 3.073 1.354 2.142 1.503 5.218 1.572 5.791.288 2.503.361 5.079.361 7.575 0 4.721-.291 8.512-.722 10.231-1.427 5.426-5.502 5.857-7.648 5.857-5.572 0-7.006-4-7.51-5.933Zm55.2-27.951c-5.433 0-8.582 2.354-10.085 4.076-.715.715-1.645 2.069-2.215 2.93l.146-6.721c-2.288.145-4.582.288-6.864.288h-6.721v1.715h6.222l.066 6.291v19.229l-.066 5.579h-6.222v1.715h19.161v-1.715h-5.864l-.146-5.579v-9.433c.146-4.009.288-8.224 2.719-11.654.642-.93 3.145-4.291 7.224-4.291 4.579 0 5.069 4.076 5.145 7.579 0 1.569.07 3.142.07 4.718v13.081l-.146 5.579h-5.639v1.715h18.512v-1.715h-5.576l-.073-5.579v-11.154c.219-6.503.364-10.006-1.354-12.797-2.212-3.787-6.807-3.857-8.158-3.857h-.136Zm24.302-8.867-.139 9.44h-5.506v2h5.506l-.142 24.305c0 .288-.143 2.788.497 4.433 1.145 3.361 4.502 4.218 7.657 4.218 1.424 0 5.358.073 7.861-3.503.427-.572.784-1.139 1.424-2.503l-1.497-.712c-.285.57-1.722 4.215-5.076 4.215-.788 0-1.5-.212-2.145-.642-1.788-1.354-1.788-4-1.788-6.006l.073-23.805h7.575v-2h-7.575l.142-9.44h-6.867Zm33.179 14.443c-.503.93-1.01 1.927-1.507 2.93l.146-8.221c-2.218.148-4.433.291-6.648.291h-6.579v1.712h5.936l.14 5.936v19.154l-.14 6.006h-5.936v1.721h19.157v-1.721h-6.076l-.139-6.006v-5.36c.139-5.073.215-10.009 2.573-14.579 1.573-3.079 3.576-5.085 5.075-5.151.425 0 .712.142.861.212 1.067.436 1 1.576 1 1.93 0 1.073-.288 2.142-.288 3.218-.069 3.003 2.503 3.721 3.506 3.721 1.715 0 3.712-1.075 3.712-4.721 0-.927-.282-4.791-3.645-6.215-1.212-.575-2.358-.575-2.861-.575-2.569 0-5.642 1-8.287 5.718Zm35.526-6.006c-4.361 0-9.075 1.86-12.075 5.148-1.864 2.069-4.582 6.364-4.582 13.227 0 3.361.645 5.572 1.076 6.788 1.642 4.648 5.221 8.581 10.005 10.224.861.288 2.715.787 5.225.787 7.999 0 12.075-5.006 13.651-7.363 2.718-4.36 2.86-8.863 2.86-10.654 0-6.794-2.93-13.727-9.366-16.727-2.554-1.187-4.842-1.446-6.234-1.446-.209 0-.392.006-.56.016Zm-7.718 28.381c-.858-3.361-.858-9.652-.858-9.797 0-2.282.14-5.861.431-8.147.927-6.934 4.427-8.577 7.86-8.65 1.006 0 4.579.073 6.509 3.073 1.358 2.142 1.503 5.218 1.57 5.791.288 2.503.36 5.079.36 7.575 0 4.721-.288 8.512-.715 10.231-1.427 5.426-5.509 5.857-7.651 5.857-5.579 0-7.006-4-7.506-5.933Zm36.529-43.32h-7.006v1.639h6.222l.069 6.009v34.457l-.069 6.651h-6.222v1.718h19.018v-1.718h-5.575l-.073-6.651V97.276l.073-8.009c-2.143.218-4.288.288-6.437.361Z" style="fill:#fff;fill-rule:nonzero" transform="matrix(.69721 0 0 .69721 -41.261 -35.81)"/><path d="M234.048 103.456h1.896v91.333h-1.896v-91.333Zm227.435-52.095h1.889v91.33h-1.889v-91.33Zm267.195 16.164h1.895v91.336h-1.895V67.525ZM69.356 112.879h11.579v6H69.356v-6Zm36.264 0h11.461v6H105.62v-6Z" style="fill:#fff" transform="matrix(.69721 0 0 .69721 -41.261 -35.81)"/><path d="m105.613 103.307.004.753v5.247h11.584c.089-1.981.247-4 .526-6h-12.114Zm-36.26 0v6h11.639c.053-1.918.142-3.959.364-6H69.353Zm16.031-16.442c-1.408 1.291-2.225 2.459-4.212 5.617l.231-10.06c-3.626.352-7.25.469-10.879.469H59.18v2.803h10.056l.117 11.114v2.923h12.55c.911-4.566 2.743-8.825 6.522-11.458a14.308 14.308 0 0 1 7.949-2.462c1.525 0 3.398.355 4.686 1.054 2.335 1.408 3.974 3.978 4.44 9.357.053 1.155.075 2.332.094 3.509h12.81c.892-3.626 2.43-7.018 5.23-9.705 3.741-3.512 7.604-3.86 9.592-3.86.933 0 3.645-.117 5.632 1.633 3.12 2.493 4.867 8.018 5.231 11.932h13.866c.737-4.211 1.921-7.325 3.465-9.47 3.272-4.801 8.303-5.383 10.294-5.383 1.756 0 7.366.471 9.705 5.848.819 2.224.819 4.68.819 5.496 0 2.228-.231 5.266 1.874 6.788 1.284.936 3.161.936 3.626.936 3.509.114 5.148-2.104 5.734-3.278.348-.816.465-1.639.465-2.572 0-4.443-3.278-8.424-3.975-9.126-.354-.58-.819-.934-1.408-1.405-6.082-5.374-14.622-5.728-16.84-5.728-2.339 0-7.604.117-13.221 3.158a24.84 24.84 0 0 0-5.756 4.114c-1.123-1.731-2.49-2.991-3.231-3.649-4.212-3.977-10.195-3.86-11.841-3.86-3.737 0-11.575.354-17.66 8.072-.699.937-1.519 2.225-2.807 4.566-.819-3.395-1.288-4.797-2.341-6.319-4.212-6.319-11.813-6.55-14.034-6.55-2.105 0-9.832.351-15.439 5.496Zm58.774 16.442c0 2.199-.003 4.114-.003 6h12.971a67.57 67.57 0 0 1 .348-6h-13.316Zm.029 9.576c.088 2.056.31 4.069.731 5.993h12.635a61.27 61.27 0 0 1-.44-5.993h-12.926Zm-74.831 9.572v4.3l-.12 9.825H59.18v2.81h30.881v-2.81h-9.006l-.12-9.825v-4.3H69.356Zm36.264 0v4.3l-.12 9.825h-9.237v2.81h21.081v-2.81h-.146l-.114-9.825v-4.3H105.62Zm84.811 4.42c-1.639 2.807-6.671 9.94-16.613 9.94-9.069 0-13.629-6.354-15.635-14.36h-12.291c3.598 10.509 12.484 17.989 25.119 17.989 12.281 0 18.366-6.787 20.939-10.762 1.639-2.462 2.806-5.617 3.86-8.427l-2.807-.813c-.117.579-1.17 3.858-2.572 6.433Z" style="fill:#fff;fill-rule:nonzero" transform="matrix(.69721 0 0 .69721 -41.261 -35.81)"/></symbol><symbol viewBox="0 0 70 30" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" id="logo-mobile"><path style="fill:#fff" d="M15.689 40.965h3.658v1.896h-3.658zM27.149 40.965h3.622v1.896h-3.622z" transform="matrix(1.6002 0 0 1.6002 -19.865 -49.62)"/><path d="m27.148 37.94.001.238v1.658h3.661c.027-.625.077-1.264.165-1.896h-3.827M15.689 37.94v1.896h3.677c.017-.606.046-1.25.116-1.896h-3.793M20.754 32.745c-.444.407-.703.776-1.331 1.774l.073-3.178c-1.145.11-2.291.147-3.437.147h-3.586v.887h3.178l.038 3.512v.923h3.965c.288-1.443.868-2.789 2.061-3.621a4.515 4.515 0 0 1 2.513-.777c.481 0 1.073.111 1.48.333.738.444 1.256 1.257 1.403 2.957.017.364.024.736.03 1.108h4.049c.281-1.145.767-2.217 1.652-3.067 1.183-1.109 2.403-1.22 3.031-1.22.295 0 1.152-.037 1.78.517.986.788 1.539 2.533 1.653 3.77h4.383c.232-1.331.606-2.314 1.094-2.993 1.034-1.516 2.624-1.701 3.253-1.701.555 0 2.328.15 3.068 1.849.258.703.258 1.478.258 1.737 0 .703-.073 1.663.592 2.145.406.295.999.295 1.146.295 1.109.037 1.628-.665 1.812-1.036.111-.257.148-.517.148-.812 0-1.404-1.036-2.662-1.257-2.884-.111-.184-.259-.296-.445-.444-1.921-1.699-4.621-1.811-5.322-1.811-.739 0-2.403.037-4.178.998-.715.37-1.31.817-1.819 1.301a5.737 5.737 0 0 0-1.02-1.153c-1.331-1.257-3.223-1.22-3.743-1.22-1.181 0-3.658.111-5.581 2.551-.221.296-.48.703-.887 1.442-.259-1.072-.407-1.516-.74-1.996-1.331-1.997-3.733-2.07-4.435-2.07-.665 0-3.107.11-4.879 1.737M39.328 37.94l-.001 1.896h4.099c.011-.689.049-1.317.11-1.896h-4.208M39.337 40.967c.028.649.099 1.286.231 1.894h3.994a19.397 19.397 0 0 1-.14-1.894h-4.085M15.69 43.991v1.359l-.038 3.106h-3.179v.888h9.76v-.888h-2.847l-.037-3.106v-1.359H15.69ZM27.149 43.991v1.359l-.038 3.106h-2.919v.888h6.662v-.888h-.046l-.036-3.106v-1.359h-3.623ZM53.951 45.389c-.518.887-2.108 3.141-5.25 3.141-2.866 0-4.307-2.008-4.941-4.538h-3.884c1.137 3.321 3.945 5.685 7.938 5.685 3.881 0 5.804-2.145 6.616-3.401.519-.778.888-1.775 1.221-2.663l-.887-.257c-.037.183-.37 1.219-.813 2.033" style="fill:#fff;fill-rule:nonzero" transform="matrix(1.6002 0 0 1.6002 -19.865 -49.62)"/></symbol><symbol fill="none" viewBox="0 0 31 30" id="mail-circle"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.848 15.002C1.848 7.545 7.893 1.5 15.349 1.5c7.457 0 13.502 6.045 13.502 13.502 0 7.457-6.045 13.502-13.502 13.502-7.456 0-13.501-6.045-13.501-13.502ZM15.349 0C7.064 0 .348 6.717.348 15.002s6.716 15.002 15.001 15.002c8.286 0 15.002-6.717 15.002-15.002S23.635 0 15.35 0Zm1.52 11.201h2.28c2.098 0 3.8 1.703 3.8 3.8 0 2.099-1.702 3.801-3.8 3.801h-2.28a.762.762 0 0 1-.76-.76c0-.418.342-.76.76-.76h2.28a2.287 2.287 0 0 0 2.28-2.28 2.287 2.287 0 0 0-2.28-2.28h-2.28a.762.762 0 0 1-.76-.76c0-.419.342-.76.76-.76Zm-3.8 4.56a.762.762 0 0 1-.76-.76c0-.417.341-.76.76-.76h4.56c.418 0 .76.343.76.76 0 .419-.342.76-.76.76h-4.56Zm-1.52 1.521h2.28c.418 0 .76.342.76.76s-.342.76-.76.76h-2.28a3.802 3.802 0 0 1-3.801-3.8c0-2.098 1.702-3.8 3.8-3.8h2.28c.419 0 .76.341.76.76 0 .418-.341.76-.76.76h-2.28a2.287 2.287 0 0 0-2.28 2.28 2.287 2.287 0 0 0 2.28 2.28Z" fill="currentColor"/></symbol><symbol fill="none" viewBox="0 0 28 28" id="menu"><path fill-rule="evenodd" clip-rule="evenodd" d="M23 8H5V6h18v2Zm0 7.3H5V13h18v2.3Zm0 6.7H5v-2h18v2Z" fill="#fff"/></symbol><symbol fill="none" viewBox="0 0 28 28" id="phonemail"><path d="M25.513 21.345h-2.54a.294.294 0 1 1 0-.589h2.54a1.4 1.4 0 0 0 1.398-1.397V7.987a1.4 1.4 0 0 0-1.398-1.398H8.59a.295.295 0 0 1 0-.589h16.923A1.99 1.99 0 0 1 27.5 7.987v11.372a1.99 1.99 0 0 1-1.987 1.986Z" fill="#fff"/><path d="m19.599 13.673 5.107-4.686a.295.295 0 0 0-.398-.434l-7.256 6.657-6.446-5.913a.294.294 0 1 0-.398.434l4.296 3.942-2.435 2.234a.295.295 0 0 0 .398.434l2.472-2.27 1.913 1.755a.294.294 0 0 0 .398 0l1.913-1.754 5.145 4.72a.293.293 0 0 0 .416-.018.294.294 0 0 0-.018-.416l-5.107-4.685Z" fill="#fff"/><path fill-rule="evenodd" clip-rule="evenodd" d="M6.381 19.813c2.923 2.923 6.743 5.381 9.668 5.381.97 0 1.841-.27 2.548-.883.136-.118.242-.272.314-.456.128-.328.379-.92.744-1.764l.44-1.009a.94.94 0 0 0-.38-1.184l-3.93-2.331a.945.945 0 0 0-.923-.02l-2.692 1.445a.348.348 0 0 1-.414-.06l-4.493-4.494a.348.348 0 0 1-.061-.414l1.445-2.692a.944.944 0 0 0-.02-.924L6.298 6.48a.94.94 0 0 0-1.185-.382c-.275.122-.634.279-1.01.441-.825.359-1.435.616-1.762.744a1.151 1.151 0 0 0-.457.315c-2.462 2.84.606 8.323 4.498 12.215ZM2.555 7.832c.335-.132.927-.382 1.76-.743.384-.166.752-.328 1.034-.452a.35.35 0 0 1 .441.143l2.331 3.928a.353.353 0 0 1 .007.345l-1.445 2.693a.934.934 0 0 0 .163 1.108l4.494 4.494c.295.295.74.36 1.109.163l2.692-1.445a.351.351 0 0 1 .345.007l3.93 2.332a.35.35 0 0 1 .142.44c-.121.275-.278.632-.44 1.006l-.62 1.428.019-.019c-.063.151-.114.278-.154.38a.564.564 0 0 1-.152.226c-2.555 2.215-7.708-.764-11.413-4.47C3.092 15.692.113 10.54 2.328 7.984a.568.568 0 0 1 .227-.151Z" fill="#fff"/><path d="M25.513 21.345h-2.54a.294.294 0 1 1 0-.589h2.54a1.4 1.4 0 0 0 1.398-1.397V7.987a1.4 1.4 0 0 0-1.398-1.398H8.59a.295.295 0 0 1 0-.589h16.923A1.99 1.99 0 0 1 27.5 7.987v11.372a1.99 1.99 0 0 1-1.987 1.986Z" stroke="#fff" stroke-width=".8"/><path d="m19.599 13.673 5.107-4.686a.295.295 0 0 0-.398-.434l-7.256 6.657-6.446-5.913a.294.294 0 1 0-.398.434l4.296 3.942-2.435 2.234a.295.295 0 0 0 .398.434l2.472-2.27 1.913 1.755a.294.294 0 0 0 .398 0l1.913-1.754 5.145 4.72a.293.293 0 0 0 .416-.018.294.294 0 0 0-.018-.416l-5.107-4.685Z" stroke="#fff" stroke-width=".8"/><path clip-rule="evenodd" d="M6.381 19.813c2.923 2.923 6.743 5.381 9.668 5.381.97 0 1.841-.27 2.548-.883.136-.118.242-.272.314-.456.128-.328.379-.92.744-1.764l.44-1.009a.94.94 0 0 0-.38-1.184l-3.93-2.331a.945.945 0 0 0-.923-.02l-2.692 1.445a.348.348 0 0 1-.414-.06l-4.493-4.494a.348.348 0 0 1-.061-.414l1.445-2.692a.944.944 0 0 0-.02-.924L6.298 6.48a.94.94 0 0 0-1.185-.382c-.275.122-.634.279-1.01.441-.825.359-1.435.616-1.762.744a1.151 1.151 0 0 0-.457.315c-2.462 2.84.606 8.323 4.498 12.215ZM2.555 7.832c.335-.132.927-.382 1.76-.743.384-.166.752-.328 1.034-.452a.35.35 0 0 1 .441.143l2.331 3.928a.353.353 0 0 1 .007.345l-1.445 2.693a.934.934 0 0 0 .163 1.108l4.494 4.494c.295.295.74.36 1.109.163l2.692-1.445a.351.351 0 0 1 .345.007l3.93 2.332a.35.35 0 0 1 .142.44c-.121.275-.278.632-.44 1.006l-.62 1.428.019-.019c-.063.151-.114.278-.154.38a.564.564 0 0 1-.152.226c-2.555 2.215-7.708-.764-11.413-4.47C3.092 15.692.113 10.54 2.328 7.984a.568.568 0 0 1 .227-.151Z" stroke="#fff" stroke-width=".8"/></symbol><symbol fill="none" viewBox="0 0 28 28" id="search"><path fill-rule="evenodd" clip-rule="evenodd" d="m17.775 16.466 6.168 6.168a.195.195 0 0 1 0 .276l-1.036 1.033a.195.195 0 0 1-.275 0l-6.168-6.166a7.067 7.067 0 0 1-4.339 1.473 7.068 7.068 0 0 1-5.037-2.088A7.082 7.082 0 0 1 5 12.125c0-1.905.741-3.693 2.088-5.037A7.082 7.082 0 0 1 12.125 5c1.902 0 3.693.741 5.037 2.088a7.082 7.082 0 0 1 2.088 5.037 7.061 7.061 0 0 1-1.475 4.341Zm-5.65.979c1.42 0 2.755-.553 3.762-1.558a5.287 5.287 0 0 0 1.558-3.762c0-1.42-.553-2.755-1.558-3.762a5.278 5.278 0 0 0-3.762-1.558c-1.42 0-2.755.553-3.762 1.558a5.287 5.287 0 0 0-1.558 3.762c0 1.42.553 2.755 1.558 3.762a5.291 5.291 0 0 0 3.762 1.558Z" fill="#fff"/></symbol><symbol fill="currentColor" viewBox="0 0 24 24" id="share"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92 0-1.61-1.31-2.92-2.92-2.92Z"/></symbol><symbol fill="currentColor" viewBox="0 0 28 28" id="user"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.25 5.5c-2.249 0-4 1.715-4 3.745 0 2.03 1.751 3.744 4 3.744s4-1.715 4-3.744c0-2.03-1.751-3.745-4-3.745Zm-5.5 3.745C8.75 6.31 11.252 4 14.25 4s5.5 2.31 5.5 5.245-2.502 5.244-5.5 5.244-5.5-2.31-5.5-5.244ZM5.626 17.78A5.64 5.64 0 0 1 9.5 16.258H19a5.64 5.64 0 0 1 3.874 1.522 5.126 5.126 0 0 1 1.626 3.723V24.5H23v-2.997c0-.98-.41-1.928-1.157-2.634A4.14 4.14 0 0 0 19 17.76H9.5a4.14 4.14 0 0 0-2.843 1.11A3.626 3.626 0 0 0 5.5 21.503V24.5H4v-2.997c0-1.405.59-2.743 1.626-3.723Z"/></symbol><symbol viewBox="0 0 585.22 555" id="vcom-brandcolor"><defs><linearGradient id="ta" data-name="Unbenannter Verlauf 10" x1="284.05" y1="217.6" x2="256.55" y2="142.06" gradientUnits="userSpaceOnUse"><stop offset=".11" stop-color="#0098da"/><stop offset=".26" stop-color="#0092d2"/><stop offset=".5" stop-color="#0084be"/><stop offset=".78" stop-color="#006d9d"/><stop offset=".87" stop-color="#006491"/></linearGradient><linearGradient id="tb" data-name="Unbenannter Verlauf 15" x1="552.97" y1="625.96" x2="550.27" y2="471.51" gradientTransform="rotate(-1.68 -7045.236 8206.465)" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="tc" data-name="Unbenannter Verlauf 20" x1="212.84" y1="158.42" x2="147.79" y2="401.21" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="td" data-name="Unbenannter Verlauf 5" x1="449.35" y1="204.1" x2="358.86" y2="354.7" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".32" stop-color="#006694"/><stop offset=".49" stop-color="#006e9f"/><stop offset=".66" stop-color="#007bb2"/><stop offset=".82" stop-color="#008dcb"/><stop offset=".89" stop-color="#0098da"/></linearGradient></defs><path d="m321.97 155.81-41.94 56.96c-15.01 20.16-45.57 18.98-58.98-2.27-.05-.07-.06-.16 0-.23l58.65-76.63 42.27 22.18Z" style="fill:url(#ta)"/><path d="m302.38 407.62 79.64-115.61-26.63-41.51-87.49 129.09c-.05.07-1.55 1.88-1.49 1.95l35.97 26.09Z" style="fill:url(#tb)"/><path d="M87.75 125.83c20.95.13 35.76 24.28 47.54 41.61l131.08 189.98c11.56 17.06 32.28 25.43 52.44 21.18l4.05-.85-27.24 44.43c-4.91 8-13.87 12.76-23.23 11.95-8.49-.73-16.59-5.15-21.74-12.75L52.79 125.83h34.96Z" style="fill:url(#tc)"/><path d="M496.69 430.93c-13.41.08-26.14-7.21-34.05-18.04l-146.2-209.64c-14.09-18.78-45.29-33.67-67.45-25.94l-3.69 1.29 35.5-46.77c11.09-14.7 33.16-14.73 44.29-.05l207.35 299.15H496.7Z" style="fill:url(#td)"/></symbol><symbol viewBox="0 0 585.22 555" id="vcom-white"><defs><linearGradient id="ua" data-name="Unbenannter Verlauf 81" x1="212.84" y1="158.42" x2="147.79" y2="401.21" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient><linearGradient id="ub" data-name="Unbenannter Verlauf 41" x1="449.42" y1="204.17" x2="358.93" y2="354.77" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".29" stop-color="#fff" stop-opacity=".61"/><stop offset=".44" stop-color="#fff" stop-opacity=".66"/><stop offset=".58" stop-color="#fff" stop-opacity=".73"/><stop offset=".72" stop-color="#fff" stop-opacity=".83"/><stop offset=".86" stop-color="#fff" stop-opacity=".96"/><stop offset=".89" stop-color="#fff"/></linearGradient><linearGradient id="uc" data-name="Unbenannter Verlauf 88" x1="328.85" y1="379.33" x2="326.68" y2="255.31" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient><linearGradient id="ud" data-name="Unbenannter Verlauf 44" x1="268.78" y1="223.16" x2="251.71" y2="176.26" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient></defs><path d="M87.75 125.83c20.95.13 35.76 24.28 47.54 41.61l131.08 189.98c11.56 17.06 32.28 25.43 52.44 21.18l4.05-.85-27.24 44.43c-4.91 8-13.87 12.76-23.23 11.95-8.49-.73-16.59-5.15-21.74-12.75L52.79 125.83h34.96Z" style="fill:url(#ua)"/><path d="M496.76 431c-13.41.08-26.14-7.21-34.05-18.04l-146.2-209.64c-14.09-18.78-45.29-33.67-67.45-25.94l-3.69 1.29 35.5-46.77c11.09-14.7 33.16-14.73 44.29-.05L532.51 431h-35.74Z" style="fill:url(#ub)"/><path d="m380.18 294.67-27.76-39.8-76.59 113.01c11.74 9.81 27.52 13.98 42.98 10.72l4.05-.85 57.32-83.07Z" style="fill:url(#uc)"/><path d="m248.98 177.31-3.69 1.29-24.24 31.67c-.05.07-.05.16 0 .23 13.41 21.25 43.97 22.43 58.98 2.27l18.8-25.53c-15.26-9.91-34.67-15.22-49.85-9.93Z" style="fill:url(#ud)"/></symbol><symbol fill="none" viewBox="0 0 31 30" id="x"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.834 15.002C1.834 7.545 7.879 1.5 15.336 1.5c7.457 0 13.501 6.045 13.501 13.502 0 7.457-6.044 13.502-13.501 13.502S1.834 22.459 1.834 15.002ZM15.336 0C7.05 0 .334 6.717.334 15.002s6.717 15.002 15.002 15.002 15.001-6.717 15.001-15.002S23.621 0 15.336 0Zm5.674 9.212h-1.965l-3.237 3.7-2.798-3.7H8.956l4.843 6.333-4.59 5.246h1.966l3.542-4.048 3.097 4.048h3.953l-5.049-6.674 4.292-4.905Zm-1.566 10.404h-1.088l-7.106-9.29h1.168l7.026 9.29Z" fill="currentColor"/></symbol></svg>
+</div>
+
+
+
+
+        
+
+
+
+
+
+
+<div class="nav-overlay" data-nav-trigger="close"></div><div class="search-overlay"><div class="header_bottom"><div class="wrap px" style="--wrap: 1480px"><div class="px-mobile"><a class="header_logo" href="/"><svg class="header_logo-icon d-block" width="93" height="28"><use href="#logo-mobile"/></svg></a><div class="header-cta-holder"><div class="header_trigger" data-nav-trigger="search"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#search"/></svg><svg class="header_trigger-icon d-none" width="28" height="28"><use href="#close"/></svg></div></div></div></div></div></div><header class="header is-homepage" data-el="header"><div class="header_bottom"><div class="wrap px" style="--wrap: 1480px"><div class="px-mobile"><a class="header_logo" href="/"><svg class="header_logo-icon d-none" width="288" height="62"><use href="#logo-desktop"/></svg><svg class="header_logo-icon d-block" width="60" height="26"><use href="#logo-mobile"/></svg></a><div class="header-menu" data-el="header-menu"><ul class="header-menu-list"><li class="header-menu-item " title="Anwendungen"><a class="header-menu-link" href="/anwendungen" target="_self" data-nav-trigger="open anwendungen">Anwendungen</a></li><li class="header-menu-item " title="Produkte"><a class="header-menu-link" href="/produkte" target="_self" data-nav-trigger="open produkte">Produkte</a></li><li class="header-menu-item " title="Support &amp; Lernen"><a class="header-menu-link" href="/support-lernen" target="_self" data-nav-trigger="open support-lernen">Support & Lernen</a></li><li class="header-menu-item " title="Unternehmen"><a class="header-menu-link" href="/unternehmen" target="_self" data-nav-trigger="open unternehmen">Unternehmen</a></li><li class="header-menu-item " title="Karriere"><a class="header-menu-link" href="/karriere" target="_self" data-nav-trigger="open karriere">Karriere</a></li></ul></div><div class="header-cta-holder"><div class="header_trigger desktop" data-nav-trigger="open search"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#search"/></svg><svg class="header_trigger-icon d-none" width="28" height="28"><use href="#close"/></svg></div><a class="header_trigger" title="Kontakt" href="/unternehmen/kontakt-standorte"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#phonemail"/></svg></a><div class="header-languages-holder"><div class="header_trigger" data-languages="trigger"><svg class="header_trigger-icon d-block" width="22" height="22"><use href="#globe"/></svg><svg class="header_trigger-icon d-none" width="22" height="22"><use href="#close"></use></svg></div><div class="langs-list-holder"><ul class="langs-list"><!--<nav nav="language-navigation">--><li class="langs-item"><a class="langs-link active" href="/" hreflang="de-DE" alt="Deutsch" title="Deutsch">
+                            Deutsch
+                        </a></li><li class="langs-item"><a class="langs-link" href="/en/" hreflang="en-GB" alt="English" title="English">
+                            English
+                        </a></li><li class="langs-item"><a class="langs-link" href="/fr/" hreflang="fr-FR" alt="Français" title="Français">
+                            Français
+                        </a></li><li class="langs-item"><a class="langs-link" href="/it/" hreflang="it-IT" alt="Italiano" title="Italiano">
+                            Italiano
+                        </a></li><li class="langs-item"><a class="langs-link" href="/es/" hreflang="es-ES" alt="Español" title="Español">
+                            Español
+                        </a></li><li class="langs-item"><a class="langs-link" href="/ja/" hreflang="ja-JP" alt="日本語" title="日本語">
+                            日本語
+                        </a></li><!--</nav>--></ul></div></div><a class="header_trigger desktop vcom-login" target="_blank" href="https://vcom.meteocontrol.com/vcom/login-oauth " rel="nofollow"><span>Login</span><svg class="header_trigger-icon d-block" width="24" height="24"><use href="#user"/></svg></a></div></div></div><div class="header-meta"><div class="header_triggers"><div class="header_trigger mobile" data-nav-trigger="open search"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#search"></use></svg><svg class="header_trigger-icon d-none" width="28" height="28"><use href="#close"></use></svg></div><a class="header_trigger header_trigger-menu" href=""><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#phonemail"></use></svg></a><div class="header_trigger desktop" data-nav-trigger="open language"><svg class="header_trigger-icon d-block" width="22" height="22"><use href="#globe"/></svg></div><a class="header_trigger header_trigger-menu vcom-login" target="_blank" href="https://vcom.meteocontrol.com/vcom/login-oauth " rel="nofollow"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#user"/></svg></a><div class="header_trigger header_trigger-menu" data-nav-trigger="menu"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#menu"></use></svg></div><div class="header_trigger header_trigger-menu-hide" data-nav-trigger="hide-mobile"><svg class="header_trigger-icon d-block" width="28" height="28"><use href="#close"></use></svg></div></div></div></div><div class="header-bcrumb" data-nav-trigger="" data-bcrumb="std"><div class="wrap px" style="--wrap: 1480px"><ul class="header-bcrumb-list"><li class="header-bcrumb-item is-faded"><div class="header-bcrumb-link"><span title="meteocontrol">meteocontrol</span></div></li></ul></div></div><div class="header-bcrumb alt" data-bcrumb="alt"><div class="wrap px" style="--wrap: 1480px"><ul class="header-bcrumb-list"><li class="header-bcrumb-item is-faded"><div class="header-bcrumb-link"><span title="meteocontrol">meteocontrol</span></div></li></ul></div></div><div class="header-mobile"><div class="header-mobile-inner"><!-- mobile navigation --><div class="nav header-mnav" style="transform: translateX(0px);"><div class="header-mnav-content"><div class="wrap px"><ul class="nav-columns col-1 full"><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/anwendungen" target="_self" data-nav-trigger="open anwendungen"><span>Anwendungen</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/produkte" target="_self" data-nav-trigger="open produkte"><span>Produkte</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/support-lernen" target="_self" data-nav-trigger="open support-lernen"><span>Support & Lernen</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/unternehmen" target="_self" data-nav-trigger="open unternehmen"><span>Unternehmen</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/karriere" target="_self" data-nav-trigger="open karriere"><span>Karriere</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a></li></ul><!--<nav nav="language-navigation">--><ul class="col-1 full nav-columns-alt m0"><li class="nav-item"><div class="nav-link nav-newlink text-uppercase fw600" data-nav-trigger="language"><span>Sprache</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-down"></use></svg></div><div class="langs-nav-holder"><ul class="langs footer language-navigation mobile"><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link active" href="/"
+                                       hreflang="de-DE">
+                                        DE
+                                    </a></li><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link" href="/en/"
+                                       hreflang="en-GB">
+                                        EN
+                                    </a></li><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link" href="/fr/"
+                                       hreflang="fr-FR">
+                                        FR
+                                    </a></li><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link" href="/it/"
+                                       hreflang="it-IT">
+                                        IT
+                                    </a></li><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link" href="/es/"
+                                       hreflang="es-ES">
+                                        ES
+                                    </a></li><li class="nav-item langs-item"><a class="langs-link mobile mobilelang-link" href="/ja/"
+                                       hreflang="ja-JP">
+                                        JP
+                                    </a></li></ul></div><!--</nav>--></li></ul><ul class="nav-columns col-1 full nav-columns-alt"><li class="nav-item"><a href="/unternehmen/impressum" class="nav-link"
+				   title="Impressum" rel="bookmark noopener"><span>Impressum</span></a></li><li class="nav-item"><a href="/unternehmen/datenschutz" class="nav-link"
+				   title="Datenschutz" rel="bookmark noopener"><span>Datenschutz</span></a></li><li class="nav-item"><a href="https://whistleblowersoftware.com/secure/meteocontrol-extern" class="nav-link" target="_blank" title="Hinweisgebersystem" rel="bookmark noopener nofollow"><span>Hinweisgebersystem</span></a></li><li class="nav-item"><a href="javascript:Cookiebot.renew()" class="nav-link">Cookie-Einstellungen</a></li></ul></div></div></div><!-- end of mobile navigation --><!-- Language menu --><nav class="nav" data-nav-container="login"><div class="nav-track"><ul data-nav-level="0" data-nav-bcrumb-target="home"><li class="wrap px" style="--wrap: 1480px"><ul class="nav-columns full newnavcolumns"><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="wrap px" style="--wrap: 390px; padding-block: 0 !important;"><div class="text-center header-login-header w100"><svg xmlns="http://www.w3.org/2000/svg" width="221" height="129" viewBox="0 0 585.22 555" fill="none"><defs><linearGradient id="vcom-grad-10" x1="284.05" y1="217.6" x2="256.55" y2="142.06" gradientUnits="userSpaceOnUse"><stop offset=".11" stop-color="#0098da"/><stop offset=".26" stop-color="#0092d2"/><stop offset=".5" stop-color="#0084be"/><stop offset=".78" stop-color="#006d9d"/><stop offset=".87" stop-color="#006491"/></linearGradient><linearGradient id="vcom-grad-15" x1="552.97" y1="625.96" x2="550.27" y2="471.51" gradientTransform="rotate(-1.68 -7045.236 8206.465)" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="vcom-grad-20" x1="212.84" y1="158.42" x2="147.79" y2="401.21" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="vcom-grad-5" x1="449.35" y1="204.1" x2="358.86" y2="354.7" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".32" stop-color="#006694"/><stop offset=".49" stop-color="#006e9f"/><stop offset=".66" stop-color="#007bb2"/><stop offset=".82" stop-color="#008dcb"/><stop offset=".89" stop-color="#0098da"/></linearGradient></defs><path d="m321.97 155.81-41.94 56.96c-15.01 20.16-45.57 18.98-58.98-2.27-.05-.07-.06-.16 0-.23l58.65-76.63 42.27 22.18Z" fill="url(#vcom-grad-10)"/><path d="m302.38 407.62 79.64-115.61-26.63-41.51-87.49 129.09c-.05.07-1.55 1.88-1.49 1.95l35.97 26.09Z" fill="url(#vcom-grad-15)"/><path d="M87.75 125.83c20.95.13 35.76 24.28 47.54 41.61l131.08 189.98c11.56 17.06 32.28 25.43 52.44 21.18l4.05-.85-27.24 44.43c-4.91 8-13.87 12.76-23.23 11.95-8.49-.73-16.59-5.15-21.74-12.75L52.79 125.83h34.96Z" fill="url(#vcom-grad-20)"/><path d="M496.69 430.93c-13.41.08-26.14-7.21-34.05-18.04L316.44 203.25c-14.09-18.78-45.29-33.67-67.45-25.94l-3.69 1.29 35.5-46.77c11.09-14.7 33.16-14.73 44.29-.05l207.35 299.15h-35.74Z" fill="url(#vcom-grad-5)"/></svg><h3 class="header-login-title">VCOM Login</h3></div><form target="_blank" method="post" accept-charset="UTF-8"
+                                              action="https://vcom.meteocontrol.com/vcom/login/process" class="header-login-form"><label><span>Benutzername</span><input type="text" id="vcomUsername" name="username" placeholder="Benutzername"></label><label><span>Passwort</span><input type="password" id="vcomPassword" name="password" placeholder="Passwort"></label><button type="submit">Login</button></form><p class="header-login-meta w100">
+                                            Bitte beachten Sie unsere <a class="pass" href="/unternehmen/datenschutz/vcom" target="_blank">Datenschutzbestimmungen</a>.<br><a href="https://vcom.meteocontrol.com/vcom/user-recovery" rel="nofollow">Passwort vergessen?</a></p></li></ul></li><li class="menu-footer"><div class="wrap px" style="--wrap: 1480px"><div><span class="d-block"><strong>Sie kennen VCOM noch nicht?</strong></span><span class="d-block">Buchen Sie jetzt eine Demo oder wenden Sie sich direkt an uns unter <a href="mailto:sales@meteocontrol.com">sales@meteocontrol.com</a> oder <a href="tel:00498213466680">+49 821 34666-80</a>.</span></div><a class="menu-footer-button" href="/produkte/cloud/vcom-cloud/vcom-demo">Jetzt Demo buchen</a></div></li></ul></div></nav><nav class="nav" data-nav-container="search"><div class="nav-track"><ul data-nav-level="0" data-nav-bcrumb-target="home"><li class="wrap px" style="--wrap: 1480px"><div class="nav-columns full newnavcolumns"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><div class="wrap px" style="--wrap: 740px; padding-block: 0 !important;"><a class="nav-title" data-bcrumb-title="Search" href="#" target="_self" title="Search" style="max-width: unset"><span>Search</span></a><hr style="margin-top: 0; border-color: #f4f4f4; width: 100%;"><form method="get" class="header-search" id="search" name="search" action="/suche"><label><span style="display: none">Ihr Suchbegriff</span><input id="searchinput" type="text" placeholder="Ihr Suchbegriff"></label><button type="submit"><svg class="d-block" width="28" height="28"><use href="#arrow-right" /></svg></button></form><div class="header-search-offset"></div></div></div></li></ul></div></nav><nav class="nav" data-nav-container="languages"><div class="nav-track"><ul data-nav-level="0" data-nav-bcrumb-target="home"><li class="wrap px" style="--wrap: 1480px"><div class="nav-item nav-back-holder"><a href="/karriere" title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span></span></a></div><a class="nav-title" data-bcrumb-title="Home" href="/" target="_self" title="Select Language"><span></span><svg class="button-icon d-block" width="28" height="28"><use href="#globe" /></svg></a><ul class="nav-columns col-1 twothird"><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/" target="_self" title="Deutsch"><span>Deutsch</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-de" /></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/en/" target="_self" title="English"><span>English</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-en" /></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/fr/" target="_self" title="French"><span>French</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-fr" /></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/it/" target="_self" title="Italian"><span>Italian</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-it" /></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/es/" target="_self" title="Spanish"><span>Spanish</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-es" /></svg></a></li><li class="nav-item"><a class="nav-link text-uppercase fw600" href="/ja/" target="_self" title="Japanase"><span>Japanase</span><svg class="button-icon d-block" width="24" height="16"><use href="#flag-ja" /></svg></a></li></ul><ul class="nav-columns col-1 small"></ul></li></ul></div></nav><!-- end of language menu --><nav class="nav " data-nav-container="anwendungen"><div class="nav-track"><ul class="" data-nav-level="0" data-nav-bcrumb-target="anwendungen"><li class="wrap px" style="--wrap: 1480px; gap: var(--gap);"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><p class="nav-title only-mobile" data-bcrumb-title="Anwendungen" href="/anwendungen" target="_self" title="Anwendungen"><span>Anwendungen</span></p><ul class="nav-columns col-1 small newnavcolumns only-mobile"><li class="nav-item"><a class="nav-link " href="/anwendungen/ich-bin" target="_self" title="Ich bin" data-lvl="1" data-nav-trigger="next 1 anwendungen anwendungen/ich-bin"><span>Ich bin</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class="nav-layer " data-nav-level="1" data-nav-title="Ich bin" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 0"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Ich bin</span></li><li class="nav-item"><a class="nav-link " href="/anwendungen/assetmanager-om" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-bin"><span>Assetmanager, O&amp;M</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/anwendungen/projektentwickler-epc" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-bin"><span>Projektentwickler, EPC</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/anwendungen/energiehaendler-ipp" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-bin"><span>Energiehändler, IPP</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/anwendungen/ich-interessiere-mich-fuer" target="_self" title="Ich interessiere mich für" data-lvl="1" data-nav-trigger="next 1 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Ich interessiere mich für</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class="nav-layer " data-nav-level="1" data-nav-title="Ich interessiere mich für" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 0"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Ich interessiere mich für</span></li><li class="nav-item"><a class="nav-link " href="/anwendungen/assetmanagement" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Assetmanagement</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/anwendungen/parkregelung-energiehandel" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Parkregelung &amp; Energiehandel</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class=" " data-nav-level="2" data-nav-title="Parkregelung &amp; Energiehandel" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 1"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Parkregelung &amp; Energiehandel</span></li><li class="nav-item"><a class="nav-link " href="/anwendungen/parkregelung-energiehandel/zero-feed-in"><span>Zero Feed-In</span></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/anwendungen/photovoltaik-monitoring" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Photovoltaik Monitoring</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/anwendungen/commercial-industrial" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Commercial &amp; Industrial</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/anwendungen/utility-scale" data-lvl="2" data-nav-trigger="next 2 anwendungen anwendungen/ich-interessiere-mich-fuer"><span>Utility scale</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><a class="nav-title aaa" data-bcrumb-title="Ich bin" 
+               target="_self"
+               title="Ich bin"><span>Ich bin</span></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/assetmanager-om" title="Assetmanager, O&amp;M"><div><strong class="d-block">Assetmanager, O&amp;M</strong></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/projektentwickler-epc" title="Projektentwickler, EPC"><div><strong class="d-block">Projektentwickler, EPC</strong></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/energiehaendler-ipp" title="Energiehändler, IPP"><div><strong class="d-block">Energiehändler, IPP</strong></div></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><a class="nav-title aaa" data-bcrumb-title="Ich interessiere mich für" 
+               target="_self"
+               title="Ich interessiere mich für"><span>Ich interessiere mich für</span></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/assetmanagement" title="Assetmanagement"><div><strong class="d-block">Assetmanagement</strong><span class="d-block nav-link-description">Umfassende Lösungen für Automatisierung und Monitoring von Workflows sowie Betriebsführung von PV-Systemen</span></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/parkregelung-energiehandel" title="Parkregelung &amp; Energiehandel"><div><strong class="d-block">Parkregelung &amp; Energiehandel</strong><span class="d-block nav-link-description">Effiziente Steuerung von PV-Systemen und netzkonforme Einspeisung ins Netz weltweit</span></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/photovoltaik-monitoring" title="Photovoltaik Monitoring"><div><strong class="d-block">Photovoltaik Monitoring</strong><span class="d-block nav-link-description">Präzise Überwachung von einzelnen und mehreren PV-Systemen und Batterien: Echtzeitdaten, Analysen und Berichte</span></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/commercial-industrial" title="Commercial &amp; Industrial"><div><strong class="d-block">Commercial &amp; Industrial</strong><span class="d-block nav-link-description">Standardisierte Lösungen für netzkonforme Regelung und Überwachung – für PV-Projekte jeder Größe</span></div></a></li><li class="nav-item"><a class="nav-link" href="/anwendungen/utility-scale" title="Utility scale"><div><strong class="d-block">Utility scale</strong><span class="d-block nav-link-description">Individuelle Lösungen für große Solarparks: Maximale Skalierbarkeit und zuverlässige Netzintegration</span></div></a></li></ul></li></ul></div></nav><nav class="nav " data-nav-container="produkte"><div class="nav-track"><ul class="" data-nav-level="0" data-nav-bcrumb-target="produkte"><li class="wrap px" style="--wrap: 1480px; gap: var(--gap);"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><p class="nav-title only-mobile" data-bcrumb-title="Produkte" href="/produkte" target="_self" title="Produkte"><span>Produkte</span></p><ul class="nav-columns col-1 small newnavcolumns only-mobile"><li class="nav-item"><a class="nav-link " href="/produkte/cloud" target="_self" title="Cloud" data-lvl="1" data-nav-trigger="next 1 produkte produkte/cloud"><span>Cloud</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class="nav-layer " data-nav-level="1" data-nav-title="Cloud" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 0"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Cloud</span></li><li class="nav-item>"><a href="/produkte/cloud" title="Alle Cloud Produkte" class="nav-link"><span>Alle Cloud Produkte</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud" data-lvl="2" data-nav-trigger="next 2 produkte produkte/cloud"><span>VCOM Cloud</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class=" " data-nav-level="2" data-nav-title="VCOM Cloud" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 1"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>VCOM Cloud</span></li><li class="nav-item>"><a href="/produkte/cloud/vcom-cloud" title="VCOM Cloud" class="nav-link"><span>VCOM Cloud</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-battery-monitoring"><span>VCOM Battery Monitoring</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-monitoring"><span>VCOM Monitoring</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-monitoring-app"><span>VCOM Monitoring App</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-om-app"><span>VCOM O&amp;M App</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-api"><span>VCOM API</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/shared-assets"><span>Shared Assets</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cloud/vcom-demo"><span>VCOM Demo</span></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/vcom-cmms" data-lvl="2" data-nav-trigger="next 2 produkte produkte/cloud"><span>VCOM CMMS</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/cloud/mc-assetpilot" data-lvl="2" data-nav-trigger="next 2 produkte produkte/cloud"><span>mc Assetpilot</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site" target="_self" title="On Site" data-lvl="1" data-nav-trigger="next 1 produkte produkte/on-site"><span>On Site</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class="nav-layer " data-nav-level="1" data-nav-title="On Site" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 0"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>On Site</span></li><li class="nav-item>"><a href="/produkte/on-site" title="Alle On Site Produkte" class="nav-link"><span>Alle On Site Produkte</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/bluelog-neo" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>bluelog Neo</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/bluelog-x-serie-xm-xc" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>blue&#039;Log X-Serie (XM / XC)</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class=" " data-nav-level="2" data-nav-title="blue&#039;Log X-Serie (XM / XC)" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 1"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>blue&#039;Log X-Serie (XM / XC)</span></li><li class="nav-item>"><a href="/produkte/on-site/bluelog-x-serie-xm-xc" title="blue&#039;Log X-Serie (XM/XC)" class="nav-link"><span>blue&#039;Log X-Serie (XM/XC)</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/bluelog-x-serie-xm-xc/bluelog-xc"><span>blue&#039;Log XC</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/bluelog-x-serie-xm-xc/erweiterungsmodule"><span>Erweiterungsmodule</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/bluelog-x-serie-xm-xc/direktvermarktungsschnittstelle"><span>Direktvermarktungsschnittstelle</span></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/hybrid-ems" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>Hybrid EMS</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/scada-center" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>SCADA Center</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/cabinets" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>Cabinets</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class=" " data-nav-level="2" data-nav-title="Cabinets" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 1"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Cabinets</span></li><li class="nav-item>"><a href="/produkte/on-site/cabinets" title="Cabinets" class="nav-link"><span>Cabinets</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/cabinets/power-plant-controller-ppc"><span>Power Plant Controller (PPC)</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/cabinets/revolution-booster-kit"><span>REVOLUTION BOOSTER KIT</span></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/produkte/on-site/sensorik-zaehler-und-kommunikation" data-lvl="2" data-nav-trigger="next 2 produkte produkte/on-site"><span>Sensorik, Zähler und Kommunikation</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung" target="_self" title="Technische Beratung" data-lvl="1" data-nav-trigger="next 1 produkte produkte/technische-beratung"><span>Technische Beratung</span><svg class="nav-icon d-block" width="20" height="20"><use href="#chevron-right"></use></svg></a><ul class="nav-layer " data-nav-level="1" data-nav-title="Technische Beratung" style=""><li class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="back 0"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></li><li class="nav-title"><span>Technische Beratung</span></li><li class="nav-item>"><a href="/produkte/technische-beratung" title="Technische Beratung Übersicht" class="nav-link"><span>Technische Beratung Übersicht</span></a></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung/ertragsgutachten" data-lvl="2" data-nav-trigger="next 2 produkte produkte/technische-beratung"><span>Ertragsgutachten</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung/pv-und-bess-gutachten" data-lvl="2" data-nav-trigger="next 2 produkte produkte/technische-beratung"><span>PV- und BESS-Gutachten</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung/technische-due-diligence" data-lvl="2" data-nav-trigger="next 2 produkte produkte/technische-beratung"><span>Technische Due Diligence</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung/technische-inspektion" data-lvl="2" data-nav-trigger="next 2 produkte produkte/technische-beratung"><span>Technische Inspektion</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/produkte/technische-beratung/technische-auslegung" data-lvl="2" data-nav-trigger="next 2 produkte produkte/technische-beratung"><span>Technische Auslegung</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><a class="nav-title aaa" data-bcrumb-title="Cloud" href="/produkte/cloud"
+               target="_self"
+               title="Cloud"><span>Cloud</span></a></li><li class="nav-item"><a class="nav-link nav-speclink" href="/produkte/cloud/vcom-cloud" title="VCOM Cloud"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Ebene_1" data-name="Ebene 1" viewBox="0 0 585.22 555"><defs><style>
+      .cls-1 {
+        fill: url(#Unbenannter_Verlauf_20);
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_15);
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_5);
+      }
+
+      .cls-4 {
+        fill: url(#Unbenannter_Verlauf_10);
+      }
+    </style><linearGradient id="Unbenannter_Verlauf_10" data-name="Unbenannter Verlauf 10" x1="284.05" y1="217.6" x2="256.55" y2="142.06" gradientUnits="userSpaceOnUse"><stop offset=".11" stop-color="#0098da"/><stop offset=".26" stop-color="#0092d2"/><stop offset=".5" stop-color="#0084be"/><stop offset=".78" stop-color="#006d9d"/><stop offset=".87" stop-color="#006491"/></linearGradient><linearGradient id="Unbenannter_Verlauf_15" data-name="Unbenannter Verlauf 15" x1="552.97" y1="625.96" x2="550.27" y2="471.51" gradientTransform="translate(-243.62 -203.02) rotate(-1.68)" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="Unbenannter_Verlauf_20" data-name="Unbenannter Verlauf 20" x1="212.84" y1="158.42" x2="147.79" y2="401.21" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".22" stop-color="#006d9d"/><stop offset=".5" stop-color="#0084be"/><stop offset=".74" stop-color="#0092d2"/><stop offset=".89" stop-color="#0098da"/></linearGradient><linearGradient id="Unbenannter_Verlauf_5" data-name="Unbenannter Verlauf 5" x1="449.35" y1="204.1" x2="358.86" y2="354.7" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#006491"/><stop offset=".32" stop-color="#006694"/><stop offset=".49" stop-color="#006e9f"/><stop offset=".66" stop-color="#007bb2"/><stop offset=".82" stop-color="#008dcb"/><stop offset=".89" stop-color="#0098da"/></linearGradient></defs><path class="cls-4" d="M321.97,155.81l-41.94,56.96c-15.01,20.16-45.57,18.98-58.98-2.27h0s0,0,0,0c-.05-.07-.06-.16,0-.23l58.65-76.63,42.27,22.18Z"/><path class="cls-2" d="M302.38,407.62l79.64-115.61-26.63-41.51-87.49,129.09c-.05.07-1.55,1.88-1.49,1.95l35.97,26.09Z"/><path class="cls-1" d="M87.75,125.83c20.95.13,35.76,24.28,47.54,41.61l131.08,189.98c11.56,17.06,32.28,25.43,52.44,21.18l4.05-.85-27.24,44.43c-4.91,8-13.87,12.76-23.23,11.95-8.49-.73-16.59-5.15-21.74-12.75L52.79,125.83h34.96Z"/><path class="cls-3" d="M496.69,430.93c-13.41.08-26.14-7.21-34.05-18.04l-146.2-209.64c-14.09-18.78-45.29-33.67-67.45-25.94l-3.69,1.29,35.5-46.77c11.09-14.7,33.16-14.73,44.29-.05l207.35,299.15h-35.74Z"/></svg><div><strong class="d-block">VCOM Cloud</strong><span class="d-block nav-link-description">Überwachung, technische Betriebsführung und Datenhosting von einzelnen Anlagen oder kompletten Portfolios</span></div></a></li><li class="nav-item"><a class="nav-link nav-speclink" href="/produkte/cloud/vcom-cmms" title="VCOM CMMS"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" width="100%" height="100%" viewBox="0 0 134 134" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g><path d="M56.195,70.101l4.077,-4.115c1.112,0.414 2.268,0.7 3.445,0.855l-0.773,3.265l-6.749,-0.005Zm54.627,-0l-16.116,-0l-3.156,-13.329l13.954,0l5.318,13.329Zm-21.77,-0l-20.459,-0l0.545,-3.462c5.316,-1.113 9.734,-4.823 11.75,-9.867l5.932,0l2.232,13.329Zm-37.624,4.827l10.71,0.136l-4.343,18.271l-13.753,-0c0.778,-1.894 1.578,-3.968 1.578,-6.134c0.002,-1.873 -0.32,-3.733 -0.952,-5.497l6.76,-6.776Zm68.031,18.407l-19.593,-0l-4.321,-18.287l16.779,-0.212l7.135,18.499Zm-25.58,-0l-30.102,-0l4.152,-18.505l21.798,0l4.152,18.505Z" style="fill:#0098da;"/><path d="M75.533,42.877c0.374,0.863 0.657,1.762 0.843,2.684c0.523,2.662 0.274,5.42 -0.718,7.946c-0.68,1.702 -1.703,3.247 -3.005,4.539c-2.493,2.574 -5.929,4.029 -9.513,4.027c-1.597,-0.002 -3.18,-0.289 -4.675,-0.849l-18.815,18.967c0.545,1.495 0.823,3.074 0.822,4.665c-0.002,1.785 -0.334,3.554 -0.98,5.219c-0.669,1.716 -1.684,3.276 -2.982,4.583c-1.258,1.297 -2.773,2.318 -4.447,2.998c-1.601,0.657 -3.314,0.997 -5.045,1.002c-1.831,-0.004 -3.643,-0.374 -5.328,-1.089l8.822,-9.04l-7.141,-7.293l-8.822,9.046c-0.374,-0.875 -0.655,-1.788 -0.838,-2.722c-0.182,-0.919 -0.273,-1.854 -0.272,-2.792c0.001,-1.757 0.333,-3.498 0.98,-5.132c0.672,-1.687 1.687,-3.216 2.982,-4.49c1.266,-1.312 2.791,-2.347 4.479,-3.037c3.282,-1.345 6.966,-1.345 10.248,0l18.505,-18.657c-0.323,-0.832 -0.569,-1.692 -0.735,-2.569c-0.168,-0.879 -0.254,-1.771 -0.256,-2.666c-0,-1.776 0.334,-3.536 0.986,-5.187c0.667,-1.692 1.681,-3.225 2.977,-4.501c2.515,-2.586 5.971,-4.05 9.578,-4.06c1.791,0.005 3.561,0.375 5.204,1.088l-8.796,9.067l7.076,7.266l8.866,-9.013Z" style="fill:#1d97d4;fill-rule:nonzero;"/><g id="vcom_cmms--2-.svg" serif:id="vcom_cmms (2).svg"/></g></svg><div><strong class="d-block">VCOM CMMS</strong><span class="d-block nav-link-description">Digitales und automatisiertes Management sowie Reporting für effiziente Service-Einsätze vor Ort
+
+</span></div></a></li><li class="nav-item"><a class="nav-link nav-speclink" href="/produkte/cloud/mc-assetpilot" title="mc Assetpilot"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" width="100%" height="100%" viewBox="0 0 134 134" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g><path d="M45.791,76.697l-8.423,-5.159l25.099,-41.033c1.08,-1.751 3.144,-2.687 5.231,-2.255c1.344,0.288 2.52,1.152 3.24,2.327c4.991,8.183 10.006,17.277 14.637,25.844c4.631,8.566 0.576,7.798 -2.903,9.646l-2.424,1.296c-4.223,-7.871 -8.902,-16.581 -13.629,-24.74l-20.828,34.026l-0,0.048Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/><path d="M47.59,105.179c-10.39,0 -14.997,-3.455 -18.692,-5.758c-3.696,-2.304 -1.272,-0.768 -1.944,-1.296c-1.056,-0.792 -1.944,-1.776 -2.28,-3.072c-0.311,-1.271 -0.119,-2.639 0.576,-3.767l14.95,-24.427l3.047,1.847c2.975,1.824 3.911,5.711 2.088,8.711l-9.167,14.973c2.496,1.584 5.471,2.879 11.422,2.879c4.895,0 8.495,-1.631 12.67,-3.527c4.775,-2.16 10.174,-4.631 17.805,-4.631c7.63,-0 9.838,0.984 14.325,2.543c-2.472,-4.391 -2.88,-5.735 -5.351,-10.318c-1.296,-2.399 -0.408,-5.399 2.015,-6.694l4.344,-2.328c5.663,10.51 9.118,17.541 14.709,26.635c1.2,1.944 0.912,4.487 -0.768,6.119c-1.416,1.392 -3.527,1.752 -5.375,1.032c-2.136,-0.84 -4.079,-1.632 -5.807,-2.328c-7.438,-3.047 -11.542,-4.703 -18.068,-4.703c-6.527,-0 -9.311,1.728 -13.702,3.743c-4.559,2.064 -9.718,4.415 -16.749,4.415l-0.048,-0.048Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/><g id="Assetpilot_RGB_Markenfarbe.svg"/></g><defs><linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-38.4648,35.8733,-35.8733,-38.4648,80.6321,40.8235)"><stop offset="0" style="stop-color:#0098da;stop-opacity:1"/><stop offset="0.1" style="stop-color:#0098da;stop-opacity:1"/><stop offset="0.3" style="stop-color:#0092d2;stop-opacity:1"/><stop offset="0.5" style="stop-color:#0084be;stop-opacity:1"/><stop offset="0.8" style="stop-color:#006d9d;stop-opacity:1"/><stop offset="0.9" style="stop-color:#006491;stop-opacity:1"/><stop offset="1" style="stop-color:#006491;stop-opacity:1"/></linearGradient><linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(84.2723,0,0,84.2723,24.5305,86.0311)"><stop offset="0" style="stop-color:#0098da;stop-opacity:1"/><stop offset="0.1" style="stop-color:#0098da;stop-opacity:1"/><stop offset="0.3" style="stop-color:#0092d2;stop-opacity:1"/><stop offset="0.5" style="stop-color:#0084be;stop-opacity:1"/><stop offset="0.8" style="stop-color:#006d9d;stop-opacity:1"/><stop offset="0.9" style="stop-color:#006491;stop-opacity:1"/><stop offset="1" style="stop-color:#006491;stop-opacity:1"/></linearGradient></defs></svg><div><strong class="d-block">mc Assetpilot</strong><span class="d-block nav-link-description">Cloud-basiertes System für das Finanzmanagement Ihres Portfolios aus erneuerbaren Energien</span></div></a></li><li class="nav-item"><a href="/produkte/cloud" title="Alle Cloud Produkte" class="nav-button"><span>Alle Cloud Produkte</span><svg class="d-block" width="24" height="24"><use href="#arrow-right"></use></svg></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><a class="nav-title aaa" data-bcrumb-title="On Site" href="/produkte/on-site"
+               target="_self"
+               title="On Site"><span>On Site</span></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/bluelog-neo" title="bluelog Neo"><div><strong class="d-block">bluelog Neo</strong><span class="d-block nav-link-description">Die neue zentrale Plattform für Steuerung und Überwachung</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/bluelog-x-serie-xm-xc" title="blue&#039;Log X-Serie (XM / XC)"><div><strong class="d-block">blue&#039;Log X-Serie (XM / XC)</strong><span class="d-block nav-link-description">Zentrale Komponente für die präzise Überwachung und Regelung von PV-Systemen weltweit</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/hybrid-ems" title="Hybrid EMS"><div><strong class="d-block">Hybrid EMS</strong><span class="d-block nav-link-description">Effizientes Energiemanagement zur Steuerung und wirtschaftlichen Optimierung Ihres Verbrauchs</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/scada-center" title="SCADA Center"><div><strong class="d-block">SCADA Center</strong><span class="d-block nav-link-description">Überwachung und Steuerung von PV-Kraftwerken vor Ort, inklusive Echtzeit-Feedback und Alarmverwaltung</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/cabinets" title="Cabinets"><div><strong class="d-block">Cabinets</strong><span class="d-block nav-link-description">Standardisierte Schaltschränke für jeden Anwendungsfall– schnell installiert, vielseitig einsetzbar</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/on-site/sensorik-zaehler-und-kommunikation" title="Sensorik, Zähler und Kommunikation"><div><strong class="d-block">Sensorik, Zähler und Kommunikation</strong><span class="d-block nav-link-description">Zubehör für die Messung verschiedener Parameter, die lokale Datenkommunikation und die Montagetechnik</span></div></a></li><li class="nav-item"><a href="/produkte/on-site" title="Alle On Site Produkte" class="nav-button"><span>Alle On Site Produkte</span><svg class="d-block" width="24" height="24"><use href="#arrow-right"></use></svg></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><a class="nav-title aaa" data-bcrumb-title="Technische Beratung" href="/produkte/technische-beratung"
+               target="_self"
+               title="Technische Beratung"><span>Technische Beratung</span></a></li><li class="nav-item"><a class="nav-link" href="/produkte/technische-beratung/ertragsgutachten" title="Ertragsgutachten"><div><strong class="d-block">Ertragsgutachten</strong><span class="d-block nav-link-description">Präzise Ertragsprognosen für Ihre Finanzierungssicherheit</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/technische-beratung/pv-und-bess-gutachten" title="PV- und BESS-Gutachten"><div><strong class="d-block">PV- und BESS-Gutachten</strong><span class="d-block nav-link-description">Unabhängige Analyse der Ertragspotenziale von PV und Speichern</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/technische-beratung/technische-due-diligence" title="Technische Due Diligence"><div><strong class="d-block">Technische Due Diligence</strong><span class="d-block nav-link-description">Risikominimierung durch technische Prüfung Ihrer Projektplanung</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/technische-beratung/technische-inspektion" title="Technische Inspektion"><div><strong class="d-block">Technische Inspektion</strong><span class="d-block nav-link-description">Qualitätssicherung vor Ort zur Identifikation von Anlagenmängeln</span></div></a></li><li class="nav-item"><a class="nav-link" href="/produkte/technische-beratung/technische-auslegung" title="Technische Auslegung"><div><strong class="d-block">Technische Auslegung</strong><span class="d-block nav-link-description">Optimale Dimensionierung für wirtschaftliche PV- &amp; BESS-Systeme</span></div></a></li><li class="nav-item"><a href="/produkte/technische-beratung" title="Technische Beratung Übersicht" class="nav-button"><span>Technische Beratung Übersicht</span><svg class="d-block" width="24" height="24"><use href="#arrow-right"></use></svg></a></li></ul></li><li class="menu-footer"><div class="wrap px" style="--wrap: 1480px"><a href="/produkte/overview" title="Produktneuheiten zur The smarter E 2026" class="nav-button menu-footer"><span>Produktneuheiten zur The smarter E 2026</span><svg class="d-block" width="24" height="24"><use href="#arrow-right"></use></svg></a></div></li></ul></div></nav><nav class="nav " data-nav-container="support-lernen"><div class="nav-track"><ul class="" data-nav-level="0" data-nav-bcrumb-target="support-lernen"><li class="wrap px" style="--wrap: 1480px; gap: var(--gap);"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><p class="nav-title only-mobile" data-bcrumb-title="Support &amp; Lernen" href="/support-lernen" target="_self" title="Support &amp; Lernen"><span>Support &amp; Lernen</span></p><ul class="nav-columns col-1 small newnavcolumns only-mobile"><li class="nav-item"><a class="nav-link " href="/support-lernen/support" target="_self" title="Support"><span>Support</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/support-lernen/schulungen" target="_self" title="Schulungen"><span>Schulungen</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/support-lernen/downloads" target="_self" title="Downloads"><span>Downloads</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/support-lernen/reparaturen" target="_self" title="Reparaturen"><span>Reparaturen</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><p class="nav-title"><span>Support &amp; Lernen</span></p></li><li class="nav-item"><a class="nav-link" href="/support-lernen/support" title="Support"><strong class="d-block">Support</strong></a></li><li class="nav-item"><a class="nav-link" href="/support-lernen/schulungen" title="Schulungen"><strong class="d-block">Schulungen</strong></a></li><li class="nav-item"><a class="nav-link" href="/support-lernen/downloads" title="Downloads"><strong class="d-block">Downloads</strong></a></li><li class="nav-item"><a class="nav-link" href="/support-lernen/reparaturen" title="Reparaturen"><strong class="d-block">Reparaturen</strong></a></li></ul></li></ul></div></nav><nav class="nav " data-nav-container="unternehmen"><div class="nav-track"><ul class="" data-nav-level="0" data-nav-bcrumb-target="unternehmen"><li class="wrap px" style="--wrap: 1480px; gap: var(--gap);"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><p class="nav-title only-mobile" data-bcrumb-title="Unternehmen" href="/unternehmen" target="_self" title="Unternehmen"><span>Unternehmen</span></p><ul class="nav-columns col-1 small newnavcolumns only-mobile"><li class="nav-item"><a class="nav-link " href="/unternehmen/kontakt-standorte" target="_self" title="Kontakt &amp; Standorte"><span>Kontakt &amp; Standorte</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/referenzen" target="_self" title="Referenzen"><span>Referenzen</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/news" target="_self" title="News"><span>News</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/blog" target="_self" title="Blog"><span>Blog</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/events" target="_self" title="Events"><span>Events</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="https://shop.meteocontrol.com/de/" target="_self" title="mc Shop" rel="nofollow"><span>mc Shop</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/ueber-meteocontrol" target="_self" title="Über meteocontrol"><span>Über meteocontrol</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/mc-trust" target="_self" title="mc Trust"><span>mc Trust</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/datenschutz" target="_self" title="Datenschutz"><span>Datenschutz</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unternehmen/impressum" target="_self" title="Impressum"><span>Impressum</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><p class="nav-title"><span>Unternehmen</span></p></li><li class="nav-item"><a class="nav-link" href="/unternehmen/kontakt-standorte" title="Kontakt &amp; Standorte"><strong class="d-block">Kontakt &amp; Standorte</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/referenzen" title="Referenzen"><strong class="d-block">Referenzen</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/news" title="News"><strong class="d-block">News</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/blog" title="Blog"><strong class="d-block">Blog</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/events" title="Events"><strong class="d-block">Events</strong></a></li><li class="nav-item"><a class="nav-link" href="https://shop.meteocontrol.com/de/" title="mc Shop" rel="nofollow"><strong class="d-block">mc Shop</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/ueber-meteocontrol" title="Über meteocontrol"><strong class="d-block">Über meteocontrol</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/mc-trust" title="mc Trust"><strong class="d-block">mc Trust</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/datenschutz" title="Datenschutz"><strong class="d-block">Datenschutz</strong></a></li><li class="nav-item"><a class="nav-link" href="/unternehmen/impressum" title="Impressum"><strong class="d-block">Impressum</strong></a></li></ul></li></ul></div></nav><nav class="nav " data-nav-container="karriere"><div class="nav-track"><ul class="" data-nav-level="0" data-nav-bcrumb-target="karriere"><li class="wrap px" style="--wrap: 1480px; gap: var(--gap);"><div class="nav-item nav-back-holder"><div title="Zurück" class="nav-back" data-nav-trigger="root"><svg class="nav-icon d-block" width="20" height="20"><use href="#arrow-left"></use></svg><span>Zurück</span></div></div><p class="nav-title only-mobile" data-bcrumb-title="Karriere" href="/karriere" target="_self" title="Karriere"><span>Karriere</span></p><ul class="nav-columns col-1 small newnavcolumns only-mobile"><li class="nav-item"><a class="nav-link " href="/arbeiten-bei-meteocontrol" target="_self" title="Arbeiten bei meteocontrol"><span>Arbeiten bei meteocontrol</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/unsere-jobs" target="_self" title="Unsere Jobs"><span>Unsere Jobs</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li><li class="nav-item"><a class="nav-link " href="/karriere-faq" target="_self" title="Karriere FAQ"><span>Karriere FAQ</span><svg class="nav-icon d-block" width="20" height="20"></svg></a></li></ul><ul class="nav-columns col-1 small newnavcolumns only-desktop"><li><p class="nav-title"><span>Karriere</span></p></li><li class="nav-item"><a class="nav-link" href="/arbeiten-bei-meteocontrol" title="Arbeiten bei meteocontrol"><strong class="d-block">Arbeiten bei meteocontrol</strong></a></li><li class="nav-item"><a class="nav-link" href="/unsere-jobs" title="Unsere Jobs"><strong class="d-block">Unsere Jobs</strong></a></li><li class="nav-item"><a class="nav-link" href="/karriere-faq" title="Karriere FAQ"><strong class="d-block">Karriere FAQ</strong></a></li></ul></li></ul></div></nav></div></div></header><div class="header-holder"></div><div id="mobile-search"><div class="header_search is-focused"><div id="autocomplete-mobile"></div><a class="header_search-submit" href="/suche"><svg class="header_search-icon d-block" width="28" height="28"><use href="#i-search"></use></svg></a><div class="site-search-results-container js-results-container u-hide"><div id="ac-results-mobile"></div><a href="#" class="site-search-show-results btn-secondary js-show-results-button u-hide" data-text="all search results"></a></div></div></div>
+
+
+    
+
+<!--TYPO3SEARCH_begin-->
+
+
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+    
+<div id="c165" data-type="mask_media_slideshow" data-type="mask_media_slideshow" class="swiper-container slider-container home">
+    <div class="swiper-wrapper">
+        
+            
+                
+                    
+                        
+                                <div class="swiper-slide no-auto-play media_slideshow-slides-media">
+                                    
+                                    <picture class=" slider-image-regular">
+                                        <source
+                                                srcset="/fileadmin/_processed_/2/b/csm_web_header_startseite_neu_2025_b7739eb818.webp"
+                                                media="(max-width: 992px)"
+                                                type="image/webp">
+                                        <source
+                                                srcset="/fileadmin/_processed_/2/b/csm_web_header_startseite_neu_2025_8e17e192e3.jpg"
+                                                media="(max-width: 992px)"
+                                                type="image/jpeg">
+
+                                        <img class=""
+                                             src="/fileadmin/_processed_/2/b/csm_web_header_startseite_neu_2025_a1bebbed66.webp"
+                                             alt=""
+                                             title=""
+                                             fetchpriority="high"
+                                             itemprop="image"
+                                             width="1469"
+                                             height="639"
+
+                                        >
+                                    </picture>
+
+                                    
+                            
+
+
+                        
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h2 class="slider-title">Energie- und Assetmanagement</h2>
+                                        <p class="media_slideshow-slides-text">Intelligente Lösungen für Ihre Projekte</p>
+                                        
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        
+                        </div>
+                    
+                
+            
+        
+    </div>
+    <div id="slider-pagination" class="swiper-pagination slider-pagination"></div>
+</div>
+
+
+
+    
+
+
+        
+        <div id="content" class="site-content">
+            <div id="primary" class="content-area">
+                <main id="main" class="site-main" role="main">
+                    
+
+
+
+
+
+        <section id="c12353" data-type="mask_text_text_full" class="vb_mask">
+            <div class="container-fluid text_text_full sectionbg-1">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1 col-md-12">
+    
+<div class="row">
+    <div class="col-md-12">
+        
+        
+            <div class="section-header ">
+            <h2 class="text_headline-headline">Maximale Effizienz und volle Kontrolle für Ihre Anlagen im Bereich der erneuerbaren Energien</h2>
+                
+            </div>
+        
+        <div class="text_text_full-text">
+            <p>meteocontrol bietet herstellerunabhängige Lösungen für die Optimierung der Betriebsführung und Steuerung von erneuerbaren Energie- und Speichersystemen. Unser Angebot vereint technisches und finanzielles Assetmanagement, intelligentes Energiemanagement und unabhängige technische Beratung – maßgeschneidert für Ihre Anforderungen.</p>
+<p>Mit mehr als 25 Jahren Erfahrung sind wir Ihr zuverlässiger Partner, um Risiken zu minimieren und Ihre Investitionen nachhaltig profitabel zu gestalten. Unsere Lösungen geben Ihnen die Flexibilität und Kontrolle, die Sie brauchen, um das Beste aus Ihren Anlagen herauszuholen – von der Planung bis zum Betrieb.</p>
+        </div>
+        
+    </div>
+</div>
+
+        </div>
+        </div>
+        </div>
+        </section>
+    
+
+<!--<style nonce="fc-HiVdQ-xiJFAaBEPPu17LsNwDxFt09VHwLL90Y4m4q9g5oDs6dCw">.extbase-debugger-tree{position:relative}
+.extbase-debugger-tree summary{list-style:none;cursor:pointer;white-space:nowrap}
+.extbase-debugger-tree:has(>summary:target){outline:var(--typo3-debugger-outline,#101010) auto 1px;padding:3px}
+.extbase-debugger-tree :is(.extbase-debug-header)>*{vertical-align:top}
+.extbase-debugger-tree .extbase-debug-expander{position:relative;display:none;height:1em;aspect-ratio:1;margin:0 3px 0 0;vertical-align:-12%;cursor:pointer}
+.extbase-debugger-tree summary>.extbase-debug-expander{display:inline-block}
+.extbase-debugger-inner>details>summary>.extbase-debug-expander{display:none}
+.extbase-debugger-tree .extbase-debug-expander::before{content:"";position:absolute;inset:0;background-size:100%;display:inline-block;background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTIgMTIiIGZpbGw9IiM4ODgiPjxwYXRoIGQ9Ik0xMSwxMUgwVjBoMTFWMTF6IE0xMCwxSDF2OWg5VjF6Ii8+PHJlY3QgeD0iMiIgeT0iNSIgd2lkdGg9IjciIGhlaWdodD0iMSIvPjxyZWN0IHg9IjUiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjciLz48L3N2Zz4=)}
+.extbase-debugger-tree[open]>summary>.extbase-debug-expander::before{background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTIgMTIiIGZpbGw9IiM4ODgiPjxwYXRoIGQ9Ik0xMSwxMUgwVjBoMTFWMTF6IE0xMCwxSDF2OWg5VjF6Ii8+PHJlY3QgeD0iMiIgeT0iNSIgd2lkdGg9IjciIGhlaWdodD0iMSIvPjwvc3ZnPg==)}
+.extbase-debugger-tree .extbase-debug-content{padding-left:3ch}
+.extbase-debugger{display:block;text-align:left;background:var(--typo3-debugger-bg,#2a2a2a);border:1px solid var(--typo3-debugger-border-color,#2a2a2a);box-shadow:var(--typo3-debugger-box-shadow,0 3px 0 rgba(0,0,0,.5));margin:20px;overflow:hidden;border-radius:var(--typo3-debugger-border-radius,4px)}
+.extbase-debugger-floating{position:relative;z-index:99990}
+.extbase-debugger-top{background:var(--typo3-debugger-top-bg,#444);font-size:12px;font-family:monospace;color:var(--typo3-debugger-top-color,#f1f1f1);padding:6px 15px}
+.extbase-debugger-inner{overflow-x:auto}
+.extbase-debugger-center{padding:0 15px;margin:15px 0;background-image:repeating-linear-gradient(to bottom,transparent 0,transparent 20px,var(--typo3-debugger-bg-variant,#252525) 20px,var(--typo3-debugger-bg-variant,#252525) 40px);color:var(--typo3-debugger-color-variant,#999);word-wrap:break-word}
+.extbase-debugger-center,.extbase-debugger-center :is(.extbase-debug-string,a,p,pre,strong){font-size:12px;font-weight:400;font-family:monospace;line-height:20px;color:var(--typo3-debugger-color,#f1f1f1)}
+.extbase-debugger-center .extbase-debug-string-container{display:inline-block}
+.extbase-debugger-center :is(.extbase-debug-filtered,.extbase-debug-proxy,.extbase-debug-ptype,.extbase-debug-visibility,.extbase-debug-uninitialized,.extbase-debug-scope,.extbase-debug-dirty){color:#fff;font-size:10px;line-height:18px;padding:2px 4px;margin-right:2px}
+.extbase-debugger-center .extbase-debug-unregistered{background-color:var(--typo3-debugger-unregistered-bg,#dce1e8)}
+.extbase-debugger-center .extbase-debug-scope{background-color:var(--typo3-debugger-scope-bg,#497AA2)}
+.extbase-debugger-center .extbase-debug-ptype{background-color:var(--typo3-debugger-ptype-bg,#698747)}
+.extbase-debugger-center .extbase-debug-visibility{background-color:var(--typo3-debugger-visibility-bg,#6c0787)}
+.extbase-debugger-center .extbase-debug-uninitialized{background-color:var(--typo3-debugger-uninitializedy-bg,#698747)}
+.extbase-debugger-center .extbase-debug-dirty{background-color:var(--typo3-debugger-dirty-bg,#664d00)}
+.extbase-debugger-center .extbase-debug-filtered{background-color:var(--typo3-debugger-filtered-bg,#664d00)}
+.extbase-debugger-center .extbase-debug-string{color:var(--typo3-debugger-string-color,#ce9178);white-space:normal}
+.extbase-debugger-center .extbase-debug-type{color:var(--typo3-debugger-type-color,#569CD6);padding-right:4px}
+.extbase-debugger-center .extbase-debug-closure{color:var(--typo3-debugger-closure-color,#9BA223);white-space:pre}
+.extbase-debugger-center .extbase-debug-property{color:var(--typo3-debugger-property-color,#f1f1f1)}
+.extbase-debugger-center .extbase-debug-seeabove{display:block;text-decoration:none;font-style:italic}</style><div class="extbase-debugger extbase-debugger-inline"><div class="extbase-debugger-top">Extbase Variable Dump</div><div class="extbase-debugger-center"><div class="extbase-debugger-inner"><div class="extbase-debug-header">0 (integer)</div></div></div></div>-->
+<!-- data.layout
+    0 = default
+    1 = white background
+    2 = lightgrey background
+    3 = lightyellow background
+    4 = lightblue background
+    5 = blue background
+ -->
+<!-- data.space_after_class
+    default
+    extra-small
+    small
+    medium
+    large
+    extra-large
+ -->
+
+        
+    
+
+
+        
+    
+
+<section id="c25915" class="section blueblocks default pt-7 pb-7">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 col-md-12">
+                
+                    
+
+                    <div class="section-header">
+                        <h2 class="text_headline-headline">Für Visionäre der Energiewende</h2>
+                        
+                    </div>
+                
+                <div class="row">
+                    <div class="col-md-4 offset-md-0 col-sm-8 offset-sm-2">
+                        
+                            
+
+
+
+
+
+            <div id="c25916" data-type="mask_text_media_teaser" class="row">
+                <div class="col-md-12 phabletp0">
+
+    
+
+<a href="/anwendungen/assetmanager-om" rel="bookmark noopener">
+    <div class="blueblock" data-mh="blueblock">
+    
+        <div class="blueblock-image" style="background-image: url('/fileadmin/Daten/Bilder/0_Startseite/Teaser/web_teaser_assetmanager.jpg');"></div>
+    
+    <div class="blueblock-content">
+        <h3 class="blueblock-headline">Assetmanager, O&amp;M</h3>
+        
+        
+            <div class="blueblock-link textcolor-dark "></div>
+        
+    </div>
+</div>
+</a>
+
+
+        </div>
+        </div>
+
+    
+
+
+                        
+                    </div>
+                    <div class="col-md-4 offset-md-0 col-sm-8 offset-sm-2">
+                        
+                            
+
+
+
+
+
+            <div id="c25917" data-type="mask_text_media_teaser" class="row">
+                <div class="col-md-12 phabletp0">
+
+    
+
+<a href="/anwendungen/projektentwickler-epc" rel="bookmark noopener">
+    <div class="blueblock" data-mh="blueblock">
+    
+        <div class="blueblock-image" style="background-image: url('/fileadmin/Daten/Bilder/0_Startseite/Teaser/web_teaser_epc.jpg');"></div>
+    
+    <div class="blueblock-content">
+        <h3 class="blueblock-headline">Projektentwickler, EPC</h3>
+        
+        
+            <div class="blueblock-link textcolor-dark "></div>
+        
+    </div>
+</div>
+</a>
+
+
+        </div>
+        </div>
+
+    
+
+
+                        
+                    </div>
+                    <div class="col-md-4 offset-md-0 col-sm-8 offset-sm-2">
+                        
+                            
+
+
+
+
+
+            <div id="c25918" data-type="mask_text_media_teaser" class="row">
+                <div class="col-md-12 phabletp0">
+
+    
+
+<a href="/anwendungen/energiehaendler-ipp" rel="bookmark noopener">
+    <div class="blueblock" data-mh="blueblock">
+    
+        <div class="blueblock-image" style="background-image: url('/fileadmin/Daten/Bilder/0_Startseite/Teaser/web_teaser_energytrader.jpg');"></div>
+    
+    <div class="blueblock-content">
+        <h3 class="blueblock-headline">Energiehändler, IPP</h3>
+        
+        
+            <div class="blueblock-link textcolor-dark "></div>
+        
+    </div>
+</div>
+</a>
+
+
+        </div>
+        </div>
+
+    
+
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+        <section id="c25919" data-type="mask_text_text_full" class="vb_mask">
+            <div class="container-fluid text_text_full sectionbg-0">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1 col-md-12">
+    
+<div class="row">
+    <div class="col-md-12">
+        
+        
+            <div class="section-header ">
+            <h2 class="text_headline-headline">Alles aus einer Hand</h2>
+                
+            </div>
+        
+        <div class="text_text_full-text">
+            <p><span style="color:rgb(0,152,219);">Technisches und finanzielles Assetmanagement:</span> Effizienz in Prozessen und Betriebsführung steigern, zeitraubende Aufgaben digitalisieren, Verträge einfacher verwalten und den Cashflow stets im Blick behalten – mit unserer Software für technische und kaufmännische Betriebsführung.</p>
+<p><span style="color:rgb(0,152,219);">Zukunftssicheres Energiemanagementsystem:</span> Unsere zertifizierte Hardware passt sich flexibel an Ihre Anforderungen an und lässt sich stets erweitern – für Monitoring, Parkregelung oder als hybrides Energiemanagementsystem für Ihr erneuerbares Energie- und Speichersystem. Unser Team unterstützt Sie von Anfang an und setzt verschiedenste Vorgaben von Netzbetreibern weltweit um. &nbsp;</p>
+<p><span style="color:rgb(0,152,219);">Engineering Services<strong>:</strong></span> Wir begleiten Sie von der Planung über die Abstimmung mit den wichtigsten Projektbeteiligten bis zur Umsetzung und Netzintegration. So stellen wir sicher, dass Ihr Projekt erfolgreich ans Netz angeschlossen wird.</p>
+<p><span style="color:rgb(0,152,219);">Unabhängige technische Beratung:</span> Von der Planung über den Bau bis zum Betrieb und Repowering – meteocontrol unterstützt Sie weltweit als unabhängiger, technischer Berater in allen Phasen Ihrer PV-Projekte im B2B Bereich.&nbsp;</p>
+        </div>
+        
+    </div>
+</div>
+
+        </div>
+        </div>
+        </div>
+        </section>
+    
+
+<div id="c25921" data-type="mask_icon_teasers" class="highlights">
+    <div class="container-fluid text_text_full sectionbg-1">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 col-md-12">
+                
+
+                
+                    <ul class="highlights-list">
+                        
+                            <li class="text-center">
+                                
+                                    <a href="/anwendungen/assetmanagement">
+                                        
+                                            <div class="highlights-icon">
+                                                
+                                                <img class="d-block mx-auto" src="/fileadmin/Daten/Bilder/Icons/mc_assetmanagement.svg" width="200" height="120" alt="" />
+                                            </div>
+                                        
+
+                                        
+                                            <span>Assetmanagement</span>
+                                        
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="text-center">
+                                
+                                    <a href="/anwendungen/parkregelung-energiehandel">
+                                        
+                                            <div class="highlights-icon">
+                                                
+                                                <img class="d-block mx-auto" src="/fileadmin/Daten/Bilder/Icons/mc_energymanagement.svg" width="200" height="120" alt="" />
+                                            </div>
+                                        
+
+                                        
+                                            <span>Parkregelung & Energiehandel</span>
+                                        
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="text-center">
+                                
+                                    <a href="/anwendungen/commercial-industrial">
+                                        
+                                            <div class="highlights-icon">
+                                                
+                                                <img class="d-block mx-auto" src="/fileadmin/Daten/Bilder/Icons/mc_ci.svg" width="200" height="120" alt="" />
+                                            </div>
+                                        
+
+                                        
+                                            <span>Commercial & Industrial (C&I)</span>
+                                        
+                                    </a>
+                                
+                            </li>
+                        
+                            <li class="text-center">
+                                
+                                    <a href="/anwendungen/utility-scale">
+                                        
+                                            <div class="highlights-icon">
+                                                
+                                                <img class="d-block mx-auto" src="/fileadmin/Daten/Bilder/Icons/mc_utilityscale.svg" width="200" height="120" alt="" />
+                                            </div>
+                                        
+
+                                        
+                                            <span>Utility Scale</span>
+                                        
+                                    </a>
+                                
+                            </li>
+                        
+                    </ul>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+    
+
+        
+    
+
+
+        <section id="c25922" data-type="mask_text_headline" class="vb_mask text_headline">
+            <div class="container-fluid sectionbg-0 pt-7 pb-7">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1 col-md-12">
+    
+        
+                <h2 class="text_headline-headline">Entdecken Sie unsere Produktneuheiten</h2>
+            
+            
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+
+
+
+
+
+
+
+        
+    
+
+
+        <section class="section txtimgblock">
+            <div id="c25270" data-type="mask_text_media_split" class="container-fluid txtimgblock-background">
+                <div class="row">
+                    
+                    
+                        <div class="col-md-6 push-md-6 p0" data-mh="twoblocks">
+                            <div class="swiper-container textmedia-slider-container c25270">
+                                <div class="swiper-wrapper">
+                                    
+                                        <div class="swiper-slide">
+                                            
+                                                    <div class="txtimgblock-image">
+                                                        <img class="new-image" style="object-fit: cover" src="/fileadmin/Daten/Bilder/0_Startseite/Teaser/mc_website_assetpilot_teaser_brightgradient.png">
+                                                    </div>
+                                                
+                                            
+                                        </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-6 pull-md-6 txtimgblock-content " data-mh="twoblocks">
+                    
+
+                    
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                            
+                                <h3 class="txtimgblock-headline">
+                                    mc Assetpilot
+                                </h3>
+                                <br/>
+                            
+
+                            
+                                <div class="txtimgblock-text">
+                                    <p>Unsere Cloud-basierte Software für das professionelle Finanzmanagement von Anlagen und Portfolios im Bereich der erneuerbaren Energien. Die einzigartige Kombination von Funktionen ermöglicht es Ihnen, Ihre Effizienz deutlich zu steigern und Ihr Tagesgeschäft zu optimieren.&nbsp;</p>
+                                </div>
+                            
+
+                            
+                                <a href="/produkte/cloud/mc-assetpilot" class="txtimgblock-link blue mc-btn">
+                                    Mehr erfahren
+                                </a>
+                                <br/>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+    
+
+
+
+
+
+
+
+        
+    
+
+
+        <section class="section txtimgblock">
+            <div id="c2811" data-type="mask_text_media_split" class="container-fluid txtimgblock-background">
+                <div class="row">
+                    
+                        
+                            <div class="col-md-6 p0" data-mh="twoblocks">
+                                <div class="swiper-container textmedia-slider-container c2811">
+                                    <div class="swiper-wrapper">
+                                        
+                                            <div class="swiper-slide">
+                                                
+                                                        <div class="txtimgblock-image">
+                                                            <img class="new-image" style="object-fit: cover" src="/fileadmin/Daten/Bilder/0_Startseite/Teaser/mc_website_hybridems_teaser_brightgradient.png">
+                                                        </div>
+                                                    
+                                                
+                                            </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        
+                        <div class="col-md-6 txtimgblock-content " data-mh="twoblocks">
+                    
+                    
+
+                    
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                            
+                                <h3 class="txtimgblock-headline">
+                                    Hybrid EMS
+                                </h3>
+                                <br/>
+                            
+
+                            
+                                <div class="txtimgblock-text">
+                                    <p>Unsere Lösung für erneuerbare Energie- und Speichersysteme. Das Hybrid EMS orchestriert Ihren Energiefluss und sorgt für eine nahtlose Integration Ihrer Systeme.</p>
+                                </div>
+                            
+
+                            
+                                <a href="/produkte/on-site/hybrid-ems" class="txtimgblock-link blue mc-btn">
+                                    Mehr erfahren
+                                </a>
+                                <br/>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+    
+
+
+
+
+
+
+
+        
+    
+
+
+        <section class="section txtimgblock">
+            <div id="c3079" data-type="mask_text_media_split" class="container-fluid txtimgblock-background">
+                <div class="row">
+                    
+                    
+                        <div class="col-md-6 push-md-6 p0" data-mh="twoblocks">
+                            <div class="swiper-container textmedia-slider-container c3079">
+                                <div class="swiper-wrapper">
+                                    
+                                        <div class="swiper-slide">
+                                            
+                                                    <div class="txtimgblock-image">
+                                                        <img class="new-image" style="object-fit: cover" src="/fileadmin/Daten/Bilder/0_Startseite/Teaser/mc_website_allproducts_teaser_bluegradient.png">
+                                                    </div>
+                                                
+                                            
+                                        </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-6 pull-md-6 txtimgblock-content " data-mh="twoblocks">
+                    
+
+                    
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                            
+                                <h3 class="txtimgblock-headline">
+                                    Alle Produkte im Überblick
+                                </h3>
+                                <br/>
+                            
+
+                            
+                                <div class="txtimgblock-text">
+                                    <p>Alle <a href="/produkte/cloud">Cloud</a> und alle <a href="/produkte/on-site">On-Site</a> Produkte in der Übersicht.</p>
+                                </div>
+                            
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+    
+
+
+
+
+
+<div id="counters">
+  <div id="c2820" data-type="mask_key_indicators" class="container">
+    <div class="row">
+      
+      <div class="col-md-12">
+        <div class="row">
+          
+          <div class="col-sm-4">
+            <div class="counter">
+              <div class="counter-number">
+                <div class="counter-value" data-count="25">25</div>
+                
+                  
+                    <div class="counter-img" style="background-image:url('/fileadmin/Daten/Bilder/Icons/Erfahrung.svg')"></div>
+                  
+                
+
+
+              </div>
+              
+                <div class="counter-desc">
+                  <h2>Jahre Erfahrung</h2>
+                </div>
+              
+            </div>
+          </div>
+          
+          <div class="col-sm-4">
+            <div class="counter">
+              <div class="counter-number">
+                <div class="counter-value" data-count="50">50</div>
+                
+                  
+                    <div class="counter-img" style="background-image:url('/fileadmin/Daten/Bilder/Icons/PV.svg')"></div>
+                  
+                
+
+
+              </div>
+              
+                <div class="counter-desc">
+                  <h2>GWp überwachte Leistung<br><strong>75.000</strong> überwachte PV-Anlagen</h2>
+                </div>
+              
+            </div>
+          </div>
+          
+          <div class="col-sm-4">
+            <div class="counter">
+              <div class="counter-number">
+                <div class="counter-value" data-count="12">12</div>
+                
+                  
+                    <div class="counter-img" style="background-image:url('/fileadmin/Daten/Bilder/Icons/Standorte.svg')"></div>
+                  
+                
+
+
+              </div>
+              
+                <div class="counter-desc">
+                  <h2>Standorte weltweit</h2>
+                </div>
+              
+            </div>
+          </div>
+          
+          <!--<div class="col-sm-4">
+            <div class="counter">
+              <div class="counter-number">
+                <div class="counter-value" data-count="43000">43.000</div>
+                <div class="counter-img counter-img-2"></div>
+              </div>
+              <div class="counter-desc">�berwachte PV-Anlangen, <span>12 GWp</span> �berwachte Leistung</div>
+            </div>
+          </div>-->
+
+        </div>
+      </div>
+    </div>
+    
+      <div class="row">
+        <div class="key-button">
+      <a href="/unternehmen/ueber-meteocontrol" class="txtimgblock-link mc-btn">
+        
+          mehr über meteocontrol
+          
+      </a><br />
+        </div>
+      </div>
+    
+
+  </div>
+</div>
+
+
+
+
+
+<section id="c25923" data-type="mask_references_list" class="vb_mask ref_teaser">
+    <div class="container-fluid sectionbg-0">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 col-md-12">
+
+                
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="section-header">
+                                <h2 class="text_headline-headline">Referenzen: Unsere Produkte im Einsatz</h2>
+                            </div>
+                        </div>
+                    </div>
+                
+                
+                    <div class="row">
+                        
+                            <div class="col-md-4">
+                                <div class="ref-item">
+                                    
+                                            <a href="/unternehmen/referenzen/solarpark-fledderbosch">
+                                                
+                                                    
+                                                        <img class="ref-image" src="/fileadmin/Daten/Bilder/4_Unternehmen/5_Referenzen/06-24_Solarpark_Fledderbosch_DJI_0923_Screen.jpg" width="1920" height="1080" alt="" />
+                                                    
+                                                
+                                                <div class="ref-caption">
+                                                <h3>Utility scale Projekt: Solarpark Fledderbosch
+                                                    
+                                                </h3>
+                                               
+                                                    <div>
+                                                        
+                                                        Niederlande
+                                                    </div>
+                                                
+                                                </div>
+                                            </a>
+                                        
+                                </div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                <div class="ref-item">
+                                    
+                                            <a href="/unternehmen/referenzen/lumen-park-szolnok">
+                                                
+                                                    
+                                                        <img class="ref-image" src="/fileadmin/Daten/Bilder/4_Unternehmen/5_Referenzen/4_new.png" width="1024" height="639" alt="" />
+                                                    
+                                                
+                                                <div class="ref-caption">
+                                                <h3>Lumen Park Szolnok
+                                                    
+                                                </h3>
+                                               
+                                                    <div>
+                                                        
+                                                        Ungarn
+                                                    </div>
+                                                
+                                                </div>
+                                            </a>
+                                        
+                                </div>
+                            </div>
+                        
+                            <div class="col-md-4">
+                                <div class="ref-item">
+                                    
+                                            <a href="/unternehmen/referenzen/buergersolarpark-bundorf-125-mwp">
+                                                
+                                                    
+                                                        <img class="ref-image" src="/fileadmin/Daten/Bilder/4_Unternehmen/5_Referenzen/reference_picture_maxsolar_bundorf.JPG" width="1920" height="1440" alt="" />
+                                                    
+                                                
+                                                <div class="ref-caption">
+                                                <h3>Bürgersolarpark Bundorf 125 MWp – eine der größten Anlagen Deutschlands
+                                                    
+                                                </h3>
+                                               
+                                                    <div>
+                                                        
+                                                        Deutschland
+                                                    </div>
+                                                
+                                                </div>
+                                            </a>
+                                        
+                                </div>
+                            </div>
+                        
+                    </div>
+                    
+                        <a href="/unternehmen/referenzen" class="txtimgblock-link mc-btn">
+                            Mehr erfahren
+                        </a>
+                        <br/>
+                    
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="c25920" data-type="mask_vcom_teaser" class="bookdemo">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 col-md-12">
+                <div class="bookdemo-content">
+                    
+                        <h2 class="bookdemo-title m0">VCOM Live-Demo anfragen</h2>
+                    
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="221" height="129" viewBox="0 0 585.22 555" fill="none">
+                        <defs>
+                            <linearGradient id="vcom-white-grad-81" x1="212.84" y1="158.42" x2="147.79" y2="401.21" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient>
+                            <linearGradient id="vcom-white-grad-41" x1="449.42" y1="204.17" x2="358.93" y2="354.77" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".29" stop-color="#fff" stop-opacity=".61"/><stop offset=".44" stop-color="#fff" stop-opacity=".66"/><stop offset=".58" stop-color="#fff" stop-opacity=".73"/><stop offset=".72" stop-color="#fff" stop-opacity=".83"/><stop offset=".86" stop-color="#fff" stop-opacity=".96"/><stop offset=".89" stop-color="#fff"/></linearGradient>
+                            <linearGradient id="vcom-white-grad-88" x1="328.85" y1="379.33" x2="326.68" y2="255.31" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient>
+                            <linearGradient id="vcom-white-grad-44" x1="268.78" y1="223.16" x2="251.71" y2="176.26" gradientUnits="userSpaceOnUse"><stop offset=".13" stop-color="#fff" stop-opacity=".6"/><stop offset=".36" stop-color="#fff" stop-opacity=".76"/><stop offset=".58" stop-color="#fff" stop-opacity=".89"/><stop offset=".77" stop-color="#fff" stop-opacity=".97"/><stop offset=".89" stop-color="#fff"/></linearGradient>
+                        </defs>
+                        <path d="M87.75 125.83c20.95.13 35.76 24.28 47.54 41.61l131.08 189.98c11.56 17.06 32.28 25.43 52.44 21.18l4.05-.85-27.24 44.43c-4.91 8-13.87 12.76-23.23 11.95-8.49-.73-16.59-5.15-21.74-12.75L52.79 125.83h34.96Z" fill="url(#vcom-white-grad-81)"/>
+                        <path d="M496.76 431c-13.41.08-26.14-7.21-34.05-18.04L316.51 203.32c-14.09-18.78-45.29-33.67-67.45-25.94l-3.69 1.29 35.5-46.77c11.09-14.7 33.16-14.73 44.29-.05L532.5 431h-35.74Z" fill="url(#vcom-white-grad-41)"/>
+                        <path d="m380.18 294.67-27.76-39.8-76.59 113.01c11.74 9.81 27.52 13.98 42.98 10.72l4.05-.85 57.32-83.07Z" fill="url(#vcom-white-grad-88)"/>
+                        <path d="M248.98 177.31l-3.69 1.29-24.24 31.67c-.05.07-.05.16 0 .23c13.41 21.25 43.97 22.43 58.98 2.27l18.8-25.53c-15.26-9.91-34.67-15.22-49.85-9.93Z" fill="url(#vcom-white-grad-44)"/>
+                    </svg>
+
+                    
+                        <div class="bookdemo-buttons">
+                            
+                                
+                                    <a href="/produkte/cloud/vcom-cloud/vcom-demo" class="bookdemo-button white">
+                                        
+                                            Demo anfragen
+                                        
+                                    </a>
+                                
+                            
+                                
+                                    <a href="/produkte/cloud/vcom-cloud" class="bookdemo-button blue">
+                                        
+                                            Mehr über VCOM Cloud
+                                        
+                                    </a>
+                                
+                            
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+    <div id="c2822" data-type="mask_logowall_slider" class="container sectionbg-0">
+        <div class="row">
+            
+                <div class="col-md-12">
+                    <div class="section-header">
+                        <h2 class="text_headline-headline">
+                            Unsere Kunden
+                        </h2>
+                    </div>
+                </div>
+            
+
+            <div class="col-md-12">
+                <div class="clearfix"></div>
+                <div class="swiper-container multislides-container">
+                    <div class="swiper-wrapper">
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/d/1/csm_logo_allsun_1828ebab82.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/9/f/csm_logo_alectron_dc5c1931c2.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/7/f/csm_logo_apollon_2c6554e3a8.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/8/e/csm_logo_baywa_41b8ca24a1.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/e/2/csm_logo_ecoligo_4a76266b99.jpg" width="240" height="147" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/logo_bolay.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/6/a/csm_logo_ener24_legendere-energie_5c358f63a7.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/logo_enerparc.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/8/3/csm_sens_ce38066472.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/0/4/csm_logo_goldbecksolar_343483d747.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/c/9/csm_IBC_SOLAR-Logo-RGB_68bcbc0cd0.jpg" width="240" height="215" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/7/2/csm_Chint_new_54fa0d0d6f.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/2/6/csm_belectric_neu_3b53c5a28c.png" width="240" height="150" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/4/1/csm_memodo_logo_7fb3e3547c.png" width="240" height="135" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" title="Peakplan_logo" src="/fileadmin/_processed_/3/3/csm_peakplan_logo_6bce9e336c.png" width="240" height="135" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/b/8/csm_Obton_neu_e85a4e6bf1.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/6/9/csm_max_neu_9ee8b9e7bb.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/2/c/csm_Ledico_57ce42f39a.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/7/2/csm_logo_innovent_ddfb38f698.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/c/3/csm_logo_juwi_c442f12f05.png" width="240" height="100" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/9/c/csm_logo_pfalzsolar_9ab47a7aeb.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo Raising Power" title="logo Raising Power" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/logo_raising_power.jpg" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/3/3/csm_logo_scatec-solar_462bef3a91.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/5/3/csm_logo_soventix_1260423534.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/b/a/csm_logo_sternenergy_9fe889dca1.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/6/2/csm_Logo_VS_424953c290.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/c/b/csm_logo_FEH_9cb438b44a.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo innova capital" title="logo innova capital" src="/fileadmin/_processed_/9/9/csm_logo_innova_capital_7125674294.png" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/Logo_350x23px.png" width="151" height="24" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo rp global" title="logo rp global" src="/fileadmin/_processed_/1/8/csm_logo_rp_global_2b3cc8e7ec.png" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo CDES services" title="logo CDES services" src="/fileadmin/_processed_/b/9/csm_logo_CDES_services_a2fda50d6e.png" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo ecoprime" title="logo ecoprime" src="/fileadmin/_processed_/2/f/csm_logo_ecoprime_483ab08605.jpg" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" alt="logo yellow door energy" title="logo yellow door energy" src="/fileadmin/_processed_/9/8/csm_logo_YDE_c8943359bd.jpg" width="240" height="148" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/4/7/csm_logo_albioma_komprimiert_5c6a96c436.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/9/0/csm_logo_hornet_energies_6858dcf32c.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/d/0/csm_logo_edf_enr_1278db1503.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/5/c/csm_logo_seolis_b037a649fc.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/4/5/csm_Celsia-Horizonal-Eslogan_Jpg_fe51a5874b.jpg" width="240" height="121" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/d/a/csm_logo_enovos_0ebcd6a4f7.jpg" width="240" height="147" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/f/d/csm_MET_logo_sotetkek_1aed37321c.png" width="240" height="131" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/b/c/csm_GM3000_Hintergrund_weiss_76b09eb867.jpg" width="240" height="88" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/3/d/csm_logo_ecosys_6d5a6797a3.jpg" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/a/e/csm_hopsol_260x160_new_eed3bc41c2.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/9/7/csm_pv-sos.de.logo_886293ee24.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/8/8/csm_ingenia_neu_17c6a6b6ed.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/f/a/csm_reservoir_neu_e3bc3ebffd.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/0/c/csm_egrega_new_8dfb94604a.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/c/a/csm_nampower_new_455a954609.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/d/0/csm_Unbenannt_7a091ebea8.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/MUENCH-ENERGIE-Logo_RGB.png" width="240" height="167" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/1/c/csm_Endihs_new_logo_66041f36f1.png" width="240" height="148" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/5/1/csm_EE_Horizontal_DarkGreen_9a47e5169a.png" width="240" height="65" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/_processed_/b/7/csm_sg_logo_standard_rgb_100mm_e2d1b7d1bd.jpg" width="240" height="59" alt="" />
+                                    
+                            </div>
+                        
+                            <div class="swiper-slide">
+                                
+                                        <img class="img-fluid" src="/fileadmin/Daten/Bilder/0_Startseite/Logos_Partner/ENERTRAG_Logo_without_Claim_color_rgb.svg" width="240" height="170" alt="" />
+                                    
+                            </div>
+                        
+                        <!--<div class="swiper-slide"><img src="https://www.logogarden.com/wp-content/uploads/lg-logo-samples/Sports-Fitness-Logo-1.png"></div>-->
+                    </div>
+                    
+                </div>
+                <div class="swiper-button-prev multislides-button-prev">
+                    <svg id="i-chevron-left" viewBox="0 0 14 32" width="28" height="64" fill="none" stroke="currentcolor" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1">
+                        <path d="M2 30 L12 16 2 2" />
+                    </svg>
+                </div>
+                <div class="swiper-button-next multislides-button-next">
+                    <svg id="i-chevron-right" viewBox="0 0 14 32" width="28" height="64" fill="none" stroke="currentcolor" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1">
+                        <path d="M2 30 L12 16 2 2" />
+                    </svg>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+        
+    
+
+
+        <section class="section txtimgblock">
+            <div id="c3080" data-type="mask_text_media_split" class="container-fluid txtimgblock-background">
+                <div class="row">
+                    
+                        
+                            <div class="col-md-6 p0" data-mh="twoblocks">
+                                <div class="swiper-container textmedia-slider-container c3080">
+                                    <div class="swiper-wrapper">
+                                        
+                                            <div class="swiper-slide">
+                                                
+                                                        <a class="txtimgblock-image image-zoom" href="/fileadmin/Daten/Bilder/0_Startseite/Teaser/Teaser_Career_at_meteocontrol.png">
+                                                            <img class="new-image" style="object-fit: cover" src="/fileadmin/Daten/Bilder/0_Startseite/Teaser/Teaser_Career_at_meteocontrol.png">
+                                                        </a>
+                                                    
+                                                
+                                            </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        
+                        <div class="col-md-6 txtimgblock-content " data-mh="twoblocks">
+                    
+                    
+
+                    
+                    <div class="row">
+                        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                            
+                                <h3 class="txtimgblock-headline">
+                                    Dein Job bei meteocontrol
+                                </h3>
+                                <br/>
+                            
+
+                            
+                                <div class="txtimgblock-text">
+                                    <p>Für meteocontrol zu arbeiten, bedeutet 100% erneuerbare Energie zu ermöglichen und eine nachhaltige Zukunft weltweit zu gestalten. Willst du mit deinem Know-how und deiner Persönlichkeit etwas bewirken und in spannenden Projekten mit unseren Kolleg:innen fachlich und persönlich wachsen?&nbsp;Starte jetzt deine Karriere bei meteocontrol. Wir freuen uns auf dich!</p>
+                                </div>
+                            
+
+                            
+                                <a href="/unsere-jobs" class="txtimgblock-link blue mc-btn">
+                                    Unsere Jobs
+                                </a>
+                                <br/>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+    
+
+
+<div id="c440" class="container-fluid space-before-medium space-after-default"><header><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h2 class="text_headline-headline"><a href="/unternehmen/news">News</a></h2></div><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h3 class="text_headline-subheadline" style="margin-top: 2rem;"></h3></div></header><div class="news sectionbg-0"><!--TYPO3SEARCH_end--><section class="section"><div class="container"><div class="row articles"><div class="col-md-12"><!--
+	=====================
+		Partials/List/Item.html
+--><div class="row news-list-item"><div class="col-md-12"><div class="news-item articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article" style="margin-bottom: 0"><div class="row"><div class="col-md-5"><a title="meteocontrol launcht bluelog Neo: Neue Plattform für die Steuerung und Überwachung erneuerbarer Energieinfrastruktur" href="/unternehmen/news/detail/meteocontrol-launcht-bluelog-neo-neue-plattform-fuer-die-steuerung-und-ueberwachung-erneuerbarer-energieinfrastruktur"><img class="news-img img-fluid w100" src="/fileadmin/Daten/Bilder/4_Unternehmen/3_Presse/2026/The_smarter_E_2026_bluelog_Neo.jpg" width="1280" height="800" alt="" /></a></div><div class="col-md-7"><div class="news-date"><time datetime="2026-06-23">
+                            Dienstag, 23. Juni 2026
+                            <meta itemprop="datePublished" content="2026-06-23" /></time></div><h2 class="news-title"><a title="meteocontrol launcht bluelog Neo: Neue Plattform für die Steuerung und Überwachung erneuerbarer Energieinfrastruktur" href="/unternehmen/news/detail/meteocontrol-launcht-bluelog-neo-neue-plattform-fuer-die-steuerung-und-ueberwachung-erneuerbarer-energieinfrastruktur"><span itemprop="headline">meteocontrol launcht bluelog Neo: Neue Plattform für die Steuerung und Überwachung erneuerbarer Energieinfrastruktur</span></a></h2><div class="news-teaser"><!-- teaser --><div itemprop="description"><p>Hohe Rechenleistung, integrierte Cybersicherheit und flexible Softwarelizenzen für den Betrieb zunehmend komplexer erneuerbarer Energieanlagen.</p></div></div><a class="news-button mc-btn" title="meteocontrol launcht bluelog Neo: Neue Plattform für die Steuerung und Überwachung erneuerbarer Energieinfrastruktur" style="margin-bottom: 0; margin-top: 15px; float: left;" href="/unternehmen/news/detail/meteocontrol-launcht-bluelog-neo-neue-plattform-fuer-die-steuerung-und-ueberwachung-erneuerbarer-energieinfrastruktur">
+                        Mehr erfahren
+                    </a></div></div></div></div></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="row news-list-item"><div class="col-md-12"><div class="news-item articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article" style="margin-bottom: 0"><div class="row"><div class="col-md-5"><a title="Neue Generation intelligenter Anlagensteuerung: meteocontrol stellt Neo erstmals auf der The smarter E Europe vor" href="/unternehmen/news/detail/neue-generation-intelligenter-anlagensteuerung-meteocontrol-stellt-neo-erstmals-auf-der-the-smarter-e-europe-vor"><img class="news-img img-fluid w100" src="/fileadmin/Daten/Bilder/4_Unternehmen/3_Presse/2026/Press_release_meteocontrol_at_The_smarter_E_2026.jpg" width="1280" height="800" alt="" /></a></div><div class="col-md-7"><div class="news-date"><time datetime="2026-06-17">
+                            Mittwoch, 17. Juni 2026
+                            <meta itemprop="datePublished" content="2026-06-17" /></time></div><h2 class="news-title"><a title="Neue Generation intelligenter Anlagensteuerung: meteocontrol stellt Neo erstmals auf der The smarter E Europe vor" href="/unternehmen/news/detail/neue-generation-intelligenter-anlagensteuerung-meteocontrol-stellt-neo-erstmals-auf-der-the-smarter-e-europe-vor"><span itemprop="headline">Neue Generation intelligenter Anlagensteuerung: meteocontrol stellt Neo erstmals auf der The smarter E Europe vor</span></a></h2><div class="news-teaser"><!-- teaser --><div itemprop="description"><p>Neue Plattform für intelligente Steuerung und Monitoring von PV-, Batterie- und Hybridanlagen / Launch Event am 23. Juni um 11:00 Uhr an Stand B5.210</p></div></div><a class="news-button mc-btn" title="Neue Generation intelligenter Anlagensteuerung: meteocontrol stellt Neo erstmals auf der The smarter E Europe vor" style="margin-bottom: 0; margin-top: 15px; float: left;" href="/unternehmen/news/detail/neue-generation-intelligenter-anlagensteuerung-meteocontrol-stellt-neo-erstmals-auf-der-the-smarter-e-europe-vor">
+                        Mehr erfahren
+                    </a></div></div></div></div></div></div></div><div class="all-button-wrap"><a href="/unternehmen/news" type="button" title="all-news" class="txtimgblock-link mc-btn">Alle News</a></div></div></section><!--TYPO3SEARCH_begin--></div></div>
+
+
+                </main>
+            </div>
+            <div id="secondary" class="contact-area">
+                <div id="contact-block" class="contact-block">
+                    
+                </div>
+            </div>
+        </div>
+    
+<!--TYPO3SEARCH_end-->
+<div class="to-top">
+    <svg id="i-chevron-top" viewBox="0 0 32 32" width="26" height="26" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <path d="M30 20 L16 8 2 20"/>
+    </svg>
+</div>
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+    <aside class="widget-area" role="complementary">
+        <div class="container" style="position: relative;">
+            <div class="row">
+                <div class="col-lg-4 col-sm-6">
+                    
+<div id="c215" class="frame frame-default frame-type-text frame-layout-0"><header><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h4 class="text_headline-headline">Kontaktdaten</h4></div><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h5 class="text_headline-subheadline" style="margin-top: 1rem;"></h5></div></header><p>Augsburg Headquarters<br>meteocontrol GmbH<br>Pröllstr. 28<br>86157 Augsburg</p><p>Telefon +49 821 34666-0<br>E-Mail&nbsp; &nbsp;<a href="mailto:info@meteocontrol.com">info@meteocontrol.com</a></p></div>
+
+
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    
+<div id="c294" class="frame frame-default frame-type-text frame-layout-0"><header><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h4 class="text_headline-headline">Quicklinks</h4></div><div class="col-lg-10 offset-lg-1 col-md-12" style="padding-left:0;"><h5 class="text_headline-subheadline" style="margin-top: 1rem;"></h5></div></header><p><a href="/unternehmen/kontakt-standorte">Standorte</a><br><a href="/unternehmen/referenzen">Referenzen</a><br><a href="/support-lernen/downloads">Downloads</a><br><a href="/support-lernen/support">Support</a><br><a href="/fileadmin/Daten/Dokumente/9_Zertifizierung/Zertifikate_REACH_ROHS_de.pdf" target="_blank">Zertifizierungen und Deklarationen</a><br><a href="https://shop.meteocontrol.com/de/" target="_blank" rel="noreferrer nofollow">mc Shop</a><br><a href="https://www.meteocontrol-energy.com" target="_blank" rel="noreferrer nofollow">meteocontrol Energy</a></p></div>
+
+
+                </div>
+                <div class="col-lg-4 col-sm-12">
+                    
+
+
+
+    <h4>
+        meteocontrol Newsletter
+    </h4>
+
+
+
+
+<a href="https://go.meteocontrol.com/newsletter-anmeldung" class="txtimgblock-link mc-btn" rel="nofollow">
+    
+            Anmeldung zum Newsletter
+        
+</a>
+
+
+
+
+
+    
+    <ul id="c3490" data-type="mask_social_buttons_container" class="social">
+        
+            <li class="social-item">
+                <a href="https://www.linkedin.com/company/meteocontrol" style="background-image:url(/fileadmin/Daten/Bilder/Icons/Social_Icons/linkedin.svg)" class="social-link" rel="nofollow">
+                    Linkedin
+                </a>
+            </li>
+        
+            <li class="social-item">
+                <a href="https://www.youtube.com/channel/UC49H_NPf5FR7tdYU7q4V9qw" target="_blank" style="background-image:url(/fileadmin/Daten/Bilder/Icons/Social_Icons/youtube.svg)" rel="noreferrer nofollow" class="social-link">
+                    youtube
+                </a>
+            </li>
+        
+            <li class="social-item">
+                <a href="https://www.instagram.com/meteocontrol_global/" target="_blank" style="background-image:url(/fileadmin/Daten/Bilder/Icons/Social_Icons/Instagram_Logo1.svg)" rel="noreferrer nofollow" class="social-link">
+                    
+                </a>
+            </li>
+        
+    </ul>
+
+
+
+                </div>
+            </div>
+
+        </div>
+    </aside>
+    <div class="site-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12" style="z-index: 1">
+                    
+                            <ul class="langs footer">
+                                
+    <!--<nav nav="language-navigation">-->
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link active" href="/" hreflang="de-DE" alt="German" title="German">
+                        DE
+                    </a>
+                
+        </li>
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link" href="/en/" hreflang="en-GB" alt="English" title="English">
+                        EN
+                    </a>
+                
+        </li>
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link" href="/fr/" hreflang="fr-FR" alt="French" title="French">
+                        FR
+                    </a>
+                
+        </li>
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link" href="/it/" hreflang="it-IT" alt="Italian" title="Italian">
+                        IT
+                    </a>
+                
+        </li>
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link" href="/es/" hreflang="es-ES" alt="Spanish" title="Spanish">
+                        ES
+                    </a>
+                
+        </li>
+    
+        
+                
+                
+                
+            
+
+        <li class="langs-item">
+            
+                    <a class="langs-link" href="/ja/" hreflang="ja-JP" alt="Japanese" title="Japanese">
+                        JP
+                    </a>
+                
+        </li>
+    
+    <!--</nav>-->
+
+
+                            </ul>
+                        
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <div class="baseline-menu">
+                        
+	<ul class="footmenu">
+		
+			<li class="footmenu-item">
+		
+				<a href="/unternehmen/impressum" class="footmenu-link"
+				   title="Impressum" rel="bookmark noopener">
+					Impressum
+				</a>
+			
+	
+</li>
+
+		
+			<li class="footmenu-item">
+		
+				<a href="/unternehmen/datenschutz" class="footmenu-link"
+				   title="Datenschutz" rel="bookmark noopener">
+					Datenschutz
+				</a>
+			
+	
+</li>
+
+		
+			<li class="footmenu-item">
+		<a href="https://whistleblowersoftware.com/secure/meteocontrol-extern" class="footmenu-link" target="_blank" title="Hinweisgebersystem" rel="bookmark noopener nofollow">
+			Hinweisgebersystem
+		</a>
+	
+</li>
+
+		
+		<li class="footmenu-item"><a href="javascript:Cookiebot.renew()" class="footmenu-link">Cookie-Einstellungen</a></li>
+	</ul>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="baseline-menu copyright">&copy;
+                        2026
+                        
+meteocontrol, All Rights Reserved 
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+
+
+
+
+
+
+
+<div class="welcomeinfo" style="display: none">
+    <div class="welcomeinfo-inner">
+        <div class="wrap px">
+            <div class="welcomeinfo-content">
+                <div class="welcomeinfo-text">
+                    <h3 class="welcomeinfo-title text_headline-headline">VCOM Login jetzt über mc Cloud</h3>
+                    <div class="welcomeinfo-paragraphs">
+                        
+                    
+                    <p>Der Login für VCOM erfolgt jetzt über mc Cloud. Damit bündeln wir Benutzerverwaltung, Zugriffsrechte und Sicherheitsfunktionen zentral an einem Ort und erfüllen aktuelle Anforderungen an die Cybersicherheit. </p>
+                    <p><strong>Mehr erfahren:</strong><br>
+                    Im Help Center finden Sie alle Informationen zur Migration Ihres VCOM-Kontos (<a href="https://help-center.meteocontrol.com/mc-cloud/latest/migrate-your-vcom-account-to-secure-authentication" target="_blank" rel="nofollow">Link</a>),
+                    zu den ersten Schritten (<a href="https://help-center.meteocontrol.com/mc-cloud/latest/getting-started" target="_blank" rel="nofollow">Link</a>),
+                    und zu Sonderfällen bei mehreren Konten mit derselben E-Mail-Adresse (<a href="https://help-center.meteocontrol.com/mc-cloud/latest/migrate-your-vcom-account-to-secure-authentication" target="_blank" rel="nofollow">Link</a>).</p>
+                    
+
+                
+                    </div>
+
+                    <div class="welcomeinfo-button close" title="Schließen">
+                        <svg class="d-block" width="20" height="20"><use href="#close"></use></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<ul class="sidesocials">
+    
+        <li><a title="Kontakt" href="/unternehmen/kontakt-standorte"><svg class="d-block" width="32" height="24"><use href="#contact"></use></svg></a></li>
+    
+
+    
+
+    
+        <li><a href="#" data-nav-trigger="open search" title="Suche" alt=""><svg class="d-block" width="28" height="28"><use href="#search"></use></svg></a></li>
+
+        
+            <li><a title="VCOM Demo anfordern" href="/produkte/cloud/vcom-cloud/vcom-demo"><svg class="d-block" width="32" height="32"><use href="#cloud"></use></svg></a></li>
+        
+    
+</ul>
+
+        <!-- Matomo -->
+        <script>
+          var _paq = window._paq = window._paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+          _paq.push(["setCookieDomain", "*.www.meteocontrol.com"]);
+          _paq.push(["setDoNotTrack", true]);
+          _paq.push(["disableCookies"]);
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://meteocontrol.matomo.vb-tool.de/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><p><img src="https://meteocontrol.matomo.vb-tool.de/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Matomo Code -->
+
+<script src="/_assets/24b4d8cfd18a943a443e8da5fec38748/JavaScript/Poll-jQuery.js?1784016598" type="text/javascript"></script>
+<script src="/_assets/e13c22023bf5a8616b8d2d04abb998e5/ckeditor/ckeditor.js?1769780013"></script>
+<script src="/_assets/e13c22023bf5a8616b8d2d04abb998e5/js/pagination.js?1769780013"></script>
+<script type="module" data-cookieconsent="ignore" src="/assets/app.js"></script>
+
+
+</body>
+</html>

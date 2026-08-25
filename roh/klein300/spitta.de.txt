@@ -1,0 +1,28 @@
+User-Agent: *
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# folders
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /revive/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non-realurl URLs
+Disallow: /*cHash               # no cHash
+Disallow: /*tx_powermail_pi1    # no powermail thanks pages
+Disallow: /*pk_medium		# for no-indexing
+
+# sitemap
+Sitemap: https://www.spitta.de/index.php?id=459

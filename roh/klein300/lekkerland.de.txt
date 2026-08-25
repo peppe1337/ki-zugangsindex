@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /aktionsmagazin_ts10-3/
+Disallow: /aktionsmagazin_gfm-2/
+Disallow: /aktionsmagazin_ts04-1/
+Disallow: /aktionsmagazin_ts05-1/
+Disallow: /aktionsmagazin_bkk-3/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://www.lekkerland.de/sitemap_index.xml
+

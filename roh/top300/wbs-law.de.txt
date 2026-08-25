@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*?s=* 
+Disallow: /_menu/
+Disallow: /dotsunited*
+Disallow: /kategorie/
+Disallow: /downloads/
+Disallow: /video/
+Disallow: /_friendly/
+Disallow: /gfembed/
+Disallow: /*?gfiframe=*
+Disallow: */feed/
+Sitemap: /sitemap_index.xml

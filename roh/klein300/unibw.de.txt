@@ -1,0 +1,29 @@
+Sitemap: https://www.unibw.de/sitemap.xml.gz
+
+# Add Googlebot-specific syntax extension to exclude forms
+# that are repeated for each piece of content in the site
+# the wildcard is only supported by Googlebot
+# http://www.google.com/support/webmasters/bin/answer.py?answer=40367&ctx=sibling
+
+User-Agent: Googlebot
+Allow: /*++theme++
+Allow: /*++plone++
+Disallow: /*atct_album_view$
+Disallow: /*folder_factories$
+Disallow: /*folder_summary_view$
+Disallow: /*login_form$
+Disallow: /*mail_password_form$
+Disallow: /*search
+Disallow: /*search_rss$
+Disallow: /*sendto_form$
+Disallow: /*summary_view$
+Disallow: /*thumbnail_view$
+Disallow: /*view$
+
+User-agent: *
+Disallow: /folder_contents$
+Disallow: /folder_factories$
+Disallow: /gsa_search
+Disallow: /search
+Disallow: /@@search
+Disallow: /sendto_form$

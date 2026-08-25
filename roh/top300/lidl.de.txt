@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cc.js*
+Disallow: /cdn/assets/cwv/
+Disallow: /user-api/*
+Disallow: /cqe/*
+Disallow: *search?q=*
+Disallow: *?offset=*
+Disallow: *idsOnly=*
+Disallow: *productsOnly=*
+Disallow: *id=*
+Disallow: *pageId=*
+Disallow: *advisor=*
+Disallow: *sort=*
+
+Sitemap: https://www.lidl.de/static/sitemap.xml

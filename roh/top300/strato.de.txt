@@ -1,0 +1,10 @@
+# robots.txt file
+# fuer www.strato.de
+User-agent: *
+Sitemap: https://www.strato.de/sitemap.xml
+
+# Block all crawlers for
+User-agent: *
+Disallow: /apps/
+Disallow: /error/
+Allow: /apps/CustomerService

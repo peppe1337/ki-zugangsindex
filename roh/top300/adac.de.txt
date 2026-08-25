@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /*.ashx$
+Disallow: /*.kis$
+Disallow: /login/*
+Disallow: /jsnlog.logger
+Disallow: /external/
+Disallow: /*?processUrl=*
+Disallow: /*?fe_state=*
+Disallow: /bff
+Disallow: /*///*
+
+sitemap: https://www.adac.de/sitemap_index.xml
+sitemap: https://www.adac.de/sitemaps/sitemap-news.xml
+sitemap: https://www.adac.de/sitemaps/sitemap-contentful.xml
+sitemap: https://www.adac.de/sitemap/sitemap3-0.xml
+sitemap: https://autovermietung.adac.de/sitemap.xml
+sitemap: https://www.adac.de/fahrzeugwelt/sitemaps/index.xml
+sitemap: https://www.adac.de/sitemaps/fahrzeugwelt/sitemap-news.xml
+sitemap: https://www.adac.de/sitemaps/sitemap-autokatalog.xml
+sitemap: https://www.adac.de/sitemaps/sitemap-lop.xml 
+sitemap: https://www.adac.de/sitemaps/sitemap-contentful-tests.xml

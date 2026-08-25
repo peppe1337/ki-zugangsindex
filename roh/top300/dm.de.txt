@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /gift-card-activation
+Disallow: /gift-card-builder
+Disallow: /gift-card-value
+Disallow: /b2b-gift-card-shop
+Disallow: /search
+Disallow: /callback
+Disallow: /logout
+Disallow: /shopping-list
+Disallow: /cart
+
+Sitemap: https://www.dm.de/sitemap.xml

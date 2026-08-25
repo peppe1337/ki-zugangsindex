@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="language" content="DE" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<meta name="google-site-verification" content="T6POeYxm8A1-1UOFZGcJNZQcCs1JyGvFp1E79TmNokY" />
+		<link rel="icon" type="image/png" href="/assets/favicon-32-BqZ9QQxZ.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="/assets/favicon-24-8UlL4sPH.png" sizes="24x24" />
+		<link rel="icon" type="image/png" href="/assets/favicon-16-BccEVIaO.png" sizes="16x16" />
+		<link rel="shortcut icon" href="/assets/favicon-BGh4u_bU.ico" />
+		<title>Vodafone E-Mail & Cloud - Kundenportal</title>
+		<link rel="apple-touch-icon" sizes="152x152" href="/assets/touch-icon-ipad-retina-GZvEZ778.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144-BvpUysGq.png" />
+		<link rel="apple-touch-icon" sizes="120x120" href="/assets/touch-icon-iphone-retina-BYuM4s3C.png" />
+		<link rel="apple-touch-icon" sizes="114x114" href="/assets/touch-icon-iphone4-DkQZzpI1.png" />
+		<link rel="apple-touch-icon" sizes="76x76" href="/assets/apple-touch-icon-76x76-CXpe1tnW.png" />
+		<link rel="apple-touch-icon" sizes="72x72" href="/assets/touch-icon-ipad-DlKH-FQn.png" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57-B-wRBXKO.png" />
+		<link rel="apple-touch-icon" href="/assets/apple-touch-icon-precomposed-CHVf2aUm.png" />
+		<script type="module" crossorigin src="/assets/index-C1Dp6ILO.js"></script>
+		<link rel="modulepreload" crossorigin href="/assets/vendor-C9QiW-Ic.js">
+		<link rel="modulepreload" crossorigin href="/assets/vendor.prime-C5mQ-nlU.js">
+		<link rel="modulepreload" crossorigin href="/assets/vendor.dayjs-Duq-8NSZ.js">
+		<link rel="modulepreload" crossorigin href="/assets/runtimesettings-D0QFVEYE.js">
+		<link rel="modulepreload" crossorigin href="/assets/assets-BaSengAe.js">
+		<link rel="modulepreload" crossorigin href="/assets/shared.common-D2DMlWm0.js">
+		<link rel="modulepreload" crossorigin href="/assets/shared.base-53mAe27J.js">
+		<link rel="stylesheet" crossorigin href="/assets/vendor-CvbXj2kT.css">
+	</head>
+
+	<body>
+		<div id="app"></div>
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=885534856" async></script></body>
+</html>

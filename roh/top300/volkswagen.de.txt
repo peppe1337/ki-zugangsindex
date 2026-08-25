@@ -1,0 +1,61 @@
+### whitelist user agents / pages to visit for app-paths
+
+User-agent: Googlebot
+Allow: /app/
+Disallow: /app/tbo/* 
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+### Hearts & Science: Purpose of this is rule is to block Googlebot from crawling invalid constructed URLs with jcr (added 2026-07-21)
+Disallow: */jcr:content/root
+
+User-agent: Slurp
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-Agent: Bingbot
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-Agent: msnbot
+Allow: /app/
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+
+User-agent: gsa-crawler
+Allow:  /app/
+
+User-agent: gsa-crawler
+Allow: /elektromobilitaet/ 
+
+### default block
+User-agent: *
+Allow: /app/
+Disallow: /*notification
+Disallow: /*.integrator-includes.txt
+Disallow: /*.integrator-includes.json
+Disallow: /de/modelle/verfuegbare-fahrzeuge-suche.html/__app/search/car/*
+
+### block direct access to dam images and videos
+User-agent: *
+Disallow: /content/dam/*.jpeg$
+Disallow: /content/dam/*.jpg$
+Disallow: /content/dam/*.png$
+Disallow: /content/dam/*.mp4$
+Disallow: /content/dam/*.JPEG$
+Disallow: /content/dam/*.JPG$
+Disallow: /content/dam/*.PNG$
+Disallow: /content/dam/*.MP4$
+Disallow: /idhub/content/dam/*.jpeg$
+Disallow: /idhub/content/dam/*.jpg$
+Disallow: /idhub/content/dam/*.png$
+Disallow: /idhub/content/dam/*.mp4$
+Disallow: /idhub/content/dam/*.JPEG$
+Disallow: /idhub/content/dam/*.JPG$
+Disallow: /idhub/content/dam/*.PNG$
+Disallow: /idhub/content/dam/*.MP4$
+
+### sitemap
+Sitemap: https://www.volkswagen.de/de.sitemap.xml 

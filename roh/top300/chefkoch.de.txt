@@ -1,0 +1,315 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /stats/
+Disallow: /pictures/fotoalben/
+Disallow: /forumuploads/
+Disallow: /pictures/user/
+Disallow: /avatar/
+Disallow: /cms/
+Disallow: /produkte/
+Disallow: /how2videos/
+Disallow: /user/profil/
+Disallow: /user/rezepte/
+Disallow: /benutzer/me
+Disallow: /rezeptbilder/
+Disallow: /rezepte/wertungen/
+Disallow: /rezepte/kommentare/
+Disallow: /rezepte/*/rewe/rewe.html$
+Allow: /rezepte/drucken/
+Disallow: /rezepte/*?*
+Disallow: /rs/s0t*
+Disallow: /rs/s0o*
+Disallow: /rs/s0e*
+Disallow: /rs/s0g*
+Disallow: /rs/s0r*
+Disallow: /rs/s0p*
+Disallow: /rs/s0ip*
+Disallow: /ms/
+Disallow: /zs/
+Disallow: /amp/rs/s0t*
+Disallow: /amp/rs/s0o*
+Disallow: /amp/rs/s0e*
+Disallow: /amp/rs/s0g*
+Disallow: /newsletter/rs/
+Disallow: /kochbuch/
+Disallow: /mein-kochbuch/rezept-import/auto
+Disallow: /new-user/
+Allow: /rs/s0o6/Rezepte.html
+
+User-agent: Googlebot
+Disallow: /cgi-bin/
+Disallow: /stats/
+Disallow: /pictures/fotoalben/
+Disallow: /forumuploads/
+Disallow: /pictures/user/
+Disallow: /avatar/
+Disallow: /cms/
+Disallow: /produkte/
+Disallow: /how2videos/
+Disallow: /user/profil/
+Disallow: /user/rezepte/
+Disallow: /benutzer/me
+Disallow: /rezeptbilder/
+Disallow: /rezepte/wertungen/
+Disallow: /rezepte/kommentare/
+Disallow: /rezepte/*/rewe/rewe.html$
+Allow: /rezepte/drucken/
+Disallow: /rezepte/*?*
+Disallow: /rs/s0o*
+Disallow: /rs/s0e*
+Disallow: /rs/s0g*
+Disallow: /rs/s0r*
+Disallow: /rs/s0p*
+Disallow: /rs/s0ip*
+Disallow: /ms/
+Disallow: /zs/
+Disallow: /amp/rs/s0t*
+Disallow: /amp/rs/s0o*
+Disallow: /amp/rs/s0e*
+Disallow: /amp/rs/s0g*
+Disallow: /newsletter/rs/
+Disallow: /kochbuch/
+Disallow: /mein-kochbuch/rezept-import/auto
+Disallow: /new-user/
+Allow: /rs/s0o6/Rezepte.html
+
+
+### Additional bots to disallow completely (alphabetical)
+
+User-agent: AddSearchBot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: BedrockBot
+Disallow: /
+
+User-agent: bigsur.ai
+Disallow: /
+
+User-agent: Brightbot 1.0
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT Agent
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CloudVertexBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Cohere-Training-Data-Crawler
+Disallow: /
+
+User-agent: Cotoyogi
+Disallow: /
+
+User-agent: Datenbank Crawler
+Disallow: /
+
+User-agent: DeepSeek
+Disallow: /
+
+User-agent: DeepSeek-Crawler
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: Devin
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: EchoboxBot
+Disallow: /
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FireCrawlAgent
+Disallow: /
+
+User-agent: GoogleAgent-Mariner
+Disallow: /
+
+User-agent: GoogleAgent-Shopping
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: Kraken
+Disallow: /
+
+User-agent: LinerBot
+Disallow: /
+
+User-agent: Linkfluence Yak Bot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: MistralAI-Crawler
+Disallow: /
+
+User-agent: MyCentralAIScraperBot
+Disallow: /
+
+User-agent: netEstate Imprint Crawler
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: NovaAct
+Disallow: /
+
+User-agent: ObjectsSearch
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: Operator
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: PhindBot
+Disallow: /
+
+User-agent: Poseidon Research Crawler
+Disallow: /
+
+User-agent: QualifiedBot
+Disallow: /
+
+User-agent: QuillBot
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: quillbot.com
+Disallow: /
+
+User-agent: ResearchBot
+Disallow: /
+
+User-agent: SBIntuitionsBot
+Disallow: /
+
+User-agent: scrapy
+Disallow: /
+
+User-agent: SeekrBot
+Disallow: /
+
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+User-agent: TaraGroup Intelligent Bot
+Disallow: /
+
+User-agent: ThinkBot
+Disallow: /
+
+User-agent: thinkers-bot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: wpbot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+
+### Allow social previews
+
+User-agent: facebookexternalhit
+Allow: /
+
+
+### Advertising Bot
+
+User-agent: AmazonAdBot
+Disallow: /
+
+User-agent: NanoInteractive
+Disallow: /
+
+User-agent: Opebot-v (https://www.1plusx.com)
+Allow: /
+
+
+
+### AI search/grounding bots (not blocked)
+
+# Note: No explicit rules here — these user-agents are intentionally not disallowed.
+# - Claude-SearchBot
+# - Claude-User
+# - ChatGPT-User
+# - Google-Extended
+# - MistralAI-User
+# - OAI-SearchBot
+# - Perplexity-User

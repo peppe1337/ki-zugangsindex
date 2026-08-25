@@ -1,0 +1,62 @@
+User-Agent: AiHitBot
+User-Agent: BLEXBot
+User-Agent: CareerBot
+User-Agent: CCBot
+User-Agent: dotbot
+User-Agent: Google-Extended
+User-Agent: GPTBot
+User-Agent: grapeshot
+User-Agent: iCjobs
+User-Agent: linkdexbot
+User-Agent: magpie-crawler
+User-Agent: MegaIndex
+User-Agent: MJ12bot
+User-Agent: proximic
+User-Agent: QuerySeekerSpider
+User-Agent: scrapy
+User-Agent: scrapybot
+User-Agent: SemrushBot
+User-Agent: sentibot
+User-Agent: SEOkicks-Robot
+User-Agent: TkBot
+User-Agent: trendkite-akashic-crawler
+User-Agent: Vagabondo
+User-Agent: WBSearchBot
+Disallow: /
+
+User-Agent: AhrefsBot
+User-Agent: Baiduspider
+User-Agent: YandexBot
+User-Agent: Yahoo! Slurp
+Crawl-delay: 10
+Disallow: /*?
+
+User-Agent: *
+Disallow: /person_stats_content-matchstats
+Disallow: /widget_video_videolist-content
+Disallow: /webview
+Disallow: /widget_news_archiv-content
+Disallow: /json/matches-by-ids
+Disallow: /json/teams-by-ids
+Disallow: /tabellenrechner
+Disallow: /widget_images_imagelist-content
+Disallow: /widget_statistics_teamperson_goals
+Disallow: /widget_*
+Disallow: /*?
+Disallow: /webview
+Disallow: /genius*
+Disallow: /template-sportwetten
+Disallow: /*/spiele-als-spieler
+Disallow: /*/spiele-als-schiedsrichter
+Disallow: /*/spiele-als-trainer
+
+User-Agent: facebookexternalhit
+Allow: /*?
+
+Sitemap: https://www.sport.de/sitemap/sitemap.liveticker.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.news.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.videos.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.teams.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.persons.xml
+Sitemap: https://www.sport.de/sitemap/sitemap.venues.xml

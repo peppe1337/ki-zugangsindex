@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/images/titelbilder/personen/
+Disallow: /satzung/
+Disallow: /11tytests/

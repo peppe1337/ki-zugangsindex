@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+
+user-agent: Googlebot
+Disallow: /p393186.webspaceconfig.de
+
+Sitemap: https://www.radiomuseum-bocket.de/wiki/sitemap/sitemap-index-rmwiki.xml

@@ -1,0 +1,5 @@
+user-agent:*
+disallow:/contao/
+disallow:/_contao/
+
+sitemap:https://www.izw-berlin.de/sitemap.xml

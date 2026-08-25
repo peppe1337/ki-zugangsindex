@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /typo3/
+Sitemap: https://www.hu-berlin.de/sitemap.xml

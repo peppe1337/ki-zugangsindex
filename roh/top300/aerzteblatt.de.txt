@@ -1,0 +1,182 @@
+Sitemap: https://www.aerzteblatt.de/sitemap.xml
+User-agent: PerplexityBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: ChatGPT-User
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: GPTBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: OAI-SearchBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: anthropic-ai
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: Applebot-Extended
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: FacebookBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: cohere-ai
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: ClaudeBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: Claude-Web
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: magpie-crawler
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: ia_archiver
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: omgili
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: omgilibot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: Baiduspider
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: AhrefsBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: OpenAI
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: AI-TrainingBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: AIDataCollector
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: DataMiner
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: DataMiningBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: AI-Bot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: CCBot
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: CCBot/1.0
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: CCBot/2.0
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+User-agent: CCBot/3.0
+Disallow: /
+Allow: /news
+Allow: /cme
+Allow: /infocenter
+
+
+User-Agent: *
+Allow: /
+        
+User-agent: *
+Disallow: /static/impressum.html
+Disallow: /static/kontakt.html
+
+# Legal notice: aerzteblatt.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access aerzteblatt.de or collect or mine data without
+# the express permission of aerzteblatt.de is strictly prohibited.
+# aerzteblatt.de may, in its discretion, permit certain automated access to certain aerzteblatt.de pages.
+# If you would like to apply for permission to crawl aerzteblatt.de, collect or use data, please email aerzteblatt@aerzteblatt.de

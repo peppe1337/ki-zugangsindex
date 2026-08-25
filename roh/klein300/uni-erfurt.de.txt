@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3/sysext/frontend/Resources/Public/
+Allow: /typo3conf/ext/
+
+# parameters
+Disallow: /*cHash
+Allow: /*sitemap=*&cHash
+Disallow: /*tx_powermail_pi1
+
+# sitemaps
+Sitemap: https://www.uni-erfurt.de/sitemap.xml

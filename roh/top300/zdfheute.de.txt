@@ -1,0 +1,25 @@
+User-Agent: CCBot
+User-Agent: Google-Extended
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: scrapy
+User-Agent: scrapybot
+User-Agent: SemrushBot
+User-Agent: sentibot
+User-Agent: SEOkicks-Robot
+User-Agent: TkBot
+User-Agent: trendkite-akashic-crawler
+User-Agent: Vagabondo
+User-Agent: WBSearchBot
+User-Agent: grapeshot
+User-Agent: iCjobs
+User-Agent: linkdexbot
+User-Agent: magpie-crawler
+User-Agent: MegaIndex
+User-Agent: MJ12bot
+User-Agent: proximic
+User-Agent: QuerySeekerSpider
+Disallow: /sport/fussball-bundesliga
+Disallow: /sport/fussball-2-bundesliga
+
+Sitemap: https://www.zdfheute.de/sitemap-zdfheute.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ww2.santana4d.com/sitemap.xml

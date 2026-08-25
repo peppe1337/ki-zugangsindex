@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /compare/
+Disallow: /checkout/
+Disallow: /register/
+Disallow: /account/
+Disallow: /address/
+Disallow: /note/
+Disallow: /widgets/
+Disallow: /listing/
+Disallow: /ticket/
+Disallow: /tracking/
+Allow: /widgets/emotion
+Allow: /widgets/index/refreshStatistic
+Sitemap: https://fun-moebel.de/sitemap_index.xml

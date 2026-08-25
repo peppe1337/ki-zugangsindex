@@ -1,0 +1,67 @@
+User-agent: msnbot-media/1.1
+Disallow: /
+
+User-agent: msnbot-media/2.0b
+Disallow: /
+
+User-agent: Googlebot-News
+Disallow: /noch-fragen/
+Disallow: /action/
+Disallow: /sn/
+Disallow: /syndication/
+Disallow: /elastic/
+Disallow: /gutscheine/
+Disallow: /search?
+Disallow: /vergleich/
+Disallow: /p-api/*
+Disallow: /siegel/aerzte/
+Disallow: /p-user/
+
+User-agent: scrapy
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: RyteBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /*&ampshare=*
+
+User-agent: GPTBot
+Disallow: /
+Allow: /kaufkosmos/
+Allow: /ada/
+
+User-agent: ChatGPT-User
+Disallow: /
+Allow: /kaufkosmos/
+Allow: /ada/
+
+User-agent: Applebot-Extended
+Disallow: /
+Allow: /kaufkosmos/
+Allow: /ada/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /kaufkosmos/
+Allow: /ada/
+
+User-agent: *
+Disallow: /action/
+Disallow: /sn/
+Disallow: /syndication/
+Disallow: /elastic/
+Disallow: /gutscheine/wp-admin/
+Disallow: /search?
+Disallow: /vergleich/zum/
+Disallow: /siegel/aerzte/
+Disallow: /p-api/
+Disallow: /p-user/
+Disallow: /suche/
+

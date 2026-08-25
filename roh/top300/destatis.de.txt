@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /GPStatistik/servlets/MCRSearchServlet
+Allow: /SiteGlobals/Frontend/JavaScript/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Allow: /SiteGlobals/Forms/Suche/*_Formular.*
+Allow: /SiteGlobals/Functions/RSSFeed/DE/
+Crawl-delay: 30
+Sitemap: https://www.destatis.de/Sitemap_Index.xml

@@ -1,0 +1,9 @@
+#
+# The Web Robots Pages: http://www.robotstxt.org/wc/robots.html
+#
+
+User-agent: *
+Disallow: /error/
+Disallow: /images/
+Disallow: /ascii/logfiles/
+Disallow: /impressum.html

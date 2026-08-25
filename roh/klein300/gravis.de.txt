@@ -1,0 +1,1368 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]>
+<html class="lt-ie10" lang="de">
+<![endif]-->
+<!--[if gt IE 9]>
+<!-->
+<html lang="de" class="no-js no-touch">
+<!--<![endif]-->
+<head>
+    <link rel="preconnect" href="https://use.typekit.net/">
+    <link rel="preconnect" href="https://use.typekit.net/" crossorigin>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  if (!window._consentDefaultSet) {
+    window._consentDefaultSet = true;
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied',
+      'wait_for_update': 250
+    });
+  }
+</script>    
+    <script>
+(function(){window.kameleoonQueue = window.kameleoonQueue || [];
+window.kameleoonIframeURL="https://www.freenet.de/shop/_ui/responsive/theme-whitelabel/partials/kameleoon-iframe-md.html";
+var f=document.createElement("a");window.kameleoonLightIframe=false;f.href=window.kameleoonIframeURL;window.kameleoonIframeOrigin=f.origin||(f.protocol+"//"+f.hostname);if(location.href.indexOf(window.kameleoonIframeOrigin)!=0){window.kameleoonLightIframe=true;var g=function(event){if(window.kameleoonIframeOrigin==event.origin&&event.data.slice&&event.data.slice(0,9)=="Kameleoon"){window.removeEventListener("message",g);window.kameleoonExternalIFrameLoaded=true;if(window.Kameleoon){eval(event.data);Kameleoon.Analyst.load()}else{window.kameleoonExternalIFrameLoadedData=event.data}}};if(window.addEventListener){window.addEventListener("message",g,false)}var h=document.createElement("iframe");h.src=kameleoonIframeURL;h.id="kameleoonExternalIframe";h.style="float: left !important; opacity: 0.0 !important; width: 0px !important; height: 0px !important;";document.head.appendChild(h)};})();
+</script>
+<script src="https://www.freenet.de/resources/kameleoon/engine.js" async></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>freenet | Tarife in allen Netzen und günstige Handy-Angebote</title>
+<meta name="description" content="Bei freenet findest Du Top-Tarife, Handys und Netze nach Deinen Bedürfnissen. Sichere Dir das passende Mobilfunk-Angebot und erlebe unsere Produktvielfalt.">
+<meta name="keywords" content="freenet">
+<meta name="robots" content="index, follow">
+
+    <link rel="canonical" href="https://www.freenet.de/">
+
+      <script type="application/ld+json">
+      {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OnlineStore",
+      "@id": "https://www.freenet.de/#organization",
+      "name": "freenet",
+      "legalName": "freenet DLS GmbH",
+      "url": "https://www.freenet.de/",
+      "logo": "https://www.freenet.de/theme/images/freenet-logo.svg",
+      "description": "Freenet bietet ein großes Angebot an Mobilfunk-Tarifen in alle deutschen Netze, Handys und Tablets sowie Internet- und anderen Kommunikationsdiensten.",
+      "sameAs": [
+        "https://www.facebook.com/freenet",
+        "https://www.instagram.com/freenet/?hl=de",
+        "https://www.youtube.com/channel/UCy4JL5-eT7YLyI51KpfZhoQ",
+        "https://www.tiktok.com/@freenet"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+4940555541441",
+        "contactType": "customer service",
+        "availableLanguage": "de"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hollerstraße 126",
+        "addressLocality": "Büdelsdorf",
+        "postalCode": "24782",
+        "addressCountry": "DE"
+      },
+      "vatID": "DE194910634"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.freenet.de/#website",
+      "name": "freenet",
+      "url": "https://www.freenet.de/",
+      "publisher": {
+        "@id": "https://www.freenet.de/#organization"
+      }
+    }
+  ]
+}
+      </script>
+
+
+<meta name="team" content="it.ice.eCAPI.Core"> <!-- Team-Meta-Tag -->
+<meta name="cf-id" content="2aChDKQ6lKbGyScRKuLLPc"> <!-- CF-ID-Meta-Tag -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no"/>
+<meta http-equiv="imagetoolbar" content="false"/>
+
+<link rel="shortcut icon" href="/images/favicon/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="application-name" content="freenet"/>
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml"/>
+<meta name="theme-color" content="#84BC34">
+
+<meta property="og:title" content="freenet | Tarife in allen Netzen und günstige Handy-Angebote">
+<meta property="og:site_name" content="freenet.de">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.freenet.de/">
+<meta property="og:image" content="http://www.freenet.de/img/apple-touch-icon.png">
+<meta property="og:description"
+      content="Bei freenet findest Du Top-Tarife, Handys und Netze nach Deinen Bedürfnissen. Sichere Dir das passende Mobilfunk-Angebot und erlebe unsere Produktvielfalt.">
+<meta name="facebook-domain-verification" content="og9b4j4denljqqdhw0mmvdmohm1fx5" />
+
+<link rel="preload" href="https://www.freenet.de/ajax/search/auto_suggest.php?realm=md"
+      as="document" crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/config/error-codes.php" as="document"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/ajax/search/auto_suggest.php?realm=md" as="document">
+<link rel="preload" href="https://www.freenet.de/config/error-codes.php" as="document">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/fa-light-300.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/fa-regular-400.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/fa-solid-900.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/fa-brands-400.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/open-sans-v16-latin-regular.woff2" as="font"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/open-sans-v16-latin-700.woff2" as="font"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.freenet.de/theme/fonts/open-sans-v16-latin-italic.woff2" as="font"
+      crossorigin="anonymous">
+<link rel="preconnect" href="https://static.md.de" crossorigin="anonymous">
+<link rel="preconnect" href="https://www.freenet.de">
+    <link rel="stylesheet" href="//static.md.de/inc/styles/main.min.css">
+<link href="/theme/css/md-web4-1676f0f3.min.css" rel="stylesheet">
+<!-- [if lte IE 9]>
+<link href="/theme/css/grid-fallback-lte-ie10.min.css" rel="stylesheet">
+<![endif]-->
+
+    <link href="/css/md-ef575f00.min.css" rel="stylesheet">
+
+<!-- Typekit Gibson Font -->
+<link rel="stylesheet" href="https://use.typekit.net/ccv5wla.css">
+
+  <link href="https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-banderole/ecom-banderole.styles.css.gz" rel="stylesheet" type="text/css" />
+<link href="https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-bubble/ecom-bubble.styles.css.gz" rel="stylesheet" type="text/css" />
+  <script src="https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-banderole/ecom-banderole.js.gz" ></script>
+<script src="https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-bubble/ecom-bubble.js.gz" ></script>
+</head>
+<body class="site-md  site-md-- site-md---2aChDKQ6lKbGyScRKuLLPc" data-env="prod" data-ga-scroll=".site-md__main-content">
+            <div id="nk-overlay" class="content-overlay">
+    <div class="dialog flex-container flex-dir-column">
+        <div class="flex-container nk-overlay-header">
+            <div class="h3">Schon Kunde bei uns?</div>
+            <div class="nk-close"><i class="far fa-times"></i></div>
+        </div>
+        <div class="nk-overlay-content">
+            <p>Jetzt anmelden und vollen Zugriff auf persönliche Daten und Verträge genießen.</p>
+        </div>
+        <div class="flex-container nk-overlay-footer">
+            <div><a class="link-icon register-button" href="/onlineservice/registrierung">
+                    <i class="fal fa-angle-right" aria-hidden="true"></i>
+                    Ich habe noch keinen Zugang
+                </a></div>
+            <div><a class="button-text login-button" href="/onlineservice/dashboard">Einloggen</a></div>
+        </div>
+    </div>
+</div>
+    
+<script type="text/javascript" src="/theme/js/jquery-3.7.1.min.js" defer></script>
+<script type="text/javascript" src="/theme/js/md-web4-924b9690.js"
+        defer></script>
+    <script type="text/javascript" src="//static.md.de/inc/scripts/lib.min.js" defer></script>
+    <script type="text/javascript" src="//static.md.de/inc/scripts/main.min.js" defer></script>
+    <script type="text/javascript" src="//static.md.de/inc/scripts/md.without-bootstrap.min.js"
+            defer></script>
+
+<script>
+    var visitorIpAddress = '10.82.21.149';
+</script>
+
+<!-- md-js -->
+    <script type="text/javascript" src="/js/md-956d55fc.min.js" defer></script>
+
+<!-- icp-js -->
+    <script type="text/javascript" src="/common/js/icp.min.js" defer></script>
+
+<!-- TargetOrder-js -->
+    <script type="text/javascript" src="/common/js/TargetOrder.min.js" defer></script>
+
+<script>
+    window.addEventListener('pageshow',  ()=> {
+        const customEvent  = new CustomEvent('reset-forbid-opening-self-window-change',
+            {
+            bubbles: true,
+            cancelable: true,
+            detail: [],
+            });
+        window.dispatchEvent(customEvent);
+    });
+</script>
+<div id="app" class="pushmenu-wrapper">
+    <noscript id="outdated-noscript">
+    <div class="message-outdated -show">
+        <p class="message-outdated__message">
+            Bitte
+            <a class="message-outdated__link"
+               href="http://outdatedbrowser.com/de/"
+               target="_blank"
+               rel="noopener">
+                aktualisieren Sie Ihren Browser
+            </a>
+            und nutzen Sie Javascript, um unsere Seite in vollem Umfang nutzen und von unseren günstigen Angeboten
+            profitieren
+            zu können.
+        </p>
+    </div>
+</noscript>
+<div id="outdated-browser" class="message-outdated">
+    <p class="message-outdated__message">
+        Bitte
+        <a class="message-outdated__link"
+           href="http://outdatedbrowser.com/de/"
+           target="_blank"
+           rel="noopener">
+            aktualisieren Sie Ihren Browser
+        </a>
+        und nutzen Sie Javascript, um unsere Seite in vollem Umfang nutzen und von unseren günstigen Angeboten
+        profitieren zu
+        können.
+    </p>
+    <p class="message-outdated__close-btn">
+        <a href="#" id="message-outdatedCloseBtn"
+           title="Hinweis schließen">&times;
+        </a>
+    </p>
+</div>
+
+    <header class="site-md__header header">
+        <div class="md-header" data-open="click">
+        <div class="md-header__inner">
+            <div class="md-header__content js-md-header-content">
+
+                <!-- Logo -->
+                <div class="md-header__logo js-questionnaire-header-logo">
+    <a class="md-header__logo-link" title="freenet.de" href="/" tabindex="500">
+        <picture class="md-header__logo-img">
+            <source srcset="/theme/images/freenet-logo.svg"
+                    media="(min-width: 1024px) and (min-height: 640px)">
+            <source srcset="/theme/images/freenet-logo.svg"
+                    media="(min-width: 460px)">
+            <source srcset="/theme/images/freenet-blade.svg">
+            <img src="/theme/images/freenet-blade.svg" alt="Zur Startseite freenet navigieren">
+        </picture>
+    </a>
+</div>
+
+                <!-- Top Bar -->
+                <div class="md-header__top-bar">
+    <div class="md-header__top-bar-nav">
+        <div class="md-header__top-bar-nav-item green">
+            <a
+                id="meta-nav-freenet-mail-link"
+                class="link-text -no-underline md-header__top-bar-nav-icon -color-secondary"
+                tabindex="50"
+                href="https://mail.freenet.de"
+                target="_blank"
+            >
+                <span class="md-header__top-bar-nav-icon-text show-for-large"
+                    >freenet Mail</span
+                >
+                <i class="far fas -no-padding fa-envelope fa-fw show-for-large"></i>
+                <i class="far -no-padding fa-envelope fa-fw hide-for-large"></i>
+            </a>
+        </div>
+        <div
+            class="md-header__top-bar-nav-item shops"
+            id="shopsBlock"
+            ng-controller="ShopsCtrl as shc"
+            ng-class="{'is-active':shc.showLayer}"
+        >
+            <span class="md-header__top-bar-nav-icon">
+                <span class="md-header__top-bar-nav-icon-text show-for-large" tabindex="100"
+                    >Mein Shop & Termin</span
+                >
+                <i class="far -no-padding fa-map-marker-alt fa-fw"></i>
+            </span>
+            <div
+                class="user-status-content md-header__top-bar-index md-header__top-bar-nav-item-shop"
+            >
+                <div class="layer-content">
+                    <div class="spinner" ng-show="shc.isLoading">
+                        <div class="bounce1"></div>
+                        <div class="bounce2"></div>
+                        <div class="bounce3"></div>
+                    </div>
+                    <div ng-if="!shc.shopData" ng-hide="shc.isLoading">
+                        <form
+                            method="get"
+                            name="footerDealerSearch"
+                            action="/store-finder/"
+                        >
+                            <div class="field-item">
+                                <div class="form-item">
+                                    <input
+                                        id="postalCodeFooter"
+                                        type="text"
+                                        ng-model="dsPostalCode"
+                                        name="postal"
+                                        placeholder="PLZ"
+                                        aria-label="PLZ"
+                                        tabindex="110"
+                                    />
+                                </div>
+                                <div class="form-item">
+                                    <input
+                                        id="cityNameFooter"
+                                        type="text"
+                                        name="city"
+                                        ng-model="dsCity"
+                                        placeholder="Ort"
+                                        aria-label="Ort"
+                                        tabindex="120"
+                                    />
+                                </div>
+                                <div class="grid-form">
+                                    <div class="error tooltip">
+                                        <div class="message">
+                                            Bitte geben Sie eine gültige
+                                            Postleitzahl oder/und einen Ort ein.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                ng-class="{'inactive': footerDealerSearch.$pristine }"
+                            >
+                                <input
+                                    class="btn btn-block btn-shop-search"
+                                    value="Shop suchen"
+                                    type="submit"
+                                    ng-disabled="footerDealerSearch.$pristine"
+                                    tabindex="130"
+                                />
+                                <a
+                                    href="https://www.freenet.de/store-finder/"
+                                    data-url="freenet.de/store-finder/"
+                                    class="link-icon make-appointment"
+                                    tabindex="140"
+                                    ><i
+                                        class="fal fa-angle-right"
+                                        aria-hidden="true"
+                                    ></i
+                                    >Termin vereinbaren</a
+                                >
+                            </span>
+                        </form>
+                    </div>
+                    <div ng-if="shc.shopData" ng-hide="shc.isLoading">
+                        <div>
+                            <p class="is-bold">{{shc.shopData.name}}</p>
+                            <p>
+                                {{shc.shopData.street}} {{shc.shopData.postal}}
+                                {{shc.shopData.city}}
+                            </p>
+                            <p class="only-mobile">
+                                Tel:
+                                <a href="tel:{{shc.shopData.phone}}"
+                                    >{{shc.shopData.phone}}</a
+                                >
+                            </p>
+                            <p class="not-mobile">
+                                Tel: {{shc.shopData.phone}}
+                            </p>
+                            <p>
+                                <a
+                                    href="/store-finder/"
+                                    class="icon-link reset-cookie"
+                                    data-icon=""
+                                    tabindex="150"
+                                    >Shop ändern</a
+                                >
+                                <a
+                                    href="{{shc.shopData.homepage}}"
+                                    class="icon-link"
+                                    ng-if="!shc.isUrlShops"
+                                    data-icon=""
+                                    tabindex="160"
+                                    >Mehr Informationen zum Shop</a
+                                >
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div
+            class="md-header__top-bar-nav-item contact-block"
+            id="contactBlock"
+            ng-controller="ContactCtrl as ctc"
+            ng-class="{'is-active':ctc.showLayer}"
+        >
+            <span class="md-header__top-bar-nav-icon" ng-click="ctc.click()">
+                <span class="md-header__top-bar-nav-icon-text show-for-large" tabindex="200"
+                    >FAQ & Kontakt</span
+                >
+                <i
+                    class="far -no-padding fa-phone fa-fw fa-flip-horizontal"
+                ></i>
+            </span>
+            <section class="user-contact md-header__top-bar-index">
+                <div
+                    class="user-contact-content md-header__top-bar-nav-item-contact"
+                    ng-if="ctc.showLayer"
+                    ng-include="'/partials/contact.html'"
+                ></div>
+            </section>
+        </div>
+        <div
+            class="md-header__top-bar-nav-item"
+            id="loginBlock"
+            ng-controller="AuthCtrl as auth"
+            ng-class="{'is-active':auth.showLayer}"
+            ng-cloak
+        >
+            <span class="md-header__top-bar-nav-icon" id="loginTitel">
+                <span class="md-header__top-bar-nav-icon-text show-for-large" tabindex="300"
+                    >{{auth.title}}</span
+                >
+                <i class="far -no-padding fa-fw fa-user"></i>
+            </span>
+            <section class="user-status md-header__top-bar-index">
+                <div
+                    class="user-status-content md-header__top-bar-nav-item-login mt-2"
+                >
+                    <div
+                        id="layerisLoggedIn"
+                        class="layer-content"
+                        ng-if="auth.isLoggedIn && auth.showLayer"
+                        ng-include="'/partials/auth_logged_in.html'"
+                    ></div>
+                    <div
+                        id="layerisLoggedOut"
+                        class="layer-content"
+                        ng-if="!auth.isLoggedIn && auth.showLayer"
+                        ng-include="'/partials/auth_logged_off.html'"
+                    ></div>
+                </div>
+            </section>
+        </div>
+
+        <div
+            class="md-header__top-bar-nav-item shopping-cart-block"
+            ng-controller="MiniCartCtrl as minicart"
+            ng-class="{'is-active':minicart.showLayer}"
+            ng-cloak
+        >
+            <a
+                class="link-text -no-underline md-header__top-bar-nav-icon -link"
+                href="/shop/cart"
+                title="freenet"
+                tabindex="400"
+            >
+                <span class="md-header__top-bar-nav-icon-text show-for-large">
+                    Warenkorb (<span class="ng-cloak"
+                        >{{minicart.basketCount()}}</span
+                    >) </span
+                ><i class="far -no-padding fa-fw fa-shopping-cart"></i>
+            </a>
+            <div
+                ng-show="minicart.isLoadingCart"
+                class="spinner md-header__top-bar-index"
+            >
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+            <div
+                ng-bind-html="minicart.cartHTML"
+                class="cart-wrapper md-header__top-bar-nav-item-cart"
+            ></div>
+        </div>
+        <div class="md-header__top-bar-nav-item search-block hide-for-large">
+            <a
+                class="link-text -no-underline md-header__top-bar-nav-icon -link"
+                href="/suche/"
+            >
+                <span class="md-header__top-bar-nav-icon-text show-for-large"
+                    >Suche</span
+                >
+                <i
+                    class="far -no-padding fa-search fa-fw fa--flip-horizontal"
+                ></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+                <!-- Mobile Menu -->
+                <div class="md-header__navigation-mobile js-md-header-menu">
+    <span class="md-header__navigation-mobile-icon">
+        <div class="md-header__navigation-mobile-icon-line"></div>
+        <div class="md-header__navigation-mobile-icon-line"></div>
+        <div class="md-header__navigation-mobile-icon-line"></div>
+    </span>
+    <span class="md-header__navigation-mobile-text">Menü</span>
+</div>
+
+                <!-- Desktop Menu -->
+                <div class="md-header__navigation js-md-header-navigation-container">
+        <div class="md-header__navigation-primary js-md-header-menu-primary-container">
+            <div class="md-header__navigation-primary-header">Menü</div>
+            <ul class="md-header__navigation-item md-header__navigation-primary-item js-md-header-menu-primary-item">
+                                                            <li class="-arrow" data-menu-path="firstItemIdent/Mobilfunk"  data-menu-link="1_mobilfunk"  data-button-text="Alle Tarife" data-category-href="/handytarife/ohne-handy/">
+  <a class="link-text -no-underline js-primary-link" href="/handytarife/ohne-handy/" tabindex="600">
+        <span class="md-header__navigation-primary-item-icon">
+      <img src="/theme/images/md-header-primary-sim.svg" alt="Icon" />
+    </span>
+        Mobilfunk
+  </a>
+</li>
+                                                                                <li class="-arrow" data-menu-path="secondItemIdent/TV &amp; Internet"  data-menu-link="2_tv_internet"  data-button-text="Alle Angebote" data-category-href="/tv/#/internetAngebote">
+  <a class="link-text -no-underline js-primary-link" href="/tv/#/internetAngebote" tabindex="700">
+        <span class="md-header__navigation-primary-item-icon">
+      <img src="/theme/images/fn-welt-internet-medium-header.svg" alt="Icon" />
+    </span>
+        TV &amp; Internet
+  </a>
+</li>
+                                                                                <li class="-arrow" data-menu-path="thirdItemIdent/Service"  data-menu-link="3_service"  data-button-text="Alle Services" data-category-href="/services/">
+  <a class="link-text -no-underline js-primary-link" href="/services/" tabindex="800">
+        <span class="md-header__navigation-primary-item-icon">
+      <img src="/theme/images/md-header-primary-service.svg" alt="Icon" />
+    </span>
+        Service
+  </a>
+</li>
+                                                                                <li class="-arrow" data-menu-path="forthItemIdent/Mein Konto"  data-menu-link="4_mein_konto"  data-button-text="Zu Ihrer persönlichen Übersicht" data-category-href="/onlineservice/dashboard">
+  <a class="link-text -no-underline js-primary-link" href="/onlineservice/dashboard" tabindex="900">
+        <span class="md-header__navigation-primary-item-icon">
+      <img src="/theme/images/md-header-primary-vertrag.svg" alt="Icon" />
+    </span>
+        Mein Konto
+  </a>
+</li>
+                                                                                <li class="-arrow" data-menu-path="fifthItemIdent/Vertrag verlängern"  data-menu-link="5_vertrag_verlaengern"  data-button-text="Vertrag verlängern" data-category-href="/services/vertrag/vertragsverlaengerung/">
+  <a class="link-text -no-underline js-primary-link" href="/services/vertrag/vertragsverlaengerung/" tabindex="1000">
+        <span class="md-header__navigation-primary-item-icon">
+      <img src="/theme/images/md-header-primary-vvl.svg" alt="Icon" />
+    </span>
+        Vertrag verlängern
+  </a>
+</li>
+                                                                                <li class="search-v2">
+  <button class="link-text -no-underline" href="/suche/" tabindex="1100" aria-label="Such-Modal öffnen">
+    <i class="fas -no-padding fa-search fa-fw fa--flip-horizontal"></i>
+    <span class="hide-for-large">Suche</span>
+  </button>
+</li>
+                                                </ul>
+        </div>
+        <div class="md-header__navigation-wrapper js-md-header-menu-wrapper">
+            <div class="md-header__navigation-close js-md-header-menu-close">
+            <span class="md-header__navigation-close-text js-md-header-menu-close-button" tabindex="601">
+                Schließen
+                <i class="fal fa-2x fa-fw fa-times"></i>
+            </span>
+            </div>
+            <div class="md-header__navigation-secondary js-md-header-menu-secondary-container">
+                <div class="md-header__navigation-secondary-header js-md-header-menu-secondary-headline -back">
+                    Headline
+                </div>
+                                    <ul class="md-header__navigation-item md-header__navigation-secondary-item js-md-header-menu-secondary-item
+                            "
+                        data-menu-content="1_mobilfunk">
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="1_1_tarife_ohne_handy/Tarife ohne Handy"
+                                                                data-menu-link="1_1_tarife_ohne_handy"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-sim.svg" alt=""/>
+                                </span>
+                                    Tarife ohne Handy
+                                </a>
+                            </li>
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="1_2_handys/Handys"
+                                                                data-menu-link="1_2_handys"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-smartphone.svg" alt=""/>
+                                </span>
+                                    Handys
+                                </a>
+                            </li>
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="1_3_tablets_zubehoer/Tablets &amp; Zubehör"
+                                                                data-menu-link="1_3_tablets_zubehoer"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-tablet.svg" alt=""/>
+                                </span>
+                                    Tablets &amp; Zubehör
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="md-header__navigation-item md-header__navigation-secondary-item js-md-header-menu-secondary-item
+                            "
+                        data-menu-content="2_tv_internet">
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="2_1_tv/TV"
+                                                                data-menu-link="2_1_tv"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-tv.svg" alt=""/>
+                                </span>
+                                    TV
+                                </a>
+                            </li>
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="2_2_internet/Internet"
+                                                                data-menu-link="2_2_internet"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-internet.svg" alt=""/>
+                                </span>
+                                    Internet
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="md-header__navigation-item md-header__navigation-secondary-item js-md-header-menu-secondary-item
+                            "
+                        data-menu-content="3_service">
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="3_1_service/Service"
+                                                                data-menu-link="3_1_service"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-fragezeichen.svg" alt=""/>
+                                </span>
+                                    Service
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="md-header__navigation-item md-header__navigation-secondary-item js-md-header-menu-secondary-item
+                            "
+                        data-menu-content="4_mein_konto">
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="4_1_meine_daten/Meine Daten"
+                                                                data-menu-link="4_1_meine_daten"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-vertragperson.svg" alt=""/>
+                                </span>
+                                    Meine Daten
+                                </a>
+                            </li>
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="4_2_rechnungen_und_vertraege/Rechnungen &amp; Verträge"
+                                                                data-menu-link="4_2_rechnungen_und_vertraege"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-rechnung.svg" alt=""/>
+                                </span>
+                                    Rechnungen &amp; Verträge
+                                </a>
+                            </li>
+                                                                                <li
+                               class="-arrow"
+                                data-menu-path="4_3_meine_services/Meine Services"
+                                                                data-menu-link="4_3_meine_services"
+                                                            >
+                                <a class="link-text -color-secondary -no-underline js-secondary-link" href="#" >
+                                <span class="md-header__navigation-item-icon">
+                                    <img src="/theme/images/md-header-secondary-service.svg" alt=""/>
+                                </span>
+                                    Meine Services
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul class="md-header__navigation-item md-header__navigation-secondary-item js-md-header-menu-secondary-item
+                            "
+                        data-menu-content="5_vertrag_verlaengern">
+                                            </ul>
+                                <div class="md-header__navigation-secondary-button">
+                    <a class="button-text js-md-header-menu-secondary-button" href="/" tabindex="600">Button</a>
+                </div>
+            </div>
+            <div class="md-header__navigation-tertiary js-md-header-menu-tertiary-container">
+                <div class="md-header__navigation-tertiary-header js-md-header-menu-tertiary-headline -back">Headline</div>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="1_1_tarife_ohne_handy"
+                    >
+                                                                                <li data-menu-path="1_1_1_alle_tarife_ohne_handy/Alle Tarife ohne Handy"
+                                data-href-link="/handytarife/ohne-handy/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/ohne-handy/"
+                                   target="_self"
+                                   tabindex="621">
+                                    Alle Tarife ohne Handy
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_1_2_telekom_ohne_handy/Telekom"
+                                data-href-link="/handytarife/ohne-handy/telekom/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/ohne-handy/telekom/"
+                                   target="_self"
+                                   tabindex="622">
+                                    Telekom
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_1_3_vodafone_ohne_handy/Vodafone"
+                                data-href-link="/handytarife/ohne-handy/vodafone/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/ohne-handy/vodafone/"
+                                   target="_self"
+                                   tabindex="623">
+                                    Vodafone
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_1_4_telefonica_ohne_handy/o2 &amp; Telefonica"
+                                data-href-link="/handytarife/ohne-handy/telefonica/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/ohne-handy/telefonica/"
+                                   target="_self"
+                                   tabindex="624">
+                                    o2 &amp; Telefonica
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_1_5_unlimited_datenvolumen/Unlimited Datenvolumen"
+                                data-href-link="/handytarife/ohne-handy/unbegrenztes-datenvolumen/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/ohne-handy/unbegrenztes-datenvolumen/"
+                                   target="_self"
+                                   tabindex="625">
+                                    Unlimited Datenvolumen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_1_6_handyvertrag_monatlich_kuendbar/Monatlich kündbare Tarife"
+                                data-href-link="/handytarife/handyvertrag-monatlich-kuendbar/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handytarife/handyvertrag-monatlich-kuendbar/"
+                                   target="_self"
+                                   tabindex="626">
+                                    Monatlich kündbare Tarife
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="1_2_handys"
+                    >
+                                                                                <li data-menu-path="1_2_1_handys_mit_vertrag/Handy mit Vertrag"
+                                data-href-link="/handys-smartphones/handys-mit-vertrag/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/handys-mit-vertrag/"
+                                   target="_self"
+                                   tabindex="641">
+                                    Handy mit Vertrag
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_2_2_handys_ohne_vertrag/Handy ohne Vertrag"
+                                data-href-link="/handys-smartphones/handys-ohne-vertrag/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/handys-ohne-vertrag/"
+                                   target="_self"
+                                   tabindex="642">
+                                    Handy ohne Vertrag
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_2_3_apple_handys/Apple"
+                                data-href-link="/handys-smartphones/apple/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/apple/"
+                                   target="_self"
+                                   tabindex="643">
+                                    Apple
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_2_4_samsung_handys/Samsung"
+                                data-href-link="/handys-smartphones/samsung/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/samsung/"
+                                   target="_self"
+                                   tabindex="644">
+                                    Samsung
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_2_5_google_handys/Google"
+                                data-href-link="/handys-smartphones/google/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/google/"
+                                   target="_self"
+                                   tabindex="645">
+                                    Google
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_2_6_xiaomi_handys/Xiaomi"
+                                data-href-link="/handys-smartphones/xiaomi/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/handys-smartphones/xiaomi/"
+                                   target="_self"
+                                   tabindex="646">
+                                    Xiaomi
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="1_3_tablets_zubehoer"
+                    >
+                                                                                <li data-menu-path="1_3_1_tablets_mit_vertrag/Tablet mit Vertrag"
+                                data-href-link="/tablets/tablets-mit-vertrag/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/tablets/tablets-mit-vertrag/"
+                                   target="_self"
+                                   tabindex="661">
+                                    Tablet mit Vertrag
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_3_2_tablets_ohne_vertrag/Tablet ohne Vertrag"
+                                data-href-link="/tablets/tablets-ohne-vertrag/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/tablets/tablets-ohne-vertrag/"
+                                   target="_self"
+                                   tabindex="662">
+                                    Tablet ohne Vertrag
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="1_3_3_alle_zubehoer-angebote/Alle Zubehör-Angebote"
+                                data-href-link="/zubehoer/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/zubehoer/"
+                                   target="_self"
+                                   tabindex="663">
+                                    Alle Zubehör-Angebote
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="2_1_tv"
+                    >
+                                                                                <li data-menu-path="2_1_1_freenet_tv/freenet TV – Live-TV über Antenne"
+                                data-href-link="/tv/freenet-tv/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/tv/freenet-tv/"
+                                   target="_self"
+                                   tabindex="721">
+                                    freenet TV – Live-TV über Antenne
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="2_1_2_waipu.tv/waipu.tv – Live-TV als Stream"
+                                data-href-link="/lps/waipu-tv/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/lps/waipu-tv/"
+                                   target="_self"
+                                   tabindex="722">
+                                    waipu.tv – Live-TV als Stream
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="2_2_internet"
+                    >
+                                                                                <li data-menu-path="2_2_1_5g_router/5G Router mit Vertrag"
+                                data-href-link="/5g-router-mit-vertrag/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/5g-router-mit-vertrag/"
+                                   target="_self"
+                                   tabindex="741">
+                                    5G Router mit Vertrag
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="3_1_service"
+                    >
+                                                                                <li data-menu-path="3_1_1_kundenapp/freenet Mobilfunk App"
+                                data-href-link="/digitale-welt/kundenapp/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/digitale-welt/kundenapp/"
+                                   target="_self"
+                                   tabindex="821">
+                                    freenet Mobilfunk App
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="3_1_2_einrichtungsservice/Einrichtungsservice"
+                                data-href-link="/services/handy-einrichten/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/services/handy-einrichten/"
+                                   target="_self"
+                                   tabindex="822">
+                                    Einrichtungsservice
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="3_1_3_rufnummermitnahme/Rufnummermitnahme"
+                                data-href-link="/service/vertrag-konditionen/rufnummernmitnahme/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/service/vertrag-konditionen/rufnummernmitnahme/"
+                                   target="_self"
+                                   tabindex="823">
+                                    Rufnummermitnahme
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="3_1_4_meine_auftraege/Meine Aufträge"
+                                data-href-link="/shop/order-status">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/shop/order-status"
+                                   target="_self"
+                                   tabindex="824">
+                                    Meine Aufträge
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="4_1_meine_daten"
+                    >
+                                                                                <li data-menu-path="4_1_1_uebersicht_meiner_daten/Übersicht meiner Daten"
+                                data-href-link="/onlineservice/meine-daten">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten"
+                                   target="_self"
+                                   tabindex="921">
+                                    Übersicht meiner Daten
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_1_2_adresse_aendern/Adresse ändern"
+                                data-href-link="/onlineservice/meine-daten/kontaktadresse-aendern">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten/kontaktadresse-aendern"
+                                   target="_self"
+                                   tabindex="922">
+                                    Adresse ändern
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_1_3_bankverbindung_aendern/Bankverbindung ändern"
+                                data-href-link="/onlineservice/meine-daten/bankverbindung-aendern">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten/bankverbindung-aendern"
+                                   target="_self"
+                                   tabindex="923">
+                                    Bankverbindung ändern
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_1_4_mail_aendern/E-Mail-Adresse ändern"
+                                data-href-link="/onlineservice/meine-daten/email-aendern">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten/email-aendern"
+                                   target="_self"
+                                   tabindex="924">
+                                    E-Mail-Adresse ändern
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_1_5_passwort_aendern/Passwort ändern"
+                                data-href-link="/onlineservice/meine-daten/passwort-aendern">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten/passwort-aendern"
+                                   target="_self"
+                                   tabindex="925">
+                                    Passwort ändern
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="4_2_rechnungen_und_vertraege"
+                    >
+                                                                                <li data-menu-path="4_2_1_rechnungen/Rechnungen"
+                                data-href-link="/onlineservice/meine-rechnungen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-rechnungen"
+                                   target="_self"
+                                   tabindex="941">
+                                    Rechnungen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_2_BK_Angebote/Angebote"
+                                data-href-link="/bk-angebote/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/bk-angebote/"
+                                   target="_self"
+                                   tabindex="942">
+                                    Angebote
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_3_vertraege/Verträge"
+                                data-href-link="/onlineservice/meine-vertraege">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-vertraege"
+                                   target="_self"
+                                   tabindex="943">
+                                    Verträge
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_4_vertrag_verlängern/Vertrag verlängern"
+                                data-href-link="/online-service/#/meine-vertraege/vertragsdetails/vertragsverlaengerung/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/online-service/#/meine-vertraege/vertragsdetails/vertragsverlaengerung/"
+                                   target="_self"
+                                   tabindex="944">
+                                    Vertrag verlängern
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_5_vertrag_kuendigen/Vertrag beenden und mehr"
+                                data-href-link="/services/vertrag/kuendigung/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/services/vertrag/kuendigung/"
+                                   target="_self"
+                                   tabindex="945">
+                                    Vertrag beenden und mehr
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_6_zusatzoptionen_buchen/Zusatzoptionen buchen"
+                                data-href-link="/onlineservice/meine-vertraege/optionen-anpassen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-vertraege/optionen-anpassen"
+                                   target="_self"
+                                   tabindex="946">
+                                    Zusatzoptionen buchen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_7_digitale_produkte_kündigen/Digitale Produkte kündigen"
+                                data-href-link="/onlineservice/meine-vertraege/optionen-kuendigen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-vertraege/optionen-kuendigen"
+                                   target="_self"
+                                   tabindex="947">
+                                    Digitale Produkte kündigen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_8_offene_rechnungen_bezahlen/Offene Rechnungen bezahlen"
+                                data-href-link="/onlineservice/meine-rechnungen/offene-rechnung">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-rechnungen/offene-rechnung"
+                                   target="_self"
+                                   tabindex="948">
+                                    Offene Rechnungen bezahlen
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="4_2_rechnungen_und_vertraege_loggedin"
+                    >
+                                                                                <li data-menu-path="4_2_1_rechnungen/Rechnungen"
+                                data-href-link="/onlineservice/meine-rechnungen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-rechnungen"
+                                   target="_self"
+                                   tabindex="941">
+                                    Rechnungen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_2_BK_Angebote/Angebote"
+                                data-href-link="/bk-angebote/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/bk-angebote/"
+                                   target="_self"
+                                   tabindex="942">
+                                    Angebote
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_3_vertraege/Verträge"
+                                data-href-link="/online-service/#/meine-vertraege">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/online-service/#/meine-vertraege"
+                                   target="_self"
+                                   tabindex="943">
+                                    Verträge
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_4_erinnerungsservice/Erinnerungsservice"
+                                data-href-link="/onlineservice/meine-daten/vertragsverlaengerung/reminder">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-daten/vertragsverlaengerung/reminder"
+                                   target="_self"
+                                   tabindex="944">
+                                    Erinnerungsservice
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_5_vertrag_kuendigen/Vertrag kündigen"
+                                data-href-link="/services/vertrag/kuendigung/">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/services/vertrag/kuendigung/"
+                                   target="_self"
+                                   tabindex="945">
+                                    Vertrag kündigen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_6_zusatzoptionen_buchen/Zusatzoptionen buchen"
+                                data-href-link="/online-service/#/meine-vertraege/vertragsdetails/zusatzoptionen/VG_1_3">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/online-service/#/meine-vertraege/vertragsdetails/zusatzoptionen/VG_1_3"
+                                   target="_self"
+                                   tabindex="946">
+                                    Zusatzoptionen buchen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_7_digitale_produkte_kündigen/Digitale Produkte kündigen"
+                                data-href-link="/onlineservice/digitale-produkte-kuendigen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/digitale-produkte-kuendigen"
+                                   target="_self"
+                                   tabindex="947">
+                                    Digitale Produkte kündigen
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_2_8_offene_rechnungen_bezahlen/Offene Rechnungen bezahlen"
+                                data-href-link="/onlineservice/meine-rechnungen/offene-rechnung">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-rechnungen/offene-rechnung"
+                                   target="_self"
+                                   tabindex="948">
+                                    Offene Rechnungen bezahlen
+                                </a>
+                            </li>
+                                            </ul>
+                                    <ul
+                        class="
+                    md-header__navigation-item md-header__navigation-tertiary-item
+                    js-md-header-menu-tertiary-item
+                    "
+                        data-menu-content="4_3_meine_services"
+                    >
+                                                                                <li data-menu-path="4_3_1_mein_postfach/Mein Postfach"
+                                data-href-link="/onlineservice/meine-vertraege/postfach">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-vertraege/postfach"
+                                   target="_self"
+                                   tabindex="961">
+                                    Mein Postfach
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_3_2_drittanbietersperre/Drittanbietersperre"
+                                data-href-link="/onlineservice/meine-vertraege/drittanbietersperre">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/meine-vertraege/drittanbietersperre"
+                                   target="_self"
+                                   tabindex="962">
+                                    Drittanbietersperre
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_3_3_ersatz-sim/Ersatz-SIM + eSIM"
+                                data-href-link="/onlineservice/sim-verwaltung/ersatz-sim-bestellen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/sim-verwaltung/ersatz-sim-bestellen"
+                                   target="_self"
+                                   tabindex="963">
+                                    Ersatz-SIM + eSIM
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_3_4_PUK_sperren/PUK + SIM sperren"
+                                data-href-link="/onlineservice/sim-verwaltung">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/sim-verwaltung"
+                                   target="_self"
+                                   tabindex="964">
+                                    PUK + SIM sperren
+                                </a>
+                            </li>
+                                                                                <li data-menu-path="4_3_5_mehrfachsim/Mehrfach-SIM"
+                                data-href-link="/onlineservice/sim-verwaltung/mehrfach-sim-bestellen">
+                                <a class="link-text -color-secondary -underline-on-hover js-tertiary-link"
+                                   href="/onlineservice/sim-verwaltung/mehrfach-sim-bestellen"
+                                   target="_self"
+                                   tabindex="965">
+                                    Mehrfach-SIM
+                                </a>
+                            </li>
+                                            </ul>
+                            </div>
+            <div class="md-header__navigation-detach js-md-header-menu-detach-container"></div>
+            <div class="md-header__navigation-button js-md-header-menu-desktop-button-wrapper">
+                <a class="button-text js-md-header-menu-desktop-button" href="/" tabindex="698">
+                    Button
+                </a>
+            </div>
+                    </div>
+    </div>
+
+            </div>
+        </div>
+        <div class="md-header__shadow js-md-header-shadow"></div>
+    </div>
+    <div class="nav-breadcrumb">
+        <nav></nav>
+    </div>
+    </header>
+<div class="search-overlay__backdrop show-for-large hide"></div>
+<div class="search-overlay hide">
+    <div class="show-for-large">
+        <a href="#" class="search-overlay__close" aria-label="Suche schließen" role="button">
+            Schließen
+        </a>
+        <div class="headline2 -align-center">Wonach suchst du?</div>
+    </div>
+    <div class="search-overlay__input-row">
+        <button class="search-overlay__input-row__back-button hide-for-large" type="button" aria-label="Suche schließen">
+            <i class="fas fa-arrow-left"></i>
+        </button>
+        <label for="search-overlay__input-row__input" class="search-overlay__input-row__input-label">
+            <input id="search-overlay__input-row__input" class="search-overlay__input-row__input form-search__input" placeholder="&nbsp;" aria-label="Suchbegriff" type="search" />
+            <div class="search-overlay__input-row__buttons">
+                <button tabindex="-1" class="search-overlay__input-row__remove-button" type="button" aria-label="Sucheingabe löschen">
+                    <i class="fal fa-times"></i>
+                </button>
+                <button tabindex="-1" class="search-overlay__input-row__submit-button" type="submit" aria-label="Alle Suchergebnisse anzeigen">
+                    <i class="far fa-search"></i>
+                </button>
+            </div>
+        </label>
+    </div>
+    <div class="search-overlay__hint text-center">
+        <p>Gib einen Suchbegriff ein, um nach Produkten und Angeboten zu suchen.</p>
+    </div>
+    <div class="form-search__suggestions" style="display:none;"></div>
+</div>
+
+    <div 
+        class="site-md__main-content"
+    >
+         <ecom-banderole code='banderole-wm26'></ecom-banderole>
+          <ecom-bubble container-id='TvhPTJKbN2AlhKKE1CD4l'></ecom-bubble>
+                     <div data-cf-id="cf-2aChDKQ6lKbGyScRKuLLPc" class="cf-page">
+                                
+                <section class="placeholder-webcomponent js-startseite-nk-buhne-basic">
+    <span id="ZI8v9GiTLhELMONpZaV3L" class="anchor-spacer" data-anchor="jumpTo|ZI8v9GiTLhELMONpZaV3L|0" data-anchor-delay="1000"></span>
+    <ecom-stage-basic container-id='7x4rITQFvfIh07VdhHRcl3'></ecom-stage-basic>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <section class="placeholder-webcomponent js-startseite-nk-sim-only-teaser">
+    <span id="1B7w5IM0zCAwNdZdIEylsV" class="anchor-spacer" data-anchor="jumpTo|1B7w5IM0zCAwNdZdIEylsV|0" data-anchor-delay="1000"></span>
+    <ecom-teaser-slider container-id='2NFO7jWtZei8YDSPQjVXVp'></ecom-teaser-slider>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <section class="placeholder-webcomponent js-startseite-nk-sim-only-teaser-test-unlimited">
+    <span id="7chSEEIVzXQTpK5ikVUcTG" class="anchor-spacer" data-anchor="jumpTo|7chSEEIVzXQTpK5ikVUcTG|0" data-anchor-delay="1000"></span>
+    <ecom-teaser-slider container-id='4cbWlsaMnRLpGiPBTL4FUo'></ecom-teaser-slider>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <section class="placeholder-webcomponent js-startseite-nk-bundle-teaser">
+    <span id="4Xp4RwvYDzBdzYR7G4hNme" class="anchor-spacer" data-anchor="jumpTo|4Xp4RwvYDzBdzYR7G4hNme|0" data-anchor-delay="1000"></span>
+    <ecom-teaser-slider container-id='21TyVdbE9Oq5i7FmrMFw8s'></ecom-teaser-slider>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <section class="placeholder-webcomponent js-startseite-nk-generisch-waipu-tv-neu">
+    <span id="1Bp9LfVGY1trvIYWTfSk51" class="anchor-spacer" data-anchor="jumpTo|1Bp9LfVGY1trvIYWTfSk51|0" data-anchor-delay="1000"></span>
+    <ecom-teaser-slider container-id='7uCS8fcrs8g9S6OJtMtXU3'></ecom-teaser-slider>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <section class="placeholder-webcomponent js-startseite-nk-generisch-waipu-tv">
+    <span id="2kJxFeI5qELg2oMU82t0Za" class="anchor-spacer" data-anchor="jumpTo|2kJxFeI5qELg2oMU82t0Za|0" data-anchor-delay="1000"></span>
+    <ecom-info-box container-id='49yFaMRPFp7J7NnpxjCud3'></ecom-info-box>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   <section class="placeholder-webcomponent js-startseite-nk-bedarfskomponente">
+    <span id="4wtLLDSxJODJezcgYXyNFG" class="anchor-spacer" data-anchor="jumpTo|4wtLLDSxJODJezcgYXyNFG|0" data-anchor-delay="1000"></span>
+    <ecom-requirement container-id='4GG98fngt8hCdeABNq1NoT'></ecom-requirement>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <section class="placeholder-webcomponent js-startseite-nk-shopfinder">
+    <span id="4dqCfQQZ6hhWVQFCVvSYgW" class="anchor-spacer" data-anchor="jumpTo|4dqCfQQZ6hhWVQFCVvSYgW|0" data-anchor-delay="1000"></span>
+    <ecom-category container-id='75gw3U3dCLKKk9TNqwiK6e'></ecom-category>
+
+</section>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </div>
+    </div>
+
+    <ecom-trusted-badge trusted-shops-id='X00ABD3959729C422C7594B45C824D4BD'></ecom-trusted-badge>
+
+
+
+<ecom-footer breadcrumb-parts='[]'></ecom-footer>
+
+<noscript><iframe src="https://tm.dp.freenet.de/ns.html?id=GTM-M834XVFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script type="text/javascript">
+        const containerId = 'GTM-M834XVFK';
+        const gtmSrc = '//tm.dp.freenet.de/gtm.js';
+
+        !function t(e,n,r){function o(i,c){if(!n[i]){if(!e[i]){var u="function"==typeof require&&require;if(!c&&u)return u(i,!0);if(a)return a(i,!0);var s=new Error("Cannot find module '"+i+"'");throw s.code="MODULE_NOT_FOUND",s}var f=n[i]={exports:{}};e[i][0].call(f.exports,(function(t){return o(e[i][1][t]||t)}),f,f.exports,t,e,n,r)}return n[i].exports}for(var a="function"==typeof require&&require,i=0;i<r.length;i++)o(r[i]);return o}({1:[function(t,e,n){"use strict";function r(t){return r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t},r(t)}window.dataLayer=window.dataLayer||[],function(t,e){var n=!1,o=function(t){var e=document.cookie.match("(^|;)\\s*"+t+"\\s*=\\s*([^;]+)");return e?decodeURIComponent(e.pop()):""},a=function(){return"2"===o("_faq_lst")},i=function(t){var e;try{e=JSON.parse(t)}catch(t){return}window.dataLayer.push({event:"contractData",contractData:e,acr:a()?1:0})},c=function(){!function(t,n,r,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=n.getElementsByTagName(r)[0],c=n.createElement(r);c.async=!0,c.src=(e||"//www.googletagmanager.com/gtm.js")+"?id="+a,i.parentNode.insertBefore(c,i),i.parentNode.insertBefore(c,i)}(window,document,"script","dataLayer",t||""),n=!0},u=function(){var t=window.ActiveXObject?new window.ActiveXObject("Microsoft.XMLHTTP"):new window.XMLHttpRequest,e=window.location.href.indexOf("klarmobil.de")>-1?"/service/faq":"/kontakt";t.addEventListener("load",(function(){!function(t){if(200===t.status&&t.response.length){var e=JSON.parse(t.responseText);if(e.hasOwnProperty("result")){var r=JSON.stringify(e.result);s!==r&&(window.sessionStorage.setItem("contractData",r),i(r))}}n||c()}(t)}),!1),t.open("GET",e+"/contract-data.php",!0),t.send()},s=window.sessionStorage.getItem("contractData");s?(i(s),c(),u()):a()&&function(){var t=function(){var t=o("iab_purposes"),e=t.length>0;if(e){try{t=JSON.parse(t)}catch(t){return!1}for(var n="object"===r(t),a=1;n&&a<=11;a++)n=t.hasOwnProperty(a)&&"boolean"==typeof t[a]}return e?t:null}();if(null===t)return!1;var e=!0;return["1","3","5","6","7","8","9","10"].forEach((function(n){!1===t[n]&&(e=!1)})),e}()?u():c()}(containerId,gtmSrc)},{}]},{},[1]);
+    </script>
+
+
+</div>
+<script>console.log('');</script>
+
+
+
+  
+    <script>
+      setTimeout(() => {
+           const styles = ["https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-stage-basic/ecom-stage-basic.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-teaser-slider/ecom-teaser-slider.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-info-box/ecom-info-box.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-requirement/ecom-requirement.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-category/ecom-category.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-trusted-badge/ecom-trusted-badge.styles.css.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-footer/ecom-footer.styles.css.gz"];
+        styles.forEach(href => {
+          const link = document.createElement('link');
+          link.rel = 'stylesheet';
+          link.href = href;
+          document.body.appendChild(link);
+        });
+          
+        const scripts = ["https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-stage-basic/ecom-stage-basic.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-teaser-slider/ecom-teaser-slider.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-info-box/ecom-info-box.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-requirement/ecom-requirement.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-category/ecom-category.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-trusted-badge/ecom-trusted-badge.js.gz","https://fnm-prod-components.s3.eu-central-1.amazonaws.com/ecom-footer/ecom-footer.js.gz"];
+        scripts.forEach(src => {
+          const script = document.createElement('script');
+          script.src = src;
+          document.body.appendChild(script);
+        });
+      }, 1000);
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a307c1b27ba9dca6',t:'MTc4NzYzMTEyNw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

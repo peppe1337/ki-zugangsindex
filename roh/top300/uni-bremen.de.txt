@@ -1,0 +1,43 @@
+User-agent: *
+
+# Only allow URLs generated with RealURL
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# no search results
+Disallow: /suchen
+Disallow: /search
+Disallow: /suchen?q
+Disallow: /search?q
+Disallow: /*?tx_solr[q]=
+
+# typeNum = 98 is usually the print version.
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+
+# Should always be protected (.htaccess)
+Disallow: /*/Private/*
+Disallow: /fileadmin/templates/html/*
+Disallow: /*/Configuration/*
+
+Disallow: /typo3temp/*
+
+Disallow: *.sql
+Disallow: *.sql.gz
+
+Sitemap: https://www.uni-bremen.de/sitemap.xml
+
+User-agent: googlebot
+Allow: /typo3temp/*.css$
+Allow: /typo3temp/*.css.*.gzip$
+Allow: /typo3temp/*.js$
+Allow: /typo3temp/*.js.*.gzip$
+Allow: /typo3temp/*.jpg$
+Allow: /typo3temp/*.gif$
+Allow: /typo3temp/*.png$
+#Crawl - delay
+Crawl-delay: 10

@@ -1,0 +1,25 @@
+User-agent: Yandex
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: OGDWCtxCrawler
+Disallow:
+
+User-agent: *
+Allow: /
+Disallow: /cse?q=
+Disallow: */1000$
+Disallow: */1000/$
+Sitemap: https://www.mopo.de/sitemapindex.xml
+Sitemap: https://www.mopo.de/tag/hamburg/im-norden/sport/news/horoskop/rausgehen/podcast/ratgeber?lab_viewport=newssitemap

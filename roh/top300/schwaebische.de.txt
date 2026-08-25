@@ -1,0 +1,65 @@
+User-agent: *
+Disallow: /api/
+Disallow: /cdn-cgi/
+Disallow: /REST/
+
+User-agent: Google-Extended
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: GPTBot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: ChatGPT-User
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: CCBot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: ClaudeBot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: Bytespider
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: Amazonbot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: Applebot-Extended
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: Arquivo-web-crawler
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: anthropic-ai
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /ratgeber/
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /ratgeber/
+Disallow: /
+
+
+Sitemap: https://www.schwaebische.de/sitemaps/sch/google-news-sitemap-index.xml
+Sitemap: https://www.schwaebische.de/sitemaps/sch/organic-sitemap-index.xml
+Sitemap: https://www.schwaebische.de/sitemaps/sch/themen/index.xml

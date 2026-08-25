@@ -1,0 +1,13 @@
+Sitemap: https://noris.de/sitemap_index.xml
+Sitemap: https://noris.de/en/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Schont Server-Ressourcen vor aggressiven Crawlern
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /

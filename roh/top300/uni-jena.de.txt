@@ -1,0 +1,27 @@
+User-agent: *
+
+Allow: /pub/theme/vorlage_fe/skin/_css/*.css$
+Allow: /pub/theme/vorlage_fe/skin/_css/*.css?
+Allow: /pub/theme/vorlage_fe/skin/_js/*.js$
+Allow: /pub/theme/vorlage_fe/skin/_js/*.js?
+Allow: /pub/theme/vorlage_fe/skin/_images/*.png
+Allow: /pub/theme/vorlage_fe/skin/_images/*.svg
+Allow: /pub/theme/vorlage_fe/skin/fonts/*.woff2
+
+Allow: /skin/*.css$
+Allow: /skin/*.css?
+Allow: /skin/*.js$
+Allow: /skin/*.js?
+Allow: /skin/*.png
+Allow: /skin/*.svg
+
+Disallow: /bin/
+Disallow: /kerb/
+Disallow: /lib/
+Disallow: /pub/
+Disallow: /setup/
+Disallow: /site/
+Disallow: /skin/
+Disallow: /var/
+
+Sitemap: https://www.uni-jena.de/sitemap.xml

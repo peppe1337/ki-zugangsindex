@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /pickup.
+Disallow: /inline.
+Disallow: /d.
+
+########################################################
+#                                                      #
+# ACHTUNG: Diese Datei wird automatisch generiert.     #
+#          Manuelle Aenderungen werden ueberschrieben! #
+#                                                      #
+########################################################
+

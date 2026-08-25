@@ -1,0 +1,205 @@
+User-agent: *
+Allow: /
+Disallow: /bpn/getRequestPermissionParams
+Disallow: /cdn-cgi/
+Disallow: /selection
+Disallow: /assets/js/share/thread-embed.js
+Disallow: /admin
+Disallow: /login
+Disallow: /graphql
+Disallow: /gutscheine/api/*
+Disallow: /gutscheine/loading/*
+Disallow: /gutscheine/m/clickout
+Disallow: /gutscheine/m/click-*
+Disallow: /gutscheine/m/cn-clickout*
+Disallow: /gutscheine/clickout/*
+Disallow: /gutscheine/user/submit
+Disallow: /gutscheine/*?preview
+Disallow: /gutscheine/m/clickout/*
+Disallow: /rest-api/
+Disallow: /*?layout=*
+Disallow: /*&layout=*
+Disallow: /*?hide_local=*
+Disallow: /*&hide_local=*
+Disallow: /*?hide_expired=*
+Disallow: /*&hide_expired=*
+Disallow: /*?priceFrom=*
+Disallow: /*&priceFrom=*
+Disallow: /*?priceTo=*
+Disallow: /*&priceTo=*
+Disallow: /*?sortBy=*
+Disallow: /*&sortBy=*
+Disallow: /*?temperatureFrom=*
+Disallow: /*&temperatureFrom=*
+Disallow: /*?temperatureTo=*
+Disallow: /*&temperatureTo=*
+Disallow: /*?groups=*
+Disallow: /*&groups=*
+Disallow: /*?time_frame=*
+Disallow: /*&time_frame=*
+Disallow: /*?retailers=*
+Disallow: /*&retailers=*
+Disallow: /*?search_fields=*
+Disallow: /*&search_fields=*
+Disallow: /*?threadTypes=*
+Disallow: /*&threadTypes=*
+Disallow: /*?merchant-id=*
+Disallow: /*&merchant-id=*
+Disallow: /wl/*
+Disallow: /visit/
+Disallow: /search
+Disallow: /tmp/
+Disallow: /mercury/out*
+
+User-agent: ChatGPT-User
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: GPTBot
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: omgili
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Seekbot
+Disallow: /
+
+User-agent: Seekr
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: FirecrawlAgent
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: NovaAct
+Disallow: /
+
+User-agent: Operator
+Disallow: /
+Allow: /gutscheine/
+Disallow: /gutscheine/*0
+Disallow: /gutscheine/*1
+Disallow: /gutscheine/*2
+Disallow: /gutscheine/*3
+Disallow: /gutscheine/*4
+Disallow: /gutscheine/*5
+Disallow: /gutscheine/*6
+Disallow: /gutscheine/*7
+Disallow: /gutscheine/*8
+Disallow: /gutscheine/*9
+Sitemap: https://www.mydealz.de/sitemap/sitemap.xml.gz
+Sitemap: https://www.mydealz.de/gutscheine/sitemap.xml
+Sitemap: https://www.mydealz.de/magazin/sitemap_index.xml
+Sitemap: https://www.mydealz.de/magazin/news-sitemap.xml

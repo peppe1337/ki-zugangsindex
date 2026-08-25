@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+	<!-- Copyright (c) 2000-2023 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 5.0 -->
+<script type="text/javascript">
+var et_pagename = "__INDEX__Die Förderbank für die Agrarwirtschaft und den ländlichen Raum";
+// var et_areas = "";
+// var et_tval = 0;
+// var et_tsale = 0;
+// var et_tonr = "";
+// var et_basket = "";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-secure-code="hmgouE" src="//code.etracker.com/code/e.js" async></script>
+<!-- etracker tracklet 5.0 end -->
+<script type="text/javascript">
+		function _etrackerOnReady() {
+			_etracker.disableCookies('rentenbank.de');
+		} 
+	</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	
+		<title>Die Förderbank für die Agrarwirtschaft und den ländlichen Raum - Rentenbank</title>
+		<meta name="titel" content="Die Förderbank für die Agrarwirtschaft und den ländlichen Raum" />
+		<meta name="description" content="Die Landwirtschaftliche Rentenbank ist die deutsche Förderbank für die Agrarwirtschaft und den ländlichen Raum." />
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+	<meta name="titel" content="Die Förderbank für die Agrarwirtschaft und den ländlichen Raum" />
+	<meta name="description" content="Die Landwirtschaftliche Rentenbank ist die deutsche Förderbank für die Agrarwirtschaft und den ländlichen Raum." />
+	<meta name="keywords" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<meta name="robots" content="index,follow" />
+	<meta name="format-detection" content="telephone=no">
+	
+	<link rel="canonical" href="https://www.rentenbank.de/">
+	<link rel="shortcut icon" href="/_conf/system/pix/favicon.ico" type="image/x-icon" />
+	<script defer id="init-chatbot" src="/_conf/system/js/extra/cognigy-webchat.js" data-endpoint=https://endpoint-app.cognigy.ai/d7d65ca15b4889509746bb27e3d123882dad660ac17fdc6dfa35bf9b09618ad0></script>
+				<script defer src="/_conf/system/js/extra/custom-webchat.js"></script>
+				<link rel="stylesheet" media="screen" href="/_conf/system/js/extra/custom-webchat.css">
+			<link rel="stylesheet" type="text/css" href="/_conf/system/css/style.css?new" media="screen" />
+	<script src="/_conf/system/js/all.min.js?new"></script>
+
+	
+<link rel="stylesheet" href="/_conf/system/css/components/slideshow.css" type="text/css"></link>
+<link rel="stylesheet" href="/_conf/system/css/components/statement.css" type="text/css"></link>
+<script type="text/javascript" src="/_conf/system/js/components/slideshow.min.js"></script><link rel="stylesheet" type="text/css" href="/_conf/system/css/print.css" media="print" />
+	
+	<script src="/_conf/system/js/components/programmfinder.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/_conf/system/css/components/programmfinder-overlay.css" media="screen" />
+	
+	<link rel="stylesheet" type="text/css" href="/_conf/system/css/components/programmfinder/breadcrumb.css" media="screen" />
+	
+	<script type="text/javascript">
+		pic_globals.lang.close = "Schlie&szlig;en";
+		pic_globals.lang.open = "&Ouml;ffnen";
+		pic_globals.lang.next = "Weiter";
+		pic_globals.lang.prev = "Zur&uuml;ck";
+		
+		pic_globals.lang.your_choice = "Ihre Auswahl";
+		pic_globals.lang.please_choose = "bitte w&auml;hlen";
+		pic_globals.lang.download_image = "Bild herunterladen";
+		pic_globals.lang.closeMenu = "Men&uuml; schlie&szlig;en";
+		pic_globals.lang.closeSubmenu = "Untermen&uuml; schlie&szlig;en";
+		pic_globals.lang.openSubmenu = "Untermen&uuml; &ouml;ffnen";
+		pic_globals.lang.toggleSubmenu = "Untermen&uuml; auf/zu";
+		pic_globals.lang.show_search = "Suchformular einblenden";
+		pic_globals.lang.hide_search = "Suchformular ausblenden";
+	</script>
+	<script type="text/javascript">var contactPath = "/kontakte/weiterleitung.html";</script>
+	<!-- Style nur Temporär hier - Sobald Anpassung für Tabellen (Barrierefreiheit) veröffentlicht sind, kann der folgende CSS Abschnitt entfallen -->
+	<style type="text/css">
+	#wrapper .important_notice {
+		  background-color: #B60000;
+		  margin: 0 20px 40px 20px;
+		  max-width: 830px;
+		}
+		#wrapper .important_notice.incontent {
+		  margin: 0 auto 40px auto;
+		}
+		#wrapper .important_notice p {
+		  color: #fff;
+		  text-transform: none;
+		  font-size: 1.4rem;
+		  line-height: 2rem;
+		  text-align: left;
+		  padding: 15px 15px;
+		  margin: 0;
+		}
+		#wrapper .important_notice p a {
+		  display: inline;
+		  text-transform: none;
+		  color: #fff;
+		  font-size: 1em;
+		  padding: 0;
+		}
+		
+		#wrapper .dropdown .important_notice {
+			margin-bottom: 0px;
+		}
+	</style>
+</head><body class="body_de">
+	<div id="wrapper">
+		<!-- ANFANG iFrame Portal ausblenden -->
+		<div>
+			<link rel="stylesheet" type="text/css" href="/export/system/modules/de.planetic.opencms.module.consent_banner/resources/css/main.css" media="screen" />
+			<script src="/export/system/modules/de.planetic.opencms.module.consent_banner/resources/js/main.all.min.js_64251.js"></script>
+			<div class="consent-banner-wrapper " >
+					<div class="consent-banner">
+						<div class="consent-banner-inner">
+							<div class="paragraph">
+								<h2>Cookie Hinweise</h2>
+								<div class="consent-banner-text">
+										<p>Wir setzen auf unserer Website Cookies ein. Einige von ihnen sind für das Funktionieren der Webseite notwendig, während andere nicht notwendig sind und uns helfen, unser Onlineangebot zu verbessern und zu analysieren. Soweit es für diese Zwecke erforderlich ist, geben wir Ihre Daten (z.B. Ihre IP-Adresse, Ihr Nutzungsverhalten auf unserer Website) an unsere Partner weiter. Einige Partner behalten sich vor, Ihre übermittelten Informationen zu eigenen Zwecken (z.B. für die Anzeige von personalisierter Werbung, zur Verbesserung der eigenen Dienste) weiterzuverarbeiten. Unsere Partner führen die Informationen möglicherweise mit weiteren Daten, die Sie unseren Partnern anderweitig bereitstellen (z.B. auf anderen Webseiten, in Apps), zusammen. Ihre Informationen können dabei auch geräteübergreifend verknüpft werden. Wir weisen darauf hin, dass sich die Server unserer Partner in Drittländern befinden können, in denen gegebenenfalls kein gleichwertiges Datenschutzniveau gewährleistet ist.</p>
+<p>Sie können die Funktionen der Website für alle vorstehenden Zwecke ("Cookies Akzeptieren") oder nur für die von Ihnen angeklickten Zwecke ("Auswahl erlauben") aktivieren. Sie können auch alle Cookies ablehnen („Cookies Ablehnen“). Eine einmal erteilte Einwilligung können Sie jederzeit frei und mit Wirkung für die Zukunft über diesen Cookie-Banner widerrufen.</p>
+<p>Weitere Informationen über die Verarbeitung Ihrer Daten finden Sie in unseren <a title="Datenschutzhinweise" href="https://www.rentenbank.de/datenschutz/">Datenschutzhinweisen</a>. Unser Impressum finden Sie <a title="Impressum" href="https://www.rentenbank.de/impressum/">hier</a>.</p></div>
+								<div class="btn-container">
+									<button type="button" class="cookie-reject">Cookies ablehnen</button><button type="button" class="cookie-confirm">Auswahl erlauben</button><button type="button" class="cookie-accept">Cookies akzeptieren</button>	
+									</div>
+								<div class="accordion">
+									<div class="accordion-item">
+										<h3 id="accordion-label-1" aria-expanded="false" aria-controls="accordion-content-1" role="tab" class="accordion-label ">
+												Cookie-Einstellungen vornehmen</h3>
+										<div id="accordion-content-1" aria-labelledby="accordion-label-1" role="tabpanel" aria-hidden="true" class="accordion-content ">
+											<fieldset class="consent-options-container no-description">
+													<legend>Alle Auswählen</legend>
+													<div class="consent-options-box">
+														<label for="alle-off">
+															<input type="radio" name="alle" id="alle-off" value="off" checked class="sr-only">
+															<span>Aus</span>
+														</label>
+														<label for="alle-on">
+															<input type="radio" name="alle" id="alle-on" value="on" class="sr-only">
+															<span>An</span>
+														</label>
+													</div>
+												</fieldset>
+												<fieldset class="consent-options-container">
+															<legend>Essentiell</legend>
+															<p>Die essentiellen oder funktionellen Cookies sind für den Betrieb der Website notwendig. Sie werden nach dem Schließen des Browsers gelöscht.</p><div class="consent-options-box">
+																<label for="essentiell-off" class="disabled">
+																	<input type="radio" name="essentiell" id="essentiell-off" value="off" disabled class="sr-only">
+																	<span>Aus</span>
+																</label>
+																<label for="essentiell-on">
+																	<input type="radio" name="essentiell" id="essentiell-on" value="on" checked class="sr-only">
+																	<span>An</span>
+																</label>
+															</div>
+														</fieldset>
+													<fieldset class="consent-options-container">
+															<legend>JustRelate etracker</legend>
+															<p>Die Website setzt JustRelate etracker für die Website-Analyse ein.</p><div class="consent-options-box">
+																<label for="etracker-off">
+																	<input type="radio" name="etracker" id="etracker-off" value="off" checked class="sr-only">
+																	<span>Aus</span>
+																</label>
+																<label for="etracker-on">
+																	<input type="radio" name="etracker" id="etracker-on" value="on" class="sr-only">
+																	<span>An</span>
+																</label>
+															</div>
+														</fieldset>
+													<fieldset class="consent-options-container">
+															<legend>YouTube</legend>
+															<p>Die Website bindet Videos der von Google betriebenen Seite YouTube ein. Aktivieren Sie diesen Dienst, dann stimmen Sie Cookies von YouTube zu. YouTube nutzt zudem Schriften von Google Fonts.</p><div class="consent-options-box">
+																<label for="youtube-off">
+																	<input type="radio" name="youtube" id="youtube-off" value="off" checked class="sr-only">
+																	<span>Aus</span>
+																</label>
+																<label for="youtube-on">
+																	<input type="radio" name="youtube" id="youtube-on" value="on" class="sr-only">
+																	<span>An</span>
+																</label>
+															</div>
+														</fieldset>
+													<fieldset class="consent-options-container">
+                                                            <legend>Umantis Recruiting</legend>
+                                                            <p>Wir binden das Bewerbermanagement-System der Abacus Umantis AG ein. Wenn Sie diese Funktion aktivieren, werden Inhalte (z. B. Stellenanzeigen) von den Servern der Abacus Umantis AG geladen. Dabei werden technische Daten wie Ihre IP-Adresse an den Anbieter übertragen und Cookies gesetzt, um den Bewerbungsprozess zu ermöglichen.</p><div class="consent-options-box">
+                                                                <label for="umantis-off">
+                                                                    <input type="radio" name="umantis" id="umantis-off" value="off" checked class="sr-only">
+                                                                    <span>Aus</span>
+                                                                </label>
+                                                                <label for="umantis-on">
+                                                                    <input type="radio" name="umantis" id="umantis-on" value="on" class="sr-only">
+                                                                    <span>An</span>
+                                                                </label>
+                                                            </div>
+                                                        </fieldset>
+                                                    <fieldset class="consent-options-container">
+															<legend>Einstellungen merken</legend>
+															<p>Wenn Sie "Einstellungen merken" aktivieren, dann wird das Cookie-Banner erst wieder in 30 Tagen angezeigt. Dafür wird das Cookie "cookie-settings" mit einer Gültigkeit von 30 Tagen von Ihrem Browser gespeichert.</p><div class="consent-options-box">
+																<label for="merken-off">
+																	<input type="radio" name="merken" id="merken-off" value="off" checked class="sr-only">
+																	<span>Aus</span>
+																</label>
+																<label for="merken-on">
+																	<input type="radio" name="merken" id="merken-on" value="on" class="sr-only">
+																	<span>An</span>
+																</label>
+															</div>
+														</fieldset>
+													</div>
+									</div>
+								</div>
+								</div>
+						</div>
+					</div>
+				</div>
+			<div class="consent-banner-hint hint-content-for-js" aria-hidden="true">
+					<p>Um diesen Inhalt zu sehen, aktivieren Sie bitte die jeweilige Einstellung im Consent-Banner.<br />Klicken Sie <a href="#show-consent-banner">hier</a>, um Ihre Einstellungen anzupassen.</p></div>
+			</div>
+	<!-- ENDE iFrame Portal ausblenden -->
+		<!-- ANFANG iFrame Portal ausblenden -->
+		<header class="header">
+			
+
+<p class="skip_navi">Navigation und Service der Landwirtschaftlichen Rentenbank</p>
+<p class="skip_navi"><em>Springe direkt zu:</em></p>
+<nav class="skip_navi navbar" role="navigation" Sprunglinknavigation">
+<ul class="nav navbar-nav">
+    <li><a href="#content" title="Inhalt" class="sr-only">Inhalt</a></li>
+</ul>
+</nav><div class="header-inner">
+	<div class="logo-wrapper">
+	<a class="logo" href="/" title="Logo der Rentenbank"><span class="sr-only">Logo der Rentenbank</span></a>
+	<a class="logo-sticky" href="/" title="Logo der Rentenbank"><span class="sr-only">Logo der Rentenbank</span></a>
+</div><div class="navi-wrapper">
+				<nav class="navbar metanav hidden-xs" role="navigation" aria-label="Metanavigation">
+					<div class="navbar-inner">
+						<ul class="nav navbar-nav metanavi-left">
+								<li>
+										<a href="/research/" target="_self">Research</a>
+									</li>
+								<li>
+										<a href="/investor-relations/" target="_self">Investor Relations</a>
+									</li>
+								<li>
+										<a href="/ueber-uns/karriere/" target="_self">Jobs & Karriere</a>
+									</li>
+								</ul>
+						<a href="/" title="Logo der Rentenbank" class="metanavi-left-sticky logo-sticky"><span class="sr-only">Logo der Rentenbank</span></a>
+						<div class="metanavi-right">
+							<ul class="nav navbar-nav banken-foerderportal-links-mobil">
+										<li><a href="/banken-portal/" target="_self" title="Bankenportal" class="banken-foerderportal">Bankenportal</a></li>
+										<li><a class="banken-foerderportal" href="/zuschussprogramme/" target="_blank" title="Förderportale">Förderportale</a></li>
+										</ul>
+								<ul class="nav navbar-nav banken-foerderportal-links">
+									<li><a class="banken-foerderportal" href="/zuschussprogramme/" target="_blank" title="Förderportale">Förderportale</a></li>
+										<!-- Förderportal ENDE-->
+										<li class="dropdown" aria-expanded="false">
+											<a href="#" title="" data-toggle="dropdown" class="dropdown-toggle banken-foerderportal">Bankenportal</a>
+											<ul class="dropdown-menu dropdown-bankportal">
+												<li>
+													<button type="button" class="btn btn-default btn_close" title="Bankenportal SchlieÃen"><span class="icon icon-close-x" aria-hidden="true"></span></button>
+													<div>
+														<div class="row">
+															<div class="col-sm-12">
+																<form class="form_bankenportal form-inline" action="/banken-portal/" method="post">
+    <fieldset><legend>Login zum Portal f&uuml;r Banken</legend>
+        <div class="row">
+            <div class="form-group col-sm-4">
+                <label class="control-label sr-only" for="username_1">Nutzername*</label>
+                <input autocomplete="username" id="username_1" name="user" placeholder="Nutzername*" class="form-control" type="text">
+            </div>
+            <div class="form-group col-sm-4">
+                <label class="control-label sr-only" for="passwordinput_1">Passwort*</label>
+                <input autocomplete="current-password" id="passwordinput_1" name="pwd" placeholder="Passwort*" class="form-control" type="password">
+            </div>
+            <div class="form-group col-sm-4">
+                <label class="control-label" for="submit_1"></label>
+                <input type="hidden" name="targetUri" value="">
+                <input type="hidden" name="logoutUri" value="/banken-portal/">
+                <button id="submit_1" name="login" class="btn" value="true">Einloggen</button>
+				<span class="form_info">* Pflichtfeld</span>
+            </div>
+        </div>
+		<div class="linklist-bankenportal">
+			<a class="pw" href="/foerderangebote/banken-portal/" title="Passwort vergessen">Passwort vergessen</a>
+			<a class="new_register" href="/banken-portal/#emailform" title="Neu registrieren">Neu registrieren</a>
+			</div>
+    </fieldset>
+    <input id="id" name="id" type="hidden" value="" />
+</form></div>
+														</div>
+													</div>
+												</li>
+											</ul>
+										</li>
+										</ul>
+							<!-- Kontrast- und Sprachschalter -->
+							<ul class="nav navbar-nav additional_nav">
+				<li class="gebaerdensprache">
+						<a href="/gebaerdensprache/" title="Geb&auml;rdensprache" role="button" aria-label="Geb&auml;rdensprache">
+							<span class="sr-only">Geb&auml;rdensprache</span>
+						</a>
+					</li>
+				<li class="leichte_sprache">
+						<a href="/leichte-sprache/" title="Leichte Sprache" role="button" aria-label="Leichte Sprache">
+							<span class="sr-only">Leichte Sprache</span>
+						</a>
+					</li>
+				<li class="kontrastversion">
+					<a href="#" title="Kontrastversion" role="button" aria-label="Kontrastversion">
+						<span class="sr-only">Kontrastversion der Website anzeigen</span>
+					</a>
+				</li>
+
+
+
+				<li class="dropdown de" id="lang_chooser"><a title="Englische Sprachausgabe" class="en" href="/en/index.html"></a></li></ul>
+	<!-- Kontrast- und Sprachschalter ENDE -->
+						</div>	
+					</div>
+				</nav>
+			<div class="hauptnavigation" id="hauptnavigation">
+					<button title="Suche" type="button" class="search">
+						<span class="icon-lupe">
+							<span class="sr-only">Suche &ouml;ffnen</span>
+						</span>
+					</button>
+					<a class="mobile_btn" href="#mmenu-anchor" aria-controls="mmenu-anchor" title="Mobiles Menü öffnen" role="button">
+						<p class="sr-only">Mobiles Menü öffnen</p>
+						<span aria-hidden="true"></span>
+					</a>
+					<nav id="mmenu-anchor" class="mainnavi" role="navigation" aria-label="Hauptnavigation">
+						<ul>
+							<li class="pic-dropdown " aria-expanded="false">
+											<a href="/foerderkredite/" title="Förderkredite" target="_self">Förderkredite</a>
+												<ul class="pic-dropdown-menu">
+												
+													<li class="openFinder"><a href="#">Welcher Förderkredit passt zu mir?</a></li>
+													<li >
+															<a href="/foerderkredite/laendliche-entwicklung/" title="Ländliche Entwicklung" target="_self">Ländliche Entwicklung</a>
+															</li>
+													<li >
+															<a href="/foerderkredite/konditionen/" title="Konditionen" target="_self">Konditionen</a>
+															</li>
+													<li >
+															<a href="/foerderkredite/zinsbonus-klimabilanz/" title="Zinsbonus Klimabilanz" target="_self">Zinsbonus Klimabilanz</a>
+															</li>
+													<li >
+															<a href="/foerderkredite/darlehensrechner/" title="Darlehensrechner" target="_self">Darlehensrechner</a>
+															</li>
+													<li >
+															<a href="/foerderkredite/foerderstories/" title="Förderstories" target="_self">Förderstories</a>
+															</li>
+													</ul>
+											</li>
+									<li class="pic-dropdown " aria-expanded="false">
+											<a href="/zuschussprogramme/" title="Zuschussprogramme" target="_self">Zuschussprogramme</a>
+												<ul class="pic-dropdown-menu">
+												
+													<li >
+															<a href="/zuschussprogramme/ank-nabo/" title="BMUKN: Maschinenförderung" target="_self">BMUKN: Maschinenförderung</a>
+															</li>
+													<li >
+															<a href="/zuschussprogramme/ank-palu/" title="BMUKN: Moorwiedervernässung" target="_self">BMUKN: Moorwiedervernässung</a>
+															</li>
+													<li >
+															<a href="/zuschussprogramme/klimabilanz/" title="Zuschuss Klimabilanz" target="_self">Zuschuss Klimabilanz</a>
+															</li>
+													</ul>
+											</li>
+									<li class="pic-dropdown " aria-expanded="false">
+											<a href="/innovation/" title="Innovation" target="_self">Innovation</a>
+												<ul class="pic-dropdown-menu">
+												
+													<li >
+															<a href="/innovation/markteinfuehrung-alternativer-antriebstechnologien/" title="Markteinführung alternativer Antriebssysteme" target="_self">Markteinführung alternativer Antriebssysteme</a>
+															</li>
+													<li >
+															<a href="/innovation/start-up-finanzierung/" title="Start-up-Finanzierung" target="_self">Start-up-Finanzierung</a>
+															</li>
+													<li >
+															<a href="/innovation/start-up-programme/" title="Start-up-Programme" target="_self">Start-up-Programme</a>
+															</li>
+													<li >
+															<a href="/innovation/vc-beteiligungen/" title="VC-Beteiligungen" target="_self">VC-Beteiligungen</a>
+															</li>
+													<li >
+															<a href="/innovation/newsletter/" title="Newsletter" target="_self">Newsletter</a>
+															</li>
+													</ul>
+											</li>
+									<li class="pic-dropdown " aria-expanded="false">
+											<a href="/nachhaltigkeit/" title="Nachhaltigkeit" target="_self">Nachhaltigkeit</a>
+												<ul class="pic-dropdown-menu">
+												
+													<li >
+															<a href="/nachhaltigkeit/strategie-und-kommunikation/" title="Strategie & Kommunikation" target="_self">Strategie & Kommunikation</a>
+															</li>
+													<li >
+															<a href="/nachhaltigkeit/business-ethics-governance/" title="Business Ethics / Governance" target="_self">Business Ethics / Governance</a>
+															</li>
+													<li >
+															<a href="/nachhaltigkeit/Sustainable-Finance/" title="Sustainable Finance" target="_self">Sustainable Finance</a>
+															</li>
+													<li >
+															<a href="/nachhaltigkeit/engagement/" title="Engagement" target="_self">Engagement</a>
+															</li>
+													<li >
+															<a href="/nachhaltigkeit/veroeffentlichungen/" title="Veröffentlichungen" target="_self">Veröffentlichungen</a>
+															</li>
+													</ul>
+											</li>
+									<li class="pic-dropdown " aria-expanded="false">
+											<a href="/ueber-uns/" title="Über uns" target="_self">Über uns</a>
+												<ul class="pic-dropdown-menu">
+												
+													<li >
+															<a href="/ueber-uns/rentenbank/" title="Rentenbank" target="_self">Rentenbank</a>
+															</li>
+													<li >
+															<a href="/ueber-uns/presse/" title="Presse & News" target="_self">Presse & News</a>
+															</li>
+													<li >
+															<a href="/ueber-uns/karriere/" title="Jobs & Karriere" target="_self">Jobs & Karriere</a>
+															</li>
+													<li >
+															<a href="/ueber-uns/unternehmensberichte/" title="Unternehmensberichte" target="_self">Unternehmensberichte</a>
+															</li>
+													<li >
+															<a href="/ueber-uns/edmund-rehwinkel-stiftung/" title="Edmund Rehwinkel-Stiftung" target="_self">Edmund Rehwinkel-Stiftung</a>
+															</li>
+													</ul>
+											</li>
+									<li class="pic-dropdown  " aria-expanded="false">
+											<a href="/blog/" title="Blog" target="_self">Blog</a>
+											</li>
+									</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+<div class="head-search-wrapper display-none">
+	<div class="suchformular" id="head_search">
+		<form id="suchformular" class="navbar-form form-inline" method="post" action="/suchergebnis/index.html">
+			<fieldset>
+				<legend class="sr-only">Suche</legend>
+				<div class="form-group">
+					<input id="searchinput" name="query" type="text" class="form-control" placeholder="Suchbegriff eingeben">
+					</div><button type="submit" class="btn"><span class="sr-only">Suchen</span><span class="icon-pfeil-weiter" aria-hidden="true"></span></button>
+			</fieldset>
+		</form>
+	</div>
+</div>
+</header>
+		<!-- ENDE iFrame Portal ausblenden -->
+		<main class="main" id="content">
+		<!-- ANFANG iFrame Portal ausblenden -->
+		<div class="breadcrumb-container">
+
+			</div>
+		<!-- ENDE iFrame Portal ausblenden -->
+		<!-- ANFANG iFrame Portal ausblenden -->
+		<div  id="keyvisual_container" ></div><!-- ENDE iFrame Portal ausblenden -->
+		<div  id="content_container" ><section class="slideshow">
+				<div class="slider-wrapper small">
+					<div class="tns-slider">
+						<div>
+									<picture>
+										<source srcset="" type="image/webp">
+											<img src="/export/sites/rentenbank/.galleries/keyvisual/foerderfinder-desktopansicht-1920x465.png_444574624.png" width="1920" height="465" alt="Die Landwirtschaftliche Rentenbank ist die deutsche Förderbank für die Agrarwirtschaft und den ländlichen Raum." title="Die Förderbank für die Agrarwirtschaft und den ländlichen Raum" /></picture>
+
+									<div class="bannertext text">
+											<div class="bannertext_inside top">
+												<div class="slidehow-head">
+													<h2>Mit wenigen Klicks zum passenden Förderkredit</h2>
+														</div>
+												<div class="slideshow-content">
+														<p>
+														<p>Finden Sie schnell und unkompliziert den Förderkredit, der zu Ihrem Investitionsvorhaben passt.</p></p>
+													</div>
+												<a class="btn btn_white" href="/foerderkredite/#openFinder" title="Förderfinder starten" target="_self">Förderfinder starten</a>
+												</div>
+										</div>
+									</div>
+							<div>
+									<picture>
+										<source srcset="" type="image/webp">
+											<img src="/export/sites/rentenbank/.galleries/keyvisual/rentenbank-keyvisual-feld-ernte.png_444574624.png" width="1920" height="465" alt="Die Landwirtschaftliche Rentenbank ist die deutsche Förderbank für die Agrarwirtschaft und den ländlichen Raum." title="Die Förderbank für die Agrarwirtschaft und den ländlichen Raum" /></picture>
+
+									<div class="bannertext text">
+											<div class="bannertext_inside top">
+												<div class="slidehow-head">
+													<h2>LR-Soforthilfe</h2>
+														<span class="subline">in Folge der Krise im Nahen Osten</span>
+													</div>
+												<div class="slideshow-content">
+														<p>
+														<p>Zum 1. Juni 2026 stellt die Rentenbank Kredite zur Sicherung der Liquidität zur Verfügung. Einfache Darlehensbeantragung bis 50.000 Euro, höhere Beträge sind möglich.</p></p>
+													</div>
+												<a class="btn btn_white" href="/foerderkredite/land-forstwirtschaft/?auswahl=land-forstwirtschaft&auswahl=unternehmen&auswahl=lr-soforthilfe" title="Zu den ausführlichen Informationen" target="_self">Zu den ausführlichen Informationen</a>
+												</div>
+										</div>
+									</div>
+							<div>
+									<picture>
+										<source srcset="" type="image/webp">
+											<img src="/export/sites/rentenbank/.galleries/keyvisual/wiedervernaesste-moorbodenflaeche-graslandnutzung-ank-palu-1920x465.png_444574624.png" width="1920" height="465" alt="Die Landwirtschaftliche Rentenbank ist die deutsche Förderbank für die Agrarwirtschaft und den ländlichen Raum." title="Die Förderbank für die Agrarwirtschaft und den ländlichen Raum" /></picture>
+
+									<div class="bannertext text">
+											<div class="bannertext_inside top">
+												<div class="slidehow-head">
+													<h2>Bis zu 100 % Zuschuss für Moorbodenwiedervernässung</h2>
+														<span class="subline">Förderrichtlinie Palu startet</span>
+													</div>
+												<div class="slideshow-content">
+														<p>
+														<p class="uppercase">Rentenbank unterstützt nachhaltige und klimafreundliche Nutzung von Moorbodenflächen.</p></p>
+													</div>
+												<a class="btn btn_white" href="/zuschussprogramme/ank-palu/" title="Jetzt informieren" target="_self">Jetzt informieren</a>
+												</div>
+										</div>
+									</div>
+							</div>
+				</div>
+				<div class="slider-wrapper mobile">
+					<div class="tns-slider">
+						<div>
+								<picture>
+									<source srcset="" type="image/webp">
+										<img src="/export/sites/rentenbank/.galleries/keyvisual/foerderfinder-desktopansicht-810x465.png_735327152.png" width="809" height="465" alt="Darstellung des Förderfinders auf einem Laptop" /></picture>
+
+								<div class="text bannertext">
+										<div class="bannertext_inside top">
+											<div class="slidehow-head">
+												<h2>Mit wenigen Klicks zum passenden Förderkredit</h2>
+													</div>
+											<div class="slideshow-content">
+													<p>
+														<p>Finden Sie schnell und unkompliziert den Förderkredit, der zu Ihrem Investitionsvorhaben passt.</p></p>
+												</div>
+											<a class="btn btn_white" href="/foerderkredite/#openFinder" title="Förderfinder starten" target="_self">Förderfinder starten</a>
+											</div>
+									</div>
+								</div>
+						<div>
+								<picture>
+									<source srcset="" type="image/webp">
+										<img src="/export/sites/rentenbank/.galleries/keyvisual/rentenbank-keyvisual-feld-ernte-810x465.png_735327152.png" width="809" height="465" alt="Ein Feld, dass geerntet wird" title="Ernte eines Feldes" /></picture>
+
+								<div class="text bannertext">
+										<div class="bannertext_inside top">
+											<div class="slidehow-head">
+												<h2>LR-Soforthilfe</h2>
+													<span class="subline">in Folge der Krise im Nahen Osten</span>
+												</div>
+											<div class="slideshow-content">
+													<p>
+														<p>Zum 1. Juni 2026 stellt die Rentenbank Kredite zur Sicherung der Liquidität zur Verfügung. Einfache Darlehensbeantragung bis 50.000 Euro, höhere Beträge sind möglich.</p></p>
+												</div>
+											<a class="btn btn_white" href="/foerderkredite/land-forstwirtschaft/?auswahl=land-forstwirtschaft&auswahl=unternehmen&auswahl=lr-soforthilfe" title="Zu den ausführlichen Informationen" target="_self">Zu den ausführlichen Informationen</a>
+											</div>
+									</div>
+								</div>
+						<div>
+								<picture>
+									<source srcset="" type="image/webp">
+										<img src="/export/sites/rentenbank/.galleries/keyvisual/wiedervernaesste-moorbodenflaeche-graslandnutzung-ank-palu-810x465.png_735327152.png" width="809" height="465" alt="Wiedervernässte Moorfläche, Grünlandnutzung" /></picture>
+
+								<div class="text bannertext">
+										<div class="bannertext_inside top">
+											<div class="slidehow-head">
+												<h2>Bis zu 100 % Zuschuss für Moorbodenwiedervernässung</h2>
+													<span class="subline">Förderrichtlinie Palu startet</span>
+												</div>
+											<div class="slideshow-content">
+													<p>
+														<p class="uppercase">Rentenbank unterstützt nachhaltige und klimafreundliche Nutzung von Moorbodenflächen.</p></p>
+												</div>
+											<a class="btn btn_white" href="/zuschussprogramme/ank-palu/" title="Jetzt informieren" target="_self">Jetzt informieren</a>
+											</div>
+									</div>
+								</div>
+						</div>
+				</div>
+				<div class="custom-controls" role="slider" >
+					<button class="prev" tabindex="1"><span class="icon icon-Steuer_links" aria-hidden="true" aria-label="Vorheriger Slide"></span><span class="sr-only">Vorheriger Slide</span></button>
+					<button class="next" tabindex="1"><span class="icon icon-Steuer_rechts" aria-hidden="true" aria-label="Nächster Slide"></span><span class="sr-only">Nächster Slide</span></button>
+				</div>
+				
+			</section>
+		<section class="statement ">
+		<div class="overlay"></div>
+				<div class="container text-center"><h2>Förderbank für die Agrarwirtschaft und den ländlichen Raum</h2>
+					</div>
+			</section>
+<section class="teaser_news no_border">
+	<div class="container"><h2 class="uppercase" id="meldungen2">Aktuelle Pressemeldungen</h2>
+		<div class="boxen_equal_height">
+			<div class="row">
+				<div class="row-height"><div class="col-xs-12 col-sm-4 col-sm-height col-top">
+					<div class="inside inside-full-height">
+							<div class="content"><figure>
+										<picture><source srcset="/export/sites/rentenbank/.galleries/presse/rentenbank-schriftzug.png_299365721.png" type="image/png">
+											<img src="/export/sites/rentenbank/.galleries/presse/rentenbank-schriftzug.png_299365721.png" width="733" height="412" alt="Schriftzug der Landwirtschaftlichen Rentenbank auf einer Mamorplatte" title="Rentenbank stärkt Zukunftsinvestitionen der Landwirtschaft – Fördergeschäft wächst um 51 Prozent" /></picture>
+									</figure><p class="date">7. August 2026</p><h3>Rentenbank stärkt Zukunftsinvestitionen der Landwirtschaft – Fördergeschäft wächst um 51 Prozent</h3>
+								<div class="news_einleitung" aria-hidden="true">
+									<ul> 
+ <li style="text-align: left;">Fördergeschäft wächst im ersten Halbjahr 2026 gegenüber dem bereits starken Vorjahreszeitraum</li> 
+ <li style="text-align: left;">Neugeschäft in der Kundengruppe „Primärproduktion“ wächst um 11,3 Prozent</li> 
+ <li style="text-align: left;">Anstieg des Neugeschäfts über alle Kundengruppen hinweg, besonders auch in der Kundengruppe „Erneuerbare Energien“</li> 
+ <li style="text-align: left;">mit 8,0 Mrd. EUR bereits drei Viertel der Refinanzierungsmittel für das Fördergeschäft erreicht</li> 
+ <li style="text-align: left;">Innovationsförderung zahlt auf neue Start-up-Strategie des Bundes ein</li> 
+</ul></div>
+								
+								<div class="button-center">
+									<p class="einleitung_shortlink">
+										<a class="btn btn_close btn_underline" aria-accessible="Lesen Sie die Presseinformation: Rentenbank stärkt Zukunftsinvestitionen der Landwirtschaft – Fördergeschäft wächst um 51 Prozent" aria-label="Lesen Sie die Presseinformation: Rentenbank stärkt Zukunftsinvestitionen der Landwirtschaft – Fördergeschäft wächst um 51 Prozent" href="/presse/Rentenbank-staerkt-Zukunftsinvestitionen-der-Landwirtschaft-Foerdergeschaeft-waechst-um-51-Prozent/" title="Lesen Sie die Presseinformation: Rentenbank stärkt Zukunftsinvestitionen der Landwirtschaft – Fördergeschäft wächst um 51 Prozent" role="button" target="_self">Zur Pressemeldung</a>
+										</p>
+								</div>
+								
+							</div>
+					</div>
+				</div><div class="col-xs-12 col-sm-4 col-sm-height col-top">
+					<div class="inside inside-full-height">
+							<div class="content"><figure>
+										<picture><source srcset="/export/sites/rentenbank/.galleries/presse/iStock-832988308.jpg_1740129537.jpg" type="image/jpeg">
+											<img src="/export/sites/rentenbank/.galleries/presse/iStock-832988308.jpg_1740129537.jpg" width="733" height="362" alt="Porträt einer jungen Frau, die sich an ein Tor auf einem Bauernhof lehnt" title="Rentenbank-Agrarbarometer: Auswirkungen geopolitischer Verwerfungen lassen den Geschäftsklima-Index in der Landwirtschaft weiter sinken" /></picture>
+									</figure><p class="date">24. Juli 2026</p><h3>Rentenbank-Agrarbarometer: Auswirkungen geopolitischer Verwerfungen lassen den Geschäftsklima-Index in der Landwirtschaft weiter sinken</h3>
+								<div class="news_einleitung" aria-hidden="true">
+									<ul> 
+ <li>Agrar-Geschäftsklimaindex im Sommer weiter gesunken – Hauptgründe sind hohe Kosten für Betriebsmittel und z.T. niedrige Erzeugerpreise</li> 
+ <li>Bewertung der aktuellen wirtschaftlichen Lage deutlich schlechter als im Frühjahr 2026</li> 
+ <li>Beurteilung der betrieblichen Liquidität hat sich ebenfalls verschlechtert</li> 
+ <li>Blick auf die wirtschaftliche Lage in zwei bis drei Jahren dagegen leicht positiver als zuletzt</li> 
+ <li>Investitionstätigkeit leicht gestiegen, künftige Investitionsbereitschaft ebenfalls gestiegen</li> 
+</ul></div>
+								
+								<div class="button-center">
+									<p class="einleitung_shortlink">
+										<a class="btn btn_close btn_underline" aria-accessible="Lesen Sie die Presseinformation: Rentenbank-Agrarbarometer: Auswirkungen geopolitischer Verwerfungen lassen den Geschäftsklima-Index in der Landwirtschaft weiter sinken" aria-label="Lesen Sie die Presseinformation: Rentenbank-Agrarbarometer: Auswirkungen geopolitischer Verwerfungen lassen den Geschäftsklima-Index in der Landwirtschaft weiter sinken" href="/presse/Rentenbank-Agrarbarometer-Auswirkungen-geopolitischer-Verwerfungen-lassen-den-Geschaeftsklima-Index-in-der-Landwirtschaft-weiter-sinken/" title="Lesen Sie die Presseinformation: Rentenbank-Agrarbarometer: Auswirkungen geopolitischer Verwerfungen lassen den Geschäftsklima-Index in der Landwirtschaft weiter sinken" role="button" target="_self">Zur Pressemeldung</a>
+										</p>
+								</div>
+								
+							</div>
+					</div>
+				</div><div class="col-xs-12 col-sm-4 col-sm-height col-top">
+					<div class="inside inside-full-height">
+							<div class="content"><figure>
+										<picture><source srcset="/export/sites/rentenbank/.galleries/presse/rentenbank-bioeconomy-deep-dives-bio-lng.png_1740129537.png" type="image/png">
+											<img src="/export/sites/rentenbank/.galleries/presse/rentenbank-bioeconomy-deep-dives-bio-lng.png_1740129537.png" width="733" height="362" alt="Mehrere transparente, blasenförmige Strukturen schweben vor hellblauem Hintergrund. Die Formen erinnern an Flüssigkeitstropfen oder Gasblasen, die sich teilweise überlappen. Feine Luftbläschen verteilen sich im rechten Bildbereich und verstärken den Eindruck von Leichtigkeit und Bewegung." title="„Bioeconomy Deep Dive“: Bio-LNG kann Deutschlands Widerstandsfähigkeit in der Energieversorgung stärken und die ländliche Wertschöpfung steigern" /></picture>
+									</figure><p class="date">15. Juli 2026</p><h3>„Bioeconomy Deep Dive“: Bio-LNG kann Deutschlands Widerstandsfähigkeit in der Energieversorgung stärken und die ländliche Wertschöpfung steigern</h3>
+								<div class="news_einleitung" aria-hidden="true">
+									<p>Frankfurt am Main. Angesichts geopolitischer Spannungen, volatiler Energiemärkte und der weiterhin hohen Abhängigkeit Deutschlands von fossilen Energieimporten gewinnt die Suche nach widerstandsfähigen und klimafreundlichen Alternativen zunehmend an Dringlichkeit. Eine neue Studie, die im Rahmen der „Bioeconomy Deep Dives“ vom Innovationshub RootCamp im Auftrag der Rentenbank und des Bundesministeriums für Landwirtschaft, Ernährung und Heimat (BMLEH) durchgeführt wurde, zeigt: Heimisch produziertes Bio-LNG könnte eine bislang unterschätzte Rolle spielen, indem es Versorgungssicherheit, Klimaschutz und regionale Wertschöpfung miteinander verbindet. Bio-LNG wird dabei aus Biomethan gewonnen und kann insbesondere aus landwirtschaftlichen Reststoffen wie Gülle, Mist oder organischen Abfällen hergestellt werden. Die Analyse der gesamten Wertschöpfungskette zeigt vor allem im Schwerlastverkehr sowie in der Schifffahrt Potenziale, fossile Energieträger zumindest teilweise zu ersetzen und so Emissionen im Verkehrssektor zu senken sowie die Importabhängigkeit von fossilen Kraftstoffen zu reduzieren.</p></div>
+								
+								<div class="button-center">
+									<p class="einleitung_shortlink">
+										<a class="btn btn_close btn_underline" aria-accessible="Lesen Sie die Presseinformation: „Bioeconomy Deep Dive“: Bio-LNG kann Deutschlands Widerstandsfähigkeit in der Energieversorgung stärken und die ländliche Wertschöpfung steigern" aria-label="Lesen Sie die Presseinformation: „Bioeconomy Deep Dive“: Bio-LNG kann Deutschlands Widerstandsfähigkeit in der Energieversorgung stärken und die ländliche Wertschöpfung steigern" href="/presse/Bioeconomy-Deep-Dive-Bio-LNG-kann-Deutschlands-Widerstandsfaehigkeit-in-der-Energieversorgung-staerken-und-die-laendliche-Wertschoepfung-steigern/" title="Lesen Sie die Presseinformation: „Bioeconomy Deep Dive“: Bio-LNG kann Deutschlands Widerstandsfähigkeit in der Energieversorgung stärken und die ländliche Wertschöpfung steigern" role="button" target="_self">Zur Pressemeldung</a>
+										</p>
+								</div>
+								
+							</div>
+					</div>
+				</div></div>
+			</div>
+		</div>
+		<a class="btn" href="/presse/" title="Zum Pressebereich" target="_self">Zum Pressebereich</a>
+		</div>
+	</section>
+<section class="termin slider" style="background-image: url(/export/sites/rentenbank/.galleries/termine/20240826_Intranet_Hintergundbild_Termine.png);">
+		<div class="container"><h2 class="uppercase">Veranstaltungen & Termine</h2><div class="owl-carousel">
+				<div class="item">
+							<div class="item_content h-event">
+								<span class="inner_head">
+									<span class="date">
+										10. - 13. November 2026</span>
+								</span>
+								<span class="inner_body">
+									<span class="title">EUROTier</span>
+									<span class="location">Hannover</span>
+									<a href="https://www.eurotier.com/de/" title="Informationen zur EUROTier" target="_blank"><span class="icon-pfeil-news" aria-hidden="true"></span></a>
+									</span>
+							</div>
+							<div class="indicator">
+								<span></span>
+							</div>
+						</div>
+					<div class="item">
+							<div class="item_content ">
+								<span class="inner_head">
+									<span class="date">
+										27. November 2026</span>
+								</span>
+								<span class="inner_body">
+									<span class="title">ITCS Frankfurt</span>
+									<span class="location">Messe Frankfurt</span>
+									</span>
+							</div>
+							<div class="indicator">
+								<span></span>
+							</div>
+						</div>
+					</div>
+		</div>
+		<hr/>
+	</section>
+</div><!-- Sidebar -->
+		<aside class="sidebar">
+			<ul>
+				<li><button title="Teilen" class="icon icon-Share" id="share-site"><span class="sr-only">Teilen</span></button>
+						<ul class="sharing d-none">
+							<li><a title="Teilen mit LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.rentenbank.de/index.html" class="icon icon-linkedin" target="_blank"><span class="sr-only">Teilen mit LinkedIn</span></a></li>
+							<li><a title="Teilen mit WhatsApp" href="https://wa.me/?text=Ich habe einen interessanten Beitrag gefunden, den ich gerne teilen möchte: https://www.rentenbank.de/index.html" class="icon icon-whatsapp" target="_blank"><span class="sr-only">Teilen mit WhatsApp</span></a></li>
+							<li><a title="Teilen per E-Mail" href="mailto:?subject=Empfehlung: Interessanter Link auf der Website der Rentenbank&body=Ich habe einen interessanten Beitrag gefunden, den ich gerne teilen möchte: https://www.rentenbank.de/index.html" class="icon icon-EMail" target="_blank"><span class="sr-only">Teilen per E-Mail</span></a></li>
+							<li class="li-copy"><button title="Link in Zwischenablage kopieren" class="icon icon-Link-copy" id="copy-url-to-clipboard"><span class="sr-only">Link in Zwischenablage kopieren</span></button>
+						</ul>
+					</li>
+				<li>
+						<a class="icon icon-contact-sidebar" title="Zur Kontaktseite" href="/kontakt/" target="">
+							<span class="sr-only">Zur Kontaktseite</span>
+						</a>
+					</li>
+				<li>
+						<button title="Chatbot &ouml;ffnen" onClick="webchat.open()" data-cognigy-webchat-toggle="true"  type="button" class="icon icon-ChatBot_90x90_black webchat-toggle-button cognigy-webchat-e99z7d" title="" > 
+							<span class="sr-only">Chatbot &ouml;ffnen</span>
+						</button>
+					</li>
+				<li>
+						<a class="icon icon-Stellenmarkt_90x90_black" title="Zur Jobbörse" href="/ueber-uns/karriere/stellenangebote/" target="">
+							<span class="sr-only">Zur Jobbörse</span>
+						</a>
+					</li>
+				</ul>
+		</aside>
+	</main>
+		<!-- ANFANG iFrame Portal ausblenden -->
+		<footer class="footer-2023">
+
+<section class="socialnavi">
+		<nav class="navbar" aria-label="Navigation für Social-Media-Links">
+				<ul class="nav navbar-nav">
+					<li><a href="https://de.linkedin.com/company/landwirtschaftliche-rentenbank" title="Linkedin" target="_blank"><span class="icon icon-linkedin" aria-hidden="true"></span></a></li>
+							<li><a href="https://www.instagram.com/rentenbank/" title="Instagram" target="_blank"><span class="icon icon-instagram" aria-hidden="true"></span></a></li>
+							<li><a href="https://www.youtube.com/c/LandwirtschaftlicheRentenbank" title="Youtube" target="_blank"><span class="icon icon-youtube" aria-hidden="true"></span></a></li>
+							</ul>
+	  	</nav>
+	</section>
+	
+	
+	<section class="footer_navi">
+			<nav class="navbar" aria-label="Footernavigation">
+					<div class="container-footer">
+                		<div class="footer-items">
+                    		<a class="logo-footer" href="https://www.rentenbank.de/"><span class="sr-only">Logo der Rentenbank</span></a>
+               			 </div>
+	
+					    <div class="footer-items">
+                    		<div class="footer-navi-2023">
+							
+								<!--Hauptmenü-->
+								<ul class="mainnav-footer">
+									<li><a href="/foerderkredite/" title="Förderkredite" >Förderkredite</a></li>
+									<li><a href="/zuschussprogramme/" title="Zuschussprogramme" >Zuschussprogramme</a></li>
+									<li><a href="/innovation/" title="Innovation" >Innovation</a></li>
+									<li><a href="/nachhaltigkeit/" title="Nachhaltigkeit" >Nachhaltigkeit</a></li>
+									<li><a href="/ueber-uns/" title="Über uns" >Über uns</a></li>
+									<li><a href="/blog/" title="Blog" >Blog</a></li>
+									</ul>
+								
+								<!--Metanavi-->
+								<ul class="metanav-footer">
+										<li><a href="/research/" target="_self">Research</a></li>
+										<li><a href="/investor-relations/" target="_self">Investor Relations</a></li>
+										<li><a href="/ueber-uns/karriere/" target="_self">Jobs & Karriere</a></li>
+										</ul>
+								</div>
+               	 		</div>
+					
+						<!--Banken- und Förderportal-->
+						
+						<div class="footer-items">
+							<div class="footer-banken-container">
+							<a class="banken-foerderportal" href="/banken-portal/" title="Bankenportal" target="_self">Bankenportal</a>
+							<a class="banken-foerderportal" href="/zuschussprogramme/" title="Förderportale" target="_self">Förderportale</a>
+							</div>
+						</div>
+					<!--Banken- und Förderportal ENDE-->
+
+					</div>
+					
+					<!--Footer Navigation-->
+					
+					<div class="footer-additional-nav">
+                		<ul>
+						
+						<li><a href="/kontakt/" title="Kontakt" target="_self">Kontakt</a></li>
+							<li><a href="/presse/" title="Presse" target="_self">Presse</a></li>
+							<li><a href="https://customer.rentenbank.de/i/e/l/newsletter-anmeldung" title="Newsletter" target="_blank">Newsletter</a></li>
+							<li><a href="/erklaerung-zur-barrierefreiheit/" title="Erklärung zur Barrierefreiheit" target="_self">Erklärung zur Barrierefreiheit</a></li>
+							<li><a href="/barriere-melden/" title="Barriere melden" target="_self">Barriere melden</a></li>
+							<li><a href="/datenschutz/" title="Datenschutz" target="_self">Datenschutz</a></li>
+							<li><a href="/impressum/" title="Impressum" target="_self">Impressum</a></li>
+							<li><a href="/foerderkredite/dokumentenverzeichnis/" title="Dokumentenverzeichnis" target="_self">Dokumentenverzeichnis</a></li>
+							<li><a href="#show-consent-banner" title="Cookie-Einstellungen ändern" target="_self">Cookie-Einstellungen</a></li>
+							
+                		</ul>
+            		</div>
+					
+					
+					
+					<!--Footer Navigation ENDE-->
+			</nav>
+		</section>
+	</footer><!-- ENDE iFrame Portal ausblenden -->
+	</div>
+	
+	<dialog id="programmfinder-overlay">
+		<div class="programmfinder-wrapper">
+
+            <div class="programmfinder-header-logo">
+                <div class="row">
+
+                    <div class="logo-and-title">
+                        <div class="logo"></div>
+                        <div class="notice">Förderfinder</div>
+                    </div>
+
+                    <div class="programmfinder-header">
+                        <div class="procress-bar" aria-hidden="true">
+                            <div class="active-stroke"></div>
+                        </div>
+                        <a href="#" id="close-btn"><span class="icon icon-close-lightbox"></span><span class="sr-only">Overlay schließen</span></a>
+                    </div>
+
+                    
+                </div>
+            </div>
+
+			<div class="programmfinder-content">
+				<div class="form">
+					
+					<form method="GET" id="fragen_form" >
+			
+				<input class="sr-only" type="hidden" id="aktuelleSeite" value="eins" />
+				
+				<div id="ajax-content-replacement">
+				
+							<input type="hidden" id="urlParamsSeiteEins" value="
+							
+						"/>
+
+					<input type="hidden" id="progressAnswered" value="0"/>
+					<input type="hidden" id="progressTotal"    value="1"/>
+					<input type="hidden" id="landingPageUrl" value=""/>
+
+                    <div class="step is-active" data-step="1">
+                        <div class="step-header">
+							
+                            <h2 class="step-title">
+								Wer wird gefördert?</h2>
+                        </div>
+
+                        <fieldset>
+                            <legend class="hidden">Wer wird gefördert?</legend>
+
+                                    <div>
+                                            <input type="hidden" name="land-forst-gaertner-winzer_hat_unterfragen" value="true">
+                                                <input id="input_answer_land-forst-gaertner-winzer" data-url-param="land-forstwirtschaft" type="radio" name="frage_eins" value="land-forst-gaertner-winzer"
+                                                    
+                                                    aria-controls="conditional-a">
+                                                <label for="input_answer_land-forst-gaertner-winzer">Land- und Forstwirtschaft</label>
+												
+												<div class="info">
+    <button
+        type="button"
+        class="info-trigger"
+        aria-describedby=""
+        aria-expanded="false"
+    >
+        i
+    </button>
+
+    <span
+        class="tooltiptext"
+        role="tooltip"
+        id=""
+    >
+        Land- und Forstwirte, Gärtner und Winzer.
+    </span>
+</div></div>
+
+                                        <div>
+                                            <input type="hidden" name="agrarnahe-unternehmen_hat_unterfragen" value="true">
+                                                <input id="input_answer_agrarnahe-unternehmen" data-url-param="agrarnahe-unternehmen" type="radio" name="frage_eins" value="agrarnahe-unternehmen"
+                                                    
+                                                    aria-controls="conditional-a">
+                                                <label for="input_answer_agrarnahe-unternehmen">Agrarnahe Unternehmen</label>
+												
+												<div class="info">
+    <button
+        type="button"
+        class="info-trigger"
+        aria-describedby=""
+        aria-expanded="false"
+    >
+        i
+    </button>
+
+    <span
+        class="tooltiptext"
+        role="tooltip"
+        id=""
+    >
+        Gefördert werden agrarnahe Unternehmen, unabhängig von Rechtsform oder steuerlicher Einkunftsart. Dazu gehören Unternehmen der vor- und nachgelagerten Wertschöpfungskette.
+    </span>
+</div></div>
+
+                                        <div>
+                                            <input type="hidden" name="energie_hat_unterfragen" value="true">
+                                                <input id="input_answer_energie" data-url-param="energieunternehmen" type="radio" name="frage_eins" value="energie"
+                                                    
+                                                    aria-controls="conditional-a">
+                                                <label for="input_answer_energie">Energieunternehmen</label>
+												
+												</div>
+
+                                        <div>
+                                            <input type="hidden" name="aquakultur-fisch_hat_unterfragen" value="true">
+                                                <input id="input_answer_aquakultur-fisch" data-url-param="aquakultur-fischwirtschaft" type="radio" name="frage_eins" value="aquakultur-fisch"
+                                                    
+                                                    aria-controls="conditional-a">
+                                                <label for="input_answer_aquakultur-fisch">Aquakultur und Fischwirtschaft</label>
+												
+												</div>
+
+                                        </fieldset>
+                    </div>
+					
+
+                    <div class="form-navigation">
+                        <button type="button" id="nextBtn"
+                            disabled>
+							weiter</button>
+                    </div>
+				</div>
+            </form>
+    </div>
+			</div>
+
+		</div>
+	</dialog>
+</body>
+</html>

@@ -1,0 +1,150 @@
+User-agent: *
+Allow: /
+
+Disallow: /partner/
+Disallow: /contact/
+Disallow: /rating/
+Disallow: /spielhalle/init/
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: sentibot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SirdataBot
+Disallow: /
+
+User-agent: LCC
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-Agent: ImagesiftBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+user-agent: Pinterestbot
+Crawl-delay: 1
+
+User-agent: Flamingo_SearchEngine 
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: Bloodhound
+Disallow: /
+
+User-agent: cydralspider
+Disallow: /
+
+User-agent: downloadexpress
+Disallow: /
+
+User-agent: gammaSpider
+Disallow: /
+
+User-agent: ObjectsSearch
+Disallow: /
+
+User-agent: Pimptrain
+Disallow: /
+
+User-agent: Raven
+Disallow: /
+
+User-agent: wapspider
+Disallow: /
+
+User-agent: WebZinger
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+# Legal notice: netzwelt.de expressly reserves the right to use its content for commercial text and data mining (§ 44b Urheberrechtsgesetz).
+# The use of robots or other automated means to access netzwelt.de or collect or mine data without the express permission of Netzwelt GmbH is strictly prohibited.
+# netzwelt.de may, in its discretion, permit certain automated access to certain netzwelt.de pages,
+# If you would like to apply for permission to crawl netzwelt.de, collect or use data, please email info@netzwelt.de

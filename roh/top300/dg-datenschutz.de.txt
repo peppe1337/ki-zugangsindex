@@ -1,0 +1,101 @@
+# robots.txt fuer dg-datenschutz.de
+# Stand: 2026-05-14 (v2 / AI-Search-freundlich)
+
+# -----------------------------------------------------------
+# Standard-Regeln (alle Bots, soweit nicht weiter unten ueberschrieben)
+# -----------------------------------------------------------
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /cgi-bin/
+Disallow: /?s=
+Disallow: /search/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+
+# -----------------------------------------------------------
+# AI-Crawler -- explizit erlaubt fuer Antwort-/Such-Crawls
+# (OpenAI, Anthropic, Perplexity, Google AI Overview, Bing/Copilot,
+#  Apple, CommonCrawl, You.com, Mistral, Bytedance, Diffbot, Meta)
+# -----------------------------------------------------------
+User-agent: GPTBot
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: YouBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# -----------------------------------------------------------
+# Sitemaps
+# -----------------------------------------------------------
+Sitemap: https://dg-datenschutz.de/wp-sitemap.xml
+Sitemap: https://dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/sitemap.xml

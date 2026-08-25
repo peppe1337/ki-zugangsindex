@@ -1,0 +1,68 @@
+User-agent: *
+#
+### Misc
+Disallow: /public/services
+Disallow: /magazin/styleguide/
+Disallow: /store/popup/
+Disallow: /store/change
+Disallow: /*?*themeChoiceId
+Disallow: /customer-reviews/
+Disallow: /api/customerreviews/
+Disallow: /shopping-list/add
+Disallow: /add-cart-layer
+Disallow: /search-flyout
+Disallow: /cmssearchresult-filter
+Disallow: /searchresult-filter
+Disallow: /prudsys/recommit/
+Disallow: /author/
+Disallow: /customer-account/
+Disallow: /regi/header/
+Disallow: /cmssearch/
+Disallow: /buy/
+Disallow: /heyobi/
+Disallow: /heyobi-api/
+Disallow: /pflanzenlexikon/
+Disallow: /shopping-list/
+Disallow: /recommendations/
+Disallow: *index.html*
+Disallow: /ratgeber/
+Disallow: /campaign/
+Disallow: /images/
+Disallow: /login*
+Disallow: /cart
+Disallow: /kontakt/
+#
+# Find
+Disallow: /find/*/counting/
+#
+# Reco
+Disallow: /*?*template=
+Disallow: /*?*box=
+#
+# Sprachauszeichnung
+Disallow: /*?*isoCode=
+#
+# Marktzuweisungen
+Disallow: /*?*market=
+#
+# Tracking intern
+Disallow: /*?*isi=
+Disallow: /*?*log=
+#
+# Prudsys Tracking
+Disallow: /pdp/prudsys/*/productview
+# Availability request
+Disallow: /api/pdp/*/availability
+# Autosuggest
+Disallow: /find/suchen/autosuggest
+#
+# Safety
+Allow: *.css
+Allow: *.js
+Allow: */assets/*
+Allow: */api/*
+Allow: /sitemaps/*OBI*
+#
+# Sitemaps
+Sitemap: https://www.obi.de/sitemaps/obi_de_de/sitemap_index.xml
+Sitemap: https://www.obi.de/assets/discover/cms-sitemaps/de/index.xml

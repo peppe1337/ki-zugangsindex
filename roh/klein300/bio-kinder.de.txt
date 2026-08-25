@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /plenty/
+Allow: /plenty/api/external.php
+Disallow: /xml/
+Disallow: *WebActionArticleSearch*
+Disallow: /search/
+Disallow: /rest/
+Disallow: /bkm/
+Sitemap: https://www.bio-kinder.de/sitemap.xml

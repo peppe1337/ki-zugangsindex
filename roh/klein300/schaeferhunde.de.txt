@@ -1,0 +1,1477 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	© 2014 a Bertelsmann company
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Verein für Deutsche Schäferhunde (SV) e.V.</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Der weltgrößte Rassehundezuchtverein." />
+<meta name="robots" content="index,follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta property="og:site_name" content="Verein für Deutsche Schäferhunde (SV) e.V." />
+<meta property="og:image" content="/typo3conf/ext/mfshvcore/Resources/Public/Media/Logo.jpg" />
+<meta property="og:title" content="Verein für Deutsche Schäferhunde (SV) e.V." />
+<meta name="twitter:card" content="summary" />
+<meta name="verification" content="cc900e99a9353fc33f5c3d385c8bd71a" />
+
+
+<link rel="stylesheet" href="/_assets/24feb545a2601d200c17c27a4484a7af/Styles/chocolat.css?1756358679" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/mfshvcore/Resources/Public/Styles/Main.css?1756358679" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/mfshvcore/Resources/Public/Styles/DefaultTheme.css?1756358679" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/mfshvcore/Resources/Public/Styles/HomeOverlaySwitch.css?1756358679" media="all">
+<link rel="stylesheet" href="/_assets/e799cca3073eabb617dfebf5f7cabc53/StyleSheets/Frontend/suggest.css?1730442585" media="all">
+
+
+
+
+
+
+
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="99cf5379-7f81-47c2-8343-a9cba22d6105" async type="text/javascript"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/hyphenator/Hyphenator.js" data-cookieconsent="preferences" type="text/plain"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/hyphenator/HyphenatorExec.js" data-cookieconsent="preferences" type="text/plain"></script>
+<script type="text/plain" data-cookieconsent="marketing" src="//ad.schaeferhunde.de/www/delivery/asyncjs.php"></script> <script src="https://app.eu.wotnot.io/chat-widget/63iK9xCWmye4095616055963TK2QR2xP.js" defer></script> <script src="https://cdn.eye-able.com/configs/www.schaeferhunde.de.js" defer></script>
+ <script src="https://cdn.eye-able.com/public/js/eyeAble.js" defer></script>
+ <script src="https://translate-cdn.eye-able.com/eye-able-translate.js" defer></script>
+<link rel="canonical" href="https://www.schaeferhunde.de/"/>
+
+<link rel="alternate" hreflang="de" href="https://www.schaeferhunde.de/"/>
+<link rel="alternate" hreflang="en" href="https://www.schaeferhunde.de/en/"/>
+<link rel="alternate" hreflang="fr" href="https://www.schaeferhunde.de/fr/"/>
+<link rel="alternate" hreflang="es" href="https://www.schaeferhunde.de/es/"/>
+<link rel="alternate" hreflang="it" href="https://www.schaeferhunde.de/it/"/>
+<link rel="alternate" hreflang="x-default" href="https://www.schaeferhunde.de/"/>
+</head>
+<body id="shv">
+
+
+
+	<div id="homeOverlaySwitch" style="display:none;">
+    <div id="homeOverlaySwitchLogo">
+        &nbsp;
+    </div>
+    <div class="visible-xs">
+        <br>
+        <br>
+        <br>
+    </div>
+    <div class="home-overlay-button-container row text-center">
+        <div class="col-xs-12 col-sm-6 hidden-xs">
+            <a class="btn btn-blue" href="/welpen/welpensuche">
+                Hier Welpen finden
+            </a>
+        </div>
+        <div class="col-xs-12 col-sm-6 visible-xs">
+            <a class="btn btn-blue btn-small" href="/welpen/welpensuche">
+                Hier Welpen finden
+            </a>
+        </div>
+        <div class="visible-xs">
+            &nbsp;
+        </div>
+        <div class="col-xs-12 col-sm-6 hidden-xs">
+            <span class="btn btn-green" onclick="homeOverlaySwitchShowHome();">
+                Zur Homepage des Vereins
+            </span>
+        </div>
+        <div class="col-xs-12 col-sm-6 visible-xs">
+            <div class="btn btn-green btn-small" onclick="homeOverlaySwitchShowHome();">
+                Zur Homepage des Vereins
+            </div>
+        </div>
+    </div>
+    <div class="homeoverlay-footer text-center center-block text-nowrap">
+        <div class="col-xs-12 col-md-4 text-center homeoverlay-footer-link">
+            &copy; 2020 Verein für Deutsche Schäferhunde (SV) e.V.
+        </div>
+        <div class="col-xs-12 visible-xs visible-sm text-center">
+            -
+        </div>
+        <div class="col-xs-12 col-md-4 text-center">
+            <a class="homeoverlay-footer-link" href="tel:0821740020">Telefon: 0821 74002-0</a>
+            &nbsp;
+            <a class="homeoverlay-footer-link" href="/cdn-cgi/l/email-protection#e0898e868f938388818586859288958e8485ce8485">E-Mail: <span class="__cf_email__" data-cfemail="e38a8d858ca390808b82868586918b968d8786cd8786">[email&#160;protected]</span></a>
+        </div>
+        <div class="col-xs-12 visible-xs visible-sm text-center">
+            -
+        </div>
+        <div class="col-xs-12 col-md-4 text-center">
+            <a class="homeoverlay-footer-link" href="/datenschutz">Datenschutzerklärung</a>
+            <a class="homeoverlay-footer-link" href="/impressum">Impressum</a>
+        </div>
+    </div>
+</div>
+	
+
+<header class="visible-xs visible-sm sticky sticky-header">
+    <div class="main-header">
+        <button type="button" class="navbar-toggle menu-popup-toggle collapsed">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="label">Menu</span>
+        </button>
+        <a class="branding" href="/">
+            
+            
+                    <img class="logo-small" alt="Verein für Deutsche Schäferhunde (SV) e.V." src="/typo3temp/assets/_processed_/a/2/csm_Logo-xs_99d362b569.png" width="170" height="80" />
+                    <img class="logo-large" alt="Verein für Deutsche Schäferhunde (SV) e.V." src="/_assets/4cdf11ae6ec9e4905efd3c9e296fc1dc/Media/Logo.jpg" width="250" height="97" />
+                
+        </a>
+        
+                <div class="search-primary collapse">
+                    <div class="" style="margin-top:3px;">
+                        
+                    </div>
+                </div>
+            
+        
+    </div>
+</header>
+<div class="menu-popup hidden hidden-lg hidden-md">
+    
+    <button class="unstyled pull-right menu-popup-toggle"><span class="icon-close icon-iron"></span></button>
+    <div class="drilldown">
+        <div class="drilldown-container">
+            <ul class="nav nav-drilldown drilldown-root">
+                <li>
+                    
+                        <ul class="nav nav-grid">
+                            
+
+	
+	
+			<li class="">
+				<a href="/datenschutz" class="">Datenschutz</a>
+			</li>
+		
+
+
+	
+	
+			<li class="">
+				<a href="/navigation/service/kontakt" class="">Kontakt</a>
+			</li>
+		
+
+
+	
+	
+			<li class="">
+				<a href="/impressum" class="">Impressum</a>
+			</li>
+		
+
+
+	
+	
+			<li class="">
+				<a href="https://www.sv-doxs.net/page/agb" class="">AGB</a>
+			</li>
+		
+
+
+
+
+
+
+                        </ul>
+                    
+                    <div class="social">
+                        <li><a href="https://www.facebook.com/VereinfuerDeutscheSchaeferhunde" class="icon-link" target="_blank" alt="Facebook"><img style="margin-top:5px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Facebook.png" alt="Facebook" /></a></li>
+                        <li><a href="https://instagram.com/unsereschaeferhunde" class="icon-link" target="_blank"
+                               alt="Instagram"><img style="margin-top:5px;" width="18px" height="18px"
+                                                    src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Instagram.png"
+                                                    alt="Instagram"/></a></li>
+                        <div class="pull-right" style="margin-left:5px;">
+                            <li><span id="language_menu" class="language-menu"><span class="language-active"> <a href="/" hreflang="de-DE"><img style="width:25px;margin-left:4px;margin-top:-3px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Flaggen/DE.png" alt="Deutsch"/></a> </span><a href="/en/" hreflang="en-EN"><img style="width:25px;margin-top:-3px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Flaggen/GB.png" alt="English"/></a></span></li>
+                        </div>
+                        
+                            <a class="btn btn-green btn-medium pull-right" href="/mein-sv">
+                                MEIN SV-LOGIN
+                            </a>
+                        
+                    </div>
+                </li>
+                <li class="submenu">
+                    <ul class="nav nav-sidebar">
+                        
+                            
+                                <li class="">
+                                    <a href="/der-deutsche-schaeferhund" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Der Deutsche Schäferhund
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="/der-verein" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Der Verein
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="/veranstaltungen" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Veranstaltungen
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="/service" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Service
+                                    </a>
+                                </li>
+                            
+                        
+                        
+                            
+                                <li class="">
+                                    <a href="https://www.wusv.org/" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Weltunion (WUSV)
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="/service/hdi-die-sportversicherung" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        HDI - Die Sportversicherung
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="http://www.sv-shop.com/shop/" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        Bestellservice
+                                    </a>
+                                </li>
+                            
+                                <li class="">
+                                    <a href="https://www.sv-doxs.net/" class="">
+                                        <span class="icon-arrow-right icon-circle icon-green"></span>
+                                        SV-DOxS - Die Hundedatenbank
+                                    </a>
+                                </li>
+                            
+                        
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<!--eyeAble easyspeech-->
+<easy-speech position="fixed" left="10px" top="10px" width="70px" height="70px" bg-color="#0e4b1b" leftm="10px"
+             bottomm="70px" widthm="49.25px" heightm="49.28px" bg-color="#0e4b1b" border-radiusm="15px"
+             borderthickness="1px"></easy-speech>
+<!--eyeAble easyspeech-->
+<div class="container header-container">
+	<header class="hidden-xs hidden-sm">
+		<div class="main-logo">
+			<a style="font-style:normal;" title="Verein für Deutsche Schäferhunde (SV) e.V." href="/">
+				
+				
+						<span class="branding">
+							
+									<img src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Logo.jpg" alt="Verein für Deutsche Schäferhunde (SV) e.V."/>
+								
+						</span>
+                    
+            </a>
+        </div>
+        <ul class="nav nav-horizontal nav-meta">
+            
+            
+                    <li>
+                        <a href="/mein-sv">
+							<span class="text-green">
+								  <img style="margin-top:-7px;"
+                                       src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Icons/mysv-green.png" alt="Mein SV-Logo"/>
+                            MEIN SV-LOGIN
+							</span>
+                        </a>
+                    </li>
+                    
+                
+            <li class="meta-spacer">
+                <a href="https://www.sv-shop.com" target="_blank" style="padding-right: 15px;">
+                    <span style="position:relative;top: -3px;"><img
+                            src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Icons/sv-shop-icon.jpg" alt="SV Shop Icon"/></span>
+                    <span>SV-Bestellservice</span>
+                </a>
+            </li>
+            
+                    <li><span id="language_menu" class="language-menu"><span class="language-active"> <a href="/" hreflang="de-DE"><img style="width:25px;margin-left:4px;margin-top:-3px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Flaggen/DE.png" alt="Deutsch"/></a> </span><a href="/en/" hreflang="en-EN"><img style="width:25px;margin-top:-3px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Flaggen/GB.png" alt="English"/></a></span></li>
+                
+            <li><a href="https://www.facebook.com/VereinfuerDeutscheSchaeferhunde" class="icon-link" target="_blank" alt="Facebook"><img style="margin-top:5px;" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Facebook.png" alt="Facebook" /></a></li>
+            <li><a href="https://instagram.com/unsereschaeferhunde" class="icon-link" target="_blank" alt="Instagram"><img style="margin-top:5px;" width="18px" height="18px" src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Instagram.png" alt="Instagram" /></a></li>
+        </ul>
+        <div class="nav-primary-container">
+            
+                <ul class="nav-horizontal nav-primary">
+                    
+
+	
+			<li class="dropdown  first dropdown-right">
+				<a href="/der-deutsche-schaeferhund" class="dropdown-toggle ">Der Deutsche Schäferhund</a>
+				
+
+	<ul class="dropdown-menu">
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/alles-rund-um-die-rasse" class="">Alles rund um die Rasse</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/zucht-und-aufzucht" class="">Zucht und Aufzucht</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/ausbildung-und-sport" class="">Aktiv mit Hund</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/helfer-und-begleiter" class="">Helfer und Begleiter</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/zuchtanlagenpruefungwesensbeurteilung" class="">Zuchtanlagenprüfung / Wesensbeurteilung</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/faq-gesundheit" class="">FAQ Gesundheit</a>
+					</li>
+				
+		
+	</ul>
+
+			</li>
+		
+
+	
+			<li class="dropdown  dropdown-left">
+				<a href="/der-verein" class="dropdown-toggle ">Der Verein</a>
+				
+
+	<ul class="dropdown-menu">
+		
+			
+					<li class="slideout">
+						<a href="/der-verein/struktur" class="">Struktur <span class="icon-chevron-right"></span></a>
+						
+
+<ul class="slideout-menu">
+	
+		
+			<li class="">
+				<a href="/der-verein/struktur/vorstand" class="">Vorstand</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/struktur/geschichte" class="">Geschichte</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/struktur/landesgruppen" class="">Landesgruppen</a>
+			</li>
+		
+	
+</ul>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-verein/sv-zeitung" class="">SV-Zeitung</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-verein/ortsgruppen" class="">Ortsgruppen</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="https://www.schaeferhunde.de/jugend" class="">Jugend</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-verein/presse" class="">Presse</a>
+					</li>
+				
+		
+			
+					<li class="slideout">
+						<a href="/der-verein/geschaeftsstelle" class="">Geschäftsstelle <span class="icon-chevron-right"></span></a>
+						
+
+<ul class="slideout-menu">
+	
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/unternehmensleitung" class="">Unternehmensleitung</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/assistenz-der-geschaeftsfuehrung" class="">Assistenz der Geschäftsführung</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/sekretariat" class="">Sekretariat</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/ortsgruppenberatung" class="">Ortsgruppenberatung</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/mediengestaltung" class="">Mediengestaltung</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/sv-kerngeschaeft-zuchtbuchamt-mitgliederangelegenheiten" class="">SV-Kerngeschäft (Zuchtbuchamt, Mitgliederangelegenheiten)</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/versand" class="">Versand</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/finanzbuchhaltung" class="">Finanzbuchhaltung</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/edv" class="">EDV</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/geschaeftsstelle/bankverbindungen" class="">Bankverbindungen</a>
+			</li>
+		
+	
+</ul>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-verein/geschaeftsstelle/stellenangebote" class="">Stellenangebote</a>
+					</li>
+				
+		
+			
+					<li class="slideout">
+						<a href="/der-verein/akademie" class="">Akademie <span class="icon-chevron-right"></span></a>
+						
+
+<ul class="slideout-menu">
+	
+		
+			<li class="">
+				<a href="/der-verein/akademie/bundesseminar" class="">Bundesseminar</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/akademie/sachkundepruefungen" class="">Sachkundeprüfungen</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/akademie/lizenzen" class="">Lizenzen</a>
+			</li>
+		
+			<li class="">
+				<a href="/der-verein/akademie/termine" class="">Termine</a>
+			</li>
+		
+	
+</ul>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/der-verein/125-jahre" class="">125 Jahre</a>
+					</li>
+				
+		
+	</ul>
+
+			</li>
+		
+
+	
+			<li class="dropdown  dropdown-left">
+				<a href="/veranstaltungen" class="dropdown-toggle ">Veranstaltungen</a>
+				
+
+	<ul class="dropdown-menu">
+		
+			
+					<li class="">
+						<a href="/veranstaltungen/veranstaltungen-des-hauptvereins-svwusv" class="">Veranstaltungen des Hauptvereins SV/WUSV</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/veranstaltungen/ueberregionale-veranstaltungen-vdhfci" class="">Überregionale Veranstaltungen VDH/FCI</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/veranstaltungen/veranstaltungskalender" class="">Veranstaltungskalender</a>
+					</li>
+				
+		
+	</ul>
+
+			</li>
+		
+
+	
+			<li class="dropdown  dropdown-left">
+				<a href="/service" class="dropdown-toggle ">Service</a>
+				
+
+	<ul class="dropdown-menu">
+		
+			
+					<li class="slideout">
+						<a href="/service/mitglied-werden/mitglied-werden" class="">Mitglied werden <span class="icon-chevron-right"></span></a>
+						
+
+<ul class="slideout-menu">
+	
+		
+			<li class="">
+				<a href="/service/mitglied-werden/mitglied-werden" class="">Mitglied werden</a>
+			</li>
+		
+			<li class="">
+				<a href="/service/mitglied-werden/faq-mitgliedschaft" class="">FAQ Mitgliedschaft</a>
+			</li>
+		
+	
+</ul>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/service/bezahlsystem" class="">Bezahlsystem</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/service/formulare-info-broschueren-verzeichnisse" class="">Formulare, Info-Broschüren, Verzeichnisse</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/mein-sv/satzungen-und-ordnungen" class="">Satzungen und Ordnungen</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/service/hdi-die-sportversicherung" class="">SV-Versicherungs-Service</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/service/edv-produkte" class="">EDV-Produkte / EDV-Services</a>
+					</li>
+				
+		
+			
+					<li class="">
+						<a href="/service/infomaterial" class="">Infomaterial</a>
+					</li>
+				
+		
+	</ul>
+
+			</li>
+		
+
+                </ul>
+            
+        </div>
+        
+            <div id="searchPrimary">
+                <div class="col-xs-6 pull-right">
+                    <div class="search-primary">
+                        
+                                
+<div class="">
+    <div class="row">
+        <div class="col-md-12">
+            
+	
+    <div class="pull-right" style="margin-right: -15px;">
+        <form method="get" id="tx-solr-search-form-pi-results" action="/suche" data-suggest="/suche?type=7384" data-suggest-header="Top Results" accept-charset="utf-8">
+            <div class="input-group">
+                
+
+                <input type="text" class="tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control" name="tx_solr[q]" value="" placeholder="Suchbegriff eingeben"/>
+                <span class="input-group-btn">
+					<button class="btn btn-green btn-small tx-solr-submit" type="submit">
+						<span class=" glyphicon glyphicon-search"></span>
+					</button>
+				</span>
+            </div>
+        </form>
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+                            
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+</div>
+	
+<div class="">
+	<div class="home-slider visible-md visible-lg visible-sm" data-slide-duration="7000" style="min-height:50px;">
+		
+			<div class="home-slider-item icon-paw icon-overlay icon-white active" data-navbox="1" data-focus="0.5" id="slide1">
+				<img class="home-slider-thumbnail" src="/uploads/filtered-images/slider_SV_1.jpg-hasha762ac37a20109e2223762265f6d798f35db9d52.jpg" width="980" height="420" alt="" />
+				<img class="home-slider-image" src="/fileadmin/SV/Images/Slider/slider_SV_1.jpg" width="980" height="420" alt="" />
+				<h5 class="home-slider-title">Unser Hund</h5>
+			</div>
+		
+			<div class="home-slider-item icon-badge icon-overlay icon-white " data-navbox="2" data-focus="0.5" id="slide2">
+				<img class="home-slider-thumbnail" src="/uploads/filtered-images/slider_SV_2.jpg-hash0eb2a126b02c5081cf8ea926b0741448713c8288.jpg" width="980" height="420" alt="" />
+				<img class="home-slider-image" src="/fileadmin/SV/Images/Slider/slider_SV_2.jpg" width="980" height="420" alt="" />
+				<h5 class="home-slider-title">Unser Verein</h5>
+			</div>
+		
+			<div class="home-slider-item icon-heart icon-overlay icon-white " data-navbox="3" data-focus="0.55" id="slide3">
+				<img class="home-slider-thumbnail" src="/uploads/filtered-images/slider_SV_3.jpg-hash1566e18b4426f41e94bd21aaf1cd992d5cbe0c6d.jpg" width="980" height="420" alt="" />
+				<img class="home-slider-image" src="/fileadmin/SV/Images/Slider/slider_SV_3.jpg" width="980" height="420" alt="" />
+				<h5 class="home-slider-title">Unser Service</h5>
+			</div>
+		
+	</div>
+	<div class="visible-xs">
+		<div class="image-with-caption-overlay">
+			<img class="img-responsive" alt="		Aus Respekt
+	zum Hund" src="/fileadmin/_processed_/f/b/csm_slider_SV_3_a738f73cb4.jpg" width="745" height="200" />
+			<div class="caption">
+						Aus Respekt<br />
+	zum Hund
+			</div>
+		</div>
+
+
+		<ul class="nav nav-vertical">
+			
+				<li>
+					<a href="/der-deutsche-schaeferhund">
+						<span class="icon-paw icon-green icon-circle"></span>
+						<strong>Unser Hund</strong> <br /> &nbsp;
+						<span class="icon-chevron-right"></span>
+					</a>
+				</li>
+			
+				<li>
+					<a href="/der-deutsche-schaeferhund/zucht-und-aufzucht">
+						<span class="icon-badge icon-green icon-circle"></span>
+						<strong>Unser Verein</strong> <br /> &nbsp;
+						<span class="icon-chevron-right"></span>
+					</a>
+				</li>
+			
+				<li>
+					<a href="/der-deutsche-schaeferhund">
+						<span class="icon-heart icon-green icon-circle"></span>
+						<strong>Unser Service</strong> <br /> &nbsp;
+						<span class="icon-chevron-right"></span>
+					</a>
+				</li>
+			
+		</ul>
+
+
+		<div class="action-bar visible-xs text-center">
+			<div class="row">
+				<div class="col-xs-12">
+					<a class="btn btn-blue" style="margin-top:5px;" href="/welpen/welpensuche">
+						Hier Welpen finden
+					</a>
+					<a class="btn btn-blue" style="margin-top:5px;" href="/service/mitglied-werden/mitglied-werden">
+						Jetzt Mitglied werden
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<a class="contact-link" style="padding-bottom: 50px;" href="/navigation/service/kontakt">
+						<span class="icon-people icon-green"></span>
+						<strong>Kontakt</strong>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="hidden-xs" id="homeSliderNavBoxes">
+		<div class="row">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-4 home-slider-navbox active" id="homeSliderNavBox_1">
+						
+
+<div>
+	<div class="home-slider-navbox-header">
+		<span class="home-slider-navbox-icon pull-left icon icon-paw"></span>
+		<div class="home-slider-navbox-title">Unser Hund</div>
+	</div>
+	<div class="home-slider-navbox-body">
+		<ul>
+			
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/alles-rund-um-die-rasse" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Die Rasse
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/zucht-und-aufzucht" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Zucht und Aufzucht
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/ausbildung-und-sport" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Aktiv mit Hund
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/helfer-und-begleiter" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Vielfältiger Einsatz
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/zuchtanlagenpruefungwesensbeurteilung" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Wesensbeurteilung/Zuchtanlagenprüfung
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="https://www.youtube.com/channel/UCldjHksLDFG36q7YbUW81Xg" class="" target="_blank">
+							<span class="icon-chevron-right icon-s"></span>
+							Lehr- und Infofilme
+						</a>
+					</li>
+				
+			
+		</ul>
+	</div>
+</div>
+						<div class="home-slider-navbox-membership-button col-xs-12">
+							<a href="/welpen/welpensuche">
+								<span class="icon-chevron-right icon-s"></span>
+								Hier Welpen finden
+							</a>
+						</div>
+					</div>
+					<div class="col-xs-4 home-slider-navbox" id="homeSliderNavBox_2">
+						
+
+<div>
+	<div class="home-slider-navbox-header">
+		<span class="home-slider-navbox-icon pull-left icon icon-badge"></span>
+		<div class="home-slider-navbox-title">Unser Verein</div>
+	</div>
+	<div class="home-slider-navbox-body">
+		<ul>
+			
+				
+					<li class="">
+						<a href="/der-verein/struktur" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Struktur
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-verein/ortsgruppen" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Ortsgruppen in meiner Nähe
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/mein-sv/satzungen-und-ordnungen" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Satzungen und Ordnungen
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/jugend" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Jugend
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-verein/geschaeftsstelle" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Geschäftsstelle
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-verein/geschaeftsstelle/stellenangebote" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Stellenangebote
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="https://www.wusv.org/" class="" target="_blank">
+							<span class="icon-chevron-right icon-s"></span>
+							Weltunion (WUSV)
+						</a>
+					</li>
+				
+			
+		</ul>
+	</div>
+</div>
+					</div>
+					<div class="col-xs-4 home-slider-navbox" id="homeSliderNavBox_3">
+						
+
+<div>
+	<div class="home-slider-navbox-header">
+		<span class="home-slider-navbox-icon pull-left icon icon-heart"></span>
+		<div class="home-slider-navbox-title">Unser Service</div>
+	</div>
+	<div class="home-slider-navbox-body">
+		<ul>
+			
+				
+					<li class="">
+						<a href="/mein-sv" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Mein SV (Mitgliederbereich)
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/service/formulare-info-broschueren-verzeichnisse" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Formulare, Info-Broschüren, Verzeichnisse
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/der-deutsche-schaeferhund/zucht-und-aufzucht/zuechtertafel" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Züchtertafel
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/service/hdi-die-sportversicherung" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							SV-Versicherungs-Service
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="/service/bezahlsystem" class="" target="_self">
+							<span class="icon-chevron-right icon-s"></span>
+							Bezahlsystem
+						</a>
+					</li>
+				
+					<li class="">
+						<a href="https://www.sv-doxs.net/" class="" target="_blank">
+							<span class="icon-chevron-right icon-s"></span>
+							SV-DOxS - Die Hundedatenbank
+						</a>
+					</li>
+				
+			
+		</ul>
+	</div>
+</div>
+						<div class="home-slider-navbox-membership-button col-xs-12">
+							<a href="/service/mitglied-werden/mitglied-werden">
+								<span class="icon-chevron-right icon-s"></span>
+								Jetzt Mitglied werden
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container">
+    
+	<div class="backdrop">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-8 main-content main-content-home">
+					
+
+
+<section class="ctype-header" id="verein-fuer-deutsche-schaeferhunde-sv-e-v"><div id="c7376" class="frame frame-default frame-type-header frame-layout-0"><header><h1 class="csc-firstHeader">
+				Verein für Deutsche Schäferhunde (SV) e.V.
+			</h1></header></div></section>
+
+
+
+
+<section class="ctype-news_newsliststicky" id="aktuelles"><div id="c20" class="frame frame-default frame-type-news_newsliststicky frame-layout-0"><header><h6 class="">
+				Aktuelles
+			</h6></header><div class="news"><div class="row"><div class="col-xs-12"><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="Wartungsankündigung" href="/der-verein/news/detail/wartungsankuendigung"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    24.08.2026 - 14:40
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        Wartungsankündigung
+                    
+                </h2><p>
+                    
+                            
+                                Wegen Wartungsarbeiten kommt es am 27.08.2026 von ca. 21 Uhr bis ca. 0 Uhr zu vorübergehenden Einschränkungen bei der Erreichbarkeit von SV-DOxS. Homepages werden zu der Zeit nicht&hellip;
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="Wartungsankündigung" href="/der-verein/news/detail/wartungsankuendigung">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="SV-Meisterschaft Rally Obedience" href="/der-verein/news/detail/sv-meisterschaft-rally-obedience-3"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    24.08.2026 - 11:56
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        SV-Meisterschaft Rally Obedience
+                    
+                </h2><p>
+                    
+                            
+                                Vom 21. - 23. August fand in der OG Herbolzheim (LG 12) die SV-Meisterschaft Rally Obedience statt. 
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="SV-Meisterschaft Rally Obedience" href="/der-verein/news/detail/sv-meisterschaft-rally-obedience-3">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="Neues Weiterbildungsprogramm der VDH-Akademie: Online-Seminare &amp; Schulungen im Spätsommer" href="/der-verein/news/detail/neues-weiterbildungsprogramm-der-vdh-akademie-online-seminare-schulungen-im-spaetsommer"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    20.08.2026 - 08:08
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        Neues Weiterbildungsprogramm der VDH-Akademie: Online-Seminare & Schulungen im Spätsommer
+                    
+                </h2><p>
+                    
+                            
+                                Von Körpersprache und Genetik bis zur optimalen Welpenfütterung: Der Verband für das Deutsche Hundewesen (VDH) bietet im August und September spannende Online-Seminare und&hellip;
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="Neues Weiterbildungsprogramm der VDH-Akademie: Online-Seminare &amp; Schulungen im Spätsommer" href="/der-verein/news/detail/neues-weiterbildungsprogramm-der-vdh-akademie-online-seminare-schulungen-im-spaetsommer">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="Nicht verpassen – 1. Meldeschluss: 03.08.2026 / 2. Meldeschluss: 10.08.2026" href="/der-verein/news/detail/nicht-verpassen-1-meldeschluss-03082026-2-meldeschluss-10082026-1"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    03.08.2026 - 13:36
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        Nicht verpassen – 1. Meldeschluss: 03.08.2026 / 2. Meldeschluss: 10.08.2026
+                    
+                </h2><p>
+                    
+                            
+                                Verpassen Sie nicht den 1. Meldeschluss und melden Ihren Hund/Ihre Zuchtgruppe heute noch an. Nach dem 1. Meldeschluss erhöhen sich die Meldegebühren.
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="Nicht verpassen – 1. Meldeschluss: 03.08.2026 / 2. Meldeschluss: 10.08.2026" href="/der-verein/news/detail/nicht-verpassen-1-meldeschluss-03082026-2-meldeschluss-10082026-1">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="PET VET Fortbildung für Hundezüchter:innen – Ernährung 2026" href="/der-verein/news/detail/pet-vet-fortbildung-fuer-hundezuechterinnen-ernaehrung-2026"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    29.07.2026 - 08:48
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        PET VET Fortbildung für Hundezüchter:innen – Ernährung 2026
+                    
+                </h2><p>
+                    
+                            
+                                Am 5. Dezember 2026 findet die PET VET Online-Fortbildung für Hundezüchter:innen zum Thema&nbsp;„Ernährung“ statt. Renommierte Expert:innen vermitteln aktuelles Wissen zu&hellip;
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="PET VET Fortbildung für Hundezüchter:innen – Ernährung 2026" href="/der-verein/news/detail/pet-vet-fortbildung-fuer-hundezuechterinnen-ernaehrung-2026">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="Ernennung WUSV-Generalsekretär" href="/der-verein/news/detail/ernennung-wusv-generalsekretaer"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    17.07.2026 - 09:38
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        Ernennung WUSV-Generalsekretär
+                    
+                </h2><p>
+                    
+                            
+                                Wir möchten Ihnen mitteilen, dass der SV-Vorstand nach vorheriger Anhörung des WUSV-Vorstandes den bisher kommissarisch tätigen WUSV-Generalsekretär – Herrn Uwe Sprenger – nun&hellip;
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="Ernennung WUSV-Generalsekretär" href="/der-verein/news/detail/ernennung-wusv-generalsekretaer">
+                    jetzt lesen
+                </a></div></div></div><div class="news-item-teaser-container"><div class="row"><div class="hidden"><div class="news-teaser-image"><a title="Neues Rally Obedience-Regelwerk ab 2027" href="/der-verein/news/detail/neues-rally-obedience-regelwerk-ab-2027"></a></div></div><div class="col-xs-12"><div class="news-teaser-meta">
+                    14.07.2026 - 14:51
+                    Uhr
+                </div><h2 class="news-teaser-header hyphenate">
+                    
+                        Neues Rally Obedience-Regelwerk ab 2027
+                    
+                </h2><p>
+                    
+                            
+                                Der Verband für das Deutsche Hundewesen (VDH) hat das Regelwerk für Rally Obedience überarbeitet, welches ab 01.01.2027 in Kraft tritt. Nachfolgend finden sie beide Regelwerke (bis&hellip;
+                            
+                        
+                </p><a class="btn btn-small btn-green pull-right" title="Neues Rally Obedience-Regelwerk ab 2027" href="/der-verein/news/detail/neues-rally-obedience-regelwerk-ab-2027">
+                    jetzt lesen
+                </a></div></div></div></div></div><div class="news-list-footer-link"><a class="news-list-link" href="/der-verein/news/archiv-nachrichten"><span class="news-list-link-name">alle Nachrichten anzeigen</span><span class="icon-chevron-left icon-circle icon-s icon-green"></span></a></div></div></div></section>
+
+				</div>
+				<div class="col-sm-4 sidebar hidden-xs">
+					
+
+
+<section class="ctype-textmedia" id="der-deutsche-schaeferhund-gefaehrte-und-begleiter-im-alltag"><div id="c6113" class="frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic ce-right ce-intext ce-nowrap"><div class="ce-gallery" data-ce-columns="1" data-ce-images="1"><div class="ce-row"><div class="ce-column"><figure class="video"><div class="video-embed"><div id="coveredByCookiebot_178759515618148"></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/plain" data-id="coveredByCookiebot_178759515618148" data-cookieconsent="preferences" data-content="
+   &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/3MrQbmtZqmU?autohide=1&amp;amp;controls=1&amp;amp;enablejsapi=1&amp;amp;origin=https%3A%2F%2Fwww.schaeferhunde.de&quot; allowfullscreen width=&quot;300&quot; height=&quot;168&quot; class=&quot;video-embed-item&quot; style=&quot;border: none;&quot; title=&quot;Der Deutsche Sch&auml;ferhund &ndash; Gef&auml;hrte und Begleiter im Alltag&quot; allow=&quot;fullscreen&quot;&gt;&lt;/iframe&gt;
+  " src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/Executors/CoveredByCookiebot.js"></script></div></figure></div></div></div><div class="ce-bodytext"><header><h6 class="">
+				Der Deutsche Schäferhund – Gefährte und Begleiter im Alltag.
+			</h6></header><p>Wir wünschen Ihnen viel Spaß beim Anschauen!</p></div></div></div></section>
+
+
+
+
+<section class="ctype-div" id="c9083"><div id="c9083" class="frame frame-default frame-type-div frame-layout-0"><hr class="ce-div" /></div></section>
+
+
+
+
+<section class="ctype-html" id="c3652"><div id="c3652" class="frame frame-default frame-type-html frame-layout-0"><div class="sv-ad-server-sidebar-banner"><ins data-revive-zoneid="44" data-revive-id="ff35df88710af2c8c8781ea17bf85a06"></ins></div></div></section>
+
+
+
+
+<section class="ctype-list" id="c7717"><div id="c7717" class="frame frame-default frame-type-list frame-layout-0"><div id="affiliate_178763111622135" class="sv-ad-server-sidebar-banner"></div><script type="text/plain" data-id="affiliate_178763111622135" data-cookieconsent="marketing" data-content="&lt;a href=&quot;https://www.awin1.com/cread.php?s=2348406&amp;v=15152&amp;q=358354&amp;r=524869&quot;&gt;&lt;img src=&quot;https://www.awin1.com/cshow.php?s=2348406&amp;v=15152&amp;q=358354&amp;r=524869&quot; border=&quot;0&quot;&gt;&lt;/a&gt;" src="/typo3conf/ext/svmodules/Resources/Public/Scripts/SvAffiliate.js"></script></div></section>
+
+
+
+
+<section class="ctype-image" id="c1668"><div id="c1668" class="frame frame-default frame-type-image frame-layout-0"><div class="ce-image ce-center ce-above"><div class="ce-gallery" data-ce-columns="1" data-ce-images="1"><div class="ce-outer"><div class="ce-inner"><div class="ce-row"><div class="ce-column"><figure class="image"><a href="/der-verein/sv-zeitung" target="_blank"><img class="image-embed-item img img-responsive" src="/fileadmin/_processed_/7/e/csm_SV-Zeitung_Titel_3d3b7222ee.jpg" width="600" height="839" alt="" /></a></figure></div></div></div></div></div></div></div></section>
+
+				</div>
+				<div class="col-xs-12">
+					<br>
+					
+
+
+<section class="ctype-div" id="c9082"><div id="c9082" class="frame frame-default frame-type-div frame-layout-0"><hr class="ce-div" /></div></section>
+
+
+
+
+<section class="ctype-list" id="c10"><div id="c10" class="frame frame-default frame-type-list frame-layout-0"><div class="event-slider whitespace-top"><div class="event-slider-items"><div class="event-slider-item " data-start="02.10.2015"><span class="text-meta">
+			02.-04.10.2015
+		</span><span class="title hyphenate"><a title="Bundesleistungshüten 2015" target="_blank" href="/blh">
+          Bundesleistungshüten 2015
+        </a></span><p class="text-s">Steinheim an der Murr (LG 13)</p><a href="/fileadmin/BLH/Documents/Ergebnisse/blh_2015.pdf" target="_blank" class="file">
+          
+              Ergebnisse
+            
+        </a></div><div class="event-slider-item " data-start="31.10.2015"><span class="text-meta">
+			31.10.2015-01.11.2015
+		</span><span class="title hyphenate">
+		
+        
+          Bundesfährtehundprüfung 2015
+        
+      
+		</span><p class="text-s">Veringenstadt (LG 13)</p><a href="/fileadmin/BFH/Documents/Ergebnisse/bfh_2015.pdf" target="_blank" class="file">
+          
+              Ergebnisse
+            
+        </a></div><div class="event-slider-item " data-start="14.05.2016"><span class="text-meta">
+			14.-16.05.2016
+		</span><span class="title hyphenate"><a title="Deutsche Jugend- und Juniorenmeisterschaft 2016" target="_blank" href="/djjm">
+          Deutsche Jugend- und Juniorenmeisterschaft 2016
+        </a></span><p class="text-s">Philippsthal/Werra (LG 09)</p></div><div class="event-slider-item " data-start="04.06.2016"><span class="text-meta">
+			04.-05.06.2016
+		</span><span class="title hyphenate"><a title="FCI-Bundesqualifikation SV 2016" target="_blank" href="/bundes-fci">
+          FCI-Bundesqualifikation SV 2016
+        </a></span><p class="text-s">Balingen (LG 13)</p></div><div class="event-slider-item " data-start="17.06.2016"><span class="text-meta">
+			17.-19.06.2016
+		</span><span class="title hyphenate">
+		
+        
+          WUSV-Universalsiegerwettbewerb 2016
+        
+      
+		</span><p class="text-s">Paderborn (LG 07)</p></div><div class="event-slider-item " data-start="08.07.2016"><span class="text-meta">
+			08.-10.07.2016
+		</span><span class="title hyphenate">
+		
+        Bundessiegerprüfung für Rettungshunde 2016
+      
+		</span><p class="text-s">Kehl (LG 12)</p></div><div class="event-slider-item " data-start="02.09.2016"><span class="text-meta">
+			02.-04.09.2016
+		</span><span class="title hyphenate"><a title="Bundessiegerzuchtschau 2016" target="_blank" href="/bsz">
+          Bundessiegerzuchtschau 2016
+        </a></span><p class="text-s">Nürnberg (LG 14)</p></div><div class="event-slider-item " data-start="16.09.2016"><span class="text-meta">
+			16.-18.09.2016
+		</span><span class="title hyphenate"><a title="Bundessiegerprüfung 2016" target="_blank" href="/bsp">
+          Bundessiegerprüfung 2016
+        </a></span><p class="text-s">Oberhausen (LG 05)</p></div><div class="event-slider-item " data-start="23.09.2016"><span class="text-meta">
+			23.-25.09.2016
+		</span><span class="title hyphenate"><a title="Bundesleistungshüten 2016" target="_blank" href="/blh">
+          Bundesleistungshüten 2016
+        </a></span><p class="text-s">Kassel-Ost (LG 09)</p></div><div class="event-slider-item " data-start="05.10.2016"><span class="text-meta">
+			05.-09.10.2016
+		</span><span class="title hyphenate"><a title="WUSV-Weltmeisterschaft 2016" target="_blank" href="/wusv-wm">
+          WUSV-Weltmeisterschaft 2016
+        </a></span><p class="text-s">Meppen (LG 04)</p></div><div class="event-slider-item " data-start="15.10.2016"><span class="text-meta">
+			15.-16.10.2016
+		</span><span class="title hyphenate">
+		
+        Agility-SV-Meisterschaft  und Bundesliga-Finale 2016
+      
+		</span><p class="text-s">Ketsch (LG 12)</p></div><div class="event-slider-item " data-start="29.10.2016"><span class="text-meta">
+			29.-30.10.2016
+		</span><span class="title hyphenate">
+		
+        
+          Obedience-SV-Meisterschaft 2016
+        
+      
+		</span><p class="text-s">Bruckmühl (LG 15)</p></div><div class="event-slider-item " data-start="05.11.2016"><span class="text-meta">
+			05.-06.11.2016
+		</span><span class="title hyphenate">
+		
+        Bundesfährtenhundprüfung 2016
+      
+		</span><p class="text-s">Thale (LG 19)</p></div></div><a href="" class="event-slider-previous"><span class="icon-chevron-left icon-white"></span></a><a href="" class="event-slider-next"><span class="icon-chevron-right icon-white"></span></a></div></div></section>
+
+
+
+
+<section class="ctype-list" id="ortsgruppen-suche"><div id="c5403" class="frame frame-default frame-type-list frame-layout-0"><header><h4 class="">
+				Ortsgruppen-Suche
+			</h4></header>
+<div class="tx-svmodules">
+	
+
+	
+    
+        <div class="map-location-box">
+            <div class="map-location-container">
+                
+                <a class="btn btn-green" style="margin:15px;" href="/der-verein/ortsgruppen/suche">
+                    Ortsgruppe finden
+                </a>
+                
+                <div class="row">
+                    <div class="col-xs-12" style="overflow: hidden;max-height: 420px;">
+                        <img class="img img-responsive" src="/_assets/7b1a9f3599bdfea02f3b82017824efb6/Image/MapLocation/MapStatic.jpg" width="1916" height="866" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+</div></div></section>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+    <div class="modal fade" id="login-information-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        class="icon-close"></span></button>
+                <h4 class="modal-title">Anmeldung</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Mitglieder haben auf unseren Seiten Zugang zu einer Vielzahl von Informationen und Angeboten.
+                </p>
+                <p>
+                    Bitte melden Sie sich wie folgt an:
+                </p>
+
+                <img alt="Mitgliedsausweis" src="/_assets/4cdf11ae6ec9e4905efd3c9e296fc1dc/Media/Anmelden_Ausweis_2013.jpg" width="241" height="177" />
+
+                <p class="text-information">
+                    <strong>Mitgliedsnummer</strong> (z.B.: 120999999) <br/>
+                    <b>(Mitgliedsnummern mit einer 0 am Anfang immer ohne die 0 eingeben)</b>
+                </p>
+
+                <p class="text-information">
+                    <small>Passwort:</small>
+                    <br/>
+                    <strong>Eintrittsdatum</strong> (z.B.: 01.01.1996) <br/>
+                    <b>(Jahreszahl bitte immer 4stellig eingeben!)</b>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal fade" id="server-login-information-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: none; padding-right: 17px;">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span class="text-l">&times;</span></button>
+                <h4 class="modal-title">Anmeldung</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    
+				Hier stehen Informationen zum neuen SV-AuthenticationServer - Login.
+				
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+<div class="row">
+	<div class="col-xs-12" style="min-height:350px; z-index: -5;">&nbsp;</div>
+</div>
+<footer class="hidden-xs" style="display:block;background-color:#5a9e33;">
+	<div id="menuBtnCircleSlideTop" class="btn-circle-slide-top text-center" title="Zum Seitenanfang" style="background-color:#2d7e39;">
+		<span class="icon-chevron-up"></span>
+	</div>
+	<div class="footer-container">
+		
+			
+				<div class="footer-column">
+					<h5>
+						<a href="/der-deutsche-schaeferhund">Der Deutsche Schäferhund</a>
+					</h5>
+					<ul><li>
+<a href="/der-deutsche-schaeferhund/alles-rund-um-die-rasse" title="Alles rund um die Rasse">Alles rund um die Rasse</a>
+</li>
+<li>
+<a href="/der-deutsche-schaeferhund/zucht-und-aufzucht" title="Zucht und Aufzucht">Zucht und Aufzucht</a>
+</li>
+<li>
+<a href="/der-deutsche-schaeferhund/ausbildung-und-sport" title="Aktiv mit Hund">Aktiv mit Hund</a>
+</li>
+<li>
+<a href="/der-deutsche-schaeferhund/helfer-und-begleiter" title="Helfer und Begleiter">Helfer und Begleiter</a>
+</li>
+<li>
+<a href="/der-deutsche-schaeferhund/zuchtanlagenpruefungwesensbeurteilung" title="Zuchtanlagenprüfung / Wesensbeurteilung">Zuchtanlagenprüfung / Wesensbeurteilung</a>
+</li>
+<li>
+<a href="/der-deutsche-schaeferhund/faq-gesundheit" title="FAQ Gesundheit">FAQ Gesundheit</a>
+</li></ul>
+				</div>
+			
+				<div class="footer-column">
+					<h5>
+						<a href="/der-verein">Der Verein</a>
+					</h5>
+					<ul><li>
+<a href="/der-verein/struktur" title="Struktur">Struktur</a>
+</li>
+<li>
+<a href="/der-verein/sv-zeitung" title="SV-Zeitung">SV-Zeitung</a>
+</li>
+<li>
+<a href="/der-verein/ortsgruppen" title="Ortsgruppen">Ortsgruppen</a>
+</li>
+<li>
+<a href="https://www.schaeferhunde.de/jugend" title="Jugend">Jugend</a>
+</li>
+<li>
+<a href="/der-verein/presse" title="Presse">Presse</a>
+</li>
+<li>
+<a href="/der-verein/geschaeftsstelle" title="Geschäftsstelle">Geschäftsstelle</a>
+</li>
+<li>
+<a href="/der-verein/geschaeftsstelle/stellenangebote" title="Stellenangebote">Stellenangebote</a>
+</li>
+<li>
+<a href="/der-verein/akademie" title="Akademie">Akademie</a>
+</li>
+<li>
+<a href="/der-verein/125-jahre" title="125 Jahre">125 Jahre</a>
+</li></ul>
+				</div>
+			
+				<div class="footer-column">
+					<h5>
+						<a href="/veranstaltungen">Veranstaltungen</a>
+					</h5>
+					<ul><li>
+<a href="/veranstaltungen/veranstaltungen-des-hauptvereins-svwusv" title="Veranstaltungen des Hauptvereins SV/WUSV">Veranstaltungen des Hauptvereins SV/WUSV</a>
+</li>
+<li>
+<a href="/veranstaltungen/ueberregionale-veranstaltungen-vdhfci" title="Überregionale Veranstaltungen VDH/FCI">Überregionale Veranstaltungen VDH/FCI</a>
+</li>
+<li>
+<a href="/veranstaltungen/veranstaltungskalender" title="Veranstaltungskalender">Veranstaltungskalender</a>
+</li></ul>
+				</div>
+			
+				<div class="footer-column">
+					<h5>
+						<a href="/service">Service</a>
+					</h5>
+					<ul><li>
+<a href="/service/mitglied-werden/mitglied-werden" title="Mitglied werden">Mitglied werden</a>
+</li>
+<li>
+<a href="/service/bezahlsystem" title="Bezahlsystem">Bezahlsystem</a>
+</li>
+<li>
+<a href="/service/formulare-info-broschueren-verzeichnisse" title="Formulare, Info-Broschüren, Verzeichnisse">Formulare, Info-Broschüren, Verzeichnisse</a>
+</li>
+<li>
+<a href="/mein-sv/satzungen-und-ordnungen" title="Satzungen und Ordnungen">Satzungen und Ordnungen</a>
+</li>
+<li>
+<a href="/service/hdi-die-sportversicherung" title="SV-Versicherungs-Service">SV-Versicherungs-Service</a>
+</li>
+<li>
+<a href="/service/edv-produkte" title="EDV-Produkte / EDV-Services">EDV-Produkte / EDV-Services</a>
+</li>
+<li>
+<a href="/service/infomaterial" title="Infomaterial">Infomaterial</a>
+</li></ul>
+				</div>
+			
+		
+
+		
+			<div class="row">
+				<div class="footer-column additional-column pull-right">
+					<a href="https://www.facebook.com/VereinfuerDeutscheSchaeferhunde" class="icon-link" target="_blank"><img src="/typo3conf/ext/mfshvcore/Resources/Public/Media/Facebook-white.png" alt="Facebook" /></a>
+					<ul><li>
+<a href="/datenschutz" title="Datenschutz">Datenschutz</a>
+</li>
+<li>
+<a href="/navigation/service/kontakt" title="Kontakt">Kontakt</a>
+</li>
+<li>
+<a href="/impressum" title="Impressum">Impressum</a>
+</li>
+<li>
+<a href="https://www.sv-doxs.net/page/agb" title="AGB">AGB</a>
+</li></ul>
+					<a class="text-s" href="/ortsgruppen">Ortsgruppen in Deutschland</a>
+					<a class="text-s" href="/zuechter">Züchter Deutscher Schäferhunde</a>
+					<a class="text-s" href="/welpenangebote">Deutsche Schäferhundwelpen kaufen – Angebote</a>
+				</div>
+			</div>
+		
+		
+		
+	</div>
+	<div class="pull-right cache-time" style="font-size:11px;">
+		24.08.2026 20:12 Uhr
+	</div>
+</footer>
+</div>		<script type="text/plain" data-cookieconsent="statistics" src="https://www.schaeferhunde.de/piwik.js"></script>
+		<script type="text/plain" data-cookieconsent="statistics" src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/Executors/PiwikExec.js"></script>
+		<noscript><p><img src="http://www.schaeferhunde.de/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/jquery/jquery-3.7.1.min.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/bootstrap/dist/js/bootstrap.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/sticky-kit/jquery.sticky-kit.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/bootstrap-select/js/bootstrap-select.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/simple_class_inheritance.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/jquery.event.move/js/jquery.event.move.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/jquery.event.swipe/js/jquery.event.swipe.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/jquery-match-height/jquery.matchHeight.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/jquery-drilldown/dist/jquery.drilldown.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/smoothscroll/smoothscroll.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/magnific-popup/dist/jquery.magnific-popup.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/imagesloaded/imagesloaded.pkgd.js?1756358678"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Components/shariff-1.10.0/shariff.min.js"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/HomeSlider.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/EventSlider.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/NewsTeaser.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/NavSwipe.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/TableFixedColumns.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/MonthSelector.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/Main.js?1756358679"></script>
+<script src="/typo3conf/ext/mfshvcore/Resources/Public/Scripts/HomeOverlaySwitch.js?1756358679"></script>
+<script src="/_assets/e799cca3073eabb617dfebf5f7cabc53/JavaScript/JQuery/jquery.autocomplete.min.js?1730442585"></script>
+<script src="/_assets/e799cca3073eabb617dfebf5f7cabc53/JavaScript/suggest_controller.js?1730442585"></script>
+<script src="/_assets/24feb545a2601d200c17c27a4484a7af/Scripts/Components/jquery.chocolat.js?1756358679"></script>
+
+<script src="/_assets/58185bece9f841349cb9eae39d4f2aff/Scripts/SvAuthClient.js?1756358679" type="text/javascript"></script>
+<script src="/_assets/24feb545a2601d200c17c27a4484a7af/Scripts/SvGallery.js?1756358679"></script>
+<script src="/_assets/7b1a9f3599bdfea02f3b82017824efb6/Scripts/I18n/de.js?1756358679"></script>
+<script src="/_assets/7b1a9f3599bdfea02f3b82017824efb6/Scripts/SvTranslate.js?1756358679"></script>
+
+
+
+</body>
+</html>

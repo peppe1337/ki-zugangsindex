@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cache/
+Disallow: /output/
+Disallow: /suche.phtml
+Disallow: /suchen.phtml
+Disallow: /redirect.phtml
+
+Sitemap: http://DOMAIN/sitemap.xml

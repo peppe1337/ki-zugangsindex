@@ -1,0 +1,25 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+# site: fu-berlin
+
+
+User-agent: *
+Disallow: /_search
+Disallow: /en/_search
+Disallow: /campusleben/_search
+Disallow: /sites/weiterbildung/_search
+Disallow: /en/sites/drs/_search
+Disallow: /sites/drs/_search
+Disallow: /sites/ggm/verwertung_entsorgung/fundgrube/_search
+Disallow: /sites/forschungsdatenmanagement/_search
+Disallow: /sites/genome-editing/_search
+Disallow: /sites/nachhaltigkeit/_search
+Disallow: /sites/ggm/verwertung_entsorgung/_search
+Disallow: /en/sites/forschungsdatenmanagement/_search
+Disallow: /sites/eventn/_search
+
+Sitemap: https://www.fu-berlin.de/sitemap.xml
+

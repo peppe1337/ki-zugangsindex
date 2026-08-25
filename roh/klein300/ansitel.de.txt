@@ -1,0 +1,664 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+<meta name="description" content="Zukunftssichere und professionelle VoIP-Telefoniel&ouml;sungen von ansit-com. Individuelle ansitel IP-Telefonanlagen f&uuml;r kleine und mittlere Unternehmen." />
+<meta name="robots" content="index, follow">
+<title>flexible und moderne VoIP-Telefonanlagen von ansitel</title>
+<link rel="icon" href="ansit-favicon.ico" type="image/ico">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="js/respond-1.1.0.min.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/html5element.js"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102181205-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+
+<!--Header_section-->
+<header id="header_wrapper">
+  <div class="container">
+    <div class="header_box">
+      <div class="logo"><a href="#"><img src="img/ansitel-logo.png" alt="logo"></a></div>
+	  <nav class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        </div>
+	    <div id="main-nav" class="collapse navbar-collapse navStyle">
+			<ul class="nav navbar-nav" id="mainNav">
+			  <li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
+
+			  <li><a href="#service" class="scroll-link">Funktionen</a></li>
+        <li><a href="#Telefonanlagen" class="scroll-link">Telefonanlagen </a></li>
+        <li><a href="#test_ansitel" class="scroll-link">Testen</a></li>
+			  <li><a href="#clients" class="scroll-link">Referenzen</a></li>
+			  <li><a href="#team" class="scroll-link">Team</a></li>
+			  <li><a href="#contact" class="scroll-link">Kontakt</a></li>
+			</ul>
+      </div>
+	 </nav>
+    </div>
+  </div>
+</header>
+<!--Header_section-->
+
+<!--Hero_Section-->
+<section id="hero_section" class="top_cont_outer">
+  <div class="hero_wrapper">
+    <div class="container">
+      <div class="hero_section">
+        <div class="row">
+          <div class="col-lg-5 col-sm-7">
+            <div class="top_left_cont zoomIn wow animated">
+              <h2>ansitel VoIP-Telefonanlagen</h2>
+              <p>Business Communication that rocks!</p>
+              <a href="#service" class="read_more2">Funktionen</a> </div>
+          </div>
+          <div class="col-lg-7 col-sm-5">
+			<img src="img/ip-telefonanlage-webinterface.png" class="zoomIn wow animated" alt="" />
+		  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Hero_Section-->
+
+
+
+<!--Service-->
+<section id="vorteile"><!--Aboutus-->
+<div class="inner_wrapper">
+  <div class="container">
+    <br />
+    <h2>Ihre neue IP-Telefonanlage - flexibel, modern und individuell</h2>
+    <div class="inner_section">
+	<div class="row">
+      <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/ipsmart-front-seitlich-500.jpg" class="img-square delay-03s animated wow zoomIn" alt="ansitel IPsmart NEXT"></div>
+      	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+        	<div class=" delay-01s animated fadeInDown wow animated">
+			<h3>Ihre Vorteile:</h3><br/>
+      <ul class="navStyle">
+        <li>hervorragendes Preis-/Leistungsverhältnis</li>
+        <li>einfache Bedienung durch intuitive Telefonanlagensteuerung</li>
+        <li>alle Funktionen inklusive</li>
+        <li>zahlreiche Endgeräte anschließbar</li>
+        <li>schneller Support mit geringen Reaktionszeiten</li>
+        <li>All-IP fähig</li>
+        <li>Made in Germany</li>
+        <li>zwei Jahre Gewährleistung</li>
+        <li>als Hardware-, Software- oder Cloudversion erhältlich</li>
+        <li>mit webRTC Browsertelefon - Telefonieren ohne Hardware oder Installation</li>
+      </ul>
+
+      <p>Telefonie spielt auch im digitalen Zeitalter eine nach wie vor große Rolle. Der Unterschied zur alten ISDN-Technik ist, dass sich durch Voice over IP (VoIP) heute viele Kommunikationsprozesse bündeln und vereinfachen lassen. Beispielsweise lassen sich mehrere Standorte bequem über eine einzige Telefonanlage steuern. Auch Heimarbeitsplätze oder Smartphones können heute einfach angemeldet werden, so dass die jeweilige Festnetznummer mit dem Mitarbeiter wandert.</p> <br/>
+<p>Wir von ansit-com unterstützen Ihr Unternehmen dabei, eine stabile, zukunftssichere und moderne Telefonielösung zu realisieren. Das bedeutet für uns, dass wir Ihnen eine hochwertige Telefonanlage zu fairen Konditionen zur Verfügung stellen und einen persönlichen Ansprechpartner, der Ihnen bei Fragen rund um Ihre Kommunikationslösung stets zur Verfügung steht.</p>
+</div>
+<div class="work_bottom"> <span>Übersicht der VoIP-Telefonanlagen</span> <a href="#Telefonanlagen" class="contact_btn">Telefonanlagen</a> </div>
+	   </div>
+
+      </div>
+
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section  id="service">
+  <div class="container">
+    <h2>Funktionen</h2>
+    <p>Mit einer VoIP-Telefonanlage von ansitel stehen Ihnen mehr als 100 Funktionen zur Verfügung, die Sie ohne lästiges Nachlizenzieren sofort nutzen können.
+    <div class="service_wrapper">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Click_to_Dial_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Click to Dial</h3>
+            <p class="animated fadeInDown wow">Mit unseren Click to Dial Plugins wählen Sie einfach aus dem Browser heraus.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Chef-Sekretaer-Funktion_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Chef-Sekretär-Funktion</h3>
+            <p class="animated fadeInDown wow">Chef-Telefone können auf "Bitte nicht stören" gesetzt werden. Anrufe werden auf das Sekretär-Telefon umgeleitet. Nur das Sekretär-Telefon darf zum Chef-Telefone weitervermitteln.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Gespraechsdatenerfassung_v2_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Gesprächsdatenerfassung</h3>
+            <p class="animated fadeInDown wow">Sämtliche Gesprächsdaten und Aufzeichnungen werden erfasst und können als csv- und mp3-Datei herunterladen werden.</p>
+          </div>
+        </div>
+      </div>
+	   <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow  zoomIn"> <span><img src="img/funktionen/Individuelle_Ansage_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Individuelle Ansagen</h3>
+            <p class="animated fadeInDown wow">Laden Sie Ihre eigenen Ansagen im wav- oder mp3-Format hoch oder nehmen Sie Ihre Ansagen direkt am Telefon auf. Ihre Ansagen können in verschiedenen Modulen verwendet werden.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft mrgTop">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Intelligenter_Waehlplan_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Intelligenter Wählplan</h3>
+            <p class="animated fadeInDown wow">Der Wählplan setzt sämtliche Module zur gewünschten Funktion der Telefonanlage zusammen. Der Flexibilität sind so gut wie keine Grenzen gesetzt.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 borderLeft mrgTop">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Interaktive_Sprachmenüs_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Interaktive Sprachmenüs</h3>
+            <p class="animated fadeInDown wow">Erstellen Sie mehrstufige Sprachmenüs, die durch das Tastenfeld des Telefons gesteuert werden. </p>
+          </div>
+        </div>
+      </div>
+      <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow zoomIn"> <span><img src="img/funktionen/One_Number_Concept_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">One Number Concept</h3>
+            <p class="animated fadeInDown wow">Das One Number Concept ermöglicht die Erreichbarkeit von mehreren Nebenstellen und Mobiltelefonen unter einer Rufnummer</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Rufgruppen_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Rufgruppen</h3>
+            <p class="animated fadeInDown wow">In Rufgruppen können Telefone, Weiterleitungen und persönliche Nebenstellen zusammengefasst werden.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/SIP-Trunking_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">SIP Trunking</h3>
+            <p class="animated fadeInDown wow">ansitel unterstützt sehr viele SIP-Provider als Verbindung ins Festnetz. </p>
+          </div>
+        </div>
+      </div>
+      <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Sprachverschluesselung_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Sprachverschlüsselung</h3>
+            <p class="animated fadeInDown wow">Telefonieren Sie sicher! Die Übertragung der Sprach- und Verbindungsdaten lassen sich einfach verschlüsseln.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Smartphone-Integration_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Smartphone-Integration</h3>
+            <p class="animated fadeInDown wow">Verbinden Sie Ihr Smartphone mit der ansitel Telefonanlage und sind unterwegs genauso erreichbar wie im Büro.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/VIP_Blacklist_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">VIP / Blacklisting</h3>
+            <p class="animated fadeInDown wow">Anhand der Anrufernummer kann der Anruf bevorzugt oder abgelehnt werden.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Virtuelle_Konferenzschaltung_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Virtuelle Konferenzschaltung</h3>
+            <p class="animated fadeInDown wow">Führen Sie Konferenzen mit mehr als drei Teilnehmern auf der ansitel Telefonanlage. Das zweisprachige Menü führt Ihre Teilnehmer sicher in die PIN-geschützte Konferenz.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Virtuelles_Fax_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Virtuelles Fax</h3>
+            <p class="animated fadeInDown wow">ansitel empfängt Ihre Faxe, wandelt sie in das PDF-Format um und versendet Ihre Faxe per Email. Durch Faxdrucker-Treiber versenden Sie Faxe von jedem Arbeitsplatz. </p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Voicemail_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Anrufbeantworter</h3>
+            <p class="animated fadeInDown wow">Anrufbeantworter nehmen Ihre verpassten Anrufe entgegen und informieren Sie per Email.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row borderTop">
+        <div class="col-lg-4 mrgTop">
+          <div class="service_block">
+            <div class="service_icon delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Warteschlangen_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Warteschlangen</h3>
+            <p class="animated fadeInDown wow">Über Warteschlangen können Anrufern Wartemelodien vorgespielt werden. Im Hintergrund werden die Anrufe angemeldeten Agenten auf Basis der Rufstrategien zugeordnet.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon2  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Weiterleitungen_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Weiterleitungen</h3>
+            <p class="animated fadeInDown wow">Mit Weiterleitungen sind Sie mobil unter Ihrer Unternehmensrufnummer erreichbar. </p>
+          </div>
+        </div>
+        <div class="col-lg-4 mrgTop borderLeft">
+          <div class="service_block">
+            <div class="service_icon icon3  delay-03s animated wow zoomIn"> <span><img src="img/funktionen/Zentrales_Telefonbuch_72.png" /></span> </div>
+            <h3 class="animated fadeInUp wow">Zentrales Telefonbuch</h3>
+            <p class="animated fadeInDown wow">Verwalten Sie Ihre Kontakte in dem zentralen Telefonbuch und wählen Sie direkt daraus. Angeschlossene Telefone können eine Rückwärtssuche über Einträge aus dem Telefonbuch durchführen. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--Service-->
+
+
+
+<!--Aboutus-->
+
+
+<!-- Portfolio -->
+<br />
+<section id="Telefonanlagen" class="content">
+
+  <!-- Container -->
+  <div class="container portfolio_title">
+
+    <!-- Title -->
+    <div class="section-title">
+      <h2>Telefonanlagen - Hardware, VM oder Cloud</h2>
+      <p>Flexibilität, Professionalität und Zukunftsfähigkeit waren die Hauptaugenmerke bei der Entwicklung der ansitel VoIP-Telefonanlagen. Der Fokus unserer Kommunikationslösungen sind kleine und mittelständische Unternehmen bis zu 1000 Nebenstellen. Beim Anlagentyp können Sie frei entscheiden, was eingesetzt werden soll. Ob hardwarebasierte Telefonanlage, Cloud oder als virtuelle Lösung auf Ihrem eigenen Server (Software Appliance): Bei uns erhalten Sie ein auf Ihren Bedarf abgestimmtes, hochleistungsfähiges und modernes Produkt mit Servicegarantie.</p>
+    </div>
+    <!--/Title -->
+
+  </div>
+  <!-- Container -->
+
+  <div class="portfolio-top"></div>
+
+  <!-- Portfolio Filters -->
+  <div class="portfolio">
+    <script type="text/javascript">
+    function activaTab(tab){
+    $('.nav-tabs a[href="#' + tab + '"]').tab('show');
+};
+
+    activaTab('voip2');
+    </script>
+
+    <div id="filters" class="sixteen columns">
+
+
+      <ul class="clearfix" class="nav nav-tabs">
+        <li><a id="all" href="#voip1" data-filter="*" data-toggle="tab" class="active">
+          <h5>IPsmart NEXT</h5>
+          </a></li>
+        <li><a class="" href="#voip2" data-toggle="tab" data-filter=".ipsmart">
+          <h5>flexVoIP</h5>
+          </a></li>
+       
+        <li><a class="" href="#voip4" data-toggle="tab" data-filter=".flexhybrid">
+          <h5>flexCloud</h5>
+          </a></li>
+        <li><a class="" href="#voip5" data-toggle="tab" data-filter=".callcenter">
+          <h5>flexVoIP VM</h5>
+          </a></li>
+
+        </ul>
+
+    </div>
+    <!--/Portfolio Filters -->
+
+    <!-- Portfolio Wrapper -->
+<div class="container portfolio_title">
+<div class="section-title">
+  <div class="tab-content overview" id="tabs">
+    <div class="tab-pane" id="voip1"><h3>ansitel IPsmart NEXT - Kleine VoIP-Telefonanlage mit großem Funktionsumfang</h3><p><img src="img/ipsmart-front-seitlich-500.jpg" alt="kleine VoIP-Telefonanlage ansitel IPsmart" style="float:right; width:250px;"/>Unsere kompakte VoIP-Telefonanlage ansitel IPsmart wurde für Unternehmen entwickelt, die eine professionelle und zukunftssichere Telefonielösung für bis zu 30 Nebenstellen zu einem hervorragenden Preis-/Leistungsverhältnis benötigen. Die Anlage unterstützt wahlweise bis zu 15 bzw. 32 gleichzeitige (synchrone) Gespräche.</p></div>
+    <div class="tab-pane" id="voip2"><h3>ansitel flexVoIP - Flexible VoIP-Telefonanlage für gehobene Ansprüche</h3> <p><img src="img/ansitel-flexvoip50.png" alt="flexible VoIP-Telefonanlage für KMU" style="float:right;"/>Die Anlagenserie ansitel flexVoIP wurde speziell für kleinere bis mittlere Unternehmen entwickelt, die eine flexible und individualisierbare <strong>VoIP-Telefonanlage</strong> zwischen 50 und 700 Nebenstellen benötigen. Die flexVoIP Telefonanlage unterstützt bis zu 100 gleichzeitige Gespräche.</p></div>
+    
+    <div class="tab-pane" id="voip4"><h3>ansitel flexCloud - Skalierbar und flexible Cloud-Telefonanlage</h3><p>Die ansitel flexCloud ist unsere hochverfügbare <strong>Cloud-Telefonanlage</strong>, die für bis zu 500 Nebenstellen zur Verfügung steht. Unsere Kunden erhalten jeweils einen eigenen Telefonieserver in unserem Rechenzentrum, um die gleichbleibend beste Gesprächsqualität zu bieten. Unsere Cloudlösung wird auf Wunsch mit unserem Business-Telefonanschluss ansitline ausgestattet, so dass wir Ihnen eine vollständige Cloudlösung aus einer Hand anbieten können. Alternativ können Sie Ihren vorhandenen Telefonanschluss auch mitnehmen.</p></div>
+    <div class="tab-pane" id="voip5"><h3>ansitel flexVoIP VM - Die Telefonanlage für Ihre Virtuelle Maschine</h3><p>Unternehmen, die eigene Server verwenden, können mit unserer <strong>Software-Telefonanlage</strong> ansitel flexVoIP VM eine eigene flexible Telefonielösung realisieren. Unsere softwarebasierte Telefonielösung ist flexibel erweiterbar und hochskalierbar. Alle bekannten Virtualisierungsumgebungen (u.a. VirtualBox, VMware, KVM, Xen, HyperV) werden unterstützt. Die Anzahl der maximalen Gespräche hängt vom eingesetzten Server ab.</p></div>
+  </div>
+      <!-- Portfolio Item -->
+            <h3>Übersicht von Hardware IP-Telefonanlagen (Hardware-Appliances)</h3>
+            <div style="overflow:auto;">
+            <table class="table table-condensed" >
+            <thead>
+              <tr><th>Telefonanlage</th><th>Anlagentyp</th><th>Nebenstellen inklusive</th><th>erweiterbar bis</th><th>max. gleichzeitige Gespräche</th><th>Leistungsbeschreibung</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>ansitel IPsmart NEXT</td><td>VoIP</td><td>10</td><td>30</td><td>10 (max. 20)</td><td><a target="_blank" href="https://www.ansit-com.de/downloads/ansitel-ipsmart-next.pdf"><i class="fa fa-file-pdf-o fa-lg"></i></a></td>
+              </tr>
+              
+              <tr>
+                <td>ansitel flexVoIP 50</td><td>VoIP</td><td>individuell</td><td>50</td><td>30</td><td><a target="_blank" href="https://www.ansit-com.de/downloads/ansitel-flexVoIP-50-Produktinformation.pdf"><i class="fa fa-file-pdf-o fa-lg"></i></a></td>
+              </tr>
+              <tr>
+                <td>ansitel flexVoIP 200</td><td>VoIP</td><td>individuell</td><td>200</td><td>100</td><td><a target="_blank" href="https://www.ansit-com.de/downloads/ansitel_flexvoip.pdf"><i class="fa fa-file-pdf-o fa-lg"></i></a></td>
+              </tr>
+              <tr>
+                <td>ansitel flexVoIP 700</td><td>VoIP</td><td>individuell</td><td>1000</td><td>250</td><td><a target="_blank" href="https://www.ansit-com.de/downloads/ansitel-flexVoIP-700-Produktinformation.pdf"><i class="fa fa-file-pdf-o fa-lg"></i></a></td>
+              </tr>
+              
+            </tbody>
+            </table>
+</div>
+
+
+
+</div>
+<div class="work_bottom"> <span>Fordern Sie hier Ihr unverbindliches Angebot an!</span> <a target="_blank" href="https://www.ansit-com.de/angebot.php" target="_blank" class="contact_btn">Angebot</a> </div>
+</div>
+<br /><br />
+
+<section id="test_ansitel"><!--Aboutus-->
+<div class="inner_wrapper">
+  <div class="container">
+    <h2>ansitel Telefonanlage testen</h2>
+    <div class="inner_section">
+	<div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/ansitel-webinterface.jpg" class="img-square delay-03s animated wow zoomIn" style="border:1px solid #c0c0c0; padding:3px;" alt="Konfiguration IP-Telefonanlage"></div>
+      	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+        	<div class=" delay-01s animated fadeInDown wow animated">
+			<h3>Vollfunktionsfähige Testanlage zum Download</h3><br/>
+            <p>Mit der aktuellen Version können Sie unsere ansitel VoIP-Telefonanlage (VM) mit bis zu 3 Nebenstellen kostenlos verwenden.</p><br />
+            <p>Wünschen Sie eine Test mit einer größeren Umgebung? Kein Problem! Sie können die ansitel VoIP-Telefonanlage mit bis zu 50 Nebenstellen im vollen Umfang für 60 Tage testen. Gern stellen wir Ihnen, insofern verfügbar, auch Testgeräte oder einen IP-Telefonanschluss für 14 Tage zur Verfügung. Sprechen Sie uns bei Bedarf gern an. Auf Wunsch können Sie ansitel auch als Cloud-Telefonanlage nutzen und natürlich vorab testen.</p><br />
+
+            <span class="innerlinks">
+              <a target="_blank" href="https://www.ansit-com.de/produkte/ansitel-testen-vm.php">Telefonanlage (VM) herunterladen</a>&nbsp;<a target="_blank" href="https://www.ansit-com.de/produkte/ansitel_voip-cloud.php">ansitel flexCloud</a>&nbsp;<a target="_blank" href="https://www.ansit-com.de/downloads.php">Installationsanleitung (VM)</a></p>
+            </span>
+            </div>
+            <div class="work_bottom"> </div><br />
+            <h3>Passenden Telefonanschluss gesucht?</h3><br/>
+            <p>ansit-com ist auch Provider für skalierbare und leistungsfähige Business IP-Telefonanschlüsse (SIP-Trunks). Diese Telefonanschlüsse haben die ISDN- und Analogtelefonie abgelöst und benötigen lediglich eine Internetverbindung. Wenn Sie eine vollständige Telefonielösung aus einer Hand wünschen, erhalten Sie mit unseren Telefonanschlüssen bestmögliche Performance. Auf kurze Vertragslaufzeiten von einem Monat sowie ein hervorragendes Preis-/Leistungsverhältnis können Sie sich verlassen.</p>
+
+
+
+	   </div>
+
+      </div>
+
+
+    </div>
+  </div>
+  </div>
+</section>
+
+    <!--/Portfolio Wrapper -->
+
+  </div>
+  <!--/Portfolio Filters -->
+
+  <div class="portfolio_btm"></div>
+
+
+  <div id="project_container">
+    <div class="clear"></div>
+    <div id="project_data"></div>
+  </div>
+
+
+</section>
+<!--/Portfolio -->
+
+
+<section id="test_ansitel"><!--Aboutus-->
+<div class="inner_wrapper">
+  <div class="container">
+    <h2>Kompatible VoIP-Telefone und Zubehör</h2>
+    <p>Mit einer Telefonielösung von ansitel erhalten Sie eine moderne und zukunftssichere Lösung, die alle bekannten Standards unterstützt. Jede ansitel Telefonanlage enthält alle wesentlichen Audio- und Videostandards, mit denen neben herkömmlicher Telefonie auch Videotelefonie möglich ist. Bei der Gestaltung Ihrer Unternehmenskommunikation können Sie selbst entscheiden, ob Sie IP-Tischtelefone, DECT-Telefone, Smartphones, Softphones oder analoge Endgeräte einsetzen wollen.</p>
+    <div class="inner_section">
+	<div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/voip-telefone/yealink-t46.jpg" style="width:300px;" class="img-square delay-03s animated wow zoomIn" alt="Konfiguration IP-Telefonanlage"></div>
+      	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+        	<div class=" delay-01s animated fadeInDown wow animated">
+              <h3>VoIP-Telefone</h3>
+                <p>Ein großer Vorteil vieler VoIP-Telefonanlagen ist, dass sich eine breite Palette an unterschiedlichen Endgeräten anschließen lassen. Die Zeit der Systemtelefone, die nur mit einem bestimmten Telefonanlagenhersteller kompatibel sind, gehören der Vergangenheit an. Eine Vielzahl unterschiedlicher Hersteller von IP-Telefonen wie z.B. Yealink, Grandstream, Gigaset, Unify oder Snom können einfach und bequem an der Telefonanlage angemeldet werden.</p><br />
+                <p>Mit eine ansitel IP-Telefonielösung können viele IP-Telefone in kürzester Zeit via Autoprovisionierung an der Anlage angemeldet werden. Auch weniger bekannte Modelle können, insofern sie das SIP-Protokoll unterstützen, manuell an der Telefonanlage registriert werden.</p>
+
+      </div>
+      <div class="work_bottom"> </div>
+	   </div>
+
+      </div>
+
+
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/ansitel-webrtc.jpg" style="width:300px;" class="img-square delay-03s animated wow zoomIn" alt="ansitel webRTC"></div>
+          	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+            	<div class=" delay-01s animated fadeInDown wow animated">
+                  <h3>Telefonieren über Webbrowser (webRTC)</h3>
+                    <p>Die Digitalisierung ermöglicht es heute auch, bequem über einen Webbrowser wie z.B. Mozilla Firefox oder Google Chrome zu telefonieren. Die dahinterstehende Technologie heißt webRTC und ermögicht eine Echtzeitkommunikation über das öffentliche Telefonnetz.</p><br />
+                    <p>Mit dem ansitel webRTC Client können Sie bequem über Ihr Headset telefonieren, ohne ein externes Gerät anzuschließen oder eine App bzw. Software zu installieren. Mit dem integrierten Browsertelefon nutzen Sie sämtliche Vorteile eines klassischen Telefons, wie z.B. Besetzlampenfelder, Schnell- und Direktwahl sowie Anruflisten.</p>
+
+          </div>
+          <div class="work_bottom"> </div>
+    	   </div>
+
+      </div>
+
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/voip-telefone/analog-adapter.jpg" style="width:300px;" class="img-square delay-03s animated wow zoomIn" alt="Analoge Endgeräte mit Terminaladapter"></div>
+          	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+            	<div class=" delay-01s animated fadeInDown wow animated">
+                  <h3>Analoge Endgeräte</h3>
+                    <p>In einigen Unternehmen werden noch analoge Endgeräte wie beispielsweise Fax, Türsprechstellen oder analoge Tischtelefone verwendet. Diese Geräte können problemlos über einen oder mehrere <strong>VoIP-Analog-Adapter</strong> (auch ATA-Box) genannt, weiterverwendet werden. Sollen mehr als vier Analoggeräte betrieben werden, können spezielle Gateways verwendet werden. Je nach Ausbaustufe gibt es Gateways mit bis zu 48 Analogports.</p><br />
+                    <p>Kleinere Analogadapter sowie größere Gateways werden einfach mit einem LAN-Kabel an das Netzwerk angeschlossen. Die jeweiligen analogen Endgeräte werden an der Telefonanlage dann als normale SIP-Nebenstelle registriert.</p>
+
+          </div>
+          <div class="work_bottom"> </div>
+    	   </div>
+
+      </div>
+
+
+      <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right"><img src="img/voip-telefone/dect-telefonie.jpg" style="width:300px;" class="img-square delay-03s animated wow zoomIn" alt="DECT Telefone und Basisstationen"></div>
+          	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left">
+            	<div class=" delay-01s animated fadeInDown wow animated">
+                  <h3>schnurlose Kommunikation mit DECT-Geräten</h3>
+                    <p>Die schnurlose Telefonie mit DECT-Mobilteilen wird über eine IP basierte Basisstation realisiert. Je nach Hersteller und Produkt können pro Basisstation zwischen 4 und 8 Mobilteile angeschlossen werden. Einige Hersteller (z.B. Gigaset) bieten auch so genannte Multizellensysteme an, mit der sich bis zu 30 Mobilteile anschließen lassen. Bei der Anschaffung von DECT-Zubehör muss zunächst geklärt werden, wieviel synchrone Gespräche jede Basisstation bewerkstelligen soll und ob besondere Features wie ein nahtloses Handover gewünscht sind. </p><br />
+                    <p>Alle ansitel IP-Telefonanlagen sind vollständig kompatibel mit den DECT-Systemen von Yealink, Snom, Mitel und Gigaset. Bitte beachten Sie, dass je nach Gebäudegröße und Gebäudestruktur mehrere Basisstationen benötigt werden.</p>
+
+          </div>
+          <div class="work_bottom"> </div>
+    	   </div>
+
+      </div>
+
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+<section class="page_section" id="clients"><!--page_section-->
+  <div class="container">
+  <h2>Referenzen</h2>
+  <p>Mehr als 3500 Unternehmen setzen bereits auf eine ansitel Telefonanlage. Unsere Anlagen werden u.a. in kleinen und großen Agenturen, Arztpraxen, Rechtsanwaltskanzleien, Vereinen, Schulen, produzierenden Unternehmen, Call Centern und Dienstleistungsunternehmen eingesetzt. Nachfolgend sehen Sie einen Auszug unserer Referenzen.</p>
+</div>
+<!--page_section-->
+<div class="client_logos"><!--client_logos-->
+
+  <div class="container">
+    <ul class="fadeInRight animated wow">
+      <li><a href="javascript:void(0)"><img src="img/referenzen/impp.jpg" alt=""></a></li>
+      <li><a href="javascript:void(0)"><img src="img/referenzen/gruen-software-ag.jpg" width="250" alt=""></a></li>
+      <li><a href="javascript:void(0)"><img src="img/referenzen/advita.png" alt=""></a></li>
+      <li><a href="javascript:void(0)"><img src="img/referenzen/teufel.png" alt=""></a></li>
+      <li><a href="javascript:void(0)"><img src="img/referenzen/finanzende.png" alt=""></a></li>
+    </ul>
+  </div>
+</div>
+</section>
+<!--client_logos-->
+
+<section class="page_section team" id="team"><!--main-section team-start-->
+  <div class="container">
+    <h2>Über Uns</h2>
+    <p>Die ansit-com GmbH aus Berlin ist ein Full-Service-Anbieter für <strong>moderne und flexible Telefonanlagen</strong>. Mehr als 25 Experten aus den Bereichen Netzwerktechnik, Systemintegration, VoIP-Engineering und Informatik arbeiten mit vollem Einsatz daran, unseren Kunden und Partnern eine <strong>reibungslose Telekommunikation</strong> zu gewährleisten. Mit unserer Telefonanlagenserie ansitel, können wir unseren Kunden eine zuverlässige, moderne und kostengünstige Kommunikationslösung in die Hand geben, die <strong>einfach zu bedienen</strong> ist und permanent weiterentwickelt wird. <strong>Mehr als 100 Partner in Deutschland und Österreich</strong> unterstützen uns dabei, für unsere Kunden auch vor Ort verfügbar zu sein.</p>
+    <br />
+    <p>Neben individuellen Telefonanlagen bieten wir Ihnen auch <strong>Telefonanschlüsse bzw. SIP-Trunks</strong> an, die auf Ihren tatsächlichen Bedarf zugeschnitten sind. Bei uns können Sie frei wählen, wie viele Rufnummern, Rufnummernblöcke oder Sprachkanäle Sie benötigen. Und das ohne langfristige Vertragsbindung, zu hervorragenden Konditionen und natürlich in bester Sprachqualität. Ihre vorhandenen Rufnummern können Sie problemlos und kostenfrei zu uns portieren.</p>
+
+</section>
+<!--/Team-->
+<!--Footer-->
+<footer class="footer_wrapper" id="contact">
+  <div class="container">
+    <section class="page_section contact" id="contact">
+      <div class="contact_section">
+        <h2>Kontakt</h2>
+        <div class="row">
+          <div class="col-lg-4">
+
+          </div>
+          <div class="col-lg-4">
+
+          </div>
+          <div class="col-lg-4">
+
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 wow fadeInLeft">
+		 <div class="contact_info">
+                            <div class="detail">
+                                <h4>ansit-com GmbH</h4>
+                                <p>Lückstrasse 72/73<br />
+                                10317 Berlin</p>
+                            </div>
+                            <div class="detail">
+                                <h4>Telefon</h4>
+                                <p>030 - 208 477 964</p>
+                            </div>
+                            <div class="detail">
+                                <h4>Fax</h4>
+                                <p>030 - 208 477 968</p>
+                            </div>
+                            <div class="detail">
+                                <h4>Email</h4>
+                                <p>sales@ansit-com.de</p>
+                            </div>
+                        </div>
+
+
+
+          
+        </div>
+        <div class="col-lg-8 wow fadeInLeft delay-06s">
+          <div class="form">
+				<!--NOTE: Update your email Id in "contact_me.php" file in order to receive emails from your contact form-->
+		<form name="sentMessage" id="contactForm"  novalidate>
+
+      <div class="control-group" style="display:none">
+      <div class="controls">
+      <input type="text" class="form-control input-text"
+      id="subject"
+      />
+      </div>
+      </div>
+
+
+		<div class="control-group">
+		<div class="controls">
+		<input type="text" class="form-control input-text"
+		placeholder="Vor- und Nachname" id="name" required
+		data-validation-required-message="Bitte geben Sie Ihren Vor- und Nachnamen ein." />
+		<p class="help-block"></p>
+		</div>
+		</div>
+		<div class="control-group">
+		<div class="controls">
+		<input type="email" class="form-control input-text" placeholder="Email-Adresse"
+		id="email" required
+		data-validation-required-message="Bitte geben Sie Ihre Email-Adresse ein." />
+		</div>
+		</div>
+
+    <div class="control-group">
+    <div class="controls">
+    <input type="text" class="form-control input-text" placeholder="Rufnummer"
+    id="number"
+    />
+    </div>
+    </div>
+
+
+		<div class="control-group">
+		<div class="controls">
+		<textarea rows="10" cols="100" class="form-control input-text"
+		placeholder="Ihre Nachricht" id="message" required
+		data-validation-required-message="Bitte geben Sie Ihre Nachricht ein." minlength="5"
+		data-validation-minlength-message="Min. 5 Zeichen"
+		maxlength="999" style="resize:none"></textarea>
+		</div>
+		</div>
+		<!--<div class="control-group">
+			<font size="1">Hinweis zum Kontaktformular: Wir benötigen Ihren Namen, um Sie ansprechen zu können und Ihre Email-Adresse und/oder Ihre
+			 Telefonnummer, um Ihnen antworten zu können. Je genauer Sie Ihre Anfrage stellen, desto effektiver können wir darauf eingehen. <br />
+			 Datenschutzhinweise:
+			 Ihre Anfrage wird verschlüsselt übertragen. Sie erklären sich damit einverstanden, dass wir die Angeben zur Beantwortung Ihrer Anfrage
+			 verwenden dürfen. Weitere Informationen finden Sie unter dem Punkt "Datenschutz" auf dieser Seite.</font>
+		<div class="controls">
+		<input type="checkbox" class="optin"
+		id="optin" required
+		data-validation-required-message="Bitte akzeptieren Sie die Datenschutzbestimmungen." value="1"/>
+		<font size="1">Ich willige ein, dass ich per Email oder Telefon kontaktiert werden darf.</font>
+		</div>
+		</div> -->
+		<div id="success"> </div> <!-- For success/fail messages -->
+		<button type="submit" class="btn btn-primary input-btn pull-right">Absenden</button><br />
+		</form>
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="container">
+    <div class="footer_bottom"><span>Copyright © 2026 ansit-com GmbH | <a class="impress_link" href="impressum.php">Impressum</a> | <a class="impress_link" href="datenschutz.php">Datenschutz</a></span> </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="js/jquery.nav.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/wow.js"></script>
+ <script src="contact/jqBootstrapValidation.js"></script>
+ <script src="contact/contact_me.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+
+
+</body>
+</html>

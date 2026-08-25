@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /test/
+Disallow: /ps/
+Disallow: /public/
+Disallow: /themen/geld_kredit/geschaeftsfelder/aufgaben_kreditreferats/kontoverbindungen-fuer-das-geld--kredit-und-derivatgeschaeft-des-landes-1460.html
+Disallow: /themen/geld_kredit/geschaeftsfelder/aufgaben_kreditreferats/1460.html

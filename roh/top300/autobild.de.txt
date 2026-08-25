@@ -1,0 +1,115 @@
+License: https://www.autobild.de/rsl.xml
+
+User-Agent: *
+Disallow: /newsletter/
+Disallow: /usercard/
+Disallow: /suche/
+Disallow: /payment/
+Disallow: /voting/
+Disallow: /mobil/
+Disallow: /xmas/
+Disallow: /umfrage/index.html*
+
+Disallow: /*?*autoplay=*
+Disallow: /*?*getxml=*
+Disallow: /*?*no_mobile_redirect=*
+Disallow: /*?*noMobileCookie=*
+Disallow: /*?*ref=*
+Disallow: /*?*utm_ads=*
+Disallow: /*?*utm_campaign=*
+Disallow: /*?*utm_content=*
+Disallow: /*?*utm_medium=*
+Disallow: /*?*utm_source=*
+Disallow: /*?*utm_term=*
+Disallow: /*?*getjson=*
+Disallow: /*?*getchannel=*
+Disallow: /artikel/*?*bild=*
+Disallow: /marken-modelle/*?*modelle=*
+Disallow: /marken-modelle/api/*
+Disallow: /marken-modelle/ajax/*
+Disallow: /teaser-service/*
+
+User-agent: AhrefsBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: aiHitBot
+User-agent: Amazonbot
+User-agent: Andibot
+User-agent: Applebot-Extended
+User-agent: Awario
+User-agent: Baiduspider
+User-agent: bedrockbot
+User-agent: BLEXBot
+User-agent: Brightbot 1.0
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: Crawlspace
+User-agent: DataForSeoBot
+User-agent: Datenbank Crawler
+User-agent: Devin
+User-agent: Diffbot
+User-agent: dotbot
+User-agent: DuckAssistBot
+User-agent: Echobot Bot
+User-agent: EchoboxBot
+User-agent: Factset_spyderbot
+User-agent: FirecrawlAgent
+User-agent: Flamingo_SearchEngine
+User-agent: FriendlyCrawler
+User-agent: ia_archiver
+User-agent: iaskspider/2.0
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: LCC
+User-agent: magpie-crawler
+User-agent: MistralAI-User
+User-agent: MistralAI-User/1.0
+User-agent: MJ12bot
+User-agent: MyCentralAIScraperBot
+User-agent: netEstate Imprint Crawler
+User-agent: NovaAct
+User-agent: omgili
+User-agent: omgilibot
+User-agent: Operator
+User-agent: PanguBot
+User-agent: Panscient
+User-agent: panscient.com
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: PhindBot
+User-agent: Poseidon Research Crawler
+User-agent: QualifiedBot
+User-agent: QuillBot
+User-agent: quillbot.com
+User-agent: SBIntuitionsBot
+User-agent: Scrapy
+User-agent: SemrushBot
+User-agent: SemrushBot-OCOB
+User-agent: SemrushBot-SA
+User-agent: SemrushBot-SWA
+User-agent: sentibot
+User-agent: Sidetrade indexer bot
+User-agent: SirdataBot
+User-agent: sogou spider
+User-agent: SummalyBot
+User-agent: TerraCotta
+User-agent: Thinkbot
+User-agent: TikTokSpider
+User-agent: Timpibot
+User-agent: TurnitinBot
+User-agent: VelenPublicWebCrawler
+User-agent: WARDBot
+User-agent: Webzio-Extended
+User-agent: wpbot
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
+User-agent: Yeti
+User-agent: YouBot
+Disallow: /

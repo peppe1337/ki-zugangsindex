@@ -1,0 +1,109 @@
+#
+# Any other use of robots or failure to obey the robots exclusion standards
+# set forth at <http://www.robotstxt.org/wc/exclusion.html> is strictly
+# prohibited.
+#
+# StepStone
+
+# last updated 06 08 26 JM
+
+User-agent: Jobsearch1.5
+Allow: /5/ergebnisliste.html
+
+User-agent: *
+Disallow: /?*
+Disallow: /*listing_footer.cfm$
+Disallow: /5/?event=OfferView.dspOfferViewHtml
+Disallow: /5/advanced-job-search.html
+Disallow: /5/berufsfeld-tagcloud.html
+Disallow: /5/direkt-bewerben.html
+Disallow: /5/ergebnisliste.html
+Disallow: /5/index.cfm/
+Disallow: /5/index.cfm?*event=
+Disallow: /5/job-search-company.html
+Disallow: /5/job-search-simple.html
+Disallow: /5/jobapply
+Disallow: /5/resultlistpage
+Disallow: /5/stellenanzeigen-arbeitgeber.html
+Disallow: /5/unternehmensportrait
+Disallow: /?allowJAPU
+Disallow: /Ueber-StepStone/pressebereich/page/
+Disallow: /aboutus/cv.cfm
+Disallow: /admin/
+Disallow: /alteon/
+Disallow: /cfcomponents/
+Disallow: /cgi-bin/
+Disallow: /controllers/
+Disallow: /document.all.id
+Disallow: /dstlstpstn.js
+Disallow: /error/
+Disallow: /images
+Disallow: /jobagent/
+Disallow: /listingprint/
+Disallow: /m/
+Disallow: /mobile/
+Disallow: /offers/offer_detail.cfm?click=yes&nofooter=1&ID=76637
+Disallow: /offers/viewTemplatefr.cfm?id=96827&Compid=4990&lang=DE&parentid=96827&admin=0
+Disallow: /poweredbys/searchbox/
+Disallow: /poweredbys/searchbox/index.cfm
+Disallow: /public-api/
+Disallow: /rb_4660e43b-3028-4140-83fd-c3a5f3bfa8aa
+Disallow: /rb_enq93261
+Disallow: /skylight-backend
+Disallow: /skylight-ui/v2/widget/
+Disallow: /upload_de/offers/htmlfiles/x1/95731/4698303/offer_4698303_de.htm
+Disallow: /upload_de/offers/htmlfiles/x1/95731/4734572/offer_4734572_de.htm
+Disallow: /upload_de/offers/htmlfiles/x3/3713/4734584/offer_4734584_de.htm
+Disallow: /upload_de/offers/htmlfiles/x4/6394/4702809/offer_4702809_de.htm
+Disallow: /upload_de/offers/htmlfiles/x4/6394/4702810/offer_4702810_de.htm
+Disallow: /upload_de/offers/htmlfiles/x4/6394/4710542/offer_4710542_de.htm
+Disallow: /work/
+Disallow: /*?*
+Disallow: /5/tracking/
+
+Disallow: /jobs/vollzeit/
+Disallow: /jobs/teilzeit/
+Allow: /jobs/teilzeit/in-*  # RD 10/10/22
+Disallow: /jobs/teilzeit/in-*?*  # RD 05/08/24
+Allow: /jobs/teilzeit/in-*?q=*  # RD 05/08/24
+Disallow: /jobs/home-office/
+Disallow: /jobs/*?*
+Allow: /jobs/*?q=*
+Disallow: /jobs/*?q*&*
+Disallow: /cmp/*/jobs/*/in-*
+Allow: /cmp/*/jobs/*?q=*
+Disallow: /cmp/*/jobs/*?q=*&*
+
+Allow: /?lang=*
+Allow: /*?lang=de&rewrite=1$
+Allow: /5/index.cfm/jsmanager/
+Allow: /5/index.cfm?event=recommender*
+Allow: /5/index.cfm?event=offerView.dsp*
+Allow: /public-api/seop/salary-page-frontend/images/
+
+Disallow: /wpmagazin/
+# 21/2/23 
+Disallow: /analytics/analytics-library.js
+Disallow: /savedjobs/web
+# 09/05/23 RD
+Disallow: /mya/
+Disallow: /optimizely-edge/
+Disallow: /*?cmp=1*
+#17/9/24 RD
+Allow: /*?default_lang=*
+#3/6/25
+Disallow: /gehalt-beta/
+#01/05/25 JM
+Allow: /hub/carglass
+#02/12/25 JM
+Disallow: /hub/
+# 11/02/26 JM
+Disallow: /search-results
+Disallow: /search-results/* 
+# 11/03/26 JM edit 06/08/26 JM
+Disallow: */application/
+# 21/05/26 JM
+Disallow: /onboarding
+Disallow: /onboarding/*
+Disallow: /listing
+Disallow: /listing/*

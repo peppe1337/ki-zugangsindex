@@ -1,0 +1,45 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Cookiebot
+Disallow: /*?
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /modules/
+Disallow: /tmp/
+Disallow: /layouts/
+Disallow: /cli/
+Disallow: /bin/
+Disallow: /logs/
+Disallow: /components/
+Disallow: /component/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /*mailto/
+Disallow: /*.pdf
+Disallow: /*%
+Disallow: /index.php
+Disallow: *?option=com_content&view=article
+Disallow: *escaped_fragment*
+Disallow: /impressum
+Disallow: /datenschutz
+Allow: /components/*.css
+Allow: /components/*.js
+Allow: /media/*.js
+Allow: /media/*.css
+Allow: /modules/*.css
+Allow: /modules/*.js
+Allow: /modules/*.png
+
+
+
+Sitemap: https://prospektewoche.de/sitemap.xml

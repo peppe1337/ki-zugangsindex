@@ -1,0 +1,22 @@
+Sitemap: https://www.yoga-vidya.de/sitemap.xml
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /awstats/
+
+Disallow: /cms/
+Disallow: /Mitglied/
+Disallow: /yogaweb/src/
+Disallow: /cgi-bin/admin/
+Disallow: /cgi-bin/
+Disallow: /CSS/
+Disallow: /admin/
+Disallow: /_admin/
+Disallow: /HausYogaVidya/
+Disallow: /DruckereiDownload
+Disallow: /de/yoga-n/
+Disallow: /Ausbildung_t/
+Disallow: /TestShop/
+Disallow: /shop21/
+
+Disallow: /seminare/leiter/sanja-mueller-huebenthal/

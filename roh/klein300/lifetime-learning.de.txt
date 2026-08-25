@@ -1,0 +1,395 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml" lang="de" style="height: 100%;">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <meta name="robots" content="noindex, nofollow">
+        <title>lifetime-learning</title>
+
+        <link rel="shortcut icon" href="https://www.lifetime-learning.de/favicon.ico" type="image/x-icon">
+
+        <link href="https://fonts.googleapis.com/css?family=Gudea|Open+Sans+Condensed:300|Open+Sans:700" rel="stylesheet">
+
+        <!--[if gte IE 5]>
+        <link type="text/css" rel="stylesheet" media="screen" href="./layout/merkur/merkur_ie.css"/>
+        <![endif]-->
+
+        <script type="text/javascript">var SID = "";</script>
+        <script type="text/javascript" src="PHProjekt%20%20Anmeldung-Dateien/phprojekt.js"></script>
+
+        <style type="text/css">
+            body {
+                background: #ebebeb;
+                margin: 0;
+                font-family: 'Gudea', sans-serif;
+                color: #5a5a5a;
+                font-size: 14px;
+            }
+
+            .seperator{
+                height: 30px;
+                padding: 0 5px;
+                color: #ffffff;
+            }
+
+            .bw-logo{
+                display: block;
+                margin: 0 auto 40px auto;
+            }
+
+            .login--box--wrapper {
+                width: 100%;
+                height: 90%;
+                min-height: 660px; 
+                display: flex; 
+                align-items: center; 
+                justify-content: center; 
+                background-color: white;
+            }
+
+            .login--box {
+                width: 400px;
+                height: 550px;
+            }
+
+            .login--box-inner {
+                width: inherit;
+                height: 450px;
+                background: #ffffff;
+                -webkit-box-shadow: 0 4px 3px 1px rgba(0,0,0,0.2);
+                box-shadow: 0 4px 3px 1px rgba(0,0,0,0.2);
+            }
+
+
+            .box--form{ padding: 30px 40px; }
+
+            .box--headline,
+            .box--footer{
+                height: 38px;
+                line-height: 38px;
+                text-align: center;
+            }
+
+            .box--footer{ background: #9d9c9c; }
+            .box--footer a{
+                color: #ffffff;
+                text-decoration: none;
+            }
+            .box--footer a svg{
+                margin-right: 5px;
+                -webkit-transition: all 200ms ease-out;
+                -moz-transition: all 200ms ease-out;
+                -ms-transition: all 200ms ease-out;
+                -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+            }
+
+            .box--footer a:hover svg{
+                margin-left: 3px;
+                margin-right: 2px;
+            }
+
+            *:focus { outline: none; }
+            .clearfix{ clear: both; }
+            .form-group{ margin-bottom: 15px; }
+
+            h1{
+                font-family: 'Open Sans', sans-serif;
+                font-size: 12px;
+                text-transform: uppercase;
+                font-weight: bold;
+                display: block;
+                width: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            label{
+                width: 80px;
+                display: block;
+                float: left;
+                height: 26px;
+                line-height: 26px;
+
+            }
+
+            input{
+                display: block;
+                float: right;
+                width: 215px;
+                height: 30px;
+                border: 1px solid #c8cccf;
+                -webkit-border-radius: 5px;
+                border-radius: 5px;
+                background: #ffffff;
+                margin: 0;
+                font-size: 14px;
+                padding: 0 10px;
+                color: #5a5a5a;
+
+                -webkit-transition: all 200ms ease-out;
+                -moz-transition: all 200ms ease-out;
+                -ms-transition: all 200ms ease-out;
+                -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+
+            }
+
+            input:hover{ border: 1px solid #b8bbbf; }
+
+            input[type='submit']{
+                font-family: 'Open Sans Condensed', sans-serif;
+                width: auto;
+                color: #006d8f;
+                text-transform: uppercase;
+                font-size: 18px;
+                margin-bottom: 30px;
+
+                background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkViZW5lXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTQgOSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTQgOSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZmlsbD0iIzAwNkQ4RiIgZD0iTTEzLjgsNC4xbC0zLjctMy43Yy0wLjItMC4yLTAuNS0wLjItMC43LDBDOS4yLDAuNyw5LjIsMSw5LjQsMS4yTDEyLjIsNEgwLjZDMC4zLDQsMC4xLDQuMiwwLjEsNC41QzAuMSw0LjgsMC4zLDUsMC42LDVoMTEuNkw5LjQsNy44QzkuMiw4LDkuMiw4LjMsOS40LDguNWMwLjIsMC4yLDAuNSwwLjIsMC43LDBsMy43LTMuN0MxNCw0LjcsMTQsNC4zLDEzLjgsNC4xIi8+PC9zdmc+);
+                background-repeat: no-repeat;
+                background-size: 14px 9px;
+                background-position: 10px center;
+
+                padding-left: 31px;
+            }
+
+            input[type='submit']:hover{
+                background-position: 12px center;
+            }
+
+            .portals--title {
+                color: black; 
+                font-size: 3vh; 
+                margin-right: 10px;
+            }
+
+            .logo--wrapper {
+                height: 220px;
+                background-color: #EBEBEB; 
+                display: flex; 
+                flex-direction: column; 
+                justify-content: center; 
+                align-items: center;
+            }
+
+            .chaence--title--wrapper {
+                display: flex; 
+                flex-direction: row; 
+                align-items: center;
+            }
+
+            .logo--chaence {
+                height: 55px; 
+                padding: 10px;
+            }
+           
+            .partner--wrapper {
+                display: flex; 
+                flex-direction: row; 
+                height: 50%;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .partner--logo--wrapper {
+                padding: 10px; 
+                background-color: white; 
+                overflow: hidden; 
+                border-radius: 15px; 
+                margin-right: 30px; 
+                box-shadow: 10px 10px 5px #ccc; 
+                cursor: pointer;
+            }
+
+            .partner--logo--wrapper > img {
+                height: 55px;
+            }
+
+            @media (max-width: 767px) {
+                body{
+                    box-sizing: border-box;
+                    overflow: hidden;
+                    padding: 0 20px;
+                }
+
+
+                .box--image img{
+                    width: 100%;
+                    height: auto;
+                }
+
+                .login--box {
+                    width: 100%;
+                    overflow: hidden;
+                }
+
+                .login--box-inner{ height: auto; }
+
+                .box--form{ padding: 30px 30px; }
+
+                label{
+                    width: 100%;
+                    float: none;
+                }
+
+                input{
+                    width: 100%;
+                    float: none;
+                    box-sizing: border-box;
+                }
+
+                input[type='submit']{
+                    margin-bottom: 0;
+                }
+            }
+        </style>
+    </head>
+
+    <body dir="ltr" style="height: 100%;">
+        <div class="svg-store" style="height: 0; visibility: hidden;">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <symbol id="shape-arrow" viewBox="0 0 14 9">
+                    <title>arrow</title>
+                    <path d="M13.8,4.1l-3.7-3.7c-0.2-0.2-0.5-0.2-0.7,0C9.2,0.7,9.2,1,9.4,1.2L12.2,4H0.6C0.3,4,0.1,4.2,0.1,4.5C0.1,4.8,0.3,5,0.6,5 h11.6L9.4,7.8C9.2,8,9.2,8.3,9.4,8.5c0.2,0.2,0.5,0.2,0.7,0l3.7-3.7C14,4.7,14,4.3,13.8,4.1"/>
+                </symbol>
+            </svg>
+        </div>
+
+        <script type="text/javascript">
+            <!--
+            if (document.frm.loginstring.value == "") {
+                document.frm.loginstring.focus();
+            }
+            //-->
+        </script>
+
+        <div class="login--box--wrapper">
+            <div class="login--box">
+                <img class="bw-logo" alt="" src="images/bw-logo.png" srcset="images/bw-logo-2x.png 2x" width="280" height="60">
+                <div class="login--box-inner">
+                    <div class="box--headline">
+                        <h1>Digitaler Weiterbildungscampus (DWC)</h1>
+                    </div>
+                    <div class="box--image">
+                        <img alt="" src="images/elearning.jpg" srcset="images/elearning-2x.jpg 2x" width="400" height="200">
+                    </div>
+                    <div class="box--form">
+                    <!--<form method="post" action=" ./ilias/login.php?lang=en&client_id=virtual_client&cmd=post&cmdClass=ilstartupgui&cmdNode=x6&baseClass=ilStartUpGUI&rtoken=" name="formlogin">-->
+                        <form
+                            method="post"
+                            action="https://www.lifetime-learning.de/ilias/ilias.php?baseClass=ilstartupgui&amp;cmd=post&amp;fallbackCmd=doStandardAuthentication&amp;lang=de&amp;client_id=illtl03"
+                            name="login_form"
+                        >
+                            <div class="form-group">
+                                <label for="username">Username</label>
+
+                                <input
+                                    type="text"
+                                    id="username"
+                                    name="login_form/input_3/input_4"
+                                    autocomplete="username"
+                                    required
+                                />
+
+                                <div class="clearfix"></div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="password">Password</label>
+
+                                <input
+                                    type="password"
+                                    id="password"
+                                    name="login_form/input_3/input_5"
+                                    autocomplete="current-password"
+                                    required
+                                />
+
+                                <div class="clearfix"></div>
+                            </div>
+
+                            <button class="submit" type="submit">
+                                Login
+                            </button>
+                        </form>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="box--footer">
+                        <a href="http://www.digitaler-weiterbildungscampus.de">
+                            <svg viewBox="0 0 11 7" width="11" height="7" class="icon"><use xlink:href="#shape-arrow" fill="#006d8f"/></svg> Was ist der DWC?
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="logo--wrapper">
+            <div class="chaence--title--wrapper">
+                <div class="portals--title">Die Weiterbildungsportale</div>
+                <div>
+                    <a 
+                        title="Navigieren zur Seite: The Chänce"
+                        aria-label="Navigieren zur Seite: The Chänce (öffnet ein neues Fenster)"
+                        href="https://www.thechaence.com"
+                        target="_blank"
+                    >
+                        <img 
+                            src="bildung.png" 
+                            class="logo--chaence"
+                            title="Weiterbildung nennen wir in Baden-Württemberg THE CHÄNCE"
+                            alt="Logo von: Take Your Chänce"
+                        />
+                    </a>
+                </div>
+            </div>
+            <div class="partner--wrapper">
+                <div>
+                    <a 
+                        title="Verlinkt zum Partner: Das Netzwerk: Fortbildung" 
+                        aria-label="Navigieren zur Seite: Das Netzwerk Fortbildung (öffnet ein neues Fenster)"
+                        href="https://www.fortbildung-bw.de/fuer-anbieter/netzwerk/"
+                        target="_blank"
+                    >
+                        <div class="partner--logo--wrapper">
+                            <img 
+                                src="netzwerk.png" 
+                                alt="Logo des Netzwerk Fortbildung"
+                            />
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a
+                        title="Verlinkt zum Partner: Digitaler Weiterbildungscampus" 
+                        aria-label="Navigieren zur Seite: Digitaler Weiterbildungscampus (öffnet ein neues Fenster)"
+                        href="https://www.digitaler-weiterbildungscampus.de"
+                        target="_blank"
+                    >
+                        <div class="partner--logo--wrapper">
+                            <img 
+                                src="dwc.png" 
+                                alt="Logo für den Digitalen Weiterbildungscampus" 
+                            />
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a
+                        title="Verlinkt zum Partner: Südwissen" 
+                        aria-label="Navigieren zur Seite: Südwissen (öffnet ein neues Fenster)"
+                        href="https://www.suedwissen.de"
+                        target="_blank"
+                    >
+                        <div class="partner--logo--wrapper" style="display: flex; align-items: center; justify-content: center; height: 55px;">
+                            <img
+                                style="height: 18px;"
+                                src="wissen.png" 
+                                alt="Logo von Südwissen, mit Subtext Zukunft bilden" 
+                            />
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

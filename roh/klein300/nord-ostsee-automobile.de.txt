@@ -1,0 +1,20 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Allow: /global/**
+Allow: /*/global/**
+Allow: /app-config
+Allow: /*/app-config
+Allow: /config
+Allow: /*/config
+Allow: /brand-config
+Allow: /*/brand-config
+Allow: /*/*/brand-config
+Allow: /service-config
+Allow: /*/service-config
+Allow: /*/*/service-config
+Disallow: /cdn-cgi/
+Disallow: /api/
+
+Sitemap: https://www.nord-ostsee-automobile.de/sitemap_index.xml
+# END nuxt-robots

@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Allow: /
+
+Sitemap: https://www.yogaeasy.de/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

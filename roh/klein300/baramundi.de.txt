@@ -1,0 +1,54 @@
+User-agent: *
+Disallow: /fileadmin/_temp_/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /clear.gif
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Allow: /typo3conf/ext/t23_theme/Resources/Public/Images/*
+
+# Explicitly allow selected AI bots
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# XML-Sitemaps
+Sitemap: https://www.baramundi.com/de-de/sitemap.xml
+Sitemap: https://www.baramundi.com/de-at/sitemap.xml
+Sitemap: https://www.baramundi.com/de-ch/sitemap.xml
+Sitemap: https://www.baramundi.com/en-gb/sitemap.xml
+Sitemap: https://www.baramundi.com/en-us/sitemap.xml
+Sitemap: https://www.baramundi.com/en/sitemap.xml
+Sitemap: https://www.baramundi.com/it-it/sitemap.xml
+Sitemap: https://www.baramundi.com/pl-pl/sitemap.xml

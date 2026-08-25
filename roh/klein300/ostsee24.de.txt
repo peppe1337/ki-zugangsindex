@@ -1,0 +1,24 @@
+User-agent: AhrefsSiteAudit
+
+Disallow: /
+
+User-agent: AdsBot-Google
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: meta-externalagent
+User-agent: meta-webindexer
+User-agent: *
+Disallow: /unterkuenfte/suche/
+Disallow: /favoriten/
+Disallow: /objekte/
+Disallow: /user/
+Disallow: /favoritelists/
+Disallow: /SendLink
+Disallow: /Questions/
+Disallow: /AdvanceReservation/
+Disallow: *?arrival=
+Disallow: *?calendarStart=
+Disallow: */RentalTerms
+Sitemap: https://www.ostsee24.de/sitemap.xml
+Sitemap: https://www.ostsee24.de/katalog/sitemapindex.xml

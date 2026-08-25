@@ -1,0 +1,10 @@
+#robots.txt f�r die Domain 52397877.swh.strato-hosting.eu
+#erzeugt am 03.12.2014
+ 
+User-agent: MSNBOT/0.1
+User-agent: BackRub/2.1
+User-agent: Lycos_Spider_(T-Rex)
+User-agent: KIT-Fireball/2.0
+User-agent: ArchitextSpider
+Disallow: 
+ 

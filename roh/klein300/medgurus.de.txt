@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /out/
+Disallow: *?add-to-cart
+
+Sitemap: https://medgurus.de/sitemap_index.xml

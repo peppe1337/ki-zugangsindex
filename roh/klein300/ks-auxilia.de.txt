@@ -1,0 +1,81 @@
+# robots.txt für ks-auxilia.de
+# KS/AUXILIA - Automobilclub | Rechtsschutzversicherung | Schutzbrief
+# Erstellt am: 03. März 2026
+
+# -----------------------------------
+# Gemeinsame Regeln für Suchmaschinen, KI-Crawlern & LLM-Trainern
+# -----------------------------------
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+User-agent: Mediapartners-Google
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: Google-Extended
+User-agent: Gemini
+User-agent: CCBot
+User-agent: Applebot-Extended
+User-agent: cohere-training-data-crawler
+User-agent: PerplexityBot
+User-agent: anthropic-ai
+User-agent: ClaudeBot
+User-agent: YouBot
+
+# Hier definierst du, was NIEMAND sehen darf:
+Disallow: /_assets/
+Disallow: /typo3/
+Disallow: /typo3temp/
+Disallow: /fileadmin/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/user_upload/_temp_/
+
+# Spezifische Freigaben innerhalb der gesperrten Ordner:
+Allow: /_assets/*/Favicon/
+Allow: /fileadmin/user-data/
+Allow: /typo3temp/assets/
+
+# -----------------------------------
+# SEO-AUDIT TOOLS (Diese bleiben komplett gesperrt)
+# -----------------------------------
+User-agent: SiteAuditBot
+User-agent: SemrushBot
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-SI
+User-agent: SemrushBot-SWA
+User-agent: SemrushBot-CT
+User-agent: SemrushBot-COUB
+User-agent: SplitSignalBot
+Disallow: /
+
+# -----------------------------------
+# FALLBACK FÜR ALLE ANDEREN BOTS
+# -----------------------------------
+User-agent: *
+Disallow: /_assets/
+Disallow: /typo3/
+Disallow: /typo3temp/
+Disallow: /fileadmin/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/user_upload/_temp_/
+
+# Spezifische Freigaben innerhalb der gesperrten Ordner:
+Allow: /_assets/*/Favicon/
+Allow: /fileadmin/user-data/
+Allow: /typo3temp/assets/
+
+# -----------------------------------
+# LLM-/KI-Hinweise 
+# LLM-Policy-Datei:
+# https://www.ks-auxilia.de/llms.txt
+# Diese Datei enthält spezifische Richtlinien zur Nutzung durch KI-Systeme.
+# Öffentlich zugängliche Inhalte dürfen gemäß llms.txt verarbeitet werden.
+
+# -----------------------------------
+# Sitemap
+# -----------------------------------
+
+Sitemap: https://www.ks-auxilia.de/sitemap.xml

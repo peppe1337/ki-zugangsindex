@@ -1,0 +1,68 @@
+##
+## robots.txt
+##
+
+Sitemap: https://www.blutsgeschwister.de/exports/sitemap_index.xml
+Sitemap: https://www.blutsgeschwister.de/styla-exports/de_sitemap_index.xml
+Sitemap: https://www.blutsgeschwister.de/styla-exports/en_sitemap_index.xml
+
+User-agent: Amazonbot
+User-agent: 008
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: AhrefsBot
+User-agent: YandexBot
+User-agent: Barkrowler
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: 008
+User-agent: wwww1431308171364.com
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: *
+Disallow: /de/blog
+Disallow: /it/blog
+Disallow: /en/blog
+Disallow: /de/news
+Disallow: /it/news
+Disallow: /en/news
+Disallow: /de/warenkorb
+Disallow: /it/carrello
+Disallow: /en/basket
+Disallow: /de/suche
+Disallow: /it/ricerca
+Disallow: /en/search
+Disallow: /de/benutzer
+Disallow: /it/profilo
+Disallow: /en/userprofile
+Disallow: /de/wunschliste
+Disallow: /it/listadesideri
+Disallow: /en/wishlist
+Disallow: /de/ctx
+Disallow: /it/ctx
+Disallow: /en/ctx
+Disallow: /generate
+Disallow: /nav
+Disallow: /it
+Disallow: /Portal.po
+Disallow: /Upload.po
+Disallow: /*.pdf$
+Disallow: /*?*Referer
+Disallow: /*?*emcs
+Disallow: /*?*productSort
+Disallow: /*?*fabricHint
+Disallow: /de/stoffe?
+Disallow: /en/fabrics?
+Crawl-delay: 5
+

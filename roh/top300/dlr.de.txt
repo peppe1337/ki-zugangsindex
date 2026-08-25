@@ -1,0 +1,15 @@
+Sitemap: https://www.dlr.de/sitemap-index.xml
+
+# Define access-restrictions for robots/spiders
+# http://www.robotstxt.org/wc/norobots.html
+
+
+
+# By default we allow robots to access all areas of our site
+# already accessible to anonymous users
+
+User-agent: *
+Disallow:
+
+User-Agent: Googlebot
+Disallow:

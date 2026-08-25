@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /neos/
+Disallow: /sites/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://www.cornelsen.de/sitemap.xml
+

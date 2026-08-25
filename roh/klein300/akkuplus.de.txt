@@ -1,0 +1,40 @@
+# BITTE NICHT LOESCHEN, SEO SERVER OPTIMIERUNG
+User-agent: Bingbot
+User-agent: AdIdxBot
+User-agent: BingPreview
+User-agent: MicrosoftPreview
+User-agent: Amazonbot
+User-agent: googlebot
+
+Disallow: /navi.php
+Disallow: /druckansicht.php
+Disallow: /bestellabschluss.php
+Disallow: /bestellvorgang.php
+Disallow: /jtl.php
+Disallow: /pass.php
+Disallow: /registrieren.php
+Disallow: /warenkorb.php
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /dbeS/*
+Disallow: /jtl-store/__
+Disallow: /extension-store/__
+Allow: *
+
+User-agent: *
+Disallow: /navi.php
+Disallow: /druckansicht.php
+Disallow: /bestellabschluss.php
+Disallow: /bestellvorgang.php
+Disallow: /jtl.php
+Disallow: /pass.php
+Disallow: /registrieren.php
+Disallow: /warenkorb.php
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /dbeS/*
+Disallow: /jtl-store/__
+Disallow: /extension-store/__
+Allow: *
+
+Sitemap: https://akkuplus.de/sitemap_index.xml

@@ -1,0 +1,69 @@
+
+    # Global defaults — block all except the whitelisted bots
+    User-agent: *
+    Disallow: /admin/
+    Disallow: /
+
+    # Allow specific, trusted bots
+    User-agent: Googlebot
+    Disallow:
+    Allow: /
+
+    User-agent: Bingbot
+    Disallow:
+    Allow: /
+
+    User-agent: Applebot
+    Disallow:
+    Allow: /
+
+    User-agent: YandexBot
+    Disallow:
+    Allow: /
+
+    User-agent: PetalBot
+    Disallow:
+    Allow: /
+
+    User-agent: AhrefsBot
+    Disallow:
+    Allow: /
+
+    User-agent: SemrushBot
+    Disallow:
+    Allow: /
+
+    User-agent: MJ12bot
+    Disallow:
+    Allow: /
+
+    User-agent: DotBot
+    Disallow:
+    Allow: /
+
+    User-agent: Rogerbot
+    Disallow:
+    Allow: /
+
+    User-agent: CCBot
+    Disallow:
+    Allow: /
+
+    User-agent: DataForSeoBot
+    Disallow:
+    Allow: /
+
+    User-agent: SerpstatBot
+    Disallow:
+    Allow: /
+
+    User-agent: SEOkicks
+    Disallow:
+    Allow: /
+
+    User-agent: Bytespider
+    Disallow:
+    Allow: /
+
+    Sitemap: https://clearindustries.de/sitemap.xml
+    

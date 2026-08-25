@@ -1,0 +1,63 @@
+User-Agent: *
+
+
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+#Disallow: /*?id=*
+#Disallow: /*?no_cache=1*
+#Disallow: /*cHash
+#Disallow: /*tx_form_formframework
+Disallow: /*/district/*
+
+
+Disallow: /_/a/
+Disallow: /fileadmin/daten/
+Disallow: /suche
+Disallow: /abfall/
+Disallow: /login/
+Disallow: /panorama/
+Disallow: /phpmyadmin/
+Disallow: /piwik/
+Disallow: /wahl09/
+Disallow: /rathaus/stadtverordnete/mitglieder-der-svv/
+Disallow: /rathaus/stadtverordnete/termine-vorlagen/
+Disallow: /rathaus/stadtverordnete/textrecherche/
+Disallow: /rathaus/stadtverordnete/fraktionen/
+Disallow: /rathaus/stadtverordnete/ausschuesse/
+Disallow: /suche
+Disallow: /en/suche
+
+Disallow: /*?*
+
+#Disallow: /*desktop=99*
+#Disallow: /*type=*
+#Disallow: /*tx_civserv_pi1*
+#Disallow: /*designrelaunch*
+#Disallow: /*sword_list*
+#Disallow: /*tx_solr*
+#Disallow: /*?q=*
+
+Disallow: /*.ics
+Disallow: /*.csv
+Disallow: /*.xlsx
+
+
+
+Allow: /*type=1533906435
+
+
+
+
+User-Agent: SemrushBot
+User-Agent: yandexbot
+User-Agent: petalbot
+User-Agent: dotbot
+Disallow: /
+
+
+User-Agent: SeobilityBot
+Disallow: /*.pdf
+

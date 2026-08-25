@@ -1,0 +1,2642 @@
+<!DOCTYPE HTML>
+<html lang="de">
+
+	<head>
+		<!-- Set by plugin. -->
+		<link rel="alternate" href="https://www.keyweb.de/en/error-page" hreflang="de-de"/>
+<link rel="alternate" href="https://www.keyweb.de/de/fehlerseite" hreflang="de-de"/>
+<link rel="canonical" href="https://www.keyweb.de/de/fehlerseite" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<title>Fehlerseite | Keyweb AG</title>
+<meta name="robots" content="noindex,follow" />
+<meta property="og:type" content="website" />
+<meta property="twitter:card" content="summary" />
+<link rel="twitter:site" href="https://www.keyweb.de/de/" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+		<link rel="stylesheet" href="/assets//components/keyweb/css/kw.css" />
+		<!-- <link rel="stylesheet" href="/assets//components/keyweb/css/kw.0.css" /> -->
+		<!--<link rel="stylesheet" href="//cdn.materialdesignicons.com/5.4.55/css/materialdesignicons.min.css">-->
+		<!--<base href="https://www.keyweb.de/de/">-->
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets//components/keyweb/fav/apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets//components/keyweb/fav/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets//components/keyweb/fav/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets//components/keyweb/fav/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets//components/keyweb/fav/apple-touch-icon-60x60.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets//components/keyweb/fav/apple-touch-icon-120x120.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets//components/keyweb/fav/apple-touch-icon-76x76.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets//components/keyweb/fav/apple-touch-icon-152x152.png" />
+		<link rel="icon" type="image/png" href="/assets//components/keyweb/fav/favicon-196x196.png" sizes="196x196" />
+		<link rel="icon" type="image/png" href="/assets//components/keyweb/fav/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/png" href="/assets//components/keyweb/fav/favicon-32x32.png" sizes="32x32" />
+		<link rel="icon" type="image/png" href="/assets//components/keyweb/fav/favicon-16x16.png" sizes="16x16" />
+		<link rel="icon" type="image/png" href="/assets//components/keyweb/fav/favicon-128.png" sizes="128x128" />
+		<meta name="application-name" content="&nbsp;" />
+		<meta name="msapplication-TileColor" content="#FFFFFF" />
+		<meta name="msapplication-TileImage" content="/assets//components/keyweb/fav/mstile-144x144.png" />
+		<meta name="msapplication-square70x70logo" content="/assets//components/keyweb/fav/mstile-70x70.png" />
+		<meta name="msapplication-square150x150logo" content="/assets//components/keyweb/fav/mstile-150x150.png" />
+		<meta name="msapplication-wide310x150logo" content="/assets//components/keyweb/fav/mstile-310x150.png" />
+		<meta name="msapplication-square310x310logo" content="/assets//components/keyweb/fav/mstile-310x310.png" />
+		<script integrity="sha384-MlJiunwGRgYdocscjwEmBVIhQr3Wi7B33NlBKkTvvFaIRqJ5acG6/tNuSTbNaAEQ" src="/assets//components/keyweb/js/public/cookieoptin.js"></script>
+	</head>
+
+	<body>
+		
+		<div class="kw-topbar">
+			<div class="kw-topbar--upper d-none d-lg-block">
+				<div class="d-flex">
+					<div>
+						<ul class="kw-ul-inline">
+							<li class="d-none d-md-inline d-xl-none">
+								<a href="/de/" aria-label="Hauptseite der Keyweb AG besuchen" id="logo_main_link">
+									<img id="logo_main" alt="Logo der Keyweb AG (blauer Schriftzug 'Keyweb')" src="/assets//components/keyweb/img/logo.svg" style="width: 20%;">
+								</a>
+							</li>
+							<li class="ms-xl-0"><a href="tel:00493616585355"><i class="kwi kwi-header-contact-phone"></i>+49 361/6 58 53-55</a></li>
+							<li><a href="/de/keyweb/serverstandort-deutschland"><i class="kwi kwi-header-germany-white"></i><span class="d-none d-xl-inline">Hosted in Germany</span></a></li>
+							<li><a href="/de/keyweb/green-hosting"><i class="kwi kwi-header-green-it"></i><span class="d-none d-xl-inline">Green IT</span></a></li>
+							<li><a href="/de/keyweb/rechenzentrum"><i class="kwi kwi-header-tuev-zertifiziert"></i><span class="d-none d-xl-inline">zertifiziert</span></a></li>
+							<li><a href="/de/keyweb/unternehmen/meilensteine"><i class="kwi kwi-header-since"></i><span class="d-none d-xl-inline">Seit 1997</span></a></li>
+							<li><a href="/de/support/hilfe-und-kontakt"><i class="kwi kwi-header-contact-mail"></i>Kontakt</a></li>
+							<li><a href="/de/keyweb/mehr-erfahren/blog/"><i class="kwi kwi-blog_white"></i>Blog</a></li>
+						</ul>
+					</div>
+					<div>
+						<ul class="kw-ul-inline">
+							<li class="d-none d-xl-inline-block"><a href='https://kcp.keyweb.de' target="_blank"><i class="kwi kwi-login_white"></i>Kundenlogin</a></li>
+							<li><a href="/de/hosting/domain-suchen/"><i class="kwi kwi-domain-search_white"></i>Domainsuche</a></li>
+							<li><a href="/de/suche"><i class="kwi kwi-search-white"></i>Suche</a></li>
+							<li><i class="kwi kwi-language_white"></i>
+								<a href="/de/" class="kw--lang-toggle active">DE</a>
+								|
+								<a href="/en/" class="kw--lang-toggle ">EN</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="kw-topbar--center">
+				<div class="d-flex justify-content-between justify-content-lg-center justify-content-xl-between">
+					<div class="d-lg-none">
+						<i class="kwi kwi-menu"></i>
+						<div class="kw--toggle-mobilenav kw--mobile-nav-toggle-helper"></div>
+					</div>
+					<div class="d-block mt-auto mb-auto d-lg-none d-xl-block">
+						<a href="/de/" aria-label="Hauptseite der Keyweb AG besuchen" id="logo_main_link"><img id="logo_main" alt="Logo der Keyweb AG (blauer Schriftzug 'Keyweb')" src="/assets//components/keyweb/img/logo_colored.svg" /></a>
+					</div>
+					<div class="logo mt-auto mb-auto d-none d-lg-block d-xl-none">
+						<a href="/" aria-label="Hauptseite der Keyweb AG besuchen" id="logo_main_link">
+							<i class="kwi kwi-keyweb-logo-signet"></i>
+						</a>
+					</div>
+					<div>
+						<div class="mainnav">
+	<nav class="kw--nav">
+		<div class="kw--nav-top">
+			<ul>
+				<li>
+	
+	
+	<a href="/de/server/" title="Server" aria-expanded="false">
+		<span class="kw--nav-textwrapper">Server</span>
+	</a>
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			Server
+		</div>
+		<ul>
+			<li>
+	<a href="/de/server/root-virtual-server" title="Root vServer">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-vps"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Root vServer
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">vServer für individuelle Projekte</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/vps" title="Dedicated VPS">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-vps"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Dedicated VPS
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Stabile Leistung. Garantierte Ressourcen.</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/dedicated-root-server/" title="Dedicated Root Server">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-dedicated-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Dedicated Root Server
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Leistungsstarke dedizierte Root Server</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/dedicated-basic-server" title="Dedicated Basic Server">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-dedicated-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Dedicated Basic Server
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Keymachine - zuverlässig & leistungsstark.</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/dedicated-business-server" title="Dedicated Business Server">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-dedicated-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Dedicated Business Server
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Keymachine Pro - höchste Performance & Effizienz</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/ki-machine" title="GPU Server">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-dedicated-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			GPU Server
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Sichere Basis für Machine Learning & AI</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/server-konfigurieren" title="Custom Server zusammenstellen">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-custom-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Custom Server zusammenstellen
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Individuelle Server ganz nach Ihrem Bedarf</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/mac-server-hosting" title="Mac Server Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-mac-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Mac Server Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihr Webbusiness auf Mac Basis<br>&nbsp;</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/rabatt-sichern" title="Bis zu 20 % Rabatt sichern">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-keyrabatt"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Bis zu 20 % Rabatt sichern
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Sie können bis zu 20 % auf Ihre Hostingprodukte erhalten</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/server/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-kwk"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Kunden werben Kunden
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihre Empfehlung zahlt sich aus</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">Add-Ons</div>
+	<ul>
+		<li>
+	<a  href="/de/server/add-ons/serververwaltung-keyhelp" title="Serververwaltung KeyHelp">
+		<div class="kw--nav-textwrapper">Serververwaltung KeyHelp</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/ssl-und-e-mail-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<div class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/domains" title="Domains">
+		<div class="kw--nav-textwrapper">Domains</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/backup-loesungen" title="Backup Lösungen">
+		<div class="kw--nav-textwrapper">Backup Lösungen</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/managed-support" title="Managed Support">
+		<div class="kw--nav-textwrapper">Managed Support</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<div class="kw--nav-textwrapper">individuelle Projektberatung</div>
+	</a>
+</li><li>
+	<a  href="/de/server/add-ons/pentest" title="Sicherheitsscan (PEN-Test)">
+		<div class="kw--nav-textwrapper">Sicherheitsscan (PEN-Test)</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	
+	<a href="/de/cloud/" title="Cloud" aria-expanded="false">
+		<span class="kw--nav-textwrapper">Cloud</span>
+	</a>
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			Cloud
+		</div>
+		<ul>
+			<li>
+	<a href="/de/cloud/keyweb-private-cloud" title="Keyweb Private Cloud">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cloud-server"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Keyweb Private Cloud
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Agile IT-Infrastruktur auf Cloud-Basis</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/cloud/keycloud" title="Nextcloud Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-nextcloud-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Nextcloud Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Überall Zugriff auf Daten & Termine</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/cloud/keydisc" title="Cloud Backup Storage KeyDisc Pro">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cloud-storage"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Cloud Backup Storage KeyDisc Pro
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Sicherer, DSGVO-konformer Backup-Speicher<br>&nbsp;</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/cloud/keyrabatt" title="Bis zu 20 % Rabatt sichern">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-keyrabatt"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Bis zu 20 % Rabatt sichern
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Sie können bis zu 20 % auf Ihre Hostingprodukte erhalten</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/cloud/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-kwk"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Kunden werben Kunden
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihre Empfehlung zahlt sich aus</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">Add-ons</div>
+	<ul>
+		<li>
+	<a  href="/de/cloud/add-ons/ssl-und-e-mail-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<div class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</div>
+	</a>
+</li><li>
+	<a  href="/de/cloud/add-ons/domains" title="Domains">
+		<div class="kw--nav-textwrapper">Domains</div>
+	</a>
+</li><li>
+	<a  href="/de/cloud/add-ons/managed-support" title="Managed Support">
+		<div class="kw--nav-textwrapper">Managed Support</div>
+	</a>
+</li><li>
+	<a  href="/de/cloud/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<div class="kw--nav-textwrapper">individuelle Projektberatung</div>
+	</a>
+</li><li>
+	<a  href="/de/cloud/add-ons/pentest" title="Sicherheitsscan (PEN-Test)">
+		<div class="kw--nav-textwrapper">Sicherheitsscan (PEN-Test)</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	<span class="kw--nav-disabled">
+		<span class="kw--nav-textwrapper">Webhosting</span>
+	</span>
+	
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			Webhosting
+		</div>
+		<ul>
+			<li>
+	<a href="/de/hosting/webhosting" title="Webhosting-Pakete">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-webhosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Webhosting-Pakete
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Günstiges Webhosting aus Deutschland</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/cms-hosting" title="CMS Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cms-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			CMS Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die für CMS optimierte Serverumgebung</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/shop-hosting" title="Shop Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-shop-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Shop Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Für Online-Shops optimierte Serverumgebung</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/online-seminar-hosting" title="Online Seminar Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-online-seminar-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Online Seminar Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Für Business-Meetings & Online-Seminare</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/nextcloud-hosting" title="Nextcloud Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-nextcloud-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Nextcloud Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Überall Zugriff auf Daten & Termine</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/home-office-software" title="Home Office Software">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-home-office-software"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Home Office Software
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ortsunabhängige Zusammenarbeit im Team</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/domain-suchen/" title="Domains">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-domains"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Domains
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Domain auswählen, sichern oder umziehen<br>&nbsp;</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/keyrabatt" title="Bis zu 20 % Rabatt sichern">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-keyrabatt"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Bis zu 20 % Rabatt sichern
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Sie können bis zu 20 % auf Ihre Hostingprodukte erhalten</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/hosting/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-kwk"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Kunden werben Kunden
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihre Empfehlung zahlt sich aus</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">Add ons</div>
+	<ul>
+		<li>
+	<a  href="/de/hosting/add-ons/ssl-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<div class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</div>
+	</a>
+</li><li>
+	<a  href="/de/hosting/add-ons/keydisc" title="Backup-Storage">
+		<div class="kw--nav-textwrapper">Backup-Storage</div>
+	</a>
+</li><li>
+	<a  href="/de/hosting/add-ons/managed-support" title="Managed Support">
+		<div class="kw--nav-textwrapper">Managed Support</div>
+	</a>
+</li><li>
+	<a  href="/de/hosting/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<div class="kw--nav-textwrapper">individuelle Projektberatung</div>
+	</a>
+</li><li>
+	<a  href="/de/hosting/add-ons/pentest" title="Sicherheitsscan (Pen-Test)">
+		<div class="kw--nav-textwrapper">Sicherheitsscan (Pen-Test)</div>
+	</a>
+</li>
+	</ul>
+</li><li>
+	<div class="kw--nav-submenu-heading">Hilfe</div>
+	<ul>
+		<li>
+	<a  href="/de/hosting/hilfe/tutorials" title="Tutorials">
+		<div class="kw--nav-textwrapper">Tutorials</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	<span class="kw--nav-disabled">
+		<span class="kw--nav-textwrapper">IT-Lösungen</span>
+	</span>
+	
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			IT-Lösungen
+		</div>
+		<ul>
+			<li>
+	<a href="/de/it-loesungen/it-loesungen-fuer-unternehmen" title="Lösungen für Unternehmen">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-unternehmen"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Lösungen für Unternehmen
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Cloud- und Hosting-Lösungen für Ihr Business</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/it-loesungen-fuer-agenturen" title="Lösungen für Agenturen">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-agentur"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Lösungen für Agenturen
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Cloud- und Hostinglösungen für Ihr Agenturgeschäft</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/it-loesungen-fuer-reseller" title="Lösungen für Reseller">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-reseller"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Lösungen für Reseller
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Lösungen für Ihr Hosting Business</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/backup-loesungen" title="Backup Lösungen">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-nextcloud-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Backup Lösungen
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Individuelle Sicherung Ihrer IT & Web-Projekte</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/managed-service" title="Managed Service">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cms-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Managed Service
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die umfassende Betreuung Ihrer IT-Strukturen</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/it-outsourcing/-colocation" title="IT-Outsourcing / Colocation">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-colocation"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			IT-Outsourcing / Colocation
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Serverfläche oder Rack mieten</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/dsgvo-konform" title="DSGVO-konforme Server">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-germany"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			DSGVO-konforme Server
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihre sensiblen Daten bestens geschützt</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/live-streaming-loesung" title="Live Streaming Lösung">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-livestream"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Live Streaming Lösung
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die perfekte Lösung für stabiles Streaming</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/it-loesungen/sicherheitsscan-(pen-test)" title="Sicherheitsscan (PEN-Test)">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cms-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Sicherheitsscan (PEN-Test)
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">IT-Sicherheitsscan für Ihr IT-Projekt</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	<span class="kw--nav-disabled">
+		<span class="kw--nav-textwrapper"><span class='d-inline d-lg-none d-xl-inline'>Control Panel </span>KeyHelp</span>
+	</span>
+	
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			<span class='d-inline d-lg-none d-xl-inline'>Control Panel </span>KeyHelp
+		</div>
+		<ul>
+			<li>
+	<a href="/de/keyhelp/keyhelp/" title="KeyHelp">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-keyhelp"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			KeyHelp
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Das kostenfreie Server Admin Tool</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyhelp/keyhelp-pro-server-management-tool" title="KeyHelp Pro">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-keyhelp"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			KeyHelp Pro
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die Pro-Version für noch mehr Komfort</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyhelp/installation" title="Installation">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-kh-install"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Installation
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">KeyHelp jetzt installieren!</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">Support</div>
+	<ul>
+		<li>
+	<a  href="/de/keyhelp/support/keyhelp-support" title="Support Optionen">
+		<div class="kw--nav-textwrapper">Support Optionen</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyhelp/support/community-forum" title="Community Forum">
+		<div class="kw--nav-textwrapper">Community Forum</div>
+	</a>
+</li><li>
+	<a  href="/de/keyhelp/support/tutorials-anleitungen" title="Tutorials & Anleitungen">
+		<div class="kw--nav-textwrapper">Tutorials & Anleitungen</div>
+	</a>
+</li><li>
+	<a  href="/de/keyhelp/support/betriebssystem-upgrades" title="Betriebssystem Upgrades">
+		<div class="kw--nav-textwrapper">Betriebssystem Upgrades</div>
+	</a>
+</li>
+	</ul>
+</li><li>
+	<div class="kw--nav-submenu-heading">Entwicklung</div>
+	<ul>
+		<li>
+	<a target="_blank" href="/de/keyhelp/entwicklung/demo" title="Demo">
+		<div class="kw--nav-textwrapper">Demo</div>
+	</a>
+</li><li>
+	<a  href="/de/keyhelp/entwicklung/keyhelp-neuigkeiten/" title="Neuigkeiten">
+		<div class="kw--nav-textwrapper">Neuigkeiten</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyhelp/entwicklung/changelog" title="Änderungsprotokoll">
+		<div class="kw--nav-textwrapper">Änderungsprotokoll</div>
+	</a>
+</li><li>
+	<a  href="/de/keyhelp/entwicklung/anfragen-und-feedback" title="Anfragen & Feedback">
+		<div class="kw--nav-textwrapper">Anfragen & Feedback</div>
+	</a>
+</li><li>
+	<a  href="/de/keyhelp/entwicklung/logos-und-grafiken" title="Logos & Grafiken">
+		<div class="kw--nav-textwrapper">Logos & Grafiken</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	
+	<a href="/de/keyweb/" title="Keyweb" aria-expanded="false">
+		<span class="kw--nav-textwrapper">Keyweb</span>
+	</a>
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			Keyweb
+		</div>
+		<ul>
+			<li>
+	<a href="/de/keyweb/unternehmen/" title="Unternehmen">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-unternehmen"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Unternehmen
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Lernen Sie die Keyweb AG kennen!</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/rechenzentrum" title="Rechenzentrum">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-data-center"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Rechenzentrum
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">TÜV-zertifiziert, sicher & hochverfügbar</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/serverstandort-deutschland" title="Serverstandort Deutschland">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-germany"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Serverstandort Deutschland
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die Voraussetzung für DSGVO-konformes Hosting</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/serverbau-keymachine" title="Server Manufaktur">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-manufaktur"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Server Manufaktur
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihr Server: gebaut von Profis. Schnell & zuverlässig.</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/green-hosting" title="Green Hosting">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-green-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Green Hosting
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Rundum nachhaltig auf allen Ebenen</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/karriere/" title="Karriere">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-karriere"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Karriere
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Job oder Ausbildung bei der Keyweb AG</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/partner" title="Partner">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-partnershaft"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Partner
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Technologie-Partner & Kooperationen<br>&nbsp;</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/keyweb/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-kwk"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Kunden werben Kunden
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Ihre Empfehlung zahlt sich aus</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">Mehr erfahren</div>
+	<ul>
+		<li>
+	<a  href="/de/keyweb/mehr-erfahren/blog/" title="Blog">
+		<div class="kw--nav-textwrapper">Blog</div>
+	</a>
+</li><li>
+	<a  href="/de/keyweb/mehr-erfahren/neuigkeiten/" title="Neuigkeiten">
+		<div class="kw--nav-textwrapper">Neuigkeiten</div>
+	</a>
+</li><li>
+	<a  href="/de/keyweb/mehr-erfahren/referenzen-/-erfahrungen" title="Referenzen / Erfahrungen">
+		<div class="kw--nav-textwrapper">Referenzen / Erfahrungen</div>
+	</a>
+</li>
+	</ul>
+</li><li>
+	<div class="kw--nav-submenu-heading">Social Media</div>
+	<ul>
+		<li>
+	<a target="_blank" href="/de/keyweb/social-media/facebook" title="Facebook">
+		<div class="kw--nav-textwrapper">Facebook</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyweb/social-media/instagram" title="Instagram">
+		<div class="kw--nav-textwrapper">Instagram</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyweb/social-media/linkedin" title="LinkedIn">
+		<div class="kw--nav-textwrapper">LinkedIn</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyweb/social-media/xing" title="Xing">
+		<div class="kw--nav-textwrapper">Xing</div>
+	</a>
+</li><li>
+	<a target="_blank" href="/de/keyweb/social-media/youtube" title="Youtube">
+		<div class="kw--nav-textwrapper">Youtube</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li><li>
+	
+	
+	<a href="/de/support/" title="Support" aria-expanded="false">
+		<span class="kw--nav-textwrapper">Support</span>
+	</a>
+	
+	<div class="kw--nav-submenuwrapper">
+	<div class="kw--nav-submenu-left">
+		<div class="kw--nav-submenu-heading">
+			Support
+		</div>
+		<ul>
+			<li>
+	<a href="/de/support/hosting-support" title="Hosting Support">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-hosting-support"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Hosting Support
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">24/7 minutenschneller Support</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/support/managed-support/" title="Managed Support">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-cms-hosting"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Managed Support
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Umfassender Support für Ihre IT</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/support/hilfe-und-kontakt" title="Hilfe & Kontakt">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-hilfe-kontakt"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Hilfe & Kontakt
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">So erreichen Sie uns bei Fragen & Anliegen</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/support/sla" title="Service-Level-Agreements">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-sla"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			Service-Level-Agreements
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Wir garantieren Ihnen Service-Qualität!</small>
+			</div>
+		</div>
+	</a>
+</li><li>
+	<a href="/de/support/faq/" title="FAQ">
+		<span class="kw--nav-imgwrapper">
+			
+			<i class="kwi kwi-nav-faq"></i>
+			
+		</span>
+		<div class="kw--nav-textwrapper">
+			FAQ
+			<div class="kw--nav-textaddition">
+				<small class="text-muted">Die häufigsten Hosting-Fragen und Antworten</small>
+			</div>
+		</div>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+	<div class="kw--nav-submenu-right">
+		<ul>
+			<li>
+	<div class="kw--nav-submenu-heading">mehr erfahren</div>
+	<ul>
+		<li>
+	<a  href="/de/support/mehr-erfahren/tutorials" title="Tutorials">
+		<div class="kw--nav-textwrapper">Tutorials</div>
+	</a>
+</li><li>
+	<a  href="/de/support/mehr-erfahren/downloads" title="Downloads">
+		<div class="kw--nav-textwrapper">Downloads</div>
+	</a>
+</li>
+	</ul>
+</li>
+		</ul>
+	</div>
+	
+</div>
+</li>
+			</ul>
+		</div>
+	</nav>
+	<a href="/de/hosting/add-ons/individuelle-projektberatung" class="btn btn-lg btn-primary"><span class="d-none d-md-inline">Projekt</span>Beratung</a>
+</div>
+<div class="mobilenav">
+	<nav class="kw--nav-mobile">
+		<div class="kw--nav-mobile-header">
+			<a href="/"><img src="/assets//components/keyweb/img/logo_colored.svg" alt="description_logo" /></a>
+			<div class="inline-block small text-white kw--lang-mob">
+				<i class="kwi kwi-language_white"></i>
+				<a href="/de/" class="kw--lang-toggle active">DE</a> | <a href="/en/" class="kw--lang-toggle ">EN</a>
+			</div>
+			<div class="inline-block position-relative">
+				<i class="kwi kwi-menu-close-white kw--toggle-mobilenav"></i>
+				<div class="kw--mobile-nav-toggle-helper kw--toggle-mobilenav"></div>
+			</div>
+		</div>
+		<div class="kw--nav-mobile-buttons">
+			<a href="/de/hosting/add-ons/individuelle-projektberatung" class="btn btn-outline-white"><i class="kwi kwi-help-contact-button-white me-2"></i><span class="d-none d-md-inline">Projekt</span>Beratung</a>
+			<a href="/de/suche" class="btn"><i class="kwi kwi-search-white"></i>Suche</a>
+		</div>
+		<div class="kw--nav-mobile-container">
+			<ul>
+				<li class="kw--nav-subtrigger has--sub">
+	
+	<a href="/de/server/" title="Server">
+		
+		<span>
+			<span class="kw--nav-textwrapper">Server</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/server/root-virtual-server" title="Root vServer">
+		<span>
+			<span class="kw--nav-textwrapper">Root vServer</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/vps" title="Dedicated VPS">
+		<span>
+			<span class="kw--nav-textwrapper">Dedicated VPS</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/dedicated-root-server/" title="Dedicated Root Server">
+		<span>
+			<span class="kw--nav-textwrapper">Dedicated Root Server</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/dedicated-basic-server" title="Dedicated Basic Server">
+		<span>
+			<span class="kw--nav-textwrapper">Dedicated Basic Server</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/dedicated-business-server" title="Dedicated Business Server">
+		<span>
+			<span class="kw--nav-textwrapper">Dedicated Business Server</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/ki-machine" title="GPU Server">
+		<span>
+			<span class="kw--nav-textwrapper">GPU Server</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/server-konfigurieren" title="Custom Server zusammenstellen">
+		<span>
+			<span class="kw--nav-textwrapper">Custom Server zusammenstellen</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/mac-server-hosting" title="Mac Server Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Mac Server Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/rabatt-sichern" title="Bis zu 20 % Rabatt sichern">
+		<span>
+			<span class="kw--nav-textwrapper">Bis zu 20 % Rabatt sichern</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/server/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span>
+			<span class="kw--nav-textwrapper">Kunden werben Kunden</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/server/add-ons/" title="Add-Ons">
+		<span>
+			<span class="kw--nav-textwrapper">Add-Ons</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/serververwaltung-keyhelp" title="Serververwaltung KeyHelp">
+		<span>
+			<span class="kw--nav-textwrapper">Serververwaltung KeyHelp</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/ssl-und-e-mail-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<span>
+			<span class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/domains" title="Domains">
+		<span>
+			<span class="kw--nav-textwrapper">Domains</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/backup-loesungen" title="Backup Lösungen">
+		<span>
+			<span class="kw--nav-textwrapper">Backup Lösungen</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/managed-support" title="Managed Support">
+		<span>
+			<span class="kw--nav-textwrapper">Managed Support</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<span>
+			<span class="kw--nav-textwrapper">individuelle Projektberatung</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/server/add-ons/pentest" title="Sicherheitsscan (PEN-Test)">
+		<span>
+			<span class="kw--nav-textwrapper">Sicherheitsscan (PEN-Test)</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub">
+	
+	<a href="/de/cloud/" title="Cloud">
+		
+		<span>
+			<span class="kw--nav-textwrapper">Cloud</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/cloud/keyweb-private-cloud" title="Keyweb Private Cloud">
+		<span>
+			<span class="kw--nav-textwrapper">Keyweb Private Cloud</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/cloud/keycloud" title="Nextcloud Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Nextcloud Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/cloud/keydisc" title="Cloud Backup Storage KeyDisc Pro">
+		<span>
+			<span class="kw--nav-textwrapper">Cloud Backup Storage KeyDisc Pro</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/cloud/keyrabatt" title="Bis zu 20 % Rabatt sichern">
+		<span>
+			<span class="kw--nav-textwrapper">Bis zu 20 % Rabatt sichern</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/cloud/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span>
+			<span class="kw--nav-textwrapper">Kunden werben Kunden</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/cloud/add-ons/" title="Add-ons">
+		<span>
+			<span class="kw--nav-textwrapper">Add-ons</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/cloud/add-ons/ssl-und-e-mail-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<span>
+			<span class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/cloud/add-ons/domains" title="Domains">
+		<span>
+			<span class="kw--nav-textwrapper">Domains</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/cloud/add-ons/managed-support" title="Managed Support">
+		<span>
+			<span class="kw--nav-textwrapper">Managed Support</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/cloud/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<span>
+			<span class="kw--nav-textwrapper">individuelle Projektberatung</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/cloud/add-ons/pentest" title="Sicherheitsscan (PEN-Test)">
+		<span>
+			<span class="kw--nav-textwrapper">Sicherheitsscan (PEN-Test)</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub kw--nav-disabled">
+	
+		<span>
+			<span class="kw--nav-textwrapper">Webhosting</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/webhosting" title="Webhosting-Pakete">
+		<span>
+			<span class="kw--nav-textwrapper">Webhosting-Pakete</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/cms-hosting" title="CMS Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">CMS Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/shop-hosting" title="Shop Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Shop Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/online-seminar-hosting" title="Online Seminar Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Online Seminar Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/nextcloud-hosting" title="Nextcloud Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Nextcloud Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/home-office-software" title="Home Office Software">
+		<span>
+			<span class="kw--nav-textwrapper">Home Office Software</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/domain-suchen/" title="Domains">
+		<span>
+			<span class="kw--nav-textwrapper">Domains</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/keyrabatt" title="Bis zu 20 % Rabatt sichern">
+		<span>
+			<span class="kw--nav-textwrapper">Bis zu 20 % Rabatt sichern</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/hosting/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span>
+			<span class="kw--nav-textwrapper">Kunden werben Kunden</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/hosting/add-ons/" title="Add ons">
+		<span>
+			<span class="kw--nav-textwrapper">Add ons</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/hosting/add-ons/ssl-zertifikate" title="SSL- & E-Mail-Zertifikate">
+		<span>
+			<span class="kw--nav-textwrapper">SSL- & E-Mail-Zertifikate</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/hosting/add-ons/keydisc" title="Backup-Storage">
+		<span>
+			<span class="kw--nav-textwrapper">Backup-Storage</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/hosting/add-ons/managed-support" title="Managed Support">
+		<span>
+			<span class="kw--nav-textwrapper">Managed Support</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/hosting/add-ons/individuelle-projektberatung" title="individuelle Projektberatung">
+		<span>
+			<span class="kw--nav-textwrapper">individuelle Projektberatung</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/hosting/add-ons/pentest" title="Sicherheitsscan (Pen-Test)">
+		<span>
+			<span class="kw--nav-textwrapper">Sicherheitsscan (Pen-Test)</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/hosting/hilfe/" title="Hilfe">
+		<span>
+			<span class="kw--nav-textwrapper">Hilfe</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/hosting/hilfe/tutorials" title="Tutorials">
+		<span>
+			<span class="kw--nav-textwrapper">Tutorials</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub kw--nav-disabled">
+	
+		<span>
+			<span class="kw--nav-textwrapper">IT-Lösungen</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-unternehmen" title="Lösungen für Unternehmen">
+		<span>
+			<span class="kw--nav-textwrapper">Lösungen für Unternehmen</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-agenturen" title="Lösungen für Agenturen">
+		<span>
+			<span class="kw--nav-textwrapper">Lösungen für Agenturen</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-reseller" title="Lösungen für Reseller">
+		<span>
+			<span class="kw--nav-textwrapper">Lösungen für Reseller</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/backup-loesungen" title="Backup Lösungen">
+		<span>
+			<span class="kw--nav-textwrapper">Backup Lösungen</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/managed-service" title="Managed Service">
+		<span>
+			<span class="kw--nav-textwrapper">Managed Service</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/it-outsourcing/-colocation" title="IT-Outsourcing / Colocation">
+		<span>
+			<span class="kw--nav-textwrapper">IT-Outsourcing / Colocation</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/dsgvo-konform" title="DSGVO-konforme Server">
+		<span>
+			<span class="kw--nav-textwrapper">DSGVO-konforme Server</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/live-streaming-loesung" title="Live Streaming Lösung">
+		<span>
+			<span class="kw--nav-textwrapper">Live Streaming Lösung</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/it-loesungen/sicherheitsscan-(pen-test)" title="Sicherheitsscan (PEN-Test)">
+		<span>
+			<span class="kw--nav-textwrapper">Sicherheitsscan (PEN-Test)</span>
+			
+		</span>
+	</a>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub kw--nav-disabled">
+	
+		<span>
+			<span class="kw--nav-textwrapper"><span class='d-inline d-lg-none d-xl-inline'>Control Panel </span>KeyHelp</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/keyhelp/keyhelp/" title="KeyHelp">
+		<span>
+			<span class="kw--nav-textwrapper">KeyHelp</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyhelp/keyhelp-pro-server-management-tool" title="KeyHelp Pro">
+		<span>
+			<span class="kw--nav-textwrapper">KeyHelp Pro</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyhelp/installation" title="Installation">
+		<span>
+			<span class="kw--nav-textwrapper">Installation</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/keyhelp/support/" title="Support">
+		<span>
+			<span class="kw--nav-textwrapper">Support</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/support/keyhelp-support" title="Support Optionen">
+		<span>
+			<span class="kw--nav-textwrapper">Support Optionen</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/support/community-forum" title="Community Forum">
+		<span>
+			<span class="kw--nav-textwrapper">Community Forum</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/support/tutorials-anleitungen" title="Tutorials & Anleitungen">
+		<span>
+			<span class="kw--nav-textwrapper">Tutorials & Anleitungen</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/support/betriebssystem-upgrades" title="Betriebssystem Upgrades">
+		<span>
+			<span class="kw--nav-textwrapper">Betriebssystem Upgrades</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/keyhelp/entwicklung/" title="Entwicklung">
+		<span>
+			<span class="kw--nav-textwrapper">Entwicklung</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/entwicklung/demo" title="Demo">
+		<span>
+			<span class="kw--nav-textwrapper">Demo</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/entwicklung/keyhelp-neuigkeiten/" title="Neuigkeiten">
+		<span>
+			<span class="kw--nav-textwrapper">Neuigkeiten</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/entwicklung/changelog" title="Änderungsprotokoll">
+		<span>
+			<span class="kw--nav-textwrapper">Änderungsprotokoll</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/entwicklung/anfragen-und-feedback" title="Anfragen & Feedback">
+		<span>
+			<span class="kw--nav-textwrapper">Anfragen & Feedback</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyhelp/entwicklung/logos-und-grafiken" title="Logos & Grafiken">
+		<span>
+			<span class="kw--nav-textwrapper">Logos & Grafiken</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub">
+	
+	<a href="/de/keyweb/" title="Keyweb">
+		
+		<span>
+			<span class="kw--nav-textwrapper">Keyweb</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/unternehmen/" title="Unternehmen">
+		<span>
+			<span class="kw--nav-textwrapper">Unternehmen</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/rechenzentrum" title="Rechenzentrum">
+		<span>
+			<span class="kw--nav-textwrapper">Rechenzentrum</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/serverstandort-deutschland" title="Serverstandort Deutschland">
+		<span>
+			<span class="kw--nav-textwrapper">Serverstandort Deutschland</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/serverbau-keymachine" title="Server Manufaktur">
+		<span>
+			<span class="kw--nav-textwrapper">Server Manufaktur</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/green-hosting" title="Green Hosting">
+		<span>
+			<span class="kw--nav-textwrapper">Green Hosting</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/karriere/" title="Karriere">
+		<span>
+			<span class="kw--nav-textwrapper">Karriere</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/partner" title="Partner">
+		<span>
+			<span class="kw--nav-textwrapper">Partner</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/keyweb/mehr-erfahren/" title="Mehr erfahren">
+		<span>
+			<span class="kw--nav-textwrapper">Mehr erfahren</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/mehr-erfahren/blog/" title="Blog">
+		<span>
+			<span class="kw--nav-textwrapper">Blog</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/mehr-erfahren/neuigkeiten/" title="Neuigkeiten">
+		<span>
+			<span class="kw--nav-textwrapper">Neuigkeiten</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/mehr-erfahren/referenzen-/-erfahrungen" title="Referenzen / Erfahrungen">
+		<span>
+			<span class="kw--nav-textwrapper">Referenzen / Erfahrungen</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/keyweb/kunden-werben-kunden" title="Kunden werben Kunden">
+		<span>
+			<span class="kw--nav-textwrapper">Kunden werben Kunden</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/keyweb/social-media/" title="Social Media">
+		<span>
+			<span class="kw--nav-textwrapper">Social Media</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/social-media/facebook" title="Facebook">
+		<span>
+			<span class="kw--nav-textwrapper">Facebook</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/social-media/instagram" title="Instagram">
+		<span>
+			<span class="kw--nav-textwrapper">Instagram</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/social-media/linkedin" title="LinkedIn">
+		<span>
+			<span class="kw--nav-textwrapper">LinkedIn</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/social-media/xing" title="Xing">
+		<span>
+			<span class="kw--nav-textwrapper">Xing</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/keyweb/social-media/youtube" title="Youtube">
+		<span>
+			<span class="kw--nav-textwrapper">Youtube</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li><li class="kw--nav-subtrigger has--sub">
+	
+	<a href="/de/support/" title="Support">
+		
+		<span>
+			<span class="kw--nav-textwrapper">Support</span>
+			<span class="kw--nav-indicator"></span>
+		</span>
+		
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger ">
+	<a href="/de/support/hosting-support" title="Hosting Support">
+		<span>
+			<span class="kw--nav-textwrapper">Hosting Support</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/support/managed-support/" title="Managed Support">
+		<span>
+			<span class="kw--nav-textwrapper">Managed Support</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/support/hilfe-und-kontakt" title="Hilfe & Kontakt">
+		<span>
+			<span class="kw--nav-textwrapper">Hilfe & Kontakt</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/support/sla" title="Service-Level-Agreements">
+		<span>
+			<span class="kw--nav-textwrapper">Service-Level-Agreements</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger ">
+	<a href="/de/support/faq/" title="FAQ">
+		<span>
+			<span class="kw--nav-textwrapper">FAQ</span>
+			
+		</span>
+	</a>
+	
+</li><li class="kw--nav-subtrigger has--sub">
+	<a href="/de/support/mehr-erfahren/" title="mehr erfahren">
+		<span>
+			<span class="kw--nav-textwrapper">mehr erfahren</span>
+			
+			<span class="kw--wf-indicator"></span>
+			
+		</span>
+	</a>
+	
+	<div class="kw--nav-subtrigger-toggle" aria-expanded="false"></div>
+	<div class="kw--nav-submenuwrapper">
+		<ul>
+			<li class="kw--nav-subtrigger">
+	<a href="/de/support/mehr-erfahren/tutorials" title="Tutorials">
+		<span>
+			<span class="kw--nav-textwrapper">Tutorials</span>
+		</span>
+	</a>
+</li><li class="kw--nav-subtrigger">
+	<a href="/de/support/mehr-erfahren/downloads" title="Downloads">
+		<span>
+			<span class="kw--nav-textwrapper">Downloads</span>
+		</span>
+	</a>
+</li>
+		</ul>
+	</div>
+	
+</li>
+		</ul>
+	</div>
+</li>
+				<li class="kw--nav-subtrigger">
+					<a href="/de/hosting/domain-suchen/" class="border-bottom-0"><i class="kwi kwi-domain-search_white me-2"></i>Domainsuche</a>
+				</li>
+			</ul>
+		</div>
+		<div class="kw--nav-mobile-footer">
+			<div class="pb-3">
+				<a href="/de/keyweb/mehr-erfahren/blog/" class="text-uppercase"><i class="kwi kwi-blog_white me-2" style="vertical-align: top; transform: scale(0.75)"></i><strong>Blog</strong></a>
+			</div>
+			<a href="https://www.linkedin.com/company/keyweb-ag/" aria-label="description_linkedin"><i class="kwi kwi-linkedin-white"></i></a>
+			<a href="https://instagram.com/keyweb.de" aria-label="Keyweb AG auf Instagram"><i class="kwi kwi-instagram-white"></i></a>
+			<a href="https://www.facebook.com/keywebag/" aria-label="Keyweb AG auf Facebook"><i class="kwi kwi-facebook-white"></i></a>
+			<a href="https://www.youtube.com/user/KeywebAG" aria-label="Keyweb AG auf Youtube"><i class="kwi kwi-youtube-white"></i></a>
+		</div>
+	</nav>
+	<div class="kw--nav-mobile-backdrop kw--toggle-mobilenav"></div>
+</div>
+						<div class="kw--login-icon d-block d-xl-none">
+							<a href="https://kcp.keyweb.de"><i class="kwi kwi-login"></i></a>
+						</div>
+						<div class="kw--cart-icon">
+	<a href="/de/checkout">
+		<i class="kwi kwi-shopping-cart-empty"></i><i id="cart_icon"></i>
+	</a>
+</div>
+<script src="/assets//components/keyweb/js/public/cart.js"></script>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="kw-tpl-body">
+			<div class="kw-header">
+    <div class="kw-header-bg">
+        
+        <picture>
+            <source srcset="/assets/uploads/banner/banner-fehlerseite-xxlarge.jpg" media="(min-width: 1920px)">
+            <source srcset="/assets/uploads/banner/banner-fehlerseite-xlarge.jpg" media="(min-width: 1440px)">
+            <source srcset="/assets/uploads/banner/banner-fehlerseite-large.jpg" media="(min-width: 1024px)">
+            <source srcset="/assets/uploads/banner/banner-fehlerseite-medium.jpg" media="(min-width: 768px)">
+            <source srcset="/assets/uploads/banner/banner-fehlerseite-small.jpg" media="(min-width: 425px)">
+            <img src="/assets/uploads/banner/banner-fehlerseite-small.jpg" alt="">
+        </picture>
+    </div>
+    <div class="kw-header-content">
+        <div class="kw-header-content-inner">
+            <div>
+                <h1>Können wir auch etwas anderes für Sie tun?</h1>
+                <h2>Der aufgerufene Inhalt wurde leider verschoben oder existiert nicht mehr.</h2>
+                <div class="kw-header-btn-wrapper d-none d-lg-block ">
+                    <div class="mb-sb"></div>
+                </div>
+                <div class="kw--header-btn-wrapper d-lg-none">
+                    <div class="mb-sb"></div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+    </div>
+    
+</div>
+
+<nav class="kw--breadcrumbs bg-white" aria-label="breadcrumb">
+	<ol class="breadcrumb bg-white">
+		
+	</ol>
+</nav>
+
+<div class="kw--lyt-row kw--lyt-attr-centered  bg-white  "  data-stLabel=""><div><div class="mb-sb"></div>
+
+<p class="lead">Unten finden Sie die wichtigsten Links zu den beliebtesten Hosting- und Serverprodukten der Keyweb AG.</p>
+<p class="lead"><a href="/de/">Hier geht’s zur Startseite</a></p></div></div>
+
+<div class="kw--lyt-row kw--lyt-attr-centered  bg-white  "  data-stLabel=""><div><div class="kw--lyt-flex items-3">
+<div class="card centered has-link">
+	<a href="/de/server/dedicated-root-server/" >
+		<picture>
+    <img src="/assets/uploads/icon/server-uebersicht-basic-server.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Dedicated Root Server</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/server/dedicated-root-server/"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+
+<div class="card centered has-link">
+	<a href="/de/server/root-virtual-server" >
+		<picture>
+    <img src="/assets/uploads/icon/rabatt-vs-server.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Virtuelle Server</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/server/root-virtual-server"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+
+<div class="card centered has-link">
+	<a href="/de/server/vps" >
+		<picture>
+    <img src="/assets/uploads/icon/rabatt-vps-server.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Dedicated VPS</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/server/vps"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+
+<div class="card centered has-link">
+	<a href="/de/hosting/webhosting" >
+		<picture>
+    <img src="/assets/uploads/icon/fehlerseite-webhosting.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Webhosting</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/hosting/webhosting"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+
+<div class="card centered has-link">
+	<a href="/de/hosting/domain-suchen/" >
+		<picture>
+    <img src="/assets/uploads/icon/fehlerseite-domainsuche.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Domainsuche</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/hosting/domain-suchen/"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+
+<div class="card centered has-link">
+	<a href="/de/cloud/" >
+		<picture>
+    <img src="/assets/uploads/icon/fehlerseite-nextcloud.svg" class="svg card-icon-top" alt="">
+</picture>
+	</a>
+	<div class="card-body">
+		<h3>Cloud</h3>
+		<div class="card-text"></div>
+                
+		<a href="/de/cloud/"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+
+	</div>
+</div>
+</div>
+
+<div class="mb-7"></div>
+
+<div class="kw--lyt-flex items-3">
+<div class="card centered bg-white has-link ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-unternehmen" >
+	
+		<picture>
+			<source srcset="/assets/uploads/resized/unternehmen-server-01_600px.jpg" media="(max-width: 400px)">
+<source srcset="/assets/uploads/resized/unternehmen-server-01_800px.jpg" media="(max-width: 600px)">
+<source srcset="/assets/uploads/resized/unternehmen-server-01_1000px.jpg" media="(max-width: 900px)">
+
+			<img src="/assets/uploads/images/unternehmen-server-01.jpg" class="jpg card-image-top" alt="">
+		</picture>
+		</a>
+		
+	<div class="card-body">
+		<h3>IT-Lösungen für Unternehmen</h3>
+		<div class="card-text"></div>
+		
+		<a href="/de/it-loesungen/it-loesungen-fuer-unternehmen"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+		
+		
+	</div>
+</div>
+
+<div class="card centered bg-white has-link ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-agenturen" >
+	
+		<picture>
+			<source srcset="/assets/uploads/resized/agentur-server-02_600px.jpg" media="(max-width: 400px)">
+<source srcset="/assets/uploads/resized/agentur-server-02_800px.jpg" media="(max-width: 600px)">
+<source srcset="/assets/uploads/resized/agentur-server-02_1000px.jpg" media="(max-width: 900px)">
+
+			<img src="/assets/uploads/images/agentur-server-02.jpg" class="jpg card-image-top" alt="">
+		</picture>
+		</a>
+		
+	<div class="card-body">
+		<h3>IT-Lösungen für Agenturen</h3>
+		<div class="card-text"></div>
+		
+		<a href="/de/it-loesungen/it-loesungen-fuer-agenturen"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+		
+		
+	</div>
+</div>
+
+<div class="card centered bg-white has-link ">
+	<a href="/de/it-loesungen/it-loesungen-fuer-reseller" >
+	
+		<picture>
+			<source srcset="/assets/uploads/resized/reseller-server-02_600px.jpg" media="(max-width: 400px)">
+<source srcset="/assets/uploads/resized/reseller-server-02_800px.jpg" media="(max-width: 600px)">
+<source srcset="/assets/uploads/resized/reseller-server-02_1000px.jpg" media="(max-width: 900px)">
+
+			<img src="/assets/uploads/images/reseller-server-02.jpg" class="jpg card-image-top" alt="">
+		</picture>
+		</a>
+		
+	<div class="card-body">
+		<h3>IT-Lösungen für Reseller</h3>
+		<div class="card-text"></div>
+		
+		<a href="/de/it-loesungen/it-loesungen-fuer-reseller"  class="card-link">Erfahren Sie mehr&nbsp;&roarr;</a>
+		
+		
+	</div>
+</div>
+</div></div></div>
+
+<div class="kw--lyt-row kw--lyt-attr-centered kw--lyt-attr-slant bg-lightblue  "  data-stLabel=""><div><div id="kontakt" class="kw--scroll-anker"></div>
+
+<div class="kw--el-osi round-dynamicaly   align-items-center">
+	<div class="has-image  " style=""><picture><source srcset="/assets/uploads/resized/mitarbeiter-der-keyweb-ag-4_600px.jpg" media="(max-width: 400px)">
+<source srcset="/assets/uploads/resized/mitarbeiter-der-keyweb-ag-4_800px.jpg" media="(max-width: 600px)">
+<source srcset="/assets/uploads/resized/mitarbeiter-der-keyweb-ag-4_1000px.jpg" media="(max-width: 900px)">
+<img src="/assets/uploads/images/mitarbeiter/mitarbeiter-der-keyweb-ag-4.jpg" style="max-height: 18rem; min-width: 18rem; width: 18rem" class="jpg rounded-" alt=""></picture></div>
+	<div class=""><h2 style="font-size: 1.5625rem;">Das, was Sie suchen, ist unter den aufgeführten Kategorien nicht zu finden? Kein Problem!</h2>
+<p>Nutzen Sie gern die <a href="/de/suche">Suchfunktion</a> oder kontaktieren Sie uns direkt.</p>
+<p>Wir helfen Ihnen jederzeit weiter!</p>
+
+<div class="mb-sb"></div>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="text-center">
+
+<img src="/assets/uploads/icon/kontakt-phone.svg" class="svg" height="auto" style="max-height: ; max-width: ;" alt="">
+
+</div>
+
+<p style="text-align: center;" rel="text-align: center;"><a href="tel:+493616585355">0361 6 58 53 55</a><br>Montag bis Freitag<br>8:00 bis 17:00 Uhr
+</p>
+    </div>
+    <div class="col-md-4">
+        <div class="text-center">
+
+<img src="/assets/uploads/icon/kontakt-mail.svg" class="svg" height="auto" style="max-height: ; max-width: ;" alt="">
+
+</div>
+
+<p style="text-align: center;">Jetzt per E-Mail<br>kontaktieren:<br><a href="mailto:sales@keyweb.de">sales@keyweb.de</a></p>
+    </div>
+    <div class="col-md-4">
+        <div class="text-center">
+
+<img src="/assets/uploads/icon/kontakt-chat-2.svg" class="svg" height="auto" style="max-height: ; max-width: ;" alt="">
+
+</div>
+
+<p style="text-align: center;">Jetzt Chat starten, einfach auf den Button unten rechts klicken.</p>
+    </div>
+</div></div>
+</div></div></div>
+
+<div class="kw--lyt-row kw--lyt-attr-centered kw--lyt-attr-slant bg-white  "  data-stLabel=""><div></div></div>
+
+<div class="kw--lyt-row kw--lyt-attr-centered  bg-white  "  data-stLabel=""><div></div></div>
+		</div>
+		<div class="kw-tpl-footer">
+			<div class="kw-footer--specials">
+				<div>
+					<div class="d-flex justify-content-between">
+						<div class="d-flex align-items-center"><i class="kwi kwi-usp-1 me-3"></i>
+	<div class="h6"><a href="/de/keyweb/serverstandort-deutschland">Server in Deutschland<br/>DSGVO-Konform</a></div>
+</div>
+<div class="d-flex align-items-center"><i class="kwi kwi-usp-2 me-3"></i>
+	<div class="h6"><a href="/de/keyweb/rechenzentrum">Hochverfügbare<br/>Datacenter</a></div>
+</div>
+<div class="d-flex align-items-center"><i class="kwi kwi-usp-3 me-3"></i>
+	<div class="h6"><a href="/de/support/hosting-support">Minutenschneller<br/>Support</a></div>
+</div>
+<div class="d-flex align-items-center"><i class="kwi kwi-usp-4 me-3"></i>
+	<div class="h6"><a href="/de/keyweb/green-hosting">Rundum<br/>nachhaltig</a></div>
+</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="kw-footer--bluecontent">
+				<div>
+					<div class="row">
+						<div class="col-md-4 col-lg-6 mb-sb">
+							<div class="row">
+								<div class="col-lg-6 mb-sb mb-lg-0">
+									<span class="text-white d-print-none h6 d-block">Unternehmen</span>
+									<ul class="kw-footer--linklist d-print-none">
+										<li><a href="/de/keyweb/unternehmen/">Über uns</a></li>
+<li><a href="/de/keyweb/mehr-erfahren/neuigkeiten/">Presse</a></li>
+<li><a href="/de/keyweb/karriere/">Jobs & Karriere</a></li>
+<li><a href="/de/keyweb/mehr-erfahren/referenzen-/-erfahrungen">Kundenerfahrung</a></li>
+<li><a href="/de/keyweb/kunden-werben-kunden">Kunden werben Kunden</a></li>
+<li><a href="/de/it-loesungen/it-loesungen-fuer-reseller">Reseller werden</a></li>
+									</ul>
+									<ul class="kw-footer--linklist d-print-none mt-sb">
+										<li><a href="/de/impressum">Impressum</a></li>
+<li><a href="/de/datenschutz">Datenschutz</a></li>
+<li><a href="/de/barrierefreiheitserklaerung">Barrierefreiheitserklärung</a></li>
+<li><a href="/de/agb">AGB</a></li>
+									</ul>
+								</div>
+								<div class="col-lg-6">
+									<span class="text-white h6 d-block">Service & Support</span>
+									<ul class="kw-footer--linklist">
+										<li class="text-white">Beratung: <a class="text-white" aria-label="%label_tel_sales" href="tel:00493616585355">+49 361/6 58 53-55</a></li>
+<li class="text-white">Support: <a class="text-white" aria-label="%label_tel_support" href="tel:0049361658530">+49 361/6 58 53 0</a></a></li>
+<li>E-Mail: <a href="mailto:info@keyweb.de">info@keyweb.de</a></li>
+<li class="mt-3"><a href="/de/support/managed-support/">Managed Server Support</a></li>
+<li class="mt-3"><a href="/de/support/faq/allgemeine-fragen/bestellung/">FAQ</a> & <a href="/de/support/mehr-erfahren/tutorials">Tutorials</a></li>
+<li><a href="/de/support/downloads">Formulare</a></li>
+<li><a href="https://kcp.keyweb.de/index.php?extern_alert=CANCELLATION_DIRECT&req=index.php%3Fpage%3Duser_contracts" target="_blank">Verträge kündigen</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-lg-3 mb-sb">
+							<span class="text-white h6 d-block">Produkte</span>
+							<ul class="kw-footer--linklist">
+								<li><a href="/de/server/dedicated-basic-server">Dedicated Basic Server</a></li><li><a href="/de/server/dedicated-business-server">Dedicated Business Server</a></li><li><a href="/de/server/vps">Dedicated VPS</a></li><li><a href="/de/server/root-virtual-server">Root vServer</a></li><li><a href="/de/hosting/webhosting">Webhosting</a></li><li><a href="/de/hosting/cms-hosting">CMS Hosting</a></li><li><a href="/de/hosting/shop-hosting">Shop Hosting</a></li><li><a href="/de/hosting/online-seminar-hosting">Online Seminar Hosting</a></li><li><a href="/de/hosting/domain-suchen/">Domains</a></li><li><a href="/de/keyhelp/keyhelp/">Serververwaltung KeyHelp</a></li><li><a href="/de/cloud/keyweb-private-cloud">Private Cloud</a></li><li><a href="/de/cloud/keydisc">Backup Storage</a></li><li><a href="/de/cloud/keycloud">Nextcloud Hosting</a></li><li><a href="/de/it-loesungen/it-outsourcing/-colocation">Colocation</a></li><li><a href="/de/server/add-ons/pentest">Sicherheitsscan Pentest</a></li>
+							</ul>
+						</div>
+						<div class="col-md-4 col-lg-3 mb-sb">
+							<div class="d-flex flex-column h-100">
+								<span class="text-white h6 d-block">Wissenswertes</span>
+								<ul class="kw-footer--linklist">
+									<a href="/de/keyweb/mehr-erfahren/blog/software-und-anwendungen/starke-vs-schwache-ki" class="text-mildblue">
+	<div>17.07.2026
+	</div>
+	<div><strong>Starke und schwache KI: Was kann künstliche Intelligenz aktuell wirklich?</strong>
+	</div>
+</a>
+								</ul>
+								<span class="text-white h6 d-block mt-sb">Zahlungsmöglichkeiten</span>
+								<div class="d-flex mb-3">
+	<div class="me-3">
+		<i class="kwi kwi-visa mr-1"></i>
+		<i class="kwi kwi-mastercard"></i>
+	</div>
+	<div>
+		<i class="kwi kwi-paypal mt-1"></i>
+	</div>
+</div>
+<div class="d-flex">
+	<div class="me-3">
+		<i class="kwi kwi-sepa-lastschrift"></i>
+	</div>
+	<div>
+		Überweisung
+	</div>
+</div>
+								<div class="mt-3 mt-md-auto">
+	<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal_footer_newsletter">
+		<i class="kwi kwi-newsletter-button-white me-2"></i>
+		Newsletter&nbsp;abonnieren
+	</button>
+</div>
+<div class="modal fade" id="modal_footer_newsletter" tabindex="-1" aria-label="" aria-hidden="true">
+	<div class="kw--modal-close" data-bs-dismiss="modal"><i class="kwi kwi-menu-close-white"></i></div>
+	<div class="modal-dialog modal-dialog-centered modal-xl">
+		<div class="modal-content">
+			<div class="modal-header bg-lightblue py-3"></div>
+			<div class="modal-body bg-lightblue py-0 text-black">
+				<h3 class="modal-title">Newsletter abonnieren</h3>
+				<hr>
+				<p>Sie möchten regelmäßig hilfreiche Informationen rund um die Themen IT-Infrastruktur, Datensicherheit, Webprojekte und Hosting erhalten? <br class="d-none d-md-inline">Dann tragen Sie sich in unseren Newsletter ein!</p>
+				<div class="mb-sb"></div>
+				<form action="https://newsletter.keyweb.de/f/382116-382883/wcs/" method="post" target="_blank">
+	<div class="form-group">
+		<input id="cr_form-input--text8694758" class="form-control" type="text" name="1015902" placeholder="Firma">
+	</div>
+	<div class="row">
+		<div id="8694782" class="col-md-3">
+			<div class="form-group">
+				<select id="cr_form-input--select8694782" class="form-select" name="1015899" required="">
+					<option value="Anrede *" selected="" disabled="">Anrede *</option>
+					<option value="Herr">Herr</option>
+					<option value="Frau">Frau</option>
+					<option value="keine Anrede">keine Anrede</option>
+				</select>
+			</div>
+		</div>
+		<div class="col-md">
+			<div class="row">
+				<div id="8694825" class="col-md-6">
+					<div class="form-group">
+						<input id="cr_form-input--text8694825" class="form-control" type="text" name="1015900" placeholder="Vorname*" required="">
+					</div>
+				</div>
+				<div id="8694827" class="col-md">
+					<div class="form-group">
+						<input id="cr_form-input--text8694827" class="form-control" type="text" name="1015901" placeholder="Nachname*" required="">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="8686385" rel="email" class="form-group mb-3">
+		<input class="form-control" type="email" id="text8686385" name="email" value="" placeholder="E-Mail-Adresse*" required="">
+	</div>
+	<div class="form-group mb-sb">
+		<div class="row align-items-center">
+			<div class="col-auto pe-0">
+				<input id="ja8808744" class="form-check-input" type="checkbox" name="1036505[]" value="ja" required>
+			</div>
+			<div class="col">
+				<label class="form-check-label" for="ja8808744">Hiermit stimme ich der Datenverarbeitung im Rahmen des Newsletterversands zu. <br class="d-none d-md-inline">Näheres dazu finden Sie in der <a href="/de/datenschutz#newsletter" target="_blank">Datenschutzerklärung</a> unter Punkt 16.</label>
+			</div>
+		</div>
+	</div>
+	<button type="submit" class="btn btn-primary">Anmelden</button>
+</form>
+			</div>
+			<div class="modal-footer bg-lightblue py-3"></div>
+		</div>
+	</div>
+</div>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-between justify-content-lg-end">
+						<div class="col-md-6 mb-sb mb-lg-0 d-block d-lg-none">
+							<span class="text-white h6 d-block">Domain finden</span>
+							<form method="GET" action="/de/bestellen">
+								<input type="hidden" class="d-none" name="type" value="domain">
+								<label class="d-none" for="domain_q">label_footer_search_domain</label>
+								<div class="form-group">
+									<div class="input-group">
+										<input type="text" class="form-control form-control-sm border-0" name="id" id="domain_q" placeholder="Ihre Wunschdomain" />
+										<button class="btn btn-sm btn-primary input-group-text mt-0 pl-5 pr-5" aria-label="Wunschdomain suchen"><i class="kwi kwi-suche-footer"></i></button>
+									</div>
+								</div>
+							</form>
+						</div>
+						<div class="col-md-4 col-lg-3">
+							<span class="text-white h6 d-block">Social Media</span>
+							<div class="kw-social--networks mb-5">
+								<a class="kw-social--network" href="https://www.linkedin.com/company/keyweb-ag/" aria-label="description_linkedin"><i class="kwi kwi-linkedin-white"></i></a>
+<a class="kw-social--network" href="https://instagram.com/keyweb.de" aria-label="Keyweb AG auf Instagram"><i class="kwi kwi-instagram-white"></i></a>
+<a class="kw-social--network" href="https://www.facebook.com/keywebag/" aria-label="Keyweb AG auf Facebook"><i class="kwi kwi-facebook-white"></i></a>
+<a class="kw-social--network" href="https://www.youtube.com/user/KeywebAG" aria-label="Keyweb AG auf Youtube"><i class="kwi kwi-youtube-white"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="kw-footer--brands">
+				<div class="text-center"><a href="/de/keyweb/partner">Unsere Partner & Technologien</a></div>
+				<div class="text-center">
+					<img class="w-100" src="/assets//components/keyweb/img/footer-partners-colored_cmprs-800w.svg" srcset="
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-400w.png 400w,
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-800w.png 800w,
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-1000w.png 1000w,
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-1200w.png 1200w,
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-1440w.png 1440w,
+                            /assets//components/keyweb/img/footer-partners-colored_cmprs-2000w.png 2000w
+                        " sizes="
+                            (min-width: 2400px) 2000px,
+                            (min-width: 2000px) 1440px,
+                            (min-width: 1440px) 1000px,
+                            (min-width: 1200px) 800px,
+                            (min-width: 800px) 400px
+                        " alt="Unsere Partner: Eco, Ripe, Denic, Core" title="Eco, Ripe, Denic, Core" aria-label="Unsere Partner: Eco, Ripe, Denic, Core"></img>
+				</div>
+			</div>
+			<div class="kw-footer--ending">
+				<div>
+					<div>
+						&copy;1997-2026 KEYWEB AG
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<a href="javascript:scrollTo(0,0)" id="scrolltop"><i class="kwi kwi-scroll-top"></i></a>
+		<script src="/assets//components/keyweb/js/bootstrap.js"></script>
+		<script src="/assets//components/keyweb/js/kw.js"></script>
+		
+		
+<div class="modal fade" id="modal_googies" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h3 class="modal-title">Ihr Komfort ist uns wichtig!</h3>
+			</div>
+			<div class="modal-body pt-0">
+				<p class="mb-5">Um unsere Website und die angebotenen Informationen bestmöglich an die Bedürfnisse unserer Nutzer anzupassen, setzen wir Cookies ein. Neben technisch notwendigen sind dies auch solche, welche uns dabei unterstützen, das Nutzererlebnis zu analysieren und zu verbessern. Die gewonnenen Daten werden selbstverständlich anonymisiert!</p>
+				<div class="row justify-content-between">
+					<div class="col-12 col-lg-auto text-center">
+						<form method="GET" action="https://www.keyweb.de/ajax-cookie-optin">
+							<button type="submit" class="btn btn-keyweb mb-2">
+								Alle Cookies ablehnen
+							</button>
+							<input type="hidden" name="currentID" value="848">
+						</form>
+					</div>
+					<div class="col-12 col-lg-auto text-center">
+						<button type="button" class="btn btn-keyweb mb-2" data-bs-dismiss="modal" data-bs-target="#modal_cookie_settings" data-bs-toggle="modal">
+							Einstellungen
+						</button>
+					</div>
+					<div class="col-12 col-lg-auto text-center">
+						<form method="GET" action="https://www.keyweb.de/ajax-cookie-optin">
+							<button type="submit" class="btn btn-keyweb mb-2">
+								Alle Cookies akzeptieren
+							</button>
+							<input type="hidden" name="all" value="true">
+							<input type="hidden" name="currentID" value="848">
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<a href="/de/impressum">Impressum</a>
+				<a href="/de/datenschutz">Datenschutz</a>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	var modal = new bootstrap.Modal(document.getElementById('modal_googies'));
+	modal.show();
+</script>
+<div class="modal fade" id="modal_cookie_settings" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h3 class="modal-title">Einstellungen</h3>
+			</div>
+			<div class="modal-body">
+				<p>Um unsere Website und die angebotenen Informationen bestmöglich an die Bedürfnisse unserer Nutzer anzupassen, setzen wir Cookies ein. Neben technisch notwendigen sind dies auch solche, welche uns dabei unterstützen, das Nutzererlebnis zu analysieren und zu verbessern. Die gewonnenen Daten werden selbstverständlich anonymisiert!</p>
+				<p>Sie haben jederzeit die Möglichkeit, Ihre Zustimmung zu widerrufen. Nähere Informationen zum Zweck und der Speicherdauer der Cookies finden Sie in der Datenschutzerklärung und im Impressum.</p>
+				<form method="POST" action="https://www.keyweb.de/ajax-cookie-optin">
+					<div class="kw--cookie-cat">
+	<h4>Notwendige Cookies</h4>
+	<p>Damit der Bestellvorgang ordnungsgemäß funktioniert, müssen wir technisch notwendige Cookies einsetzen. Bitte akzeptieren Sie die erforderlichen Cookies, um mit der Bestellung fortzufahren.</p>
+	<div class="form-check form-switch">
+	<input class="form-check-input" role="switch" type="checkbox" name="cookies[application]" id="application" value="1" disabled checked  />
+	<label class="form-check-label" for="application">Session Cookie</label>
+</div><div class="form-check form-switch">
+	<input class="form-check-input" role="switch" type="checkbox" name="cookies[chat]" id="chat" value="1" disabled checked  />
+	<label class="form-check-label" for="chat">Keyweb Chat</label>
+</div>
+</div><div class="kw--cookie-cat">
+	<h4>Analyse-Cookies (Statistiken)</h4>
+	<p>Analyse-Cookies dienen dazu, Informationen über die Art und Weise der Nutzung der Website zu erfassen. Dies dient uns dazu, das Nutzererlebnis auf der Website zu verbessern und sie weiter an die Bedürfnisse der Nutzer und Kunden anzupassen.<br/><br/>Die Matomo-Daten liegen anonymisiert auf den Keyweb-eigenen Servern. Sie werden nicht an Dritte weitergegeben.</p>
+	<div class="form-check form-switch">
+	<input class="form-check-input" role="switch" type="checkbox" name="cookies[matomo]" id="matomo" value="1"   />
+	<label class="form-check-label" for="matomo">Matomo Analytics</label>
+</div>
+</div><div class="kw--cookie-cat">
+	<h4>Drittanbieter-Cookies</h4>
+	<p>Auf Keyweb.de wurden Videos eingebunden, welche wir auf YouTube veröffentlicht haben. Diese sind direkt von der Website aus abspielbar. Bei Aufruf des Videos oder Akzeptieren dieses Cookies erhält YouTube die Information, von welcher Webseite aus das Video von Ihnen aufgerufen wurde.</p>
+	<div class="form-check form-switch">
+	<input class="form-check-input" role="switch" type="checkbox" name="cookies[youtube]" id="youtube" value="1"   />
+	<label class="form-check-label" for="youtube">YouTube</label>
+</div>
+</div>
+					<button type="submit" class="btn btn-primary me-sb mb-2">
+						Speichern
+					</button>
+					<a href="https://www.keyweb.de/ajax-cookie-optin?all=true&currentID=848" class="btn btn-primary mb-2">
+						Alle Cookies akzeptieren
+					</a>
+					<input type="hidden" name="currentID" value="848" />
+				</form>
+			</div>
+			<div class="modal-footer">
+				<a href="/de/impressum">Impressum</a>
+				<a href="/de/datenschutz">Datenschutz</a>
+			</div>
+		</div>
+	</div>
+</div>
+	</body>
+	
+
+</html>

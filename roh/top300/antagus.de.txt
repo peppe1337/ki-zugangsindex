@@ -1,0 +1,10 @@
+Sitemap: https://www.antagus.de/google_sitemap.xml
+
+User-agent: *
+Disallow: /cluster-server/
+Disallow: /hochverfuegbarkeit-server/
+Disallow: /preisliste/preisliste-gesamt.html
+Disallow: /preisliste/preisliste-gesamt.php
+Disallow: /preisliste/preisliste.csv
+Disallow: /resellercloud/thanx.php
+Disallow: /ssd-server/thanx.php

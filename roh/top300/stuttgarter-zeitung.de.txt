@@ -1,0 +1,37 @@
+#
+# Bot-Konfigurationen www.stuttgarter-zeitung.de
+#
+
+User-agent: *
+Disallow: /checkout/
+Disallow: /register/
+Disallow: /suche/
+Disallow: /service/magiclink/
+Disallow: /service/magiclink/token/
+Disallow: *.pdf
+Disallow: /user/account/signout
+Disallow: /sso/openidconnect/signin
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+Sitemap: https://www.stuttgarter-zeitung.de/sitemap.xml
+Sitemap: https://www.stuttgarter-zeitung.de/sitemap-news.xml
+
+# Legal notice: stuttgarter-zeitung.de expressly reserves the right to use its content for commercial text and data mining (Â§ 44 b UrhG).
+# The use of robots or other automated means to access stuttgarter-zeitung.de or collect or mine data without
+# the express permission of stuttgarter-zeitung.de is strictly prohibited.
+# stuttgarter-zeitung.de may, in its discretion, permit certain automated access to certain stuttgarter-zeitung.de pages,
+# If you would like to apply for permission to crawl stuttgarter-zeitung.de, collect or use data, please email digitalservice@stuttgarter-zeitung.de

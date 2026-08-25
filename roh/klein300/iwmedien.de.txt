@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /
+Allow: /*?ver=*
+Allow: /?ver=
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /?s=
+Disallow: /search/
+Disallow: /feed/
+Disallow: */feed
+Disallow: */feed/
+Disallow: /*?query*
+
+Sitemap: https://www.iwmedien.de/sitemap_index.xml

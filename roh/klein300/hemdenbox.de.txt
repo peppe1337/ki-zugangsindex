@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/
+
+Sitemap: https://www.hemdenbox.de/media/sitemap2.xml
+Sitemap: https://www.hemdenbox.de/blog/sitemap.xml

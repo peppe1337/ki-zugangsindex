@@ -1,0 +1,3019 @@
+{
+  "festgelegtAm": "2026-08-25",
+  "hinweis": "Dieses Panel wird nicht neu gezogen. Domains, die verschwinden, bleiben als unbekannt in der Reihe stehen, statt herauszufallen.",
+  "rahmen": "Tranco Top 1M, abgerufen 2026-08-25. Darin 27.599 Domains mit Endung .de.",
+  "gruppen": {
+    "top300": {
+      "regel": "die 300 bestplatzierten .de-Domains",
+      "rangVon": 204,
+      "rangBis": 15893
+    },
+    "klein300": {
+      "regel": "von allen 26.525 .de-Domains mit Rang > 50.000 jede 88., davon die ersten 300",
+      "rangVon": 50030,
+      "rangBis": 994089
+    }
+  },
+  "domains": [
+    {
+      "domain": "ack.de",
+      "rang": 204,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "t-online.de",
+      "rang": 211,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "amazon.de",
+      "rang": 379,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "google.de",
+      "rang": 512,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bild.de",
+      "rang": 765,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ddnss.de",
+      "rang": 777,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mobile.de",
+      "rang": 782,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "welt.de",
+      "rang": 796,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "focus.de",
+      "rang": 834,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ebay.de",
+      "rang": 856,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kleinanzeigen.de",
+      "rang": 899,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "otto.de",
+      "rang": 959,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "spiegel.de",
+      "rang": 968,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "n-tv.de",
+      "rang": 1057,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bund.de",
+      "rang": 1088,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "wetteronline.de",
+      "rang": 1111,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "zalando.de",
+      "rang": 1247,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "markt.de",
+      "rang": 1487,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "joyclub.de",
+      "rang": 1502,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "your-server.de",
+      "rang": 1521,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ladies.de",
+      "rang": 1559,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "telefonica.de",
+      "rang": 1830,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rzone.de",
+      "rang": 1908,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kicker.de",
+      "rang": 2106,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "elster.de",
+      "rang": 2110,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "merkur.de",
+      "rang": 2284,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ioam.de",
+      "rang": 2308,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "web.de",
+      "rang": 2326,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "webgo.de",
+      "rang": 2416,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mpg.de",
+      "rang": 2426,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ionos.de",
+      "rang": 2466,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "zeit.de",
+      "rang": 2517,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ccc.de",
+      "rang": 2531,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kicktipp.de",
+      "rang": 2631,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "heise.de",
+      "rang": 2698,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "strato.de",
+      "rang": 2830,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sueddeutsche.de",
+      "rang": 2893,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "chip.de",
+      "rang": 2924,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "check24.de",
+      "rang": 2938,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "zdf.de",
+      "rang": 2976,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "idealo.de",
+      "rang": 3180,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tagesschau.de",
+      "rang": 3253,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "second-ns.de",
+      "rang": 3278,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "admatic.de",
+      "rang": 3309,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tfkc.de",
+      "rang": 3352,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "joyn.de",
+      "rang": 3369,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "telekom.de",
+      "rang": 3379,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dhl.de",
+      "rang": 3390,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tagesspiegel.de",
+      "rang": 3459,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bahn.de",
+      "rang": 3523,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fraunhofer.de",
+      "rang": 3552,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "e-recht24.de",
+      "rang": 3564,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "br.de",
+      "rang": 3601,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ndr.de",
+      "rang": 3663,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "immobilienscout24.de",
+      "rang": 3694,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "adscale.de",
+      "rang": 3764,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "your-storageshare.de",
+      "rang": 3769,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ardmediathek.de",
+      "rang": 3793,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "arbeitsagentur.de",
+      "rang": 3840,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gesetze-im-internet.de",
+      "rang": 3841,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "aol.de",
+      "rang": 3922,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "vodafone-ip.de",
+      "rang": 3961,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tum.de",
+      "rang": 3982,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rwth-aachen.de",
+      "rang": 4046,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "stern.de",
+      "rang": 4076,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bayern.de",
+      "rang": 4101,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "goethe.de",
+      "rang": 4119,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "nic.de",
+      "rang": 4296,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "udag.de",
+      "rang": 4351,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "swr.de",
+      "rang": 4425,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "nrw.de",
+      "rang": 4468,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mdr.de",
+      "rang": 4484,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "wdr.de",
+      "rang": 4487,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-heidelberg.de",
+      "rang": 4541,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "siemens.de",
+      "rang": 4657,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hosteurope.de",
+      "rang": 4690,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "blogspot.de",
+      "rang": 4728,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fu-berlin.de",
+      "rang": 4828,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dfn.de",
+      "rang": 4851,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "goneo.de",
+      "rang": 5009,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kaufland.de",
+      "rang": 5062,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "vodafone.de",
+      "rang": 5223,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "freenet.de",
+      "rang": 5307,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fr.de",
+      "rang": 5353,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mediamarkt.de",
+      "rang": 5423,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "berlin.de",
+      "rang": 5468,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-muenchen.de",
+      "rang": 5534,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "thalia.de",
+      "rang": 5538,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "chefkoch.de",
+      "rang": 5675,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "immowelt.de",
+      "rang": 5698,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-erlangen.de",
+      "rang": 5705,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "autoscout24.de",
+      "rang": 5737,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-hamburg.de",
+      "rang": 5834,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-bonn.de",
+      "rang": 5914,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "vinted.de",
+      "rang": 5971,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "obi.de",
+      "rang": 5993,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "t-ipconnect.de",
+      "rang": 6005,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rtl.de",
+      "rang": 6017,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "giga.de",
+      "rang": 6025,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "adac.de",
+      "rang": 6028,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "netcologne.de",
+      "rang": 6140,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "spdns.de",
+      "rang": 6162,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ui-dns.de",
+      "rang": 6249,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hu-berlin.de",
+      "rang": 6272,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "domainers.de",
+      "rang": 6311,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "1und1.de",
+      "rang": 6363,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bundestag.de",
+      "rang": 6387,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-koeln.de",
+      "rang": 6415,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-frankfurt.de",
+      "rang": 6435,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sport1.de",
+      "rang": 6438,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bfv.de",
+      "rang": 6474,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hessen.de",
+      "rang": 6494,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "eventim.de",
+      "rang": 6582,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "lidl.de",
+      "rang": 6610,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-stuttgart.de",
+      "rang": 6714,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "schwaebische.de",
+      "rang": 6819,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sportschau.de",
+      "rang": 6845,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "allianz.de",
+      "rang": 6861,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-tuebingen.de",
+      "rang": 6865,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tvspielfilm.de",
+      "rang": 6952,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sonnenbatterie.de",
+      "rang": 6954,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hna.de",
+      "rang": 6957,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dm.de",
+      "rang": 7077,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tchibo.de",
+      "rang": 7122,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "thomann.de",
+      "rang": 7128,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sport.de",
+      "rang": 7152,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "volkswagen.de",
+      "rang": 7157,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-kiel.de",
+      "rang": 7163,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "comdirect.de",
+      "rang": 7172,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rp-online.de",
+      "rang": 7184,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gala.de",
+      "rang": 7244,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "your-storagebox.de",
+      "rang": 7312,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "nordkurier.de",
+      "rang": 7330,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hornbach.de",
+      "rang": 7333,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "niedersachsen.de",
+      "rang": 7397,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bundesregierung.de",
+      "rang": 7598,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "filmstarts.de",
+      "rang": 7607,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "easybell.de",
+      "rang": 7668,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tu-dresden.de",
+      "rang": 7696,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "pornpics.de",
+      "rang": 7798,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "taz.de",
+      "rang": 7806,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "decathlon.de",
+      "rang": 7816,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "juris.de",
+      "rang": 7885,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tu-berlin.de",
+      "rang": 8115,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "auerproxy.de",
+      "rang": 8420,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bonprix.de",
+      "rang": 8456,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "destatis.de",
+      "rang": 8465,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ruhr24.de",
+      "rang": 8470,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "presseportal.de",
+      "rang": 8517,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "qvc.de",
+      "rang": 8532,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "c-srv.de",
+      "rang": 8744,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gwdg.de",
+      "rang": 8760,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fau.de",
+      "rang": 8826,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-freiburg.de",
+      "rang": 8829,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-goettingen.de",
+      "rang": 8942,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "antagus.de",
+      "rang": 8988,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gdatasecurity.de",
+      "rang": 9095,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gegen-hartz.de",
+      "rang": 9174,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "wbs-law.de",
+      "rang": 9351,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ihk.de",
+      "rang": 9516,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "pinterest.de",
+      "rang": 9602,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-hannover.de",
+      "rang": 9623,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dg-datenschutz.de",
+      "rang": 9706,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "assertcom.de",
+      "rang": 10046,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-bremen.de",
+      "rang": 10123,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-muenster.de",
+      "rang": 10195,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "deutschlandfunk.de",
+      "rang": 10283,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gamestar.de",
+      "rang": 10290,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "server-he.de",
+      "rang": 10335,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "aok.de",
+      "rang": 10370,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "morgenpost.de",
+      "rang": 10413,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-leipzig.de",
+      "rang": 10423,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "nameserverservice.de",
+      "rang": 10468,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "doctolib.de",
+      "rang": 10469,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "diplo.de",
+      "rang": 10500,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-regensburg.de",
+      "rang": 10572,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "lmu.de",
+      "rang": 10576,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "checkdomain.de",
+      "rang": 10612,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "auswaertiges-amt.de",
+      "rang": 10666,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rlp.de",
+      "rang": 10692,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "keymachine.de",
+      "rang": 10750,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "umweltbundesamt.de",
+      "rang": 10766,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hetzner.de",
+      "rang": 10790,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "timmehosting.de",
+      "rang": 10847,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tu-darmstadt.de",
+      "rang": 10873,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "augsburger-allgemeine.de",
+      "rang": 10890,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "arcor.de",
+      "rang": 10908,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "zdfheute.de",
+      "rang": 11013,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "united-domains.de",
+      "rang": 11017,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hamburg.de",
+      "rang": 11081,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "denic.de",
+      "rang": 11109,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tripadvisor.de",
+      "rang": 11121,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dtag.de",
+      "rang": 11140,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "datenschutz-generator.de",
+      "rang": 11280,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "posteo.de",
+      "rang": 11326,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "businessinsider.de",
+      "rang": 11341,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ruhr-uni-bochum.de",
+      "rang": 11401,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "adg.de",
+      "rang": 11425,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dwd.de",
+      "rang": 11618,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "abendblatt.de",
+      "rang": 11648,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hosting.de",
+      "rang": 11751,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rki.de",
+      "rang": 11816,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kreiszeitung.de",
+      "rang": 11832,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-ulm.de",
+      "rang": 11870,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mypurecloud.de",
+      "rang": 11922,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "berliner-zeitung.de",
+      "rang": 11971,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "wiwo.de",
+      "rang": 12036,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "deine-tierwelt.de",
+      "rang": 12051,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "holidaycheck.de",
+      "rang": 12113,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "freundin.de",
+      "rang": 12121,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "eurosport.de",
+      "rang": 12262,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-kl.de",
+      "rang": 12334,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "rewe.de",
+      "rang": 12347,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-mainz.de",
+      "rang": 12380,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "cornelsen.de",
+      "rang": 12387,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fussball.de",
+      "rang": 12431,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tmt.de",
+      "rang": 12530,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sachsen.de",
+      "rang": 12569,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kaufda.de",
+      "rang": 12619,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "dlr.de",
+      "rang": 12691,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "golem.de",
+      "rang": 12726,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "autobild.de",
+      "rang": 12750,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-bielefeld.de",
+      "rang": 12840,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-trier.de",
+      "rang": 12887,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "lieferando.de",
+      "rang": 12936,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "noris.de",
+      "rang": 12955,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-jena.de",
+      "rang": 13140,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "hessenschau.de",
+      "rang": 13160,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bpb.de",
+      "rang": 13181,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "xplosion.de",
+      "rang": 13190,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tu-chemnitz.de",
+      "rang": 13570,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "cloudpit.de",
+      "rang": 13587,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-wuerzburg.de",
+      "rang": 13593,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "vgwort.de",
+      "rang": 13761,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "stepstone.de",
+      "rang": 13868,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ecomdata.de",
+      "rang": 13941,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "personio.de",
+      "rang": 13956,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "artfiles.de",
+      "rang": 13999,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "i-mo.de",
+      "rang": 14066,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "de-nserver.de",
+      "rang": 14081,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "audible.de",
+      "rang": 14114,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "sonnen.de",
+      "rang": 14143,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "stuttgarter-zeitung.de",
+      "rang": 14177,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "agenturserver.de",
+      "rang": 14223,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mydealz.de",
+      "rang": 14259,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-bayreuth.de",
+      "rang": 14336,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "versatel.de",
+      "rang": 14378,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-paderborn.de",
+      "rang": 14418,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "aerzteblatt.de",
+      "rang": 14579,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "spektrum.de",
+      "rang": 14607,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "1blu.de",
+      "rang": 14614,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "daad.de",
+      "rang": 14676,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mopo.de",
+      "rang": 14681,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "datev.de",
+      "rang": 14739,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-saarland.de",
+      "rang": 14747,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "manomano.de",
+      "rang": 14753,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "waz.de",
+      "rang": 14766,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-halle.de",
+      "rang": 14802,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "auto-motor-und-sport.de",
+      "rang": 14829,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "mz.de",
+      "rang": 14869,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "noz.de",
+      "rang": 14876,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-mannheim.de",
+      "rang": 14900,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "wallstreet-online.de",
+      "rang": 14925,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kfw.de",
+      "rang": 14951,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tag24.de",
+      "rang": 14965,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "morenutrition.de",
+      "rang": 14994,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "kino.de",
+      "rang": 15025,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "muenchen.de",
+      "rang": 15063,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tu-dortmund.de",
+      "rang": 15068,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "fes.de",
+      "rang": 15072,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bundesfinanzministerium.de",
+      "rang": 15078,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ics-vpn.de",
+      "rang": 15143,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-giessen.de",
+      "rang": 15170,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "express.de",
+      "rang": 15181,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "familie.de",
+      "rang": 15205,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "belwue.de",
+      "rang": 15237,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "gmx.de",
+      "rang": 15288,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "reservix.de",
+      "rang": 15293,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "netzwelt.de",
+      "rang": 15316,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "jameda.de",
+      "rang": 15389,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "test.de",
+      "rang": 15438,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "lima-city.de",
+      "rang": 15475,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "openstreetmap.de",
+      "rang": 15493,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "shz.de",
+      "rang": 15503,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "vodafonemail.de",
+      "rang": 15532,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ebay-kleinanzeigen.de",
+      "rang": 15538,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "deutschlandfunkkultur.de",
+      "rang": 15573,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "uni-marburg.de",
+      "rang": 15580,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "toom.de",
+      "rang": 15601,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "computerbild.de",
+      "rang": 15617,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "tz.de",
+      "rang": 15681,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "inwx.de",
+      "rang": 15732,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "epoq.de",
+      "rang": 15781,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "bunte.de",
+      "rang": 15814,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "clever-tanken.de",
+      "rang": 15845,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "qrco.de",
+      "rang": 15862,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "t3n.de",
+      "rang": 15863,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "ksta.de",
+      "rang": 15865,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "baden-wuerttemberg.de",
+      "rang": 15875,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "aboutyou.de",
+      "rang": 15893,
+      "gruppe": "top300"
+    },
+    {
+      "domain": "unibw.de",
+      "rang": 50030,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "uni-erfurt.de",
+      "rang": 53203,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "stroeerdigitalgroup.de",
+      "rang": 56897,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "meinfoto.de",
+      "rang": 60202,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "koeln.de",
+      "rang": 63990,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "angelplatz.de",
+      "rang": 67197,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "nuerburgring.de",
+      "rang": 71339,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rtrsupport.de",
+      "rang": 75196,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ihk-muenchen.de",
+      "rang": 80704,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "prospektewoche.de",
+      "rang": 85599,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "tap-coin.de",
+      "rang": 94274,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "pixelio.de",
+      "rang": 98297,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "grillsportverein.de",
+      "rang": 101173,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "worldofplayers.de",
+      "rang": 104324,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "yoga-vidya.de",
+      "rang": 108153,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "disapo.de",
+      "rang": 112057,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gruenderszene.de",
+      "rang": 115687,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "auto24.de",
+      "rang": 119271,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "green-brain-krautrock.de",
+      "rang": 123130,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "mhn.de",
+      "rang": 127141,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "alfanetz.de",
+      "rang": 132096,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gambio.de",
+      "rang": 135961,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "cas.de",
+      "rang": 138836,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bea-brak.de",
+      "rang": 141967,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "werk21system.de",
+      "rang": 145201,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dioneradns.de",
+      "rang": 148164,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "islam.de",
+      "rang": 151046,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bistummainz.de",
+      "rang": 153959,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "allianzdirect.de",
+      "rang": 157189,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "villeroy-boch.de",
+      "rang": 161815,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "voip-hq.de",
+      "rang": 165010,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "oeffentlicher-dienst-news.de",
+      "rang": 168795,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ns-artif.de",
+      "rang": 172105,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "brillux.de",
+      "rang": 177530,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "tvdirekt.de",
+      "rang": 181257,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gzsdw.de",
+      "rang": 184817,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "nachbarsmatch.de",
+      "rang": 188075,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "netcomnetz.de",
+      "rang": 191953,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "in-ulm.de",
+      "rang": 195894,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lupp.de",
+      "rang": 199489,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ltsh.de",
+      "rang": 203465,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "motorradundreisen.de",
+      "rang": 206737,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "direktdomains.de",
+      "rang": 209977,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ostsee24.de",
+      "rang": 213368,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "infinite-electronic.de",
+      "rang": 222852,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "xalias.de",
+      "rang": 225365,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sg-zertifikate.de",
+      "rang": 228130,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lohn-info.de",
+      "rang": 231154,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sva.de",
+      "rang": 233905,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "shopback.de",
+      "rang": 237144,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lidl-kochen.de",
+      "rang": 240275,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rmsi-player.de",
+      "rang": 242735,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lanzell.de",
+      "rang": 245501,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "metaver.de",
+      "rang": 248160,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lavera.de",
+      "rang": 250524,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lekkerland.de",
+      "rang": 253091,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ernte.de",
+      "rang": 255208,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "passau.de",
+      "rang": 257359,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "xxlspeed.de",
+      "rang": 259437,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ghwk.de",
+      "rang": 261491,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "egms.de",
+      "rang": 263869,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "x3hosting.de",
+      "rang": 265673,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "linux-forks.de",
+      "rang": 267705,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "axaversicherung.de",
+      "rang": 269677,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rechneronline.de",
+      "rang": 272030,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "euv-frankfurt-o.de",
+      "rang": 274255,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "axa-startklar.de",
+      "rang": 277092,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "mesax.de",
+      "rang": 279576,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bassistance.de",
+      "rang": 282242,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fn-ns.de",
+      "rang": 284450,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "holstein-kiel.de",
+      "rang": 287180,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "schaeferhunde.de",
+      "rang": 290074,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dc-cluster.de",
+      "rang": 292141,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "blutsgeschwister.de",
+      "rang": 295407,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "notar.de",
+      "rang": 297510,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rentenbank.de",
+      "rang": 300040,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "loesungs-versicherer.de",
+      "rang": 302728,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "mrn-news.de",
+      "rang": 305225,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "androidpit.de",
+      "rang": 307720,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "vision-net.de",
+      "rang": 310031,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "iu-dualesstudium.de",
+      "rang": 312386,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "yogaeasy.de",
+      "rang": 315087,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "babista.de",
+      "rang": 317723,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "meteocontrol.de",
+      "rang": 320380,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "remszeitung.de",
+      "rang": 323056,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "tippland.de",
+      "rang": 330896,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "josenfeld.de",
+      "rang": 332982,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ansitel.de",
+      "rang": 335164,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "web4a.de",
+      "rang": 337690,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "spitta.de",
+      "rang": 339846,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "omt.de",
+      "rang": 342571,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "piano-fischer.de",
+      "rang": 344783,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "kdv-fh-bayern.de",
+      "rang": 347293,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "radiorur.de",
+      "rang": 349601,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "datingcafe.de",
+      "rang": 352000,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "shmf.de",
+      "rang": 354445,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "montessori-material.de",
+      "rang": 357180,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "likehifi.de",
+      "rang": 359415,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hts24.de",
+      "rang": 361658,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "peterpane.de",
+      "rang": 363908,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "respondi.de",
+      "rang": 367094,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bmwbank.de",
+      "rang": 368991,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "vdv.de",
+      "rang": 371260,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "meinprof.de",
+      "rang": 373746,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "famila-nordost.de",
+      "rang": 376182,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "neckermann.de",
+      "rang": 378589,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ktm-shop24.de",
+      "rang": 381121,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "wb-trauer.de",
+      "rang": 383117,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "it-times.de",
+      "rang": 385632,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "macbay.de",
+      "rang": 387916,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "friedwald.de",
+      "rang": 390211,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bubbleshooter.de",
+      "rang": 392373,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sioux.de",
+      "rang": 394919,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ddns-instar.de",
+      "rang": 401272,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "game2gether.de",
+      "rang": 403598,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "jarmedia.de",
+      "rang": 406164,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "elroq-forum.de",
+      "rang": 408716,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "maxlq.de",
+      "rang": 411503,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "tracemate-hz-nbg1.de",
+      "rang": 414783,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "stadt-brandenburg.de",
+      "rang": 417272,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ca7boys.de",
+      "rang": 420136,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "prsts.de",
+      "rang": 423088,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sparkasse-westmuensterland.de",
+      "rang": 425730,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ca61variouss.de",
+      "rang": 427974,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "schreinerei-leonhardt.de",
+      "rang": 430644,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "brokeundschoen.de",
+      "rang": 433243,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "web50markets.de",
+      "rang": 435524,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "luxusbetten24.de",
+      "rang": 438572,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "audimax.de",
+      "rang": 440826,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "markenbaumarkt24.de",
+      "rang": 442704,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "parkettkaiser.de",
+      "rang": 445037,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "imsueden.de",
+      "rang": 447287,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "poolpowershop-forum.de",
+      "rang": 449928,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "g7germany.de",
+      "rang": 452050,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "phototravellers.de",
+      "rang": 454861,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "1001hobbies.de",
+      "rang": 457204,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "naturavitalis.de",
+      "rang": 459462,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "akkuplus.de",
+      "rang": 461712,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zep-online.de",
+      "rang": 463898,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gravis.de",
+      "rang": 466542,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "reifen24.de",
+      "rang": 468728,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "pferdedecken-shop.de",
+      "rang": 471122,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zee61chancess.de",
+      "rang": 474029,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "artheroes.de",
+      "rang": 476251,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ansat.de",
+      "rang": 479064,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "kuechenstuebchen.de",
+      "rang": 481368,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "harzdrenalin.de",
+      "rang": 483855,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "esc.de",
+      "rang": 487511,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "codingmonkeys.de",
+      "rang": 490413,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zee61friends.de",
+      "rang": 492673,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dimoshop24.de",
+      "rang": 495223,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "linde-gas.de",
+      "rang": 497789,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "niels-stensen-kliniken.de",
+      "rang": 500220,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zee7others.de",
+      "rang": 502943,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ks-auxilia.de",
+      "rang": 505748,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "reitturniere.de",
+      "rang": 508555,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sport-kanze.de",
+      "rang": 511034,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "baramundi.de",
+      "rang": 513602,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "radiomuseum-bocket.de",
+      "rang": 516310,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "areamobile.de",
+      "rang": 518767,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ricon-manufaktur.de",
+      "rang": 521300,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "kadaza.de",
+      "rang": 523991,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "langeoognews.de",
+      "rang": 526539,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "medqn.de",
+      "rang": 529241,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "itp-solutions.de",
+      "rang": 531896,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zee61generations.de",
+      "rang": 534649,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hibitdns.de",
+      "rang": 537860,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rldml.de",
+      "rang": 541009,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "idealofsweden.de",
+      "rang": 544889,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "careofcarl.de",
+      "rang": 547235,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "karaoke-texte.de",
+      "rang": 549392,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "grillmodell.de",
+      "rang": 552022,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "naturfreude-erleben.de",
+      "rang": 554967,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "macrodns.de",
+      "rang": 557666,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "a1-net.de",
+      "rang": 560849,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bio-kinder.de",
+      "rang": 563436,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "loges.de",
+      "rang": 566758,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "marquardt-kuechen.de",
+      "rang": 569323,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "art-karlsruhe.de",
+      "rang": 572198,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fakuma-messe.de",
+      "rang": 574841,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "jr-it-services.de",
+      "rang": 577392,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rauchr.de",
+      "rang": 579749,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "boxspring-welt.de",
+      "rang": 582520,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sack.de",
+      "rang": 584892,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sparkasse-rhein-maas.de",
+      "rang": 588264,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "medgurus.de",
+      "rang": 590981,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fh-bingen.de",
+      "rang": 593881,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "handwerk-magazin.de",
+      "rang": 597133,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gag-koeln.de",
+      "rang": 599725,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "simraceshop.de",
+      "rang": 604648,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "chemnitz2025.de",
+      "rang": 607875,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gigao.de",
+      "rang": 610619,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ameisenforum.de",
+      "rang": 613069,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "tacklefever.de",
+      "rang": 615963,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fun-moebel.de",
+      "rang": 618730,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "parkundride.de",
+      "rang": 621774,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "atemwegsliga.de",
+      "rang": 624501,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "checkmybus.de",
+      "rang": 627141,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "goldankauf-ge.de",
+      "rang": 629989,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "izw-berlin.de",
+      "rang": 633203,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "soldns.de",
+      "rang": 637292,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bueromoebel-experte.de",
+      "rang": 640359,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lotgd.de",
+      "rang": 643015,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "cbc-ag.de",
+      "rang": 645390,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "yogamagie.de",
+      "rang": 648074,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zee61hangs.de",
+      "rang": 650713,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "smartthema.de",
+      "rang": 653549,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "walter-fenster.de",
+      "rang": 655827,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "sportparadise.de",
+      "rang": 658754,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "schuhtronic.de",
+      "rang": 661949,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "futego.de",
+      "rang": 664417,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bezirk-oberbayern.de",
+      "rang": 667991,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "reiseschmaus.de",
+      "rang": 670358,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "firmenfreund.de",
+      "rang": 673723,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "cannacare-apo.de",
+      "rang": 676105,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "injoy.de",
+      "rang": 678406,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ecoinform.de",
+      "rang": 681128,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "deutschfuchs.de",
+      "rang": 683769,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gxp-it.de",
+      "rang": 686654,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "leiterscout.de",
+      "rang": 689203,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fantasyguide.de",
+      "rang": 692694,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "cloudvibe.de",
+      "rang": 695843,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gelomyrtol-forte.de",
+      "rang": 698527,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "spritkostenrechner.de",
+      "rang": 702120,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zitate7.de",
+      "rang": 704772,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "unitrailer.de",
+      "rang": 708631,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "zef.de",
+      "rang": 712060,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ssk.de",
+      "rang": 715108,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "its-waiblingen.de",
+      "rang": 717595,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "affenberg-salem.de",
+      "rang": 720576,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ohl.de",
+      "rang": 723461,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "csactive.de",
+      "rang": 725834,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "direkt-kroatien.de",
+      "rang": 729010,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dasbestelexikon.de",
+      "rang": 731821,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "optimex-services.de",
+      "rang": 734716,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "pinakothek-der-moderne.de",
+      "rang": 737712,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ofenzauberei.de",
+      "rang": 740183,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "littlewonderland.de",
+      "rang": 743223,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "medienportal-grimma.de",
+      "rang": 748533,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "parkingpro.de",
+      "rang": 751373,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "beachvolleyball-bawue.de",
+      "rang": 766564,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gess-surveys.de",
+      "rang": 788751,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "omano.de",
+      "rang": 817741,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "vinylpladen.de",
+      "rang": 846525,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gzones.de",
+      "rang": 854983,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "babyladen-erlangen.de",
+      "rang": 858056,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "seidenland.de",
+      "rang": 860387,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "verticalextreme.de",
+      "rang": 862866,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "gesundheit-nordhessen.de",
+      "rang": 864998,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "speedheads.de",
+      "rang": 867356,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "formblitz.de",
+      "rang": 870126,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "vor9.de",
+      "rang": 872232,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "wirz.de",
+      "rang": 874878,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fiff.de",
+      "rang": 877241,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "teslamag.de",
+      "rang": 879629,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dss-net.de",
+      "rang": 881941,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "winowig-mobil.de",
+      "rang": 884520,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "distrochooser.de",
+      "rang": 886779,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hilft-mir.de",
+      "rang": 890360,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "vws-siegen.de",
+      "rang": 892928,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "firstcamp.de",
+      "rang": 895889,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "city-schawarma-neuwied.de",
+      "rang": 898969,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ca7underss.de",
+      "rang": 902020,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "diabetiker-bedarf.de",
+      "rang": 904567,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hoggmbh.de",
+      "rang": 907527,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "seekxl.de",
+      "rang": 910209,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hillebrand.de",
+      "rang": 912660,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "dj0abr.de",
+      "rang": 915483,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "drum-factory.de",
+      "rang": 918087,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ihvo.de",
+      "rang": 920450,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "fotopost24.de",
+      "rang": 922999,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "2ertalk.de",
+      "rang": 925507,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "pilzbrut.de",
+      "rang": 927905,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "pca.de",
+      "rang": 929958,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "network-science.de",
+      "rang": 932364,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "outdoortoys.de",
+      "rang": 934709,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rrp-niedersachsen.de",
+      "rang": 937395,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "leibniz-ipn.de",
+      "rang": 940118,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "lifetime-learning.de",
+      "rang": 942894,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "babyonlinedress.de",
+      "rang": 944994,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ca7fars.de",
+      "rang": 947811,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "rheingau.de",
+      "rang": 950326,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "nord-ostsee-automobile.de",
+      "rang": 952947,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "highflys.de",
+      "rang": 955113,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "petspremium.de",
+      "rang": 957675,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "clearindustries.de",
+      "rang": 959957,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "iwmedien.de",
+      "rang": 963096,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "axa-vertriebskarriere.de",
+      "rang": 965427,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "altavista.de",
+      "rang": 967823,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "stromsanbietercheck24.de",
+      "rang": 969977,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "hemdenbox.de",
+      "rang": 972262,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "norliva.de",
+      "rang": 974796,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "bits-cloud.de",
+      "rang": 977441,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "qtponline.de",
+      "rang": 979932,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "govolta.de",
+      "rang": 981952,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "kaldaha-vs.de",
+      "rang": 985096,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "norma-azubi.de",
+      "rang": 987352,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "ramselehof.de",
+      "rang": 989560,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "mystand-configurator.de",
+      "rang": 991574,
+      "gruppe": "klein300"
+    },
+    {
+      "domain": "kusera.de",
+      "rang": 994089,
+      "gruppe": "klein300"
+    }
+  ]
+}

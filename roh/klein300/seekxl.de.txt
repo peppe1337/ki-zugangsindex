@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /blog/wp-
+Disallow: /blog/feed/
+Disallow: /blog/*/feed/
+Disallow: /blog/*/trackback/
+Disallow: /blog/rss/
+Disallow: /directory/action/
+Disallow: /directory//action/
+Disallow: *.css

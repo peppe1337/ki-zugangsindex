@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Willkommen - Ihr IT Service, Cloud und Software Spezialist aus Bautzen | CS active 2002 - Global Solutions</title>
+		<meta name="description" content="Willkommen | CS active 2002 - Global Solutions">
+		<meta name="author" content="CS active 2002 - Global Solutions">
+		
+		<!-- Devices Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		
+		<!-- Put favicon.ico and apple-touch-icon(s).png in the images folder -->
+	    <link rel="shortcut icon" href="assets/images/cs_logo.png">
+		    	
+		<!--<link href='https://fonts.googleapis.com/css?family=Oswald:400,100,300,500,700%7CLato:400,300,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
+        
+        <link id="skin_css" rel="stylesheet" href="gui/css/gfonts.css">
+		
+		<!-- Plugins CSS files -->
+		<link rel="stylesheet" href="assets/css/assets.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="assets/css/shortcodes.css">
+
+		<!-- REVOLUTION SLIDER STYLES -->
+		<link rel="stylesheet" href="assets/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" type="text/css">
+		<link rel="stylesheet" href="assets/revolution/css/settings.css" type="text/css">
+		<link rel="stylesheet" href="assets/revolution/css/navigation.css" type="text/css">
+		
+		<link id="theme_css" rel="stylesheet" href="assets/css/light.css">
+		<link id="skin_css" rel="stylesheet" href="assets/css/skins/default.css">
+        <link id="skin_css" rel="stylesheet" href="gui/css/custom.css">
+        <!-- Piwik -->
+        <!--
+        <script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//wieviel.csactive.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//wieviel.csactive.de/piwik.php?idsite=2&rec=1" style="border:0;" alt="" /></p></noscript>  -->
+<!-- End Piwik Code -->
+
+		
+	</head>
+	<body class="itemid-110000">
+
+		<!-- site preloader start -->
+		<div class="page-loader"></div>
+		<!-- site preloader end -->
+		
+        <div class="pageWrapper">
+		
+            
+             <!-- ------------------------------------- -->
+             
+             <div class="top-bar main-bg no-border">
+        <div class="container">
+            
+            <ul class="top-info f-left col-md-7">
+                        <div class="moduletable">
+                        
+
+<div class="custom">
+    <ul>
+<li><i class="fa fa-envelope white"></i><b class="white">Email:</b> <a href="cn__kontakt.html">anfrage[at]csactive.de</a></li>
+<li><i class="fa fa-phone white"></i><b class="white">Phone:</b> +49 (0) 3591-680 8330</li>
+</ul></div>
+        </div>
+    
+                <li class="dropdown language-selector">
+                    
+                     
+                </li>
+            </ul>
+            
+            <div class="f-right social-list  ">
+                        <div class="moduletable">
+                        
+
+<div class="custom">
+    <span class="lbl-txt">Kontakt über:</span> <a target="_blank" href="https://www.linkedin.com/company/csactive/" data-toggle="tooltip" data-placement="bottom" data-original-title="linkedin"><i class="fa fa-linkedin ic-linkedin no-border" data-hover=""></i></a> <a target="_blank" href="https://www.xing.com/companies/csactive2002-globalsolutions" data-toggle="tooltip" data-placement="bottom" data-original-title="Xing"><i class="fa fa-xing ic-xing no-border" data-hover=""></i></a> <a href="skype:csactive?call" data-toggle="tooltip" data-placement="bottom" data-original-title="Skype"><i class="fa fa-skype ic-skype no-border" data-hover=""></i></a></div>
+        </div>
+    
+            </div>
+
+        </div>
+    </div>
+             
+             
+             
+             
+             <!-- ------------------------------------- -->
+            
+            <!-- Header start -->
+            <header class="top-head header-1 skew">
+                <div class="container">
+
+                    <!-- Logo start -->
+                    <div class="logo">
+                        <a href="index.html"><img alt="" src="assets/images/cs_logo.png" /></a>
+                    </div>
+                    <!-- Logo end -->
+                    
+                    <div class="responsive-nav">
+                        <!-- top navigation menu start -->
+                        <nav class="top-nav">
+                            <ul class="btmenu">
+                                <li class="item-110000  current selected"><a href="index.html"><span>Start</span></a></li>
+                                <li class="item-120000 "><a href="de_it_service-cloud-software-siem-security.html"><span>Dienstleistungen</span></a></li>
+                                <li class="item-130000 "><a href="de_ag_info.html"><span>Agentur</span></a></li>
+                                
+                                <li class="item-190000 "><a href="de__kontakt.html" ><span>Kontakt</span></a></li>
+                                <li class="item-199999 "><a href="cn__index.html"><span>中文&nbsp;</span></a></li>
+                                        
+                                    
+                            </ul>
+                        </nav>
+                        <!-- top navigation menu end -->
+                    </div>
+                </div>
+            </header>
+            <!-- Header start -->
+
+		 <!-- Content start -->
+            <div class="pageContent">
+                 <!--
+                 <div class="page-title">
+                    <div class="container">
+                        <h1>Kontakt</h1>
+                        <h3>Wir freuen uns auf den Kontakt mit Ihnen!</h3>
+                    </div>
+                </div>
+             -->
+                <div class="breadcrumbs">
+                    <div class="container">
+                        <span>Willkommen</span>
+                    </div>
+                </div>
+                <div class="fullscreen-box parallax" style="background: url('assets/images/sec-bg-03.jpg');background-size: cover;" data-stellar-background-ratio="0.4" data-overlay="rgba(255,255,255,.2)">
+                    <div class="t-center fullscreen-content">
+                        
+                        <h2 class="font-60 heavy uppercase fx" style="line-height: 1" data-animate="fadeInUp" data-animation-delay="500">Herzlich <span class="main-color">Willkommen</span><br></h2>
+
+                        <h3 class="light-font fx" style="line-height: 1" data-animate="fadeInUp" data-animation-delay="800">Wir, das Unternehmen<br><br><b>"CS active 2002 - Global Solutions"</b><br><br>aus dem schönen Bautzen,<br>freuen uns Ihnen helfen zu dürfen...</h3>
+                        
+                        <div class="button-group">
+                            <a class="btn btn-lg btn-default fx" href="de__kontakt.html" data-animate="fadeInLeft" data-animation-delay="1300"><i class="fa fa-street-view"></i>Kontakt</a>
+                            <a class="btn btn-lg main-bg fx" href="https://nacl.pcvisit.com/fast_update/v1/hosted/jumplink?func=download&productid=18&product=guestSetup" data-animate="fadeInRight" data-animation-delay="1300"><i class="fa fa-ambulance"></i>Support</a>
+                            <a class="btn btn-lg btn-default fx" href="de_00_download.html" data-animate="fadeInLeft" data-animation-delay="1300"><i class="fa fa-download"></i>Download</a>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="sm-padding pattern-line-1 main-bg">
+                    <div class="container">
+                        <div class="cta_btn">
+                            
+                            <div class="f-left"> 
+                                <h2 class="cta_heading uppercase white">CS ACTIVE 2002 - GLOBAL SOLUTIONS : IHR PARTNER FÜR DIE ZUKUNFT...</h2>
+                                <h4 class="cta_heading white">"CS active 2002 - Global Solutions" ist spezialisiert auf die Umsetzung von individuellen und ausgefallenen Kundenwünschen und individuellen Service im Bereich IT. Hierzu wird auf dem Markt verfügbare Soft- und Hardware genutzt, kombiniert und angepasst oder bei Bedarf selbst entwickelt. Der Schwerpunkt liegt in den Bereichen Backup, Synchronisation, (Langzeit)-Archivierung, BI- und ERP-Systeme.</h4>
+                            </div>    
+                            
+                            <a class="btn btn-xl btn-outlined btn-white f-right" href="de__kontakt.html">KONTAKTIEREN SIE UNS JETZT</a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="md-padding gry-bg">
+                                            
+                    <div class="container">
+                        
+                        <div class="heading main centered">
+                            <h3 class="uppercase lg-title">Unser <span class="main-color">Angebot</span></h3>
+                            <p>Mit uns bleiben Sie technologisch am Puls der Zeit</p>
+                        </div>
+
+                        <div class="row">
+                            <article class="col-md-4 feature-img fx" data-animate="fadeInUp">
+                                <!--
+                                <figure class="lg">
+                                    <img alt="" src="assets/images/Image4.jpg" />
+                                </figure>
+                                -->
+                                <div class="feature-details">
+                                    <h4 class="uppercase main-color">WIR BERATEN SIE</h4>
+                                    <h5>unabhängig und zielorientiert</h5>
+                                    <p>Oft ist es schwer, ein technisches oder organisatorisches Anliegen oder Problem zu präzisieren und für diese genaue Anforderungen auszuarbeiten. Hier stehen wir für Sie und alle Betroffenen mit unserem umfangreichen Know-how sowie mit Rat und Tat zur Seite.</p>
+                                </div>
+                            </article>
+                            <article class="col-md-4 feature-img fx" data-animate="fadeInUp" data-animation-delay="200">
+                                <!--
+                                <figure class="lg">
+                                    <img alt="" src="assets/images/features/2.jpg" />
+                                </figure>
+                                -->
+                                <div class="feature-details">
+                                    <h4 class="uppercase main-color">WIR SUCHEN FÜR SIE</h4>
+                                    <h5>die richtige Lösung</h5>
+                                    <p>Für jedes Problem gibt es vielfältige Lösungen. Die Angebote sind oft nicht überschaubar und nur schwer zu bewerten. Wir vermitteln zwischen Ihnen und den Anbietern und helfen Ihnen die richtige Auswahl zu treffen.</p>
+                                </div>
+                            </article>
+                            <article class="col-md-4 feature-img fx" data-animate="fadeInUp" data-animation-delay="400">
+                                <!--
+                                <figure class="lg">
+                                    <img alt="" src="assets/images/features/3.jpg" />
+                                </figure>
+                                -->
+                                <div class="feature-details">
+                                    <h4 class="uppercase main-color">WIR BEGLEITEN SIE</h4>
+                                    <h5>auf dem Weg in die Zukunft</h5>
+                                    <p>Ob die Einführung einer neuen ERP-Lösung, die Optimierung von Workflows oder die Vernetzung von Standorten, der Weg ist oft steinig. Mit unserem umfangreichen Know-how stehen wir Ihnen mit Rat und Tat zur Seite. </p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    
+                </div>
+                <!--
+                <div class="xl-padding video-section">
+                    <div class="container">
+                        <div class="row t-center">
+                            <h3 class="uppercase white font-50">How About The New Features ? <span class="main-color">Try It Now!</span></h3>
+                            <p class="tbl white wid-70 font-20 light-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo molestie vestibulum.</p>
+                            <div class="button-group m-t-3">
+                            <a class="btn btn-lg btn-default fx" href="#" data-animate="fadeInLeft" data-animation-delay="1300"><i class="fa fa-dashboard"></i>View Demos</a>
+                            <a class="btn btn-lg main-bg fx" href="#" data-animate="fadeInRight" data-animation-delay="1300"><i class="fa fa-crop"></i>Purchase Now</a>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="video-wrap">
+                        <video poster="assets/images/videos/diamonds-cover.jpg" preload="auto" loop="" autoplay="" muted="" style="top:-40%">
+                            <source src="assets/images/videos/diamonds.mp4" type="video/mp4">
+                        </video>
+                        
+                    </div>
+
+                </div>
+                -->
+                <!--
+                <div class="md-padding p-b-0">
+                                        
+                    <div class="container">
+                        <div class="heading main centered">
+                            <h3 class="uppercase lg-title">Our <span class="main-color">Portfolio</span></h3>
+                            <p>Our Main Goal is to Create New Design Trend For Your Next Website</p>
+                        </div>
+                    </div>
+
+                    <div class="no-padding">
+                            
+                        <div class="portfolio grid p-style2 p-5-cols no-margin full" id="grid">
+                            
+                            <div class="portfolio-item design">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/1.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/1.jpg" class="zoom main-bg" title="Quality Products for Companies"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Quality Products for Companies</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item develop">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/2.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/2.jpg" class="zoom main-bg" title="Nature vs. Man"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Nature vs. Man</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item computers">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/3.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/3.jpg" class="zoom main-bg" title="A Day with Sunshine & Bliss"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">A Day with Sunshine & Bliss</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item develop">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/4.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/4.jpg" class="zoom main-bg" title="A Workplace for Champions"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">A Workplace for Champions</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item design">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/5.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/5.jpg" class="zoom main-bg" title="Doing it the Chilled Way"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Doing it the Chilled Way</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item design">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/6.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/6.jpg" class="zoom main-bg" title="Quality Products for Companies"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Quality Products for Companies</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item develop">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/7.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/7.jpg" class="zoom main-bg" title="Nature vs. Man"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Nature vs. Man</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item computers">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/8.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/8.jpg" class="zoom main-bg" title="A Day with Sunshine & Bliss"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">A Day with Sunshine & Bliss</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item develop">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/9.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/9.jpg" class="zoom main-bg" title="A Workplace for Champions"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">A Workplace for Champions</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                            <div class="portfolio-item design">
+                                <figure>
+                                    <img alt="" src="assets/images/portfolio/grid/10.jpg">
+                                    <figcaption>
+                                        <div class="icon-links">
+                                            <p>
+                                                <a href="portfolio-single.html" class="link main-bg"><i class="fa fa-link"></i></a>
+                                                <a href="assets/images/portfolio/grid/10.jpg" class="zoom main-bg" title="Doing it the Chilled Way"><i class="fa fa-search-plus"></i></a>
+                                            </p>
+                                        </div>
+                                        <div class="port-captions">
+                                            <h4><a href="portfolio-single.html">Doing it the Chilled Way</a></h4>
+                                            <p class="description"><a href="#">Design</a>, <a href="#">Development</a></p>
+                                        </div>
+                                    </figcaption>            
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                -->
+                <!--
+                <div class="md-padding">
+                                        
+                    <div class="container">
+                        
+                        <div class="heading main centered">
+                            <h3 class="uppercase lg-title">Some Fun <span class="main-color">Staff</span></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo molestie vestibulum.</p>
+                        </div>
+
+                        <div class="row row-eq-height">
+                            <div class="col-md-4">
+                                <div class="ads main-bg t-center">
+                                    <img alt="" src="assets/images/logo-sm.png">
+                                    <p class="uppercase m-t-1 white light-font font-25">It is Time To Try</p>
+                                    <p class="uppercase font-60 heavy">BOOKRA</p>
+                                    <p class="uppercase light-font font-25">purchase & Have fun</p>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <h4 class="main-color sm-heading">Recent Posts</h4>
+                                <div class="recent-posts-widget">
+                                    <ul>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/1.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        We Offer Unlimited Design Elements To Get Started
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/2.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        A Clean Website Gives More Experience To The Visitors
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/3.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        How You Can Impact Your Customers With Great Design
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-5">
+                                <div id="acc_0b" class="accordion shadowed p-a-2 gry-bg">
+                                    
+                                    <div class="panel">
+                                        <h5 class="acc-head">
+                                            <a href="#cc0b" data-toggle="collapse" data-parent="#acc_0b" class=""><i class="fa fa-cloud-download"></i>Web design is now different</a>
+                                        </h5>
+                                        <div class="acc-body collapse in" id="cc0b">
+                                            <div class="acc-content">
+                                                Mauris in quam tristique, dignissim urna in, molestie felis. Fusce tristique, elit nec vehicula imperdiet, eros est egestas odio, at aliquet elit nulla sed.
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="panel">
+                                        <h5 class="acc-head">
+                                            <a href="#cc00b" data-toggle="collapse" data-parent="#acc_0b" class="collapsed"><i class="fa fa-shopping-bag"></i>SEO Ready template is now available</a>
+                                        </h5>
+                                        <div class="acc-body collapse" id="cc00b">
+                                            <div class="acc-content">
+                                                Mauris in quam tristique, dignissim urna in, molestie felis. Fusce tristique, elit nec vehicula imperdiet, eros est egestas odio, at aliquet elit nulla sed.
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="panel">
+                                        <h5 class="acc-head">
+                                            <a href="#cc000b" data-toggle="collapse" data-parent="#acc_0b" class="collapsed"><i class="fa fa-gears"></i>How to make Retina Ready designs</a>
+                                        </h5>
+                                        <div class="acc-body collapse" id="cc000b">
+                                            <div class="acc-content">
+                                                Mauris in quam tristique, dignissim urna in, molestie felis. Fusce tristique, elit nec vehicula imperdiet, eros est egestas odio, at aliquet elit nulla sed.
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="panel">
+                                        <h5 class="acc-head">
+                                            <a href="#cc000c" data-toggle="collapse" data-parent="#acc_0b" class="collapsed"><i class="fa fa-gears"></i>We Offer Tons of Features </a>
+                                        </h5>
+                                        <div class="acc-body collapse" id="cc000c">
+                                            <div class="acc-content">
+                                                Mauris in quam tristique, dignissim urna in, molestie felis. Fusce tristique, elit nec vehicula imperdiet, eros est egestas odio, at aliquet elit nulla sed.
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                     -->
+            </div>                
+            <!-- Content end -->
+    
+		<!-- Footer start -->
+            <footer id="footWrapper">
+                
+                <!-- footer top bar start -->
+                <div class="footer-top">
+                    <div class="container">
+                        <p class="lg-txt f-left">
+                            Sie haben ein Problem? <span class="main-color heavy">Wir finden für Sie</span> die passende Lösung.
+                        </p>
+                        <a class="f-right btn uppercase main-gradient skew-btn" href="kontakt.html"><span>KONTAKTIEREN SIE UNS JETZT!</span></a>
+                    </div>
+                </div>
+                <!-- footer top bar start -->
+
+                <!-- footer widgets start -->
+                <div class="footer-middle">
+                    <div class="container">
+                        <div class="row">
+                            
+                            <div class="col-md-3 first">
+                                <h3>ÜBER UNS</h3>
+                                <p class="foot-about-par">
+                                    Ein kleines aber schlagkräftiges Team mit Focus auf guten Rundum-Service im Bereich IT, Software und Unternehmensworkflow...
+                                </p>
+                                <div class="social-list half-icons">
+                                    <a href="https://www.xing.com/companies/csactive2002-globalsolutions"><i class="fa fa-xing ic-xing ic-colored sm-icon"></i><span>XING</span></a>
+                                    <a href="skype:csactive?call"><i class="fa fa-skype ic-skype ic-colored sm-icon sm-icon"></i><span>SKYPE</span></a>
+                                    <!--<a href="#"><i class="fa fa-linkedin ic-linkedin ic-colored sm-icon"></i><span>follow us</span></a>
+                                    <a href="#"><i class="fa fa-google-plus ic-gplus ic-colored sm-icon"></i><span>plus 1 us</span></a>
+                                    <a href="#"><i class="fa fa-twitter ic-twitter ic-colored sm-icon"></i><span>follow us</span></a>
+                                    <a href="#"><i class="fa fa-youtube ic-youtube ic-colored sm-icon"></i><span>follow us</span></a>-->
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-3">
+                                <h3>Ausbildung</h3>
+                                <p class="foot-about-par">
+                                    <a href="https://www.ba-bautzen.de/studienangebote/wirtschaftsinformatik/" target="_blank"><img src="./gui/image/partner/ba2.png" /></a>
+                                </p>
+                                <!--
+                                <div class="recent-posts-footer">
+                                    <ul>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/1.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        We Offer Unlimited Design Elements To Get Started
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/2.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        A Clean Website Gives More Experience To The Visitors
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="post-img">
+                                                <img src="assets/images/blog/small/3.jpg" alt="">
+                                            </div>
+                                            <div class="widget-post-info">
+                                                <h4>
+                                                    <a href="blog-single.html">
+                                                        How You Can Impact Your Customers With Great Design
+                                                    </a>
+                                                </h4>
+                                                <div class="meta">
+                                                    <span><i class="fa fa-clock-o"></i>Dec 28, 2013,</span>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>-->
+                            </div>
+                            
+                            <div class="col-md-3 widget_it_widget_tweets">
+                                <h3>...</h3>
+                                <!--
+                                <div class="tweet">
+                                    <a class="twitter-timeline" href="https://twitter.com/IT__RAYS"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                </div>-->
+                            </div>
+                            
+                            <div class="col-md-3 last contact-widget">
+                                <h3>Kontakt</h3>
+                                <p class="foot-about-par">
+                                    CS active 2002 - Global Solutions 
+                                </p>
+                                <ul class="details">
+                                    <li><i class="fa fa-map-marker"></i><span>Paulistr. 34, DE-02625 Bautzen.</span></li>
+                                    <li><i class="fa fa-envelope"></i><span>anfrage[at]csactive.de</span></li>
+                                    <li><i class="fa fa-phone"></i><span>+49 (0) 3591 680 8330</span></li>
+                                </ul>
+                                <!--
+                                <div class="foot-newletters">
+                                    <form action="link-to-your-site" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate class="boo-nl">
+                                        
+                                        <label>Subscribe to our NewsLetters:</label>
+                                        
+                                        <input class="form-control" type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Enter your email here" required />
+                                        
+                                        <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn main-bg" value="Send" />
+                                        
+                                        <div class="hidden"><input type="text" name="name-of-the-hidden-field" value=""></div>
+                                        
+                                            <div class="nl-note"><span></span></div>
+                                            
+                                    </form>
+                                </div>
+                                -->
+                            </div>                                                                                                                            
+                        </div>
+                        
+                    </div>    
+                </div>
+                <!-- footer widgets start -->
+
+                <!-- footer bottom bar start -->
+                <div class="footer-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <!-- footer copyrights left cell -->
+                            <div class="copyrights col-md-5">© Copyrights <b class="main-color">CS active 2002 - Global Solutions</b> 2002-2026. All rights reserved.</div>
+                                                        
+                            <!-- footer bottom menu start -->
+                            <div class="col-md-7 last">
+                                <ul class="footer-menu f-right">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="de__kontakt.html">Kontakt</a></li>
+                                    <li><a href="de__impressum.html">Impressum</a></li>
+                                    <li><a href="de__datenschutz.html">Datenschutz</a></li>
+                                    
+                                </ul>
+                            </div>
+                            <!-- footer bottom menu end -->
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- footer bottom bar end -->
+
+            </footer>
+            <!-- Footer end -->   
+           
+	   
+
+		</div>
+
+		<!-- Back to top Link -->
+	    <a id="to-top" href="#"><span class="fa fa fa-angle-up"></span></a>
+
+		<!-- Load JS plugins -->
+ 		<script type="text/javascript" src="assets/js/jquery-1.12.0.min.js"></script>
+ 		<script type="text/javascript" src="assets/js/assets.js"></script>
+
+ 		<!-- SLIDER REVOLUTION  -->
+		<script type="text/javascript" src="assets/revolution/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+		<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+			(Load Extensions only on Local File Systems !  +
+			The following part can be removed on Server for On Demand Loading) -->
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
+		<!-- END SLIDER REVOLUTION 5.0 EXTENSIONS -->
+		<script type="text/javascript">
+			var tpj=jQuery;
+			var revapi4;
+			tpj(window).load(function() {
+				if(tpj("#rev_slider_4_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_4_1");
+				}else{
+					revapi4 = tpj("#rev_slider_4_1").show().revolution({
+						sliderType:"standard",
+						jsFileLocation:"assets/revolution/js/",
+						sliderLayout:"fullscreen",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+                            keyboardNavigation: "on",
+                            keyboard_direction: "horizontal",
+                            mouseScrollNavigation: "off",
+                            onHoverStop: "off",
+                            touch: {
+                                touchenabled: "on",
+                                swipe_threshold: 75,
+                                swipe_min_touches: 1,
+                                swipe_direction: "horizontal",
+                                drag_block_vertical: false
+                            },
+                            arrows: {
+                                style: "gyges",
+                                enable: true,
+                                hide_onmobile: false,
+                                hide_onleave: false,
+                                tmp: '',
+                                left: {
+                                    h_align: "left",
+                                    v_align: "center",
+                                    h_offset: 10,
+                                    v_offset: 0
+                                },
+                                right: {
+                                    h_align: "right",
+                                    v_align: "center",
+                                    h_offset: 10,
+                                    v_offset: 0
+                                }
+                            },
+                            bullets: {
+                                enable: false,
+                                hide_onmobile: false,
+                                style: "gyges",
+                                hide_onleave: false,
+                                direction: "horizontal",
+                                h_align: "center",
+                                v_align: "top",
+                                h_offset: 0,
+                                v_offset: 20,
+                                space: 5,
+                                tmp: ''
+                            }
+                        },
+                        parallax: {
+							type:"mouse",
+							origo:"slidercenter",
+							speed:2000,
+							levels:[2,3,4,5,6,7,12,16,10,50],
+						},
+						responsiveLevels:[1240,1024,778,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[868,768,960,720],
+						lazyType:"none",
+						shadow:0,
+						spinner:"off",
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:1,
+						shuffle:"off",
+						autoHeight:"off",
+						fullScreenAlignForce:"off",
+						fullScreenOffsetContainer: "",
+						fullScreenOffset: "",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+
+ 		<!-- general script file -->
+		<script type="text/javascript" src="assets/js/script.js"></script>
+        <!-- Cookie Banner Script Start -->
+        <!--
+        <style>
+#mbmcookie {position: fixed; bottom: 0; left: 0; right: 0; background: #000000; padding: 20px; font-size: 14px; font-family: verdana;z-index:9999;}
+#mbmcookie a.button {cursor: pointer; background: #ccc; padding: 8px 20px; margin-left: 10px; border-radius: 5px; font-weight: bold; float: right;}
+#mbmcookie a.button:hover {background-color: #000000;}
+#mbmcookie p.cookiemessage {display: block; padding: 0; margin: 0;}
+</style>
+<div id="mbmcookie">
+<a onClick="var d = new Date(); d = new Date(d.getTime() +1000*60*60*24*730); document.cookie = 'mbmcookie=1; expires='+ d.toGMTString() + ';'; document.getElementById('mbmcookie').style.display = 'none';" class="button">Akzeptieren</a>
+<p class="cookiemessage">Diese Website verwendet Cookies. Durch die Nutzung dieser Webseite erkl&auml;ren Sie sich damit einverstanden, dass Cookies gesetzt werden.
+<a href="de__datenschutz.html">Mehr erfahren</a></p>
+</div>
+<script>
+a = document.cookie;while(a != ''){while(a.substr(0,1) == ' '){a = a.substr(1,a.length);}cn = a.substring(0,a.indexOf('='));if(a.indexOf(';') != -1){cw = a.substring(a.indexOf('=')+1,a.indexOf(';'));}else{cw = a.substr(a.indexOf('=')+1,a.length);}if(cn == 'mbmcookie'){r = cw;}i = a.indexOf(';')+1;if(i == 0){i = a.length}a = a.substring(i,a.length);}if(r == '1') document.getElementById('mbmcookie').style.display = 'none';
+</script>   -->
+<!-- Cookie Banner Script End -->
+	</body>
+</html>

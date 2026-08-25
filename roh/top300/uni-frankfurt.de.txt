@@ -1,0 +1,121 @@
+# robots.txt von https://www.uni-frankfurt.de
+
+# ID Bereiche
+User-agent: *
+Allow: /93095219
+Allow: /51245042
+Allow: /*?page=
+Allow: /44662724
+Allow: /99556206
+Allow: /83792979
+Allow: /75715457
+Allow: /54233767
+Allow: /49115505
+Allow: /44292068
+Allow: /41568540
+Allow: /40805881
+Allow: /39890622
+Allow: /137432769
+Allow: /112731403
+Allow: /38298572
+Allow: /37318133
+Allow: /102672447
+Allow: /91919538
+Allow: /38298489
+Allow: /36993027
+Allow: /38072376
+Allow: /38090278
+Allow: /116578693
+Allow: /88547476
+Allow: /91919288
+Allow: /139383707
+Allow: /47549099
+Allow: /40814056
+Allow: /95150136
+Allow: /104111268
+Allow: /150872195
+Allow: /151259015
+Allow: /115901975
+Allow: /39964695
+Allow: /40155531
+Allow: /54570072
+Allow: /94748989
+Allow: /94606296
+Allow: /94436108
+Allow: /76467309
+Allow: /49561986
+Allow: /44432397
+Allow: /43668002
+Allow: /43662564
+Allow: /43662351
+Allow: /43662305
+Allow: /118963334
+Allow: /60506908
+Allow: /38941304
+Allow: /91215886
+Allow: /174190143
+Allow: /175838496
+Allow: /175835911
+Allow: /175976428
+Allow: /175979532
+
+
+# Gesperrte technische Bereiche & Parameter
+User-agent: *
+Disallow: /magnoliaAuthor/   
+Disallow: /magnoliaPublic/   
+Disallow: /admin/            
+Disallow: /tools/            
+Disallow: /login             
+Disallow: /logout
+Disallow: /rest/
+Disallow: /ws/
+Disallow: /docroot/
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /todo.html
+Disallow: /international/doku/
+Disallow: /org/ltg/admin/rewe/ba/Doku2/
+Disallow: /fb/fb11/ifg/
+Disallow: /fb/fb11/geoscience/
+             
+Disallow: /*&*   
+Disallow: /*?filter=             
+Disallow: /_next/
+Disallow: /_next/image
+Disallow: /1
+Disallow: /2
+Disallow: /3
+Disallow: /4
+Disallow: /5
+Disallow: /6
+Disallow: /7
+Disallow: /8
+Disallow: /9
+Disallow: /0
+
+# --- Crawler sperren ---
+User-agent: MegaIndex.ru
+User-agent: Barkrowler
+User-agent: aranhabot
+User-agent: SEOkicks
+User-agent: DotBot
+User-agent: BLEXBot
+User-agent: MJ12bot
+User-agent: DataForSeoBot
+User-agent: FemtosearchBot
+User-agent: serpstatbot
+User-agent: WebPageTest.org
+User-agent: crawler_faq
+User-agent: GeedoBot
+User-agent: crawler_eb_germany
+User-agent: MetaJobBot
+User-agent: CCBot
+User-agent: VelenPublicWebCrawler
+User-agent: hgfAlphaXCrawl
+User-agent: FullStoryBot
+User-agent: NE Crawler
+Disallow: /
+   
+# --- Sitemap angeben ---
+Sitemap: https://www.uni-frankfurt.de/sitemap-index.xml

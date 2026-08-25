@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /typo3conf/system
+Disallow: /*naw_securedl*
+Disallow: /*type=1513087837*
+Disallow: /*tx_securedownloads*
+Disallow: /*tx_t3luhunisearch_search*
+Disallow: /*footercontent*
+Disallow: /*content-for-each-page*
+Sitemap: https://www.uni-hannover.de/sitemap.xml
+Sitemap: https://www.uni-hannover.de/en/sitemap.xml

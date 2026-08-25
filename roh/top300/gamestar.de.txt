@@ -1,0 +1,81 @@
+# Jegliche Nutzung unserer geschuetzten Inhalte, die ueber eine rein individuelle Nutzung hinausgeht (einschliesslich insbesondere das Training grosser Sprachmodelle (LLM), das Training von KI-Tools, Web-Monitoring oder Medienbeobachtung), ist an den Abschluss einer Lizenzvereinbarung mit der Webedia GmbH gebunden. Zu diesem Zweck laden wir Sie ein, sich an compliance@webedia-group.de zu wenden.
+# Jede unautorisierte Nutzung unserer geschuetzten Inhalte stellt eine Verletzung von Urheberrechten und/oder Datenbankherstellerrechten dar und kann rechtlich verfolgt werden.
+# Es ist untersagt, unsere Website mit einem gestohlenen User Agent zu crawlen, der nicht Ihrer tatsaechlichen Identitaet entspricht.
+# Die Nutzung von Webindexierungs-Robotern oder anderen automatischen Methoden zum Durchsuchen oder Navigieren dieser Website ist nicht gestattet.
+
+User-agent: AI2Bot
+User-agent: ChatGLM
+User-agent: ChatGLM-Spider
+User-agent: cohere-training-data-crawler
+User-agent: Diffbot
+User-agent: OmigiliBot
+User-agent: PetalBot
+User-agent: YouBot
+Disallow: /
+
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: GPTBot
+User-agent: Meta-ExternalAgent
+User-agent: OAI-SearchBot
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+Allow: /
+Disallow: /xenforo/
+Disallow: /gs_cb/index.cfm?event=comment
+
+User-agent: larbin
+User-agent: strucr
+User-agent: psbot
+User-agent: Python-urllib
+User-agent: lwp-trivial/1.34
+User-agent: lwp-trivial
+User-agent: lwp-request
+User-agent: MagpieRSS
+User-agent: Custo
+User-agent: ichiro
+User-agent: Sensis Web Crawler
+User-agent: IRLbot
+User-agent: Exabot
+User-agent: CFNetwork
+User-agent: TencentTraveler
+User-agent: Yandex
+User-agent: AhrefsBot
+Disallow: /
+
+# allgemeine Regeln // andere User-Agents
+
+User-agent: *
+Disallow: /admin/
+Disallow: /sfmxutils/
+Disallow: /lucee/
+Disallow: /cgi-bin/
+Disallow: /preisvergleich/suche/?search*
+Disallow: /community/*
+Allow: /community/leser-rezensionen/*
+Disallow: /*_comments.html
+Disallow: /_misc/polls/
+Disallow: /index.cfm*webcode=*
+Disallow: /_misc/videos/portal/teaserScreen.cfm*
+Disallow: /lookuplink/
+Disallow: /gs_cb/index.cfm*
+Allow: /gs_cb/index.cfm?event=comment*
+Allow: /gs_cb/index.cfm?event=article*
+Disallow: /gp_cb/index.cfm*
+
+Disallow: /xenforo/search/*
+Disallow: /xenforo/members/*
+Disallow: /xenforo/find-new/*
+Disallow: /xenforo/posts/*/report
+
+Sitemap: https://www.gamestar.de/artikel_archiv_index.xml
+Sitemap: https://www.gamestar.de/sitemapnews.xml
+Sitemap: https://www.gamestar.de/sitemappages.xml
+Sitemap: https://www.gamestar.de/sitemapproducts_index.xml
+Sitemap: https://www.gamestar.de/sitemaphardware.xml
+Sitemap: https://www.gamestar.de/video_archiv_index.xml

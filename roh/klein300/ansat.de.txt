@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de-de" dir="ltr">
+<head>
+    <meta charset="utf-8">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>404 - Seite nicht gefunden</title>
+	<link href="/templates/ansat/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+
+    <link href="/media/vendor/fontawesome-free/css/fontawesome.css?6.7.2" rel="stylesheet" data-asset-name="fontawesome">
+	<link href="/media/system/css/system-site-error.css" rel="stylesheet" data-asset-name="template.system.error">
+	<link href="/media/plg_system_debug/css/debug.css" rel="stylesheet" data-asset-name="plg.system.debug" data-asset-dependencies="fontawesome">
+
+    <script src="/media/vendor/jquery/js/jquery.js?3.7.1" data-asset-name="jquery"></script>
+	<script type="application/json" class="joomla-script-options new">{
+    "system.paths": {
+        "root": "",
+        "rootFull": "https:\/\/ansat.de\/",
+        "base": "",
+        "baseFull": "https:\/\/ansat.de\/"
+    }
+}</script>
+	<script src="/media/system/js/core.js?a3d8f8" data-asset-name="core"></script>
+	<script src="/media/plg_system_debug/js/debug.js" defer data-asset-name="plg.system.debug" data-asset-dependencies="jquery"></script>
+	<script>(function () {
+	try {
+		var SPPB_TIME_ZONE = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+		if (!SPPB_TIME_ZONE){
+			return;
+		}
+
+		document.cookie =
+			'sppb_user_timezone=' + encodeURIComponent(SPPB_TIME_ZONE) +
+			'; path=/' +
+			'; max-age=43200'; // 12 hours
+	} catch (e) {}
+})();</script>
+	<script>
+			const initColorMode = () => {
+				const colorVariableData = [];
+				const sppbColorVariablePrefix = "--sppb";
+				let activeColorMode = localStorage.getItem("sppbActiveColorMode") || "";
+				activeColorMode = "";
+				const modes = [];
+
+				if(!modes?.includes(activeColorMode)) {
+					activeColorMode = "";
+					localStorage.setItem("sppbActiveColorMode", activeColorMode);
+				}
+
+				document?.body?.setAttribute("data-sppb-color-mode", activeColorMode);
+
+				if (!localStorage.getItem("sppbActiveColorMode")) {
+					localStorage.setItem("sppbActiveColorMode", activeColorMode);
+				}
+
+				if (window.sppbColorVariables) {
+					const colorVariables = typeof(window.sppbColorVariables) === "string" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;
+
+					for (const colorVariable of colorVariables) {
+						const { path, value } = colorVariable;
+						const variable = String(path[0]).trim().toLowerCase().replaceAll(" ", "-");
+						const mode = path[1];
+						const variableName = `${sppbColorVariablePrefix}-${variable}`;
+
+						if (activeColorMode === mode) {
+							colorVariableData.push(`${variableName}: ${value}`);
+						}
+					}
+
+					document.documentElement.style.cssText += colorVariableData.join(";");
+				}
+			};
+
+			window.sppbColorVariables = [];
+			
+			initColorMode();
+
+			document.addEventListener("DOMContentLoaded", initColorMode);
+		</script>
+
+</head>
+<body>
+    <div class="error">
+        <div id="outline">
+        <div id="errorboxoutline">
+                        <div id="errorboxheader">404 - Seite nicht gefunden</div>
+            <div id="errorboxbody">
+            <p><strong>Die Seite kann nicht angezeigt werden, weil:</strong></p>
+            <ul>
+                <li>ein <strong>veraltetes Lesezeichen</strong> aufgerufen wurde.</li>
+                <li>über eine Suchmaschine ein <strong>veralteter Index dieser Website</strong> aufgerufen wurde.</li>
+                <li>eine <strong>falsche Adresse</strong> aufgerufen wurde.</li>
+                <li><strong>keine Zugriffsrechte</strong> für diese Seite vorhanden sind.</li>
+                <li>Die angefragte Quelle wurde nicht gefunden.</li>
+                <li>Während der Anfrage ist ein Fehler aufgetreten.</li>
+            </ul>
+            <p><strong>Bitte eine der folgenden Seiten ausprobieren:</strong></p>
+            <ul>
+                <li><a href="/index.php">Startseite</a></li>
+            </ul>
+            <p>Bei Problemen ist der Administrator dieser Website zuständig.</p>
+                        <div id="techinfo">
+            <p>
+                Seite nicht gefunden                                    <br>/var/www/vhosts/ansat.de/httpdocs/libraries/src/Router/Router.php:166                            </p>
+                            <div>
+                    <h2 id="caption">Call Stack</h2>
+<table class="table table-striped table-bordered" aria-describedby="caption">
+    <thead>
+        <tr>
+            <th scope="col">
+                <strong>#</strong>
+            </th>
+            <th scope="col">
+                <strong>Function</strong>
+            </th>
+            <th scope="col">
+                <strong>Location</strong>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <td>
+                    1                </td>
+
+                                <td>
+                    ()                </td>
+                
+                                <td>
+                    JROOT/libraries/src/Router/Router.php:166                </td>
+                            </tr>
+                    <tr>
+                <td>
+                    2                </td>
+
+                                <td>
+                    Joomla\CMS\Router\Router->parse()                </td>
+                
+                                <td>
+                    JROOT/libraries/src/Application/SiteApplication.php:767                </td>
+                            </tr>
+                    <tr>
+                <td>
+                    3                </td>
+
+                                <td>
+                    Joomla\CMS\Application\SiteApplication->route()                </td>
+                
+                                <td>
+                    JROOT/libraries/src/Application/SiteApplication.php:243                </td>
+                            </tr>
+                    <tr>
+                <td>
+                    4                </td>
+
+                                <td>
+                    Joomla\CMS\Application\SiteApplication->doExecute()                </td>
+                
+                                <td>
+                    JROOT/libraries/src/Application/CMSApplication.php:304                </td>
+                            </tr>
+                    <tr>
+                <td>
+                    5                </td>
+
+                                <td>
+                    Joomla\CMS\Application\CMSApplication->execute()                </td>
+                
+                                <td>
+                    JROOT/includes/app.php:58                </td>
+                            </tr>
+                    <tr>
+                <td>
+                    6                </td>
+
+                                <td>
+                    require_once()                </td>
+                
+                                <td>
+                    JROOT/index.php:51                </td>
+                            </tr>
+            </tbody>
+</table>
+                                                        </div>
+                        </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    
+</body>
+</html>

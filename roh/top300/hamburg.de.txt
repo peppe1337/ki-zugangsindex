@@ -1,0 +1,142 @@
+User-agent: *
+Disallow: /branchenbuch/*/*/ln0/
+Disallow: /branchenbuch/*/*/*/ln0/
+Disallow: /iason/hamburg/
+Disallow: /iason/search
+Disallow: /iason/search
+Disallow: /iason/widget
+Disallow: /iason/listing/
+Disallow: /befi/$
+Disallow: /befi/?$
+Disallow: /befi/hamburg/
+Disallow: /befi/widget
+Disallow: /premiumpartner/
+Disallow: /625042!search
+Disallow: /search
+Disallow: /newsletter
+
+User-agent: hyscore
+Disallow:/
+
+User-agent: Teleport
+Disallow:/
+
+User-agent: Webwhacker
+Disallow:/
+
+User-agent: Webzip
+Disallow:/
+
+User-agent: Net Attache
+Disallow:/
+
+User-agent: SiteSnagger
+Disallow:/
+
+User-agent: HTTrack
+Disallow:/
+
+User-agent: WebCapture
+Disallow:/
+
+User-agent: WebSauger
+Disallow:/
+
+User-agent: proximic
+Disallow:/
+
+User-agent: PetalBot
+Disallow:/
+
+User-agent: 008
+Disallow:/
+
+User-agent: sogou spider
+Disallow:/
+
+User-agent: Baiduspider
+Disallow:/
+
+User-agent: AhrefsBot
+Disallow:/
+
+User-agent: SemrushBot-SA
+Disallow:/
+
+User-agent: Flamingo_SearchEngine
+Disallow:/
+
+User-agent: msnbot-media/1.1
+Disallow:/
+
+User-agent: msnbot-media/2.0b
+Disallow:/
+
+User-agent: scrapy
+Disallow:/
+
+User-agent: Diffbot
+Disallow:/
+
+User-agent: RyteBot
+Disallow:/
+
+User-agent: backlink-check.de
+Disallow:/
+
+User-agent: BacklinkCrawler
+Disallow:/
+
+User-agent: ExtractorPro
+Disallow:/
+
+User-agent: Fasterfox
+Disallow:/
+
+User-agent: LinkextractorPro
+Disallow:/
+
+User-agent: LinkWalker
+Disallow:/
+
+User-agent: MJ12bot
+Disallow:/
+
+User-agent: Openbot
+Disallow:/
+
+User-agent: rogerbot
+Disallow:/
+
+User-agent: searchpreview
+Disallow:/
+
+User-agent: SemrushBot
+Disallow:/
+
+User-agent: SEODAT
+Disallow:/
+
+User-agent: SEOENGBot
+Disallow:/
+
+User-agent: SEOkicks-Robot
+Disallow:/
+
+User-agent: True_Robot
+Disallow:/
+
+User-agent: URL Control
+Disallow:/
+
+User-agent: URL_Spider_Pro
+Disallow:/
+
+User-agent: xovi
+Disallow:/
+
+User-agent: um-IC
+Disallow:/
+
+Sitemap: https://www.hamburg.de/service-sitemap-hamburg.de-sitemap_index.xml
+Sitemap: https://www.hamburg.com/service-sitemap-hamburg.com-sitemap_index.xml

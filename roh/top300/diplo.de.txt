@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /includes/
+Disallow: /WEB-INF/
+Disallow: /blueprint/WEB-INF/
+Disallow: /static/appdata/
+
+Sitemap: https://www.auswaertiges-amt.de/service-sitemap-de-sitemap_index.xml
+Sitemap: https://www.auswaertiges-amt.de/service-sitemap-en-sitemap_index.xml

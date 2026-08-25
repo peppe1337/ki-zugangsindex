@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: /checkout*
+Disallow: /*?*porder=*
+Disallow: /*?*perpage=*
+Disallow: /*?*changeCurrency=*
+Disallow: /*?*changeBranch=*

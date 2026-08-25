@@ -1,0 +1,77 @@
+# robots.txt for www.uni-stuttgart.de
+#
+# Mon Jan 27 15:50:28 MEZ 1997 by Heron
+#
+User-agent: *
+Disallow: /verf/downloads/Vertiefung_BiomedVerfahrenstechnik_2016_Doser.pdf
+Disallow: /linguistik/sfb732/*
+Disallow: /.content/*
+Disallow: /.uni/*
+Disallow: /click
+Disallow: /suggest
+Disallow: /cluster
+Disallow: /common.js
+Disallow: /xmlhttp.js
+Disallow: /uri.js
+Disallow: /cluster.js
+Disallow: /ss.js
+Disallow: /handbuch-zv-2017/*
+Disallow: /About/Wie_Homepage.html
+Disallow: /cgi-bin/
+Disallow: /print
+Disallow: /redirect
+Disallow: /search
+Disallow: /stuttgart/stadtplan/map.pl
+Disallow: /stuttgart/stadtplan/suche.pl
+Disallow: /ochem/36/ba/04GUEG.html
+Disallow: /imi/download/*
+Disallow: /hilaritas/*
+Disallow: /pfaffenhof/*
+Disallow: /*/.stats
+Disallow: /reisekosten/
+Disallow: /aegee/
+Disallow: /zertifikate/
+Disallow: /akmodell/showit
+Disallow: /infotech/serv
+Disallow: /universitaet/fueralle/schuelerforschungscampus/tag-der-wissenschaft/anmeldung/*
+# Bilder nicht indexieren lassen
+#Disallow: /*.gif$
+#Disallow: /*.jpg$
+#Disallow: /*.png$
+#Disallow: /*.jpeg$
+# aber Resourcen unter /res/ trotzdem indexieren
+#Allow: /res/*
+Disallow: /germed/news/docs/Prueferzuteilung_Staatsexamen_Fruehjahr_2015_NEU.xlsx
+Disallow: /germed/lehre/veranstaltungen/docs/Prueferzuteilung_Staatsexamen_Herbst_2014.xlsx
+Disallow: /phpmyadmin/*
+Disallow: /*/xmlrpc.php
+Disallow: /*?calYear=*
+Disallow: /antidiskriminierung
+Disallow: /universitaet/aktuelles/meldungen/fragen-und-antworten-zum-forschungsneubau-lcrl/*
+Disallow: /en/university/news/all/questions-and-answers-on-the-new-lcrl-research-building-/*
+Disallow: /universitaet/aktuelles/meldungen/Nachhaltiges-Bauen-mit-dem-Large-Scale-Robotics-Laboratory-LCRL/*
+Disallow: /en/university/news/all/Sustainable-construction-with-the-Large-Scale-Robotics-Laboratory-LCRL/*
+Disallow: /studium/bachelor/stories/*
+
+#User-agent: Googlebot-Image
+#Disallow: /
+
+User-agent: Xenu Link Sleuth
+Allow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: ICCrawler - iCjobs
+Disallow: /
+
+User-agent: Web Downloader/3.0
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+#

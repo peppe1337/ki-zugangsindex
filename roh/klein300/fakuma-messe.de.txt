@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /s?=*
+Disallow: /en/s?=*
+Disallow: /search/*
+Disallow: /en/search/*
+Allow: /wp-admin/admin-ajax.php
+ 
+Sitemap: https://www.fakuma-messe.de/sitemap_index.xml

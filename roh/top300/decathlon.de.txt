@@ -1,0 +1,119 @@
+User-Agent: *
+Disallow: /*/debug-error/*
+
+User-Agent: *
+Disallow: /api/*
+
+User-Agent: *
+Disallow: */debug
+
+User-Agent: *
+Disallow: /*/checkout/
+Disallow: /checkout/
+
+User-Agent: *
+Disallow: /*/account/
+Disallow: /account/
+
+User-Agent: *
+Disallow: /*product-review-post*
+Disallow: */p-r/*
+Disallow: /*utility/vote/
+Disallow: /*notes=*
+Disallow: /*sort=*
+Disallow: /*direction=*
+
+User-Agent: *
+Disallow: /*?Ndrc=*
+Disallow: /*?offer=*
+Disallow: /*~*/*~*/
+
+User-Agent: *
+Disallow: /*redirectUrl=*
+Disallow: /*/_/0$
+Disallow: /*CustomProductCatalog*
+
+User-Agent: *
+Disallow: //p/
+Disallow: //browse/
+
+User-Agent: *
+Disallow: /r/*page=*
+
+User-Agent: *
+Disallow: */store-review-post*
+
+User-Agent: *
+Disallow: */p-a/*
+
+User-Agent: *
+Disallow: *reviews_note=*
+Disallow: *reviews_page=*
+Disallow: /_Incapsula_Resource*
+
+User-Agent: *
+Disallow: /*/login
+Disallow: /login
+Disallow: /our-suggestions/
+
+User-Agent: *
+Disallow: /*?No=*
+Disallow: /*Nrpp=*
+
+User-Agent: *
+Disallow: /*?Ns=*
+Disallow: /*&Ns=*
+
+User-Agent: *
+Disallow: /cdn-cgi/
+
+User-Agent: *
+Disallow: */search?Ntt=*
+Disallow: */search$
+
+User-Agent: MJ12bot
+Crawl-delay: 2
+
+User-Agent: FacebookBot
+Crawl-delay: 2
+
+User-Agent: *
+Allow: */f-brand_*
+Allow: */f-color_*
+Allow: */f-gender_*
+Allow: */f-brand_*/f-color_*
+Allow: */f-brand_*/f-gender_*
+Allow: */f-color_*/f-gender_*
+Disallow: */f-*
+Disallow: */f-*_*_*_*
+Disallow: */f-brand_*_*
+Disallow: */f-brand_*_*/f-color_*
+Disallow: */f-brand_*/f-color_*_*
+Disallow: */f-brand_*_*/f-gender_*
+Disallow: */f-brand_*/f-gender_*_*
+Disallow: */f-color_*_*
+Disallow: */f-color_*_*/f-gender_*
+Disallow: */f-color_*/f-gender_*_*
+Disallow: */f-gender_*_*
+Disallow: */f-sg_*
+
+User-Agent: *
+Disallow: /unsubscribe/
+
+User-Agent: *
+Disallow: */bricks/*
+
+User-Agent: ClaudeBot
+Crawl-delay: 5
+
+User-Agent: *
+Allow: /boutique-kategorien/decathlon-business/*
+Disallow: /boutique-kategorien/*
+
+User-Agent: *
+Disallow: /*?opeco=*
+Disallow: /*?merchandising=*
+
+Sitemap: https://www.decathlon.de/sitemap-index.xml
+Sitemap: https://www.decathlon.de/decathlon-products-index.xml
+Sitemap: https://www.decathlon.de/marketplace-products-index.xml

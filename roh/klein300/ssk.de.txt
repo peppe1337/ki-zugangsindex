@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /typo3
+Disallow: /login
+Disallow: /search
+Disallow: /kontakt
+Disallow: /api
+Crawl-delay: 10

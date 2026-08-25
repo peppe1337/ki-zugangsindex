@@ -1,0 +1,37 @@
+User-agent: *
+
+Disallow: /passwordforgotten
+Disallow: /signin
+Disallow: /signup
+Disallow: /usermenu
+Disallow: /contact
+Disallow: /cancellation
+Disallow: /reclaim
+Disallow: /signuptchibocard
+Disallow: /signupcommunity
+Disallow: /subscriptions
+Disallow: /cart
+Disallow: /checkout
+Disallow: /quickshopping
+Disallow: /search
+
+Disallow: /c/preview
+
+Disallow: /service/checkoutfrontend
+Disallow: /service/cartfrontend
+Disallow: /service/coffee-subscription-configurator/*
+Disallow: /service/newsletterfrontend/subscribenewsletter	
+Disallow: /service/newsletterfrontend/assets
+Disallow: /service/customersupportfrontend/contact
+Disallow: /service/productreviewpagefrontend
+
+Disallow: /*?x=
+Disallow: /*&x=
+Disallow: /*?cs=
+Disallow: /*&cs=
+Disallow: /*?vt=
+Disallow: /*&vt=
+Disallow: /prof/js/*
+Disallow: /json/psdata/*
+
+Sitemap: https://www.tchibo.de/sitemap.xml

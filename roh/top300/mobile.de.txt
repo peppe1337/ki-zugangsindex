@@ -1,0 +1,57 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Opebot-v (https://www.1plusx.com)
+Allow: /
+
+User-agent: AmazonAdBot
+Allow: /
+
+User-agent:*
+Disallow: /api/
+Disallow: /svc/similar/
+Disallow: /consumer/next/api/search/count
+
+Disallow: /auto/*/*?lang=
+Disallow: /bewertungen/*?lang=
+Disallow: /checkout/*
+Disallow: /finanzierung/route/
+Disallow: /finanzierung/antrag/
+Disallow: /magazin/*/*?lang=
+Disallow: /*/rating/
+Disallow: /*?lang=de
+Disallow: /leasing/*?lang=
+Disallow: /leasing/angebote/
+Disallow: /verkaufen/a/
+Allow: /service/*?lang=de
+
+Disallow: /*/pg:vip*
+Disallow: /*/*,pgn:*
+Disallow: /*/printView.html
+
+Disallow: /cz/*/*id=*
+Disallow: /es/*/*id=*
+Disallow: /fr/*/*id=*
+Disallow: /nl/*/*id=*
+Disallow: /pl/*/*id=*
+Disallow: /ro/*/*id=*
+Disallow: /ru/*/*id=*
+Disallow: /tr/*/*id=*
+
+Disallow: /cz/s/*?
+Disallow: /es/s/*?
+Disallow: /fr/s/*?
+Disallow: /nl/s/*?
+Disallow: /pl/s/*?
+Disallow: /ro/s/*?
+Disallow: /ru/s/*?
+Disallow: /tr/s/*?
+
+Disallow: /es/*/*.html?
+Disallow: /fr/*/*.html?
+Disallow: /nl/*/*.html?
+Disallow: /pl/*/*.html?
+Disallow: /ro/*/*.html?
+Disallow: /ru/*/*.html?
+Disallow: /cz/*/*.html?
+Disallow: /tr/*/*.html?

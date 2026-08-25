@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /*neueurl=
+Disallow: /*view=
+Disallow: /*action=
+Disallow: /*.store
+Disallow: /*.query
+Disallow: /*.delete
+Disallow: /*.login
+Disallow: /*.logout
+Disallow: /*.search
+Disallow: /*.form
+Disallow: /*.captcha
+
+Sitemap: https://www.tu-darmstadt.de/sitemap.de.xml

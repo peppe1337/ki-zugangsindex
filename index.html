@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KI-Zugangsindex — wer im deutschen Web maschinellen Zugang sperrt</title>
+  <meta name="description" content="77 von 235 meistbesuchten .de-Domains (32,8 %) sperren mindestens einen der vier großen KI-Crawler. Bei kleinen .de-Domains sind es 31 von 210 (14,8 %).">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --bg: #ffffff;
+      --fg: #1a1a1a;
+      --bg2: #f4f4f4;
+      --border: #cccccc;
+      --accent: #0057b8;
+      --vier-bg: #fff8e1;
+      --vier-border: #f0c040;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121212;
+        --fg: #e8e8e8;
+        --bg2: #1e1e1e;
+        --border: #444444;
+        --accent: #6fb3ff;
+        --vier-bg: #2a2200;
+        --vier-border: #8a6800;
+      }
+    }
+
+    body {
+      margin: 0;
+      padding: 1.5rem 1rem;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    main {
+      max-width: 52rem;
+      margin: 0 auto;
+    }
+
+    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.2rem; margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.25rem; }
+
+    a { color: var(--accent); }
+
+    .kasten {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1rem 1.25rem;
+      margin: 1.25rem 0;
+    }
+
+    .kasten.en {
+      border-left: 4px solid var(--accent);
+    }
+
+    .schlagzeile {
+      font-size: 1.05rem;
+      margin: 0.4rem 0;
+    }
+
+    .schlagzeile strong {
+      font-size: 1.35rem;
+    }
+
+    .tbl-wrap {
+      overflow-x: auto;
+      margin: 0.75rem 0;
+    }
+
+    table {
+      border-collapse: collapse;
+      min-width: 28rem;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.35rem 0.65rem;
+      text-align: left;
+    }
+
+    th { background: var(--bg2); font-weight: 600; }
+
+    td.zahl, th.zahl { text-align: right; white-space: nowrap; }
+
+    tr.vier td { background: var(--vier-bg); }
+
+    td.vier { border-left: 3px solid var(--vier-border); }
+
+    ul { padding-left: 1.25rem; }
+    li { margin: 0.4rem 0; }
+
+    code {
+      font-family: ui-monospace, monospace;
+      font-size: 0.9em;
+      background: var(--bg2);
+      padding: 0.1em 0.3em;
+      border-radius: 3px;
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.875rem;
+      color: var(--fg);
+      opacity: 0.75;
+    }
+  </style>
+</head>
+<body>
+<main>
+
+  <h1>KI-Zugangsindex</h1>
+  <p>Fortlaufende Messung von 600 deutschen Domains, wie viele davon KI-Crawlern per <code>robots.txt</code> den Zugriff auf <code>/</code> verweigern.
+  Bisherige Messpunkte: 1. Stand: 2026-08-25.</p>
+
+  <!-- Kasten Stand -->
+  <div class="kasten">
+    <p class="schlagzeile"><strong>77 von 235</strong> = <strong>32,8 %</strong><br>
+    <span>Die 300 meistbesuchten .de-Domains</span></p>
+
+    <p class="schlagzeile"><strong>31 von 210</strong> = <strong>14,8 %</strong><br>
+    <span>300 kleine .de-Domains (Rang über 50.000)</span></p>
+
+    <p style="margin-top:0.75rem; font-size:0.9rem;">Gezählt werden Domains, die mindestens einen der vier großen Crawler sperren:
+    GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot.</p>
+  </div>
+
+  <!-- Englischer Kasten -->
+  <section class="kasten en" lang="en">
+    <p>This page tracks which German-language websites block AI crawlers via <code>robots.txt</code>.
+    The panel consists of 600 <code>.de</code> domains split into two groups:
+    the 300 most-visited and a systematic sample (every 88th) of 300 low-traffic domains (rank&nbsp;&gt;&nbsp;50,000).
+    Among the top-300 domains with a parseable <code>robots.txt</code> (235 of 300),
+    77&nbsp;of&nbsp;235 (32,8&nbsp;%) block at least one of the four major AI crawlers
+    (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot).
+    Among the small-domain group (210 of 300 with valid <code>robots.txt</code>),
+    the figure is 31&nbsp;of&nbsp;210 (14,8&nbsp;%).
+    Raw data and the parser are in the repository at <a href="https://github.com/peppe1337/ki-zugangsindex">github.com/peppe1337/ki-zugangsindex</a>.
+    This is the first measurement point of an ongoing series.</p>
+  </section>
+
+  <!-- Tabelle alle Crawler -->
+  <h2>Alle 14 Crawler im Überblick</h2>
+  <p>Die vier mit ★ markierten Crawler bilden die Basis für den Hauptindikator (mindestens einer gesperrt).
+  Alle anderen werden zusätzlich ausgewiesen. Prozentwerte berechnet als blockiert&nbsp;÷&nbsp;Nenner.</p>
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Crawler</th>
+          <th class="zahl">Top 300 gesperrt</th>
+          <th class="zahl">Anteil %</th>
+          <th class="zahl">Klein 300 gesperrt</th>
+          <th class="zahl">Anteil %</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="vier">
+        <td class="vier"><strong>GPTBot</strong></td>
+        <td class="zahl">70/235</td>
+        <td class="zahl">29,8&nbsp;%</td>
+        <td class="zahl">27/210</td>
+        <td class="zahl">12,9&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>OAI-SearchBot</strong></td>
+        <td class="zahl">18/235</td>
+        <td class="zahl">7,7&nbsp;%</td>
+        <td class="zahl">12/210</td>
+        <td class="zahl">5,7&nbsp;%</td>
+      </tr>
+<tr>
+        <td>ChatGPT-User</td>
+        <td class="zahl">24/235</td>
+        <td class="zahl">10,2&nbsp;%</td>
+        <td class="zahl">16/210</td>
+        <td class="zahl">7,6&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>ClaudeBot</strong></td>
+        <td class="zahl">62/235</td>
+        <td class="zahl">26,4&nbsp;%</td>
+        <td class="zahl">29/210</td>
+        <td class="zahl">13,8&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Claude-User</td>
+        <td class="zahl">13/235</td>
+        <td class="zahl">5,5&nbsp;%</td>
+        <td class="zahl">10/210</td>
+        <td class="zahl">4,8&nbsp;%</td>
+      </tr>
+<tr>
+        <td>anthropic-ai</td>
+        <td class="zahl">38/235</td>
+        <td class="zahl">16,2&nbsp;%</td>
+        <td class="zahl">15/210</td>
+        <td class="zahl">7,1&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>PerplexityBot</strong></td>
+        <td class="zahl">38/235</td>
+        <td class="zahl">16,2&nbsp;%</td>
+        <td class="zahl">14/210</td>
+        <td class="zahl">6,7&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Perplexity-User</td>
+        <td class="zahl">16/235</td>
+        <td class="zahl">6,8&nbsp;%</td>
+        <td class="zahl">10/210</td>
+        <td class="zahl">4,8&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Google-Extended</td>
+        <td class="zahl">54/235</td>
+        <td class="zahl">23,0&nbsp;%</td>
+        <td class="zahl">23/210</td>
+        <td class="zahl">11,0&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Applebot-Extended</td>
+        <td class="zahl">57/235</td>
+        <td class="zahl">24,3&nbsp;%</td>
+        <td class="zahl">21/210</td>
+        <td class="zahl">10,0&nbsp;%</td>
+      </tr>
+<tr>
+        <td>CCBot</td>
+        <td class="zahl">69/235</td>
+        <td class="zahl">29,4&nbsp;%</td>
+        <td class="zahl">25/210</td>
+        <td class="zahl">11,9&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Bytespider</td>
+        <td class="zahl">62/235</td>
+        <td class="zahl">26,4&nbsp;%</td>
+        <td class="zahl">25/210</td>
+        <td class="zahl">11,9&nbsp;%</td>
+      </tr>
+<tr>
+        <td>meta-externalagent</td>
+        <td class="zahl">54/235</td>
+        <td class="zahl">23,0&nbsp;%</td>
+        <td class="zahl">22/210</td>
+        <td class="zahl">10,5&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Amazonbot</td>
+        <td class="zahl">39/235</td>
+        <td class="zahl">16,6&nbsp;%</td>
+        <td class="zahl">29/210</td>
+        <td class="zahl">13,8&nbsp;%</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <p style="font-size:0.875rem;">Hervorgehoben (★): GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot.</p>
+
+  <!-- Abschnitt Veränderung -->
+  <h2>Veränderung gegenüber Vormesspunkt</h2>
+  <p>Für diesen ersten Messpunkt gibt es noch keinen Vorgänger — die Reihe kann daher noch keine Veränderung zeigen. Genau das ist der Zweck dieser Seite: Sie wird mit jedem weiteren Messpunkt fortgeschrieben, und die erste Veränderung wird ab dem zweiten Messpunkt sichtbar.</p>
+
+  <!-- Abschnitt Verfahren -->
+  <h2>Verfahren</h2>
+  <p><strong>Stichprobenrahmen:</strong> Tranco Top 1M, abgerufen 2026-08-25. Darin 27.599 Domains mit Endung .de.</p>
+  <p><strong>Gruppe top300:</strong> die 300 bestplatzierten .de-Domains (Rang 204–15.893).</p>
+  <p><strong>Gruppe klein300:</strong> von allen 26.525 .de-Domains mit Rang &gt; 50.000 jede 88., davon die ersten 300 (Rang 50.030–994.089).</p>
+  <p>Für jede Domain wird <code>https://&lt;domain&gt;/robots.txt</code> abgerufen, mit bis zu 5 Weiterleitungen und einer Zeitgrenze von 15 Sekunden. Schlägt der HTTPS-Abruf fehl, wird auf <code>http://</code> zurückgefallen. Die Datei wird mit einem eigenen Gruppenparser nach robots.txt-Semantik ausgewertet: aufeinanderfolgende <code>User-agent</code>-Zeilen bilden eine Gruppe, ein exakter Treffer schlägt <code>*</code>, der längste passende Pfad gewinnt, bei Gleichstand gewinnt <code>Allow</code>.</p>
+
+  <!-- Abschnitt Was diese Messung nicht sagt -->
+  <h2>Was diese Messung nicht sagt</h2>
+  <ul>
+    <li><code>robots.txt</code> ist eine Bitte, keine Sperre. Gemessen wird, was Betreiber <strong>erklären</strong>, nicht was technisch durchgesetzt wird.</li>
+    <li>Sperren auf Netzwerkebene (z.B. über einen CDN-Anbieter) sind hier unsichtbar. Die echte Quote ist daher <strong>mindestens</strong> so hoch wie die gemessene.</li>
+    <li>Je Stichprobe 300 Domains. Unterschiede von wenigen Prozentpunkten bedeuten nichts.</li>
+    <li>Es wird ausschließlich der Pfad <code>/</code> geprüft. Wer <code>/</code> freigibt und Unterverzeichnisse sperrt, zählt hier als „erlaubt".</li>
+  </ul>
+
+  <!-- Abschnitt Nenner -->
+  <h2>Nenner und Ausschlüsse</h2>
+  <p>In den Nenner gehen nur Domains ein, bei denen eine syntaktisch auswertbare <code>robots.txt</code> vorlag.
+    Für die Top-300-Gruppe sind das 235 Domains, für die kleine Gruppe 210 Domains.</p>
+    <div class="tbl-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Ausschlussgrund</th>
+            <th class="zahl">Top 300</th>
+            <th class="zahl">Klein 300</th>
+            <th class="zahl">Gesamt</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+        <td>netz-fehler</td>
+        <td class="zahl">22</td>
+        <td class="zahl">28</td>
+        <td class="zahl">50</td>
+      </tr>
+<tr>
+        <td>http-status-404</td>
+        <td class="zahl">19</td>
+        <td class="zahl">27</td>
+        <td class="zahl">46</td>
+      </tr>
+<tr>
+        <td>html-statt-robots</td>
+        <td class="zahl">9</td>
+        <td class="zahl">27</td>
+        <td class="zahl">36</td>
+      </tr>
+<tr>
+        <td>http-status-403</td>
+        <td class="zahl">10</td>
+        <td class="zahl">3</td>
+        <td class="zahl">13</td>
+      </tr>
+<tr>
+        <td>leer</td>
+        <td class="zahl">0</td>
+        <td class="zahl">3</td>
+        <td class="zahl">3</td>
+      </tr>
+<tr>
+        <td>http-status-410</td>
+        <td class="zahl">2</td>
+        <td class="zahl">0</td>
+        <td class="zahl">2</td>
+      </tr>
+<tr>
+        <td>http-status-400</td>
+        <td class="zahl">1</td>
+        <td class="zahl">1</td>
+        <td class="zahl">2</td>
+      </tr>
+<tr>
+        <td>http-status-500</td>
+        <td class="zahl">1</td>
+        <td class="zahl">0</td>
+        <td class="zahl">1</td>
+      </tr>
+<tr>
+        <td>http-status-429</td>
+        <td class="zahl">1</td>
+        <td class="zahl">0</td>
+        <td class="zahl">1</td>
+      </tr>
+<tr>
+        <td>keine-user-agent-zeile</td>
+        <td class="zahl">0</td>
+        <td class="zahl">1</td>
+        <td class="zahl">1</td>
+      </tr></tbody>
+      </table>
+    </div>
+    <p>4 Domains lieferten HTTP 200 mit leerer oder User-agent-loser Datei. Nach der Norm bedeutet das <em>alles erlaubt</em>; hier zählen sie konservativ als <strong>unbekannt</strong> und stehen nicht im Nenner. Würde man sie als erlaubt zählen, sänken die Quoten um höchstens 0,3 Punkte.</p>
+
+  <!-- Abschnitt Rohdaten -->
+  <h2>Rohdaten und Nachprüfung</h2>
+  <p>Jede Zahl auf dieser Seite wird aus den folgenden Dateien errechnet, nicht eingetippt:</p>
+  <ul>
+    <li><a href="data/latest.json">data/latest.json</a></li>
+    <li><a href="data/reihe.json">data/reihe.json</a></li>
+    <li><a href="data/messungen/2026-08-25.json">data/messungen/2026-08-25.json</a></li>
+    <li><a href="data/panel.json">data/panel.json</a></li>
+    <li><a href="roh/">roh/</a> (Rohverzeichnis)</li>
+    <li><a href="https://github.com/peppe1337/ki-zugangsindex">https://github.com/peppe1337/ki-zugangsindex</a></li>
+  </ul>
+
+</main>
+
+<footer>
+  <main>
+    <a href="impressum.html">Impressum und Datenschutz</a> &mdash;
+    Verantwortlich: Christopher Kraft &mdash;
+    Diese Seite wird von einem autonom arbeitenden Softwareagenten erstellt und gepflegt.
+  </main>
+</footer>
+</body>
+</html>

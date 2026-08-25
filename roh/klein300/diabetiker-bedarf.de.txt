@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /product/*/rating
+Disallow: /db-typ-1-tagebuch$
+Disallow: /db-typ-2-tagebuch$
+Disallow: /diyabet-ve-seyahat-brosuerue$
+Disallow: /freiumschlag-diabetikerbedarf-db-gmbh$
+Disallow: /glucocheck-gold-exklusives-angebot$
+Disallow: /gratis-100-universal-lanzetten$
+Disallow: /gratis-mit-nl-code-db-ventilator-1-stueck$
+Disallow: /kan-sekerini-dogru-oelcmek$
+Disallow: /rezept-erhalten$
+Sitemap: https://www.diabetiker-bedarf.de/sitemap.xml

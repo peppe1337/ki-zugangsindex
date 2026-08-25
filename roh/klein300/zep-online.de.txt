@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>ZEP - Page not found 404</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <meta http-equiv="Expires" content="Fri, Jun 12 1981 08:20:00 GMT"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <link href="/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/normalize.css" rel="stylesheet" type="text/css"/>
+    <link rel="icon" href="/images/favicon.svg" type="image/svg+xml" sizes="any">
+</head>
+<body>
+<section class="section_404">
+    <div class="container">
+        <div class="_404-wrapper">
+            <div class="_404-left" id="de_content">
+                <h1 class="_404-error-title">Error 404</h1>
+                <div class="margin-bottom margin-medium">
+                    <div class="_404-error-subtext">
+                        Diese Seite existiert nicht.
+                    </div>
+                </div>
+                <div class="_404-error-description">
+                    Folgendes könnte passiert sein:
+                    <ul class="_404-error-list">
+                        <li class="_404-error-list-item">
+                            Es liegt ein Tippfehler in der URL vor
+                        </li>
+                        <li class="_404-error-list-item">
+                            Sie versuchen es mit einem veralteten Link
+                        </li>
+                        <li class="_404-error-list-item">
+                            Der gesuchte Inhalt wurde entfernt
+                        </li>
+                    </ul>
+                    Wenn diese Gründe nicht zutreffen, kehren Sie bitte zur <a target="_blank"
+                                                                               href="https://www.zep.de/en/zep-login">Anmeldeseite</a>
+                    zurück oder <a target="_blank" href="https://www.zep.de/en/contact">kontaktieren Sie unser
+                    Support-Team</a>.
+                </div>
+            </div>
+            <div class="_404-left" id="en_content" style="display:none;">
+                <h1 class="_404-error-title">Error 404</h1>
+                <div class="margin-bottom margin-medium">
+                    <div class="_404-error-subtext">
+                        This page doesn&#x27;t exist.
+                    </div>
+                </div>
+                <div class="_404-error-description">
+                    This is what might have happened:
+                    <ul class="_404-error-list">
+                        <li class="_404-error-list-item">
+                            There is a typing error in the URL
+                        </li>
+                        <li class="_404-error-list-item">
+                            You are trying an outdated link
+                        </li>
+                        <li class="_404-error-list-item">
+                            The content you are looking for has been removed
+                        </li>
+                    </ul>
+                    If these causes do not apply, please return to the <a target="_blank"
+                                                                          href="https://www.zep.de/en/zep-login">login
+                    page for guidance</a> or <a target="_blank" href="https://www.zep.de/en/contact">contact our support
+                    team</a>.
+                </div>
+            </div>
+            <div class="_404-right">
+                <img src="/images/error-404.svg" class="error_404" loading="lazy" alt=""/>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+
+   function checkVisitorCountry() {
+      // Verwendung eines externen Dienstes (ipapi.co) zur Ermittlung der IP-Adresse und des Landes
+      fetch('https://ipapi.co/json/')
+         .then(response => response.json())
+         .then(data => {
+            const countryCode = data.country_code;
+            console.log(countryCode, data);
+            // Anzeige der entsprechenden Nachricht basierend auf dem Ländercode
+            if (countryCode === 'DE' || countryCode === 'AT' || countryCode === 'CH') {
+               //document.getElementById('en_content').style.display = 'none';
+               //document.getElementById('de_content').style.display = 'block';
+            } else {
+			   document.getElementById('de_content').style.display = 'none';
+               document.getElementById('en_content').style.display = 'block';
+            }
+         })
+         .catch(error => {
+            //console.error(error);
+            //document.getElementById('en_content').style.display = 'block';
+         });
+   }
+
+   // Aufrufen der Funktionen, um die IP-Adresse und das Land des Besuchers zu überprüfen, sobald die Seite geladen ist
+   window.onload = function () {
+      checkVisitorCountry();
+   };
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+Disallow: /butlers-bonus
+Disallow: /Landingpage-Mannheim
+Disallow: /Insiderwissen-zum-Kuechenkauf
+Disallow: /Katalog-anfordern
+Disallow: /Termin-vereinbaren
+Disallow: /Kuechenstudio-Aschaffenburg
+Disallow: /Katalog-anfordern-Muenchen
+Disallow: /Katalog-anfordern-Stuttgart
+Disallow: /xedu/

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>安全验证 / Security Check</title>
+    <!-- 引入 Cloudflare Turnstile 官方 JS 脚本 -->
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <style>
+        body { font-family: -apple-system, system-ui, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f5f5f7; margin: 0; }
+        .box { padding: 40px; background: white; border-radius: 16px; box-shadow: 0 4px 30px rgba(0,0,0,0.05); text-align: center; max-width: 400px; width: 85%; }
+        h2 { color: #1d1d1f; margin-bottom: 8px; font-size: 22px; }
+        p { color: #86868b; font-size: 14px; margin-bottom: 24px; line-height: 1.4; }
+        .captcha-container { display: flex; justify-content: center; margin-bottom: 10px; min-height: 65px; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h2>安全检查</h2>
+        <p>为了保障您的访问安全，请完成下方人机验证</p>
+        
+        <!-- 验证表单，前端完成后自动向后端提交 Token -->
+        <form action="?" method="POST">
+            <!-- 隐藏域：接收 Nginx 拼装好的、编码后的原始请求路径 -->
+            <input type="hidden" name="uri" id="next_uri">
+            
+            <div class="captcha-container">
+                <!-- 挂载点：请将下方的 data-sitekey 替换为您在 CF 后台申请的公钥 -->
+                <div class="cf-turnstile" data-sitekey="0x4AAAAAADzxV6HvxBew2b15" data-callback="onSuccess"></div>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        //从当前 URL 参数中提取 next 参数并塞入表单中
+        const urlParams = new URLSearchParams(window.location.search);
+        document.getElementById('next_uri').value = urlParams.get('uri') || '';
+
+        //用户通过验证后的回调函数
+        function onSuccess(token) {
+            const form = document.querySelector('form');
+            form.submit(); // 自动发起 POST 提交给 Nginx
+        }
+    </script>
+</body>
+</html>

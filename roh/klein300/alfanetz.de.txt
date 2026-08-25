@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<link rel="stylesheet" href="/uikit/css/uikit.css?ver=5.13.0" />
+<script src="/uikit/js/uikit.js?ver=5.13.0"></script>
+<script src="/uikit/js/uikit-icons.min.js?ver=5.13.0"></script>
+<script src="/js/globalsx.js?ver=5.13.0"></script>
+<script src="/js/login.js?ver=5.13.0"></script>
+<script src="/js/helper.js?ver=5.13.0"></script>
+<script> var pagename = 'login'; </script>
+<title>Anmelden:</title>
+<style>
+input::-ms-reveal,
+input::-ms-clear {
+display: none;
+}
+</style>
+</HEAD>
+<body id='authpage' class="uk-margin-right uk-margin-small-bottom">
+
+<script>
+var alfahwcheck = 0;
+var rpc = 0;
+</script>
+<script src="https://alfahwcheck1.alfanetz.de/alfahw.js?ver=5.13.0" ></script>
+
+
+<script>
+// -----------------------------------------------------------------------------------------------------------------
+// Init Start and setInterval
+// -----------------------------------------------------------------------------------------------------------------
+var fqdnbase = "cloud.alfanetz.de";
+var extramarginpx=0;
+// ----------------------------------------------------------------------------------------------------------------
+// View DozPanel
+// ----------------------------------------------------------------------------------------------------------------
+function viewdozpanel() {
+if (dozhinweisverstanden == 0) {
+document.getElementById("dozbereichhinweis").classList.remove("uk-hidden");
+document.getElementById("dozbereich").classList.add("uk-hidden");
+document.getElementById("neuenachricht").classList.add("uk-hidden");
+var dozhinweisverstanden = 1;
+};
+};
+</script>
+<div class="uk-width-1-1" >
+<div class="uk-flex uk-width-expand " >
+<div class="uk-width-expand uk-margin-left" >
+
+</div>
+</div>
+</div>
+</div>
+
+<div id='logindiv' uk-height-viewport="expand: true "
+class="uk-margin-top uk-margin-left uk-background-cover uk-background-center-center uk-background-norepeat "
+style="background-image: url(/picture/login1.jpg);" >
+<script>
+// document.getElementById("logindiv").classList.remove("uk-hidden")
+</script>
+
+
+
+
+<div class=" uk-width-1-5 uk-align-center">
+<div class=" uk-margin-medium-bottom ">
+<img class="uk-margin-large-top" src="/picture/alfatraining_logo_login.png" >
+</div>
+<form id="loginform" class="uk-align-bottom uk-animation-fade" action="/login" method="post">
+<input id="rpc" class="uk-input " type="hidden" name="rpc" value="0">
+<input class="uk-input " type="hidden" name="vorgang" value="login">
+<input id="hostname" class="uk-input " type="hidden" name="hostname" value="">
+<input id="pcuuid" class="uk-input " type="hidden" name="pcuuid" value="">
+<div>
+<div class="uk-flex">
+<div class="uk-width-expand">
+<input id="authkdnr" class="uk-input uk-border-rounded uk-text-left uk-width-expand uk-margin-small-top"
+type="text" name="authkdnr" placeholder="Ihre alfatraining Kundennummer"
+onfocusin="this.placeholder='';"
+onfocusout="this.placeholder='Ihre alfatraining Kundennummer';" >
+</div>
+<div >
+<img class="uk-border-rounded uk-margin-small-top"
+onclick='document.getElementById("authpasswort").type = "text";'
+onmouseleave='document.getElementById("authpasswort").type = "password";'
+src="/picture/fragezeichen.png" width="40" height="40" alt="Passwort anzeigen"
+style="margin-left: 6px;">
+<div class="uk-width-1-2" uk-drop="delay-hide: 0; delay-show: 0; pos: top-left;">
+<div class="uk-margin-small-top uk-box-shadow-large uk-border-rounded uk-card uk-card-default uk-grid-collapse uk-margin" uk-grid>
+<div>
+<div class="uk-card-body">
+<h3 class="uk-card-title">Ihre Kundennummer</h3>
+<P>Geben Sie hier Ihre alfatraining Kundennummer ein.<BR>Diese erhalten Sie via EMail durch Ihr zuständiges
+alfatraining-Team. </P>
+<P>Die alfatraining Kundennummer zur Anmeldung an cloud.alfnetz.de beinhaltet immer "nur" Zahlen und Buchstaben.</P>
+<BR>
+Beispiel: 1755342UB
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-flex">
+<div class="uk-width-expand">
+<input id="authpasswort" class="uk-input uk-border-rounded uk-width-expand uk-margin-small-top" type="password"
+name="authpasswort" placeholder="Ihr Passwort" autocomplete="off" readonly
+onClick="this.select();"
+onfocusin="this.placeholder=''; this.removeAttribute('readonly');"
+onfocusout="this.placeholder='Ihr Passwort';" >
+</div>
+<div >
+<img class="uk-border-rounded uk-margin-small-top"
+onclick='document.getElementById("authpasswort").type = "text";'
+onmouseleave='document.getElementById("authpasswort").type = "password";'
+src="/picture/eye.png" width="40" height="40" alt="Passwort anzeigen"
+style="margin-left: 6px; cursor: pointer; ">
+<div class="uk-width-1-3" uk-drop="delay-hide: 0; delay-show: 0">
+<div class="uk-margin-small-top uk-box-shadow-large uk-border-rounded uk-card uk-card-default uk-grid-collapse uk-margin" uk-grid>
+<div>
+<div class="uk-card-body">
+<h3 class="uk-card-title">Passwort anzeigen</h3>
+Hiermit können Sie Ihr eingegebenes Passwort sichtbar machen, um die Eingabe zu prüfen.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-margin ">
+<input class="uk-button uk-button-medium uk-border-rounded uk-button-primary uk-width-1-1 uk-text-bold" type="submit" value="Anmelden">
+</div>
+
+</form>
+<div id="SMSWAIT" class="uk-hidden uk-width-expand uk-text-center">
+<div class="uk-box-shadow-bottom uk-box-shadow-xlarge uk-width-expand">
+<div class="uk-text uk-text-primary uk-border-rounded uk-background-muted uk-padding-small uk-text-center uk-width-expand">
+<B>Bitte warten!</B><br>
+<span class="uk-text-small">Gleich geht es weiter.</span>
+<div id="wartebalken" class="uk-text-bold uk-text-danger">&nbsp;</div>
+</div>
+</div>
+</div>
+<script>
+var abmelden = ""
+var mycounter = 0;
+// -----------------------------------------------------------------------------------------------
+//
+// -----------------------------------------------------------------------------------------------
+function getsmslogincheck() {
+if (hostname == "alfatraining-PC" || hostname == "") {
+GetSMSInfo();
+} else {
+clearInterval(intv0);
+};
+};
+// -----------------------------------------------------------------------------------------------
+//
+// -----------------------------------------------------------------------------------------------
+function loginhiddenornot() {
+document.getElementById("SMSWAIT").classList.remove("uk-hidden");
+if (hostname != "alfatraining-PC" && hostname != "") {
+document.getElementById("loginform").classList.remove("uk-hidden");
+document.getElementById("SMSWAIT").classList.add("uk-hidden");
+clearInterval(intv0);
+clearInterval(intv1);
+};
+if ( mycounter > 3 ) {
+document.getElementById("loginform").classList.remove("uk-hidden");
+document.getElementById("SMSWAIT").classList.add("uk-hidden");
+clearInterval(intv1);
+}
+if ( mycounter > 0 ) {
+document.getElementById("wartebalken").innerHTML = document.getElementById("wartebalken").innerHTML + "--";
+};
+mycounter = mycounter + 1;
+}
+// -----------------------------------------------------------------------------------------------
+//
+// -----------------------------------------------------------------------------------------------
+if (alfahwcheck == 1 && abmelden != "abmelden") {
+document.getElementById("loginform").classList.add("uk-hidden");
+//document.getElementById("SMSWAIT").classList.remove("uk-hidden");
+var intv0 = setInterval(getsmslogincheck, 2500);
+var intv1 = setInterval(loginhiddenornot, 3000);
+setTimeout(getsmslogincheck, 250);
+setTimeout(loginhiddenornot, 500);
+};
+</script>
+</div>
+<div id="browsercheck" class="uk-text-danger uk-card uk-card-body uk-card-default uk-border-rounded
+uk-margin-top uk-width-1-2 uk-align-center uk-box-shadow-large uk-hidden">
+<div class="uk-flex">
+<div>
+<span uk-icon="icon: warning; ratio: 3"></span>
+</div>
+<div class="uk-margin-left">
+Die verwendete Browser- Version: <span id="browsermessage" ></span> ist vermutlich veraltet.<BR>
+<span> Ihr verwendeter Browser sollte auf dem aktuellsten Stand sein, um die vollständige Funktionalität zu gewährleisten. </span>
+</div>
+</div>
+</div>
+<script>
+erg = browsercheck();
+if (erg[1] != 1) {
+document.getElementById('browsermessage').innerHTML = erg[0] + ' ' + erg[2];
+document.getElementById("browsercheck").classList.remove("uk-hidden");
+};
+</script>
+<div class="uk-hidden" >
+<div class=" uk-margin-medium-bottom uk-width-1-5 uk-align-center" >
+<img class="uk-margin-large-top" src="/picture/alfatraining_logo_login.png">
+</div>
+<div class="uk-width-2-5 uk-box-shadow uk-box-shadow-large uk-align-center">
+<div class="uk-card uk-card-default uk-border-rounded uk-background-muted uk-padding-small">
+<p class="uk-text-primary ">Sie haben sich erfolgreich abgemeldet.</p>
+<span class="uk-text-bold ">Hinweis!</span><br>
+Die eventuell noch laufende Anwendung alfaview® wurde mit der Abmeldung von cloud.alfanetz.de <u>nicht</u> geschlossen!<br>
+<div class="uk-text-right">
+<button class="uk-button uk-button-primary uk-button-small uk-border-rounded uk-margin-top " onclick="window.location.href = 'https://cloud.alfanetz.de'" >OK</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<noscript>
+<div class="uk-margin-left uk-background-cover uk-height-large" style="background-image: url(/picture/login1.jpg); " >
+<div class="uk-align-center uk-width-1-2 uk-text-center ">
+<img class="uk-margin-top " src="/picture/alfatraining_logo_login.png" width="350px">
+<div class="uk-card uk-card-body uk-card-default uk-border-rounded uk-margin-large-top uk-box-shadow-large uk-text-left">
+<h4 class="uk-text-danger uk-text-bold">Ihr Browser unterstützt kein JavaScript.</h4>
+<p>Um sich an cloud.alfanetz.de anmelden zu können, benötigt Ihr Browser JavaScript! <br>
+<p>Und! Ihr Browser sollte auf einem möglichst aktuellen Stand sein, damit die vollständige Funktionalität gewährleistet werden kann.</p>
+<p>Ein eventuell verwendeter JavaScript-Blocker muss konfiguriert werden, um cloud.alfnetz.de das Ausführen von JavaScript zu erlauben.</p>
+<p>Bei Fragen, wenden Sie sich bitte an Ihren zuständigen alfatraining-Standort.</p>
+</div>
+<div class="uk-card uk-card-body uk-card-default uk-border-rounded uk-margin-top uk-box-shadow-large uk-text-left" uk-overflow-auto uk-margin-top>
+<P class="uk-text-bold">Impressum/Datenschutz:</P>
+
+<h3>Impressum:</h3>
+<h4>alfatraining Bildungszentrum GmbH</h4>
+<p>
+Kriegsstr. 100<br>
+76133 Karlsruhe
+</p>
+<ul>
+<li>Internet: <a href="http://www.alfatraining.de">www.alfatraining.de</a></li>
+<li>E-Mail: info(at)alfatraining.de</li>
+</ul>
+<ul>
+<li>Telefon: +49 721 35450-300</li>
+<li>Telefax: +49 721 35450-69</li>
+</ul>
+<p>
+Eingetragen im Amtsgericht Mannheim HRB 730739<br>
+Sitz: Karlsruhe
+</p>
+<p>
+Umsatzsteuer-ID: DE318522740
+</p>
+<p>
+Inhaltlich Verantwortlicher nach § 55 Abs.II RstV:<br>
+Geschäftsführer Niko Fostiropoulos, Anschrift: siehe oben.<br>
+Für Nutzerinhalte sind die jeweiligen Verfasser verantwortlich.
+</p>
+<h3>Datenschutz:</h3>
+<p>
+<B>Datenschutzhinweise für Besucher dieser Webseite</B><br>
+Wir informieren Sie hiermit über die beim Besuch dieser Webseite verarbeiteten personenbezogenen Daten. Informationen zur Datenverarbeitung von Teilnehmern an unseren Schulungen finden Sie an anderer Stelle.
+</p>
+<p>
+<B>Login</B><br>
+Um sich in unser Portal einzuwählen, müssen Sie die zur Anmeldung erforderlichen Daten eingeben. Diese Zugangsdaten werden von uns verarbeitet, um unsere vertraglichen Leistungen zu erbringen (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. b und f DSGVO).
+</p>
+<p>
+<B>Logfiles</B><br>
+Bei jedem Zugriff auf unsere Seite erheben wir folgende Informationen über Ihr Endgerät: Die IP-Adresse Ihres Endgeräts, die Anfrage Ihres Browsers sowie die Zeit dieser Anfrage. Außerdem werden der Status und die übertragene Datenmenge im Rahmen dieser Anfrage erfasst, darüber hinaus Produkt- und Versionsinformationen über den verwendeten Browser und das Betriebssystem Ihres Endgeräts. Wir erfassen weiter, von welcher Website aus der Zugriff auf unsere Seite erfolgte. Die IP-Adresse Ihres Endgeräts wird dabei nur für die Zeit Ihrer Nutzung der Website gespeichert und im Anschluss daran unverzüglich gelöscht oder durch Kürzung anonymisiert. Die übrigen Daten werden für eine begrenzte Zeitdauer gespeichert. Wir verwenden diese Daten für den Betrieb unserer Website, insbesondere um Fehler der Website festzustellen und zu beseitigen, um die Auslastung der Website festzustellen und um Anpassungen oder Verbesserungen vorzunehmen (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. f DSGVO).
+</p>
+<p>
+<B>Cookies</B><br>
+Cookies sind sehr kleine, von Internetseiten verwendete Textdateien, die Ihr Browser auf Ihrem Endgerät speichert und an uns oder gegebenenfalls auch einen Dritten bestimmte Informationen zufließen lassen kann.<br>
+Wir setzen auf dieser Website Cookies ein, welche unbedingt erforderlich sind, um einen vom Nutzer ausdrücklich gewünschten Dienst zur Verfügung zu stellen („notwendige Cookies“). Eine entsprechende Datenverarbeitung erfolgt im Rahmen unseres berechtigten Interesses zur Bereitstellung und dem Betrieb der Website auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO und §25 Abs. 2 TDDDG. Folgende notwendige Cookies werden beim Besuch auf unserer Website gesetzt: AUTHCOOKIE zum Zweck der Berechtigungsprüfung nach erfolgreicher Anmeldung (Speicherdauer: Session).<br>
+</p>
+<p>
+<B>Widerruf von Einwilligungen und Widerspruch gegen eine Datenverarbeitung</B><br>
+Sofern Sie uns gegenüber Einwilligungen abgegeben haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.<br>
+Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf eine Interessenabwägung gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen.<br>
+Sie können der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen.<br>
+Ihren Widerruf oder Widerspruch können Sie uns unter den Kontaktdaten unter „Verantwortlicher“ zusenden.<br>
+</p>
+<p>
+<B>Ihre Rechte</B><br>
+Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+<ul>
+<li>Recht auf Auskunft, ob wir Daten über Ihre Person verarbeiten. Falls wir Daten über Ihre Person verarbeiten, haben Sie das Recht Auskunft über die Art und Umstände der Datenverarbeitung zu erlangen (Art. 15 DSGVO),</li>
+<li>Recht auf Berichtigung unrichtiger Daten (Art. 16 DSGVO) oder Recht auf Löschung Ihrer Daten, sofern die Voraussetzungen des Art. 17 Abs. 1 DSGVO erfüllt sind,</li>
+<li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO),</li>
+<li>Recht auf Widerspruch gegen die Verarbeitung unter den oben genannten Bedingungen (Art. 21 DSGVO),</li>
+<li>Recht auf Datenübertragbarkeit unter den Voraussetzungen des Art. 20 DSGVO.</li>
+</ul>
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+</p>
+<P>
+<B>Verantwortlicher</B><br>
+alfatraining Bildungszentrum GmbH, Kriegsstr. 100, 76133 Karlsruhe, E-Mail: info@alfatraining.de<br>
+Datenschutzbeauftragter: datenschutz@alfatraining.de oder unter unserer Postadresse mit dem Zusatz „der Datenschutzbeauftragte“
+</P>
+
+</div>
+</div>
+</div>
+</noscript>
+<div id='loginfooter' >
+<DIV class="uk-flex uk-margin-left uk-margin-small-top uk-margin-small-bottom uk-margin-right">
+<iframe class="uk-hidden" id="thedummy" src="" name="thedummy" width="0" height="0" ></iframe>
+<div class="">
+
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded"
+onclick="document.getElementById('iframenutzungsbedingungenpublic').src = '/dokumente/Nutzungsbedingungen.pdf';"
+uk-toggle="target: #nutzungsbedingungenpublic" >Nutzungsbedingungen</button>
+
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded"
+onclick="document.getElementById('iframeagb').src = '/dokumente/AGB.pdf';"
+uk-toggle="target: #AGB" >AGB</button>
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded"
+onclick="document.getElementById('iframedatenschutzhinweise').src = '/dokumente/Datenschutzhinweise.pdf';"
+uk-toggle="target: #DATENSCHUTZ" >Datenschutzerklärung für Teilnehmer:innen</button>
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded" uk-toggle="target: #IMPRESSUM">Impressum/Datenschutz</button>
+</div>
+<div style=" font-size: 10px;" class="uk-text-small uk-text-right uk-width-expand ">
+© 2024 alfatraining Bildungszentrum GmbH
+<div class="uk-margin-remove uk-padding-remove uk-text-primary" id="smsconnected"></div>
+</div>
+<div id="nutzungsbedingungen" class="" uk-modal >
+<div class="uk-modal-dialog uk-border-rounded uk-width-expand" >
+<div class="uk-modal-body uk-width-expand" uk-overflow-auto>
+<iframe id="iframenutzungsbedingungen" src="" class="uk-width-expand" uk-height-viewport="offset-bottom: 36"></iframe>
+</div>
+<div class="uk-modal-footer uk-text-right uk-border-rounded">
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded uk-modal-close " type="button">Schliessen</button>
+</div>
+</div>
+</div>
+<div id="nutzungsbedingungenpublic" class="" uk-modal >
+<div class="uk-modal-dialog uk-border-rounded uk-width-expand" >
+<div class="uk-modal-body uk-width-expand" uk-overflow-auto>
+<iframe id="iframenutzungsbedingungenpublic" src="" class="uk-width-expand" uk-height-viewport="offset-bottom: 36"></iframe>
+</div>
+<div class="uk-modal-footer uk-text-right uk-border-rounded">
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded uk-modal-close " type="button">Schliessen</button>
+</div>
+</div>
+</div>
+<!-- Impressum/Datenschutz ANZEIGEN -->
+<div id="IMPRESSUM" class="" uk-modal uk-height-max-large>
+<div class="uk-modal-dialog uk-border-rounded uk-width-expand ">
+<div class="uk-modal-header uk-border-rounded uk-width-expand">
+<h2 class="uk-modal-title">Impressum/Datenschutz</h2>
+</div>
+<div class="uk-modal-body uk-width-expand" uk-overflow-auto>
+
+<h3>Impressum:</h3>
+<h4>alfatraining Bildungszentrum GmbH</h4>
+<p>
+Kriegsstr. 100<br>
+76133 Karlsruhe
+</p>
+<ul>
+<li>Internet: <a href="http://www.alfatraining.de">www.alfatraining.de</a></li>
+<li>E-Mail: info(at)alfatraining.de</li>
+</ul>
+<ul>
+<li>Telefon: +49 721 35450-300</li>
+<li>Telefax: +49 721 35450-69</li>
+</ul>
+<p>
+Eingetragen im Amtsgericht Mannheim HRB 730739<br>
+Sitz: Karlsruhe
+</p>
+<p>
+Umsatzsteuer-ID: DE318522740
+</p>
+<p>
+Inhaltlich Verantwortlicher nach § 55 Abs.II RstV:<br>
+Geschäftsführer Niko Fostiropoulos, Anschrift: siehe oben.<br>
+Für Nutzerinhalte sind die jeweiligen Verfasser verantwortlich.
+</p>
+<h3>Datenschutz:</h3>
+<p>
+<B>Datenschutzhinweise für Besucher dieser Webseite</B><br>
+Wir informieren Sie hiermit über die beim Besuch dieser Webseite verarbeiteten personenbezogenen Daten. Informationen zur Datenverarbeitung von Teilnehmern an unseren Schulungen finden Sie an anderer Stelle.
+</p>
+<p>
+<B>Login</B><br>
+Um sich in unser Portal einzuwählen, müssen Sie die zur Anmeldung erforderlichen Daten eingeben. Diese Zugangsdaten werden von uns verarbeitet, um unsere vertraglichen Leistungen zu erbringen (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. b und f DSGVO).
+</p>
+<p>
+<B>Logfiles</B><br>
+Bei jedem Zugriff auf unsere Seite erheben wir folgende Informationen über Ihr Endgerät: Die IP-Adresse Ihres Endgeräts, die Anfrage Ihres Browsers sowie die Zeit dieser Anfrage. Außerdem werden der Status und die übertragene Datenmenge im Rahmen dieser Anfrage erfasst, darüber hinaus Produkt- und Versionsinformationen über den verwendeten Browser und das Betriebssystem Ihres Endgeräts. Wir erfassen weiter, von welcher Website aus der Zugriff auf unsere Seite erfolgte. Die IP-Adresse Ihres Endgeräts wird dabei nur für die Zeit Ihrer Nutzung der Website gespeichert und im Anschluss daran unverzüglich gelöscht oder durch Kürzung anonymisiert. Die übrigen Daten werden für eine begrenzte Zeitdauer gespeichert. Wir verwenden diese Daten für den Betrieb unserer Website, insbesondere um Fehler der Website festzustellen und zu beseitigen, um die Auslastung der Website festzustellen und um Anpassungen oder Verbesserungen vorzunehmen (Rechtsgrundlage: Art. 6 Abs. 1 S. 1 lit. f DSGVO).
+</p>
+<p>
+<B>Cookies</B><br>
+Cookies sind sehr kleine, von Internetseiten verwendete Textdateien, die Ihr Browser auf Ihrem Endgerät speichert und an uns oder gegebenenfalls auch einen Dritten bestimmte Informationen zufließen lassen kann.<br>
+Wir setzen auf dieser Website Cookies ein, welche unbedingt erforderlich sind, um einen vom Nutzer ausdrücklich gewünschten Dienst zur Verfügung zu stellen („notwendige Cookies“). Eine entsprechende Datenverarbeitung erfolgt im Rahmen unseres berechtigten Interesses zur Bereitstellung und dem Betrieb der Website auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO und §25 Abs. 2 TDDDG. Folgende notwendige Cookies werden beim Besuch auf unserer Website gesetzt: AUTHCOOKIE zum Zweck der Berechtigungsprüfung nach erfolgreicher Anmeldung (Speicherdauer: Session).<br>
+</p>
+<p>
+<B>Widerruf von Einwilligungen und Widerspruch gegen eine Datenverarbeitung</B><br>
+Sofern Sie uns gegenüber Einwilligungen abgegeben haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.<br>
+Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf eine Interessenabwägung gem. Art. 6 Abs. 1 S. 1 lit. f DSGVO stützen, können Sie Widerspruch gegen die Verarbeitung einlegen. Bei Ausübung eines solchen Widerspruchs bitten wir um Darlegung der Gründe, weshalb wir Ihre personenbezogenen Daten nicht wie von uns durchgeführt verarbeiten sollten. Im Falle Ihres begründeten Widerspruchs prüfen wir die Sachlage und werden entweder die Datenverarbeitung einstellen bzw. anpassen oder Ihnen unsere zwingenden schutzwürdigen Gründe aufzeigen, aufgrund derer wir die Verarbeitung fortführen.<br>
+Sie können der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen.<br>
+Ihren Widerruf oder Widerspruch können Sie uns unter den Kontaktdaten unter „Verantwortlicher“ zusenden.<br>
+</p>
+<p>
+<B>Ihre Rechte</B><br>
+Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+<ul>
+<li>Recht auf Auskunft, ob wir Daten über Ihre Person verarbeiten. Falls wir Daten über Ihre Person verarbeiten, haben Sie das Recht Auskunft über die Art und Umstände der Datenverarbeitung zu erlangen (Art. 15 DSGVO),</li>
+<li>Recht auf Berichtigung unrichtiger Daten (Art. 16 DSGVO) oder Recht auf Löschung Ihrer Daten, sofern die Voraussetzungen des Art. 17 Abs. 1 DSGVO erfüllt sind,</li>
+<li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO),</li>
+<li>Recht auf Widerspruch gegen die Verarbeitung unter den oben genannten Bedingungen (Art. 21 DSGVO),</li>
+<li>Recht auf Datenübertragbarkeit unter den Voraussetzungen des Art. 20 DSGVO.</li>
+</ul>
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+</p>
+<P>
+<B>Verantwortlicher</B><br>
+alfatraining Bildungszentrum GmbH, Kriegsstr. 100, 76133 Karlsruhe, E-Mail: info@alfatraining.de<br>
+Datenschutzbeauftragter: datenschutz@alfatraining.de oder unter unserer Postadresse mit dem Zusatz „der Datenschutzbeauftragte“
+</P>
+
+</div>
+<div class="uk-modal-footer uk-text-right uk-border-rounded">
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded uk-modal-close " type="button">Schliessen</button>
+</div>
+</div>
+</div>
+<!-- Datenschutzerklärung für Teilnehmer:innen ANZEIGEN -->
+<div id="DATENSCHUTZ" class="" uk-modal uk-height-max-large >
+<div class="uk-modal-dialog uk-border-rounded uk-width-expand" >
+<div class="uk-modal-body uk-width-expand" uk-overflow-auto>
+<iframe id="iframedatenschutzhinweise" src="" class="uk-width-expand" uk-height-viewport="offset-bottom: 36"></iframe>
+</div>
+<div class="uk-modal-footer uk-text-right uk-border-rounded">
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded uk-modal-close " type="button">Schliessen</button>
+</div>
+</div>
+</div>
+<!-- AGB ANZEIGEN -->
+<div id="AGB" class="" uk-modal >
+<div class="uk-modal-dialog uk-border-rounded uk-width-expand" >
+<div class="uk-modal-body uk-width-expand" uk-overflow-auto>
+<iframe id="iframeagb" src="" class="uk-width-expand" uk-height-viewport="offset-bottom: 26"></iframe>
+</div>
+<div class="uk-modal-footer uk-text-right uk-border-rounded">
+<button class="uk-button uk-button-small uk-button-default uk-border-rounded uk-modal-close " type="button">Schliessen</button>
+</div>
+</div>
+</div>
+</DIV>
+<script>
+if ( alfahwcheck == 1) {
+document.getElementById("smsconnected").innerHTML = '<span class="uk-text-danger"> alfatraining PC </span>';
+if (pagename != 'alfaviewtesten' && pagename != 'anmeldenvergessen' && pagename != 'wartungsmodus' && pagename != 'login') {
+setTimeout(GetSMSInfo, 2000);
+};
+};
+</script>
+
+</div>
+</body>
+</html>

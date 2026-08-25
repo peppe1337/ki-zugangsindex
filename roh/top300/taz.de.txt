@@ -1,0 +1,24 @@
+User-agent: Slurp
+Crawl-delay: 60
+
+User-agent: *
+Disallow: /openads
+Disallow: /48f6543196cbbdefb88f247a0a8e4375
+
+User-agent: GPTBot
+Disallow: /
+# as per https://platform.openai.com/docs/gptbot
+
+UserAgent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Crawl-delay: 60
+
+Sitemap: https://taz.de/sitemap-google-news.xml
+Sitemap: https://taz.de/sitemap-index.xml
+
+# Legal notice: taz.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access taz.de or collect or mine data without the express permission of taz.de is strictly prohibited.
+# taz.de may, in its discretion, permit certain automated access to certain taz.de pages.
+# If you would like to apply for permission to crawl taz.de, collect or use data, please email lizenzen@taz.de.

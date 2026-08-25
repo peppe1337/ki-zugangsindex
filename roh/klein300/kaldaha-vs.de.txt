@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#F97316" />
+ 
+<title>Perabet Giriş 2026 — Güncel Adres ve Güvenli Erişim</title>
+ 
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="google-site-verification" content="5exQ6KUYZLila3zf65kpLKLVxbU8qPFIwZsR32UCm_c" />
+<meta name="description" content="Perabet güncel giriş adresi 2026. Resmi SSL korumalı bağlantı, adım adım erişim rehberi ve sık sorulan sorular." />
+<meta name="keywords" content="Perabet, Perabet giriş, Perabet güncel adres, Perabet 2026, Perabet resmi giriş" />
+<meta name="author" content="Perabet" />
+<meta name="language" content="Turkish" />
+<meta name="geo.region" content="TR" />
+<meta name="revisit-after" content="1 days" />
+ 
+<link rel="canonical" href="https://kaldaha-vs.de/" />
+<link rel="alternate" hreflang="tr" href="https://m.perabetgiris-resmivip.icu/" />
+<link rel="alternate" hreflang="x-default" href="https://m.perabetgiris-resmivip.icu/" />
+<link rel="icon" type="image/x-icon" href="https://m.perabetgiris-resmivip.icu/favicon.ico" />
+<link rel="apple-touch-icon" href="https://m.perabetgiris-resmivip.icu/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://m.perabetgiris-resmivip.icu/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://m.perabetgiris-resmivip.icu/favicon-16x16.png" />
+ 
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:site_name" content="Perabet" />
+<meta property="og:title" content="Perabet Giriş 2026 — Güncel Adres ve Güvenli Erişim" />
+<meta property="og:description" content="Perabet güncel giriş adresi 2026. Resmi SSL korumalı bağlantı, adım adım erişim rehberi ve sık sorulan sorular." />
+<meta property="og:url" content="https://m.perabetgiris-resmivip.icu/" />
+<meta property="og:image" content="https://m.perabetgiris-resmivip.icu/logo.png" />
+ 
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Perabet" />
+<meta name="twitter:title" content="Perabet Giriş 2026 — Güncel Adres ve Güvenli Erişim" />
+<meta name="twitter:description" content="Perabet güncel giriş adresi 2026. Resmi SSL korumalı bağlantı, adım adım erişim rehberi ve sık sorulan sorular." />
+<meta name="twitter:image" content="https://m.perabetgiris-resmivip.icu/logo.png" />
+ 
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Perabet","url":"https://m.perabetgiris-resmivip.icu/","logo":"https://m.perabetgiris-resmivip.icu/logo.png","sameAs":["https://twitter.com/Perabet","https://t.me/PerabetTR","https://instagram.com/Perabet"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Perabet","url":"https://m.perabetgiris-resmivip.icu/","inLanguage":"tr"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://m.perabetgiris-resmivip.icu/","name":"Ana Sayfa"}},{"@type":"ListItem","position":2,"item":{"@id":"https://m.perabetgiris-resmivip.icu/giris/","name":"Perabet Giriş"}}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"FAQPage",
+  "mainEntity":[
+    {"@type":"Question","name":"Perabet güncel giriş adresi nedir?","acceptedAnswer":{"@type":"Answer","text":"Perabet güncel giriş adresi bu sayfada yayınlanmaktadır. Adres 256-bit SSL ile korunur ve düzenli olarak doğrulanır."}},
+    {"@type":"Question","name":"Perabet sitesi açılmıyor ne yapmalıyım?","acceptedAnswer":{"@type":"Answer","text":"DNS önbelleğini temizleyin veya 1.1.1.1 gibi alternatif DNS kullanın. Bu sayfadaki güncel link her zaman aktiftir."}},
+    {"@type":"Question","name":"Perabet mobil giriş nasıl yapılır?","acceptedAnswer":{"@type":"Answer","text":"Masaüstü ile aynı güncel link mobil cihazlarda da çalışır. Mobil tarayıcınızdan doğrudan erişebilirsiniz."}},
+    {"@type":"Question","name":"Perabet şifremi unuttum ne yapmalıyım?","acceptedAnswer":{"@type":"Answer","text":"Giriş sayfasındaki Şifremi Unuttum bağlantısını kullanın. E-postanıza sıfırlama linki gönderilir."}},
+    {"@type":"Question","name":"Perabet güvenilir mi?","acceptedAnswer":{"@type":"Answer","text":"Perabet Curaçao lisansı ile faaliyet gösterir, tüm bağlantılar SSL ile şifrelenir ve 7/24 destek hizmeti sunulur."}}
+  ]
+}
+</script>
+ 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" crossorigin="anonymous">
+ 
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+ 
+:root {
+    --bg:      #0C0C0C;
+    --bg2:     #141414;
+    --accent:  #F97316;
+    --text:    #EFEFEF;
+    --muted:   #888;
+    --border:  #232323;
+    --max:     820px;
+}
+ 
+body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 1rem;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+ 
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; height: auto; display: block; }
+ 
+.wrap {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 0 1.25rem;
+}
+ 
+/* header */
+header {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(12,12,12,.94);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+    padding: .9rem 0;
+}
+header .wrap {
+    display: flex; align-items: center;
+    justify-content: space-between;
+}
+header .logo img { height: 30px; width: auto; }
+header nav { display: flex; align-items: center; gap: 1.5rem; }
+header nav a { color: var(--muted); font-size: .88rem; font-weight: 500; }
+header nav a:hover { color: var(--text); text-decoration: none; }
+header .cta {
+    background: var(--accent); color: #000 !important;
+    padding: .4rem 1.1rem; border-radius: 6px;
+    font-weight: 700; font-size: .88rem;
+    transition: opacity .2s;
+}
+header .cta:hover { opacity: .85; text-decoration: none; }
+.burger { display: none; font-size: 1.5rem; color: var(--text); cursor: pointer; }
+ 
+/* drawer */
+#mnav { display: none; }
+.drawer {
+    position: fixed; top: 0; right: 0; z-index: 90;
+    width: 240px; height: 100vh;
+    background: #111; border-left: 1px solid var(--border);
+    padding: 1.5rem 1.2rem;
+    display: flex; flex-direction: column; gap: .5rem;
+    transform: translateX(100%); transition: transform .28s ease;
+}
+#mnav:checked ~ .drawer { transform: translateX(0); }
+.drawer .cls { align-self: flex-end; font-size: 1.3rem; cursor: pointer; color: var(--muted); margin-bottom: .5rem; }
+.drawer a { color: var(--muted); font-size: .95rem; font-weight: 500; padding: .5rem 0; border-bottom: 1px solid var(--border); }
+.drawer a:last-child { border-bottom: none; }
+.drawer a:hover { color: var(--text); text-decoration: none; }
+ 
+/* breadcrumb */
+.bc {
+    font-size: .8rem; color: var(--muted);
+    padding: .8rem 0 0;
+    display: flex; gap: .4rem; flex-wrap: wrap;
+}
+.bc a { color: var(--muted); }
+.bc a:hover { color: var(--text); }
+.bc span { color: var(--border); }
+ 
+/* hero */
+#hero { padding: 3.5rem 0 2.5rem; border-bottom: 1px solid var(--border); }
+.hero-date {
+    font-size: .78rem; color: var(--muted); margin-bottom: 1rem;
+    display: flex; align-items: center; gap: .4rem;
+}
+.hero-date i { color: var(--accent); }
+#hero h1 {
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    font-weight: 700; line-height: 1.2;
+    letter-spacing: -.02em; margin-bottom: 1rem;
+}
+#hero h1 em { color: var(--accent); font-style: normal; }
+#hero p { color: var(--muted); margin-bottom: 1.5rem; max-width: 600px; }
+.hero-btns { display: flex; gap: .8rem; flex-wrap: wrap; margin-bottom: 1.8rem; }
+.btn {
+    display: inline-flex; align-items: center; gap: .4rem;
+    padding: .7rem 1.6rem; border-radius: 6px;
+    font-weight: 600; font-size: .9rem;
+    transition: opacity .2s, transform .15s;
+}
+.btn:hover { opacity: .85; transform: translateY(-1px); text-decoration: none; }
+.btn-fill { background: var(--accent); color: #000; }
+.btn-ghost { border: 1px solid var(--border); color: var(--muted); }
+.btn-ghost:hover { border-color: var(--accent); color: var(--text); }
+.callout {
+    background: var(--bg2); border-left: 3px solid var(--accent);
+    padding: .85rem 1.1rem; border-radius: 0 6px 6px 0;
+    font-size: .9rem; color: var(--muted);
+}
+.callout strong { color: var(--text); }
+ 
+/* prose sections */
+.section { padding: 2.5rem 0; border-bottom: 1px solid var(--border); }
+.section h2 {
+    font-size: 1.25rem; font-weight: 700;
+    margin-bottom: .8rem; color: var(--text);
+}
+.section p { color: var(--muted); margin-bottom: .8rem; }
+.section p:last-child { margin-bottom: 0; }
+.section strong { color: var(--text); }
+ 
+/* steps — inline list */
+.steps { list-style: none; counter-reset: s; margin: 1rem 0; }
+.steps li {
+    counter-increment: s;
+    display: flex; gap: 1rem;
+    padding: .8rem 0;
+    border-bottom: 1px solid var(--border);
+    align-items: flex-start;
+}
+.steps li:last-child { border-bottom: none; }
+.steps li::before {
+    content: counter(s);
+    flex-shrink: 0; width: 26px; height: 26px;
+    background: var(--accent); color: #000;
+    border-radius: 4px; display: flex;
+    align-items: center; justify-content: center;
+    font-size: .8rem; font-weight: 800; margin-top: .1rem;
+}
+.steps li p { color: var(--muted); margin: 0; font-size: .93rem; }
+.steps li strong { color: var(--text); display: block; margin-bottom: .1rem; }
+ 
+/* faq */
+.faq-list { margin: 1rem 0; display: flex; flex-direction: column; gap: .5rem; }
+.faq {
+    background: var(--bg2); border: 1px solid var(--border);
+    padding: .9rem 1.1rem; border-radius: 6px;
+}
+.faq h4 { font-size: .92rem; font-weight: 600; color: var(--text); margin-bottom: .25rem; }
+.faq p  { font-size: .88rem; color: var(--muted); margin: 0; }
+ 
+/* footer */
+footer {
+    padding: 2rem 0 1.5rem;
+    border-top: 1px solid var(--border);
+    margin-top: .5rem;
+}
+footer .wrap { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1.5rem; }
+footer .f-logo img { height: 26px; filter: brightness(0) invert(1); margin-bottom: .4rem; }
+footer .f-logo p { font-size: .78rem; color: var(--muted); }
+footer .f-links { display: flex; flex-direction: column; gap: .3rem; }
+footer .f-links a { font-size: .82rem; color: var(--muted); }
+footer .f-links a:hover { color: var(--text); text-decoration: none; }
+footer .f-social { display: flex; gap: .5rem; }
+footer .f-social a {
+    width: 32px; height: 32px; display: flex; align-items: center;
+    justify-content: center; border-radius: 5px;
+    background: var(--bg2); border: 1px solid var(--border);
+    color: var(--muted); font-size: .95rem;
+    transition: background .2s, color .2s;
+}
+footer .f-social a:hover { background: var(--accent); color: #000; text-decoration: none; }
+footer .f-bottom { width: 100%; border-top: 1px solid var(--border); padding-top: 1rem; font-size: .75rem; color: var(--muted); }
+ 
+/* responsive */
+@media (max-width: 640px) {
+    header nav { display: none; }
+    .burger { display: block; }
+    #hero { padding: 2.5rem 0 2rem; }
+    .hero-btns { flex-direction: column; }
+    .btn { justify-content: center; }
+    footer .wrap { flex-direction: column; }
+}
+</style>
+</head>
+<body>
+ 
+<input type="checkbox" id="mnav" style="display:none" aria-hidden="true">
+ 
+<header>
+    <div class="wrap">
+        <div class="logo">
+            <a href="https://m.perabetgiris-resmivip.icu/" title="Perabet">
+                <img src="https://m.perabetgiris-resmivip.icu/logo.png" alt="Perabet logo">
+            </a>
+        </div>
+        <nav>
+            <a href="#giris" title="Giriş Rehberi">Giriş Rehberi</a>
+            <a href="#sss" title="SSS">SSS</a>
+            <a href="#hakkinda" title="Hakkında">Hakkında</a>
+            <a href="https://m.perabetgiris-resmivip.icu/giris/" class="cta" title="Giriş Yap">
+                <i class="bi bi-arrow-right"></i> Giriş Yap
+            </a>
+        </nav>
+        <label for="mnav" class="burger" aria-label="Menü"><i class="bi bi-list"></i></label>
+    </div>
+</header>
+ 
+<nav class="drawer" aria-label="Mobil menü">
+    <label for="mnav" class="cls" aria-label="Kapat"><i class="bi bi-x-lg"></i></label>
+    <a href="#giris" onclick="document.getElementById('mnav').checked=false">Giriş Rehberi</a>
+    <a href="#sss" onclick="document.getElementById('mnav').checked=false">SSS</a>
+    <a href="#hakkinda" onclick="document.getElementById('mnav').checked=false">Hakkında</a>
+    <a href="https://m.perabetgiris-resmivip.icu/giris/" style="color:var(--accent);font-weight:700">Giriş Yap</a>
+</nav>
+ 
+<main>
+<div class="wrap">
+ 
+    <nav aria-label="Breadcrumb" class="bc">
+        <a href="https://m.perabetgiris-resmivip.icu/" title="Ana Sayfa">Ana Sayfa</a>
+        <span>/</span>
+        <span>Perabet Giriş 2026</span>
+    </nav>
+ 
+    <!-- HERO -->
+    <section id="hero">
+        <div class="hero-date">
+            <i class="bi bi-check-circle-fill"></i>
+            Doğrulandı: <time datetime="2026-06-23T10:00:00Z">23 Haziran 2026</time>
+        </div>
+        <h1>Perabet <em>Güncel Giriş</em> Adresi 2026 — Resmi ve Güvenli Erişim</h1>
+        <p>Perabet güncel giriş adresini arıyorsanız doğru yerdesiniz. Bu sayfadaki bağlantı SSL sertifikalı olup doğrudan platformun ana sayfasına yönlendirir, herhangi bir ara sayfa veya yönlendirme zinciri yoktur.</p>
+        <div class="hero-btns">
+            <a href="https://m.perabetgiris-resmivip.icu/giris/" class="btn btn-fill" title="Perabet resmi giriş adresi">
+                <i class="bi bi-arrow-right-circle"></i> Perabet'e Giriş Yap
+            </a>
+            <a href="#giris" class="btn btn-ghost" title="Adım adım rehber">
+                Adımları Gör
+            </a>
+        </div>
+        <div class="callout">
+            <strong>Hızlı cevap:</strong> Perabet giriş bağlantısı 256-bit SSL ile korunmaktadır. Yukarıdaki turuncu butona tıklayarak platforma doğrudan ulaşabilirsiniz. Ortalama giriş süresi 30 saniyedir.
+        </div>
+    </section>
+ 
+    <!-- GİRİŞ REHBERİ -->
+    <section id="giris" class="section">
+        <h2>Perabet Giriş — Adım Adım Rehber</h2>
+        <p>Platformun giriş süreci üç adımdan oluşuyor. Aşağıdaki adımları sırayla takip ederek hem masaüstü hem de mobil cihazlardan sorunsuz giriş yapabilirsiniz.</p>
+        <ol class="steps">
+            <li>
+                <p><strong>Güncel bağlantıya tıklayın</strong>Sayfadaki turuncu butona tıklayın. Bağlantı doğrudan Perabet ana sayfasına yönlendirir; ara yönlendirme veya reklam sayfası yoktur.</p>
+            </li>
+            <li>
+                <p><strong>Kullanıcı bilgilerinizi girin</strong>Kullanıcı adı ve şifrenizi ilgili alanlara yazın. Tarayıcınızın otomatik doldurma özelliği aktifse kaydedilen bilgilerle tek tıklamayla devam edebilirsiniz.</p>
+            </li>
+            <li>
+                <p><strong>Hesabınıza erişin</strong>Doğrulama tamamlandıktan sonra hesap panelinize yönlendirilirsiniz. Oturum varsayılan olarak 24 saat açık kalır.</p>
+            </li>
+        </ol>
+        <p>Giriş adresini tarayıcınıza yer imi olarak kaydetmek için Chrome'da <strong>Ctrl+D</strong>, Safari'de <strong>Cmd+D</strong> kısayolunu kullanabilirsiniz. Böylece bir sonraki girişinizde adres aramak zorunda kalmazsınız.</p>
+        <p style="margin-top:1rem">
+            <a href="https://m.perabetgiris-resmivip.icu/giris/" class="btn btn-fill" title="Perabet giriş yap" style="display:inline-flex">
+                <i class="bi bi-arrow-right-circle"></i> Hemen Giriş Yap
+            </a>
+        </p>
+    </section>
+ 
+    <!-- SSS -->
+    <section id="sss" class="section">
+        <h2>Sık Sorulan Sorular</h2>
+        <p>Perabet giriş ve erişim hakkında en çok gelen soruları derledik.</p>
+        <div class="faq-list">
+            <div class="faq">
+                <h4>Perabet güncel giriş adresi nedir?</h4>
+                <p>Bu sayfada yayınlanan adres SSL sertifikalıdır ve düzenli olarak doğrulanır. Sayfadaki turuncu butona tıklayarak platforma ulaşabilirsiniz.</p>
+            </div>
+            <div class="faq">
+                <h4>Perabet sitesi açılmıyor ne yapmalıyım?</h4>
+                <p>DNS önbelleğini temizleyin veya 1.1.1.1 gibi alternatif bir DNS sunucusu deneyin. Sorun devam ederse farklı bir tarayıcıyla erişmeyi deneyin. Bu sayfadaki link her zaman aktiftir.</p>
+            </div>
+            <div class="faq">
+                <h4>Perabet mobil giriş nasıl yapılır?</h4>
+                <p>Masaüstü ile aynı güncel link mobil cihazlarda da çalışır. Ek bir uygulama indirmenize gerek yoktur; mobil tarayıcınızdan doğrudan erişebilirsiniz.</p>
+            </div>
+            <div class="faq">
+                <h4>Perabet şifremi unuttum ne yapmalıyım?</h4>
+                <p>Giriş sayfasındaki "Şifremi Unuttum" bağlantısını kullanın. Kayıtlı e-posta adresinize sıfırlama linki gönderilir ve işlem birkaç dakika içinde tamamlanır.</p>
+            </div>
+            <div class="faq">
+                <h4>Perabet güvenilir mi?</h4>
+                <p>Platform Curaçao lisansıyla faaliyet gösterir. Tüm giriş bağlantıları 256-bit SSL ile korunur ve 7/24 canlı destek hizmeti sunulmaktadır.</p>
+            </div>
+        </div>
+    </section>
+ 
+    <!-- HAKKINDA -->
+    <section id="hakkinda" class="section" style="border-bottom:none">
+        <h2>Perabet Hakkında</h2>
+        <p>Perabet, Curaçao lisansı kapsamında faaliyet gösteren dijital bahis platformudur. Platform Türkiye ve çevre bölgelerden kullanıcılara hizmet vermekte olup güvenlik altyapısı düzenli olarak güncellenmektedir.</p>
+        <p>Bağlantı güvenliği açısından: tüm giriş noktaları 256-bit AES ve TLS 1.3 protokolüyle şifrelenmektedir. Lisans numarası platform alt bilgisinde yer alır ve Curaçao Oyun Komisyonu tarafından yıllık denetlenir.</p>
+        <p>Destek kanalları 7/24 aktif olup canlı sohbet ve Telegram üzerinden ortalama 90 saniyede yanıt alınabilmektedir. Adres değişikliklerinde bildirim almak için Telegram kanalına katılmanızı öneririz.</p>
+    </section>
+ 
+</div>
+</main>
+ 
+<footer>
+    <div class="wrap">
+        <div class="f-logo">
+            <a href="https://m.perabetgiris-resmivip.icu/" title="Perabet">
+                <img src="https://m.perabetgiris-resmivip.icu/logo.png" alt="Perabet logo">
+            </a>
+            <p>© 2026 Perabet · Curaçao Lisanslı</p>
+        </div>
+        <div class="f-links">
+            <a href="https://m.perabetgiris-resmivip.icu/" title="Ana Sayfa">Ana Sayfa</a>
+            <a href="https://m.perabetgiris-resmivip.icu/giris/" title="Giriş">Giriş</a>
+            <a href="https://m.perabetgiris-resmivip.icu/bonus/" title="Bonus">Bonus</a>
+            <a href="https://m.perabetgiris-resmivip.icu/mobil/" title="Mobil Giriş">Mobil Giriş</a>
+        </div>
+        <div class="f-social">
+            <a href="https://twitter.com/Perabet" aria-label="Twitter" title="Twitter"><i class="bi bi-twitter"></i></a>
+            <a href="https://instagram.com/Perabet" aria-label="Instagram" title="Instagram"><i class="bi bi-instagram"></i></a>
+            <a href="https://t.me/PerabetTR" aria-label="Telegram" title="Telegram"><i class="bi bi-telegram"></i></a>
+            <a href="https://facebook.com/Perabet" aria-label="Facebook" title="Facebook"><i class="bi bi-facebook"></i></a>
+        </div>
+        <div class="f-bottom">
+            18+ · Sorumlu oynayın · Kumar bağımlılığı yardım hattı: <a href="tel:182" title="182">182</a> ·
+            <a href="https://m.perabetgiris-resmivip.icu/gizlilik/" title="Gizlilik">Gizlilik</a> ·
+            <a href="https://m.perabetgiris-resmivip.icu/kullanim-kosullari/" title="Kullanım Koşulları">Kullanım Koşulları</a>
+        </div>
+    </div>
+</footer>
+ 
+</body>
+</html>

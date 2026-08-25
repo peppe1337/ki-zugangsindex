@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /jubelcode/*
+Disallow: /readme.html
+Disallow: /*?
+Disallow: /?s=
+Disallow: /en
+Allow: /*.css
+Allow: /*.js
+Host: https://www.famila-nordost.de

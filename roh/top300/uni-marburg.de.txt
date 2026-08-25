@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /html2pdf
+Disallow: /search_rss
+Disallow: /search
+Disallow: /organization_chart
+Disallow: /de/hrz/dienste/campus-management-system/qis
+Disallow: /de/hrz/dienste/impressum-hrz-dienste
+Disallow: /en/hrz/services/legal-for-hrz-services
+
+
+User-agent: Googlebot
+Disallow: */ffdb_index?*
+Disallow: */people_alphabetical
+Disallow: */people_structural
+Disallow: */people_details
+Disallow: */search?*
+Disallow: */search_rss?*
+Disallow: */html2pdf_form
+Disallow: */documentation_list_all_documents
+Disallow: */st_alphabetical_view?startswith=*
+Disallow: */organization_chart*

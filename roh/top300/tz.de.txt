@@ -1,0 +1,56 @@
+# robots.txt www.tz.de
+# Legal notice: www.tz.de expressly reserves the right to use its content for commercial text and data mining (§ 44b UrhG).
+# The use of robots or other automated means to access www.tz.de or collect or mine data without the express permission of www.tz.de is strictly prohibited.
+
+user-agent: *
+Allow: /ueber-uns/
+Allow: /advertorials/
+Disallow: /
+
+Sitemap: https://www.tz.de/news.xml
+
+user-agent: Googlebot
+user-agent: Googlebot-Image
+user-agent: Googlebot-Video
+user-agent: Googlebot-News
+user-agent: Storebot-Google
+user-agent: Google-InspectionTool
+user-agent: Google-CloudVertexBot
+user-agent: APIs-Google
+user-agent: AdsBot-Google-Mobile
+user-agent: AdsBot-Google
+user-agent: Mediapartners-Google
+User-Agent: iTMS
+user-agent: bingbot
+user-agent: AdIdxBot
+user-agent: BingPreview
+user-agent: DuckDuckBot
+user-agent: Qwantify
+user-agent: facebookexternalhit
+user-agent: Twitterbot
+user-agent: LinkedInBot
+user-agent: Pinterestbot
+user-agent: Slackbot
+user-agent: TelegramBot
+user-agent: WhatsApp
+user-agent: Discordbot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: AmazonAdBot
+User-agent: trendictionbot
+Allow: /
+Disallow: /sub/landing
+Disallow: /sub/paywall/js/
+Disallow: /lightweight-ajax
+Disallow: /suche/
+Disallow: /test/
+Disallow: /fdn/bootstrap/
+Disallow: /bi/bootstrap/
+Disallow: /bi/doop/
+Disallow: /bi/dev/
+Disallow: /sso/
+Disallow: /west/assets/common/js/fallback.js

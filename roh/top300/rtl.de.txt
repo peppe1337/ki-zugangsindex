@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /archiv/
+Disallow: /kreditkarte/infos/
+Disallow: /mbundle/
+Disallow: /partnersuche/registration/?user
+Disallow: /pf/api/*
+Disallow: /pur/
+Disallow: /suche/
+Disallow: /vergleiche/graphs/
+Disallow: /vergleiche/*?xpreview*
+
+User-agent: GPTBot
+Disallow: /
+Allow: /vergleiche/
+Allow: /casinos/
+Allow: /sportwetten/
+Allow:/tools/
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /vergleiche/
+Allow: /casinos/
+Allow: /sportwetten/
+Allow:/tools/
+
+User-agent: CCBot
+Disallow: /
+Allow: /vergleiche/
+Allow: /casinos/
+Allow: /sportwetten/
+Allow:/tools/
+
+Sitemap: https://www.rtl.de/sitemap-index.xml
+Sitemap: https://www.rtl.de/sitemap-news.xml
+Sitemap: https://www.rtl.de/sitemap-section.xml
+Sitemap: https://www.rtl.de/sitemap-video.xml
+Sitemap: https://www.rtl.de/tools/zahnzusatzversicherung/sitemap.xml
+Sitemap: https://www.rtl.de/tools/hoerbuecher/sitemap.xml
+Sitemap: https://www.rtl.de/tools/gps-tracker/sitemap.xml
+Sitemap: https://www.rtl.de/tools/sprachen-lernen/sitemap.xml
+Sitemap: https://www.rtl.de/tools/lieferservice/sitemap.xml
+Sitemap: https://www.rtl.de/tools/abnehmen/sitemap.xml
+Sitemap: https://www.rtl.de/tools/tierversicherung/sitemap.xml
+Sitemap: https://www.rtl.de/tools/kochbox/sitemap-0.xml

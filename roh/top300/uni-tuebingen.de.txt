@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /einrichtungen/verwaltung/stabsstellen/hochschulkommunikation/service-fuer-beschaeftigte/onlinekommunikation/styleguide/ci-elemente-und-funktionen/funktionen-extensions/news/
+
+User-agent: PetalBot
+Disallow: /

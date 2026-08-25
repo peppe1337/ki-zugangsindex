@@ -1,0 +1,1565 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8">
+		<!--
+	Coded by mediagrafix - Christoph Rosenberger-Abeler 2019
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+		<base href="https://www.langeoognews.de">
+		<meta name="twitter:card" content="summary">
+		<link rel="stylesheet" type="text/css" href="/typo3temp/assets/css/c28b45e710.css?1655272566" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/fonts.css?1664879359" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/bootstrap/bootstrap.min.css?1545418031" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/bootstrap_overrides.css?1553005571" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/userFunc/css/user.css?1786626483" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/phpfiles.css?1557929551" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/general.css?1554369187" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/animation.css?1551090061" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/grid.css?1785606226" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/typo.css?1775748523" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/navigation.css?1650451343" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/banner.css?1547819542" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/wbgzones.css?1587386552" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/buttons.css?1785592849" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/stickybuttons.css?1746451127" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/news.css?1785596442" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/store.css?1715371817" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/store-navigation.css?1550068597" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/com.css?1694186135" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/lightbox.css?1587983801" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/cal/tcal.css?1533052397" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/login.css?1583405828" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/loginpopup.css?1601962703" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/overrides.css?1785935332" media="all">
+		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/css/paidcontent.css?1656313686" media="all">
+		<script src="/fileadmin/js/jquery-1.9.1.min.js?1554741570"></script>
+		<script src="/fileadmin/js/jquery.mobile.custom.min.js?1554739407"></script>
+		<script src="/fileadmin/js/jquery.cookie.min.js?1554739316"></script>
+		<script src="/fileadmin/js/jquery.cookiebar.min.js?1554739362"></script>
+		<script src="/fileadmin/js/bootstrap/bootstrap.min.js?1545418031"></script>
+		<script src="/fileadmin/js/functions.min.js?1782400556"></script>
+		<script src="/fileadmin/js/dogear.min.js?1554739243"></script>
+		<script src="/fileadmin/js/navigation.min.js?1554739608"></script>
+		<script src="/fileadmin/js/banner.min.js?1787577001"></script>
+		<script src="/fileadmin/js/togglefontsize.min.js?1594469682"></script>
+		<script src="/fileadmin/js/stickyoverlay.min.js?1554739632"></script>
+		<script src="/fileadmin/js/lightbox.min.js?1587983234"></script>
+		<script src="/fileadmin/js/cal/tcal.min.js?1554739739"></script>
+		<script src="/fileadmin/js/login-popup.js?1601965582"></script>
+		<script src="/fileadmin/js/start.min.js?1601958318"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="revisit-after" content="1 day">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#263C6D">
+		<meta name="google-site-verification" content="VbCftcl_la5Nai_bD9wi-Xog0SsOj497FlA-4eH3MQc">
+		<meta name="facebook-domain-verification" content="iek1p0szzsp31dorel9gjfd2m6x63v">
+		<link rel="manifest" href="manifest.json?1">
+		<title> Langeoog Aktuell - Langeoog News </title>
+		<link rel="shortcut icon" type="image/x-icon" href="https://www.langeoognews.de/fileadmin/templates/assets/logo_fav.jpg?v=3"> </head>
+	<body id="page-2">
+		<div class="tx-ln-cookies"> </div>
+		<meta property="fb:app_id" content="936016143115351">
+		<div id="background_wrap"></div>
+		<div class="page_margins">
+			<div class="page">
+				<div id="header" role="banner">
+					<div id="logo-wrapper">
+						<div id="topnav" role="contentinfo"></div>
+						<div id="logo"> <a href="/"><img title='Langeoognews' alt='Langeoognews' src='/fileadmin/templates/assets/logo.jpg' height='60' width='318'></a>
+							<p>Die täglichen Nachrichten von der Insel</p>
+							 </div>
+						<div id="logo-right">
+							<div id="tide">
+								<div class="tide-image"> &nbsp;<br><a target="_blank" href="https://www.pegelonline.wsv.de/webservices/zeitreihe/visualisierung?pegelnummer=9390010"><img src="https://kremer-langeoog.de/Service/tide.php"></a> </div>
+								<div class="tide-text">
+									<iframe src="/fileadmin/userFunc/html/cron/tide-for-iframe.html?var=1787631129" marginwidth="1" marginheight="0" scrolling="no" border="0" frameborder="0" name="I4"></iframe>
+									 </div>
+								 </div>
+							<div id="hochwasser">
+								<iframe src="/fileadmin/userFunc/html/cron/hochwasser-for-iframe.html?var=1787631129" marginwidth="1" marginheight="0" scrolling="no" border="0" frameborder="0" name="I4"></iframe>
+								 </div>
+							<div id="kleinanzeigen">
+								<h2>Dienstag 25.08.2026</h2>
+								<div id="tx-ln-com-count-kleinanzeigen"><a href="/leser-service/kleinanzeigen/">Kleinanzeigen<span class="tx-ln-com-count-numberCircle">2</span></a></div>
+								<div id="tx-ln-com-count-leserbriefe"><a href="/leser-service/leserbriefe/">Leserbriefe<span class="tx-ln-com-count-numberCircle">7</span></a></div>
+								 <a href="https://www.langeoognews.de/leser-service/diskussionen/">Pol. Diskussionen</a> </div>
+							 </div>
+						<div class="clearboth"></div>
+						 </div>
+					 </div>
+				<div id="dogear-s"> <a target="_blank" href="http://www.alte-post-langeoog.de"><img alt="" src="/fileadmin/userFunc/images/wbg/ecke/b176.gif"></a> </div>
+				<div id="menu-wrapper">
+					<div id="menu-inner"> <a href="#" onclick="togglestyle();return false;" id="aaamenu"><img src="/fileadmin/templates/assets/aaa.jpg"></a> <a href="#" id="loginOverlay"> <img src="/fileadmin/templates/assets/login_red.jpg"> </a>
+						<div id="cssmenu">
+							<div id="head-mobile">Langeoog News Menü</div>
+							<div class="button"></div>
+							<ul class="ash-menu">
+								<li><a>Langeoog Aktuell</a>
+									<ul class="ash-menu">
+										<li><a href="/langeoog-aktuell/" target="_self">Aktuelle News</a></li>
+										<li><a href="/langeoog-aktuell/aus-der-region/" target="_self">Aus der Region</a></li>
+										<li><a href="/langeoog-aktuell/news-archiv/" target="_self">News Archiv</a></li>
+										<li><a href="/langeoog-aktuell/hoesti-cartoons/" target="_self">Hösti-Cartoons</a></li>
+										<li><a href="/langeoog-aktuell/webcams/" target="_self">WebCams</a></li>
+										<li><a href="/langeoog-aktuell/youtube-kanal/" target="_self">Youtube-Kanal</a></li>
+										<li><a>Anreise</a>
+											<ul class="ash-menu">
+												<li><a href="/smartphone/fahrplan/" target="_self">Schiffahrt</a></li>
+												<li><a href="https://www.nordwestbahn.de/de/weser-ems/freizeit/langeoog" target="_blank" rel="noreferrer">NordWestBahn
+														<div class="external-link"></div>
+													</a></li>
+												<li><a href="/langeoog-aktuell/anreise/ais-schifffahrt/" target="_self">AIS Schifffahrt</a></li>
+												<li><a href="/langeoog-aktuell/anreise/schiffspositionen/" target="_self">Schiffspositionen</a></li>
+											</ul>
+										</li>
+										<li><a href="/langeoog-aktuell/luftverkehr/" target="_self">Luftverkehr</a></li>
+										<li><a href="/langeoog-aktuell/notdienstaerzte/" target="_self">Notdienstärzte</a></li>
+										<li><a href="/langeoog-aktuell/tiden-links-/-pegel/" target="_self">Tiden-Links / Pegel</a></li>
+										<li><a href="/langeoog-aktuell/wetter/" target="_self">Wetter</a></li>
+										<li><a href="/langeoog-aktuell/infos-fuer-seefahrer/" target="_self">Infos für Seefahrer</a></li>
+									</ul>
+								</li>
+								<li><a>Buddelei-Sport</a>
+									<ul class="ash-menu">
+										<li><a href="/buddelei-sport/sportnachrichten/" target="_self">Sportnachrichten</a></li>
+										<li><a href="/buddelei-sport/sportveranstaltungen/" target="_self">Sportveranstaltungen</a></li>
+										<li><a href="http://www.tsv-langeoog.com" target="_blank" rel="noreferrer">TSV Langeoog
+												<div class="external-link"></div>
+											</a></li>
+										<li><a>Volleyballturnier</a>
+											<ul class="ash-menu">
+												<li><a href="/buddelei-sport/volleyballturnier/aktuelles/" target="_self">Aktuelles</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/anmeldung/" target="_self">Anmeldung</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/teilnehmer/" target="_self">Teilnehmer</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/gruppen/ergebnisse/" target="_self">Gruppen/Ergebnisse</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/gruppen/ergebnisse-1/" target="_self">Schlusstabelle</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/bestenliste/" target="_self">Bestenliste</a></li>
+												<li><a href="/buddelei-sport/volleyballturnier/ablauf-modus/" target="_self">Ablauf &amp; Modus</a></li>
+											</ul>
+										</li>
+										<li><a href="http://www.beachvolleyball-langeoog.de/" target="_blank" rel="noreferrer">Beachvolleyball
+												<div class="external-link"></div>
+											</a></li>
+										<li><a>Schlagball</a>
+											<ul class="ash-menu">
+												<li><a href="/buddelei-sport/schlagball/aktuelles/" target="_self">Aktuelles</a></li>
+												<li><a href="/buddelei-sport/schlagball/termine/" target="_self">Termine</a></li>
+												<li><a href="/buddelei-sport/schlagball/regeln-1/" target="_self">Inselduell</a></li>
+												<li><a href="/buddelei-sport/schlagball/regeln/" target="_self">Regeln</a></li>
+												<li><a href="/buddelei-sport/schlagball/mannschaftsfotos/" target="_self">Mannschaftsfotos</a></li>
+												<li><a href="https://schlagball-langeoog.de" target="_blank" rel="noreferrer">Förderkreis e.V.
+														<div class="external-link"></div>
+													</a></li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li><a>Termine</a>
+									<ul class="ash-menu">
+										<li><a href="/termine/veranstaltungen/" target="_self">Veranstaltungen</a></li>
+										<li><a href="/termine/sportveranstaltungen/" target="_self">Sportveranstaltungen</a></li>
+										<li><a href="/termine/fuehrungen/" target="_self">Führungen</a></li>
+										<li><a href="/termine/kutterfahrten/" target="_self">Kutterfahrten</a></li>
+										<li><a href="/termine/ev-luth-kirche/" target="_self">Ev.-luth. Kirche</a></li>
+										<li><a href="/termine/kath-kirche/" target="_self">Kath. Kirche</a></li>
+										<li><a href="/termine/diakonie-bethanien/" target="_self">Diakonie Bethanien</a></li>
+										<li><a href="/termine/herzensdinge/" target="_self">Herzensdinge</a></li>
+										<li><a href="/langeoog-aktuell/entenrennen/" target="_self">Entenrennen</a></li>
+										<li><a href="http://www.kmk.org/service/ferien.html" target="_blank" rel="noreferrer">Ferientermine
+												<div class="external-link"></div>
+											</a></li>
+										<li><a href="/termine/abfallkalender/" target="_self">Abfallkalender</a></li>
+									</ul>
+								</li>
+								<li><a>Leser-Service</a>
+									<ul class="ash-menu">
+										<li><a>L'oog News PLUS</a>
+											<ul class="ash-menu">
+												<li><a href="/leser-service/loog-news-plus/was-ist-ln-plus/" target="_self">Was ist LN PLUS?</a></li>
+												<li><a href="/leser-service/loog-news-plus/login/" target="_self">Login</a></li>
+												<li><a href="/leser-service/loog-news-plus/registrierung/" target="_self">Registrierung</a></li>
+											</ul>
+										</li>
+										<li><a>Jahresmagazin</a>
+											<ul class="ash-menu">
+												<li><a href="/leser-service/jahresmagazin/aktuelle-themen/" target="_self">Aktuelle Themen</a></li>
+												<li><a href="/leser-service/jahresmagazin/verkaufsstellen/" target="_self">Verkaufsstellen</a></li>
+												<li><a href="/leser-service/jahresmagazin/versandservice/" target="_self">Versandservice</a></li>
+											</ul>
+										</li>
+										<li><a href="/leser-service/jan-erzaehlt/" target="_self">Jan erzählt</a></li>
+										<li><a>Unterkünfte</a>
+											<ul class="ash-menu">
+												<li><a href="/leser-service/unterkuenfte/uebersicht/" target="_self">Übersicht</a></li>
+												<li><a href="/leser-service/gastgeber-1/" target="_self">Gastgeber</a></li>
+												<li><a href="/leser-service/unterkuenfte/biete-unterkunft/" target="_self">Biete Unterkunft</a></li>
+												<li><a href="/leser-service/unterkuenfte/suche-unterkunft/" target="_self">Suche Unterkunft</a></li>
+												<li><a href="/leser-service/suche-unterkunft-1/anzeige-aufgeben/" target="_self">Anzeige aufgeben</a></li>
+											</ul>
+										</li>
+										<li><a href="/leser-service/branchenbuch/" target="_self">Branchenbuch</a></li>
+										<li><a href="https://www.langeoog.de/service/oeffnungszeiten" target="_blank" rel="noreferrer">Öffnungszeiten
+												<div class="external-link"></div>
+											</a></li>
+										<li><a href="/leser-service/schaufenster/" target="_self">Schaufenster</a></li>
+										<li><a href="/leser-service/kleinanzeigen/" target="_self">Kleinanzeigen</a></li>
+										<li><a href="/leser-service/leserbriefe/" target="_self">Leserbriefe</a></li>
+										<li><a href="/leser-service/diskussionen/" target="_self">Pol. Diskussionen</a></li>
+										<li><a href="http://solar-wtm-fri.ipsyscon.de/" target="_blank" rel="noreferrer">Energiekataster
+												<div class="external-link"></div>
+											</a></li>
+										<li><a href="http://www.langeoog-360grad.de/" target="_blank" rel="noreferrer">360°-Inselplan
+												<div class="external-link"></div>
+											</a></li>
+										<li><a>Verschiedenes</a>
+											<ul class="ash-menu">
+												<li><a href="/leser-service/verschiedenes/interessante-links/" target="_self">Interessante Links</a></li>
+												<li><a href="/leser-service/verschiedenes/computersounds/" target="_self">Computersounds</a></li>
+												<li><a href="/fileadmin/scripts/rss/rss.php" target="_blank">RSS Feed
+														<div class="external-link"></div>
+													</a></li>
+												<li><a href="/fileadmin/scripts/rss/news-sitemap.xml" target="_blank">Sitemap
+														<div class="external-link"></div>
+													</a></li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li><a>Smartphone</a>
+									<ul class="ash-menu">
+										<li><a href="/smartphone/fahrplan/" target="_self">Fahrplan</a></li>
+										<li><a href="/smartphone/schiffspositionen/" target="_self">Schiffspositionen</a></li>
+										<li><a href="/smartphone/schiffe-vor-langeoog/" target="_self">Schiffe vor Langeoog</a></li>
+										<li><a href="/smartphone/wetter/" target="_self">Wetter</a></li>
+										<li><a href="/smartphone/regenradar/" target="_self">Regenradar</a></li>
+										<li><a href="/smartphone/wassertemperatur/" target="_self">Wassertemperatur</a></li>
+										<li><a href="/smartphone/sonnenzeiten/" target="_self">Sonnenzeiten</a></li>
+										<li><a href="/smartphone/tiden-/-badezeiten/" target="_self">Tiden / Badezeiten</a></li>
+										<li><a href="/smartphone/ortsplan/" target="_self">Ortsplan</a></li>
+										<li><a href="/smartphone/impressum/" target="_self">Impressum</a></li>
+									</ul>
+								</li>
+							</ul>
+							 </div>
+						 </div>
+					 </div>
+				<div id="loginPopupWrapper">
+					<div id="loginPopup" class="loginPopupHide">
+						<p>Langeoog News Plus</p>
+						<form target="_top" method="post">
+							<div><input type="text" id="user" name="user" value="" placeholder="Benutzer"></div>
+							<div><input type="password" id="pass" name="pass" value="" data-rsa-encryption="" placeholder="Kennwort"></div>
+							<div><input type="submit" name="submit" value="Anmelden"></div>
+							<div class="felogin-hidden"> <input type="hidden" name="logintype" value="login"> <input type="hidden" name="pid" value="108"> </div>
+							 </form>
+						<p><a href="/leser-service/loog-news-plus/login/?tx_felogin_pi1[forgot]=1" rel="nofollow">Kennwort vergessen?</a></p>
+						<p><a href="/leser-service/loog-news-plus/registrierung/" rel="nofollow">Zur Registrierung?</a></p>
+						 </div>
+					 </div>
+				<div id="menu-wrapper-dummy"></div>
+				<div id="teaser">
+					<div id="banner-wrapper">
+						<div class="banner-bg" style="background-image: url('/fileadmin/userFunc/images/banner/luftbild16.jpg');"></div>
+						<div class="banner-image"><img alt="" src="/fileadmin/userFunc/images/banner/luftbild16.jpg"></div>
+						<div class="banner-bg-underlay" style="background-image: url('/fileadmin/userFunc/images/banner/luftbild16.jpg');"></div>
+						<div class="banner-image-underlay"><img alt="" src="/fileadmin/userFunc/images/banner/luftbild16.jpg"></div>
+						 </div>
+					<div class="wbg-wrapper">
+						<div class="wbg_zone_l"> <a target="_blank" title="_" href="https://www.langeooger-immobilien.de/"><img border=0 max-width="468" height="60" src="/fileadmin/userFunc/images/wbg/images/LangeoogerImmobilien.gif?t=1787631129"></a> </div>
+						<div class="wbg_zone_m"> <a target="_blank" title="_" href="https://www.martinruetter.com/emden-wilhelmshaven/angebote/training-auf-langeoog"><img border=0 max-width="234" height="60" src="/fileadmin/userFunc/images/wbg/images/Hundeschule.jpg?t=1787631129"></a> </div>
+						<div class="wbg_zone_r"> <a target="_blank" title="_" href="https://www.die-sandburg.com"><img border=0 max-width="468" height="60" src="/fileadmin/userFunc/images/wbg/images/Sandburg-468.gif?t=1787631129"></a> </div>
+						 </div>
+					<div class="clearboth"></div>
+					 </div>
+				<div id="main">
+					<div class="row no-gutters">
+						<div class="col-custom-eight">
+							<div class="col-custom-eight-content">
+								<div onclick="serviceGoto()" class="servicelinkto servicebutton">zu den Service-Informationen</div>
+								<div id="c127" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper"> </div>
+									 </div>
+								<div id="c128" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper"> </div>
+									 </div>
+								<div id="c1825" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper">
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="" target="_blank" href="https://bewegen-integrieren-foerdern.de/langeoog"> <img src="https://www.langeoognews.de/fileadmin/userFunc/images/news/torte.php?w=160&h=120&s=3560" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3> <a title="" target="_blank" href="https://bewegen-integrieren-foerdern.de/langeoog"> <span itemprop="headline">Fund-Raising: Sport- und Spielgeräte für Langeoog</span> </a> </h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description">
+														<p>Der TSL hat ein Fundraising für die Ausstattung des Sportpalastes gestartet. Bisher wurden <b>3560 € </b>der Zielsumme von 10.000 € gespendet.</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="" target="_blank" href="https://bewegen-integrieren-foerdern.de/langeoog">Zum Fundraising-Projekt...</a> </div>
+													 </div>
+												 </div>
+											 </div>
+										 </div>
+									 </div>
+								<div id="c175" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper"> </div>
+									 </div>
+								<div id="c201" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper"> </div>
+									 </div>
+								<div id="c3" class="frame frame-default frame-type-list frame-layout-900">
+									<div class="news">
+										<!--TYPO3SEARCH_end-->
+										<div class="news-list-view" id="news-container-3">
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="In eigener Sache: Facelift für Langeoog News" target="_self" href="/langeoog-aktuell/aktuelles/in-eigener-sache-facelift-fuer-langeoog-news/"> <img src="/fileadmin/_processed_/5/7/csm_in_arbeit_8915839558.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="In eigener Sache: Facelift für Langeoog News" target="_self" href="/langeoog-aktuell/aktuelles/in-eigener-sache-facelift-fuer-langeoog-news/"> <span itemprop="headline">In eigener Sache: Facelift für Langeoog News</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Zurzeit finden im Hintergrund Arbeiten an Langeoog News für ein lange geplantes Facelift statt. Daher kann es - auch wenn es eigentlich vermieden…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="In eigener Sache: Facelift für Langeoog News" target="_self" href="/langeoog-aktuell/aktuelles/in-eigener-sache-facelift-fuer-langeoog-news/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Vorfreude auf spätsommerliches Badewetter" target="_self" href="/langeoog-aktuell/aktuelles/vorfreude-auf-spaetsommerliches-badewetter/"> <img src="/fileadmin/_processed_/2/b/csm_20260824_3125_d38288c434.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Vorfreude auf spätsommerliches Badewetter" target="_self" href="/langeoog-aktuell/aktuelles/vorfreude-auf-spaetsommerliches-badewetter/"> <span itemprop="headline">Vorfreude auf spätsommerliches Badewetter</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Am Donnerstag wird es mit Temperaturen bis 24°C noch einmal Badewetter geben; auch Dienstag und Mittwoch werden fast durchgehend sonnig und warm. Mit…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Vorfreude auf spätsommerliches Badewetter" target="_self" href="/langeoog-aktuell/aktuelles/vorfreude-auf-spaetsommerliches-badewetter/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Messboje aus den Niederlanden" target="_self" href="/langeoog-aktuell/aktuelles/messboje-aus-den-niederlanden/"> <img src="/fileadmin/_processed_/6/4/csm_WhatsAppImage2026-08-23at114208_82a3586f54.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Messboje aus den Niederlanden" target="_self" href="/langeoog-aktuell/aktuelles/messboje-aus-den-niederlanden/"> <span itemprop="headline">Messboje aus den Niederlanden</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Eine weit gereiste Messboje ist jetzt am Langeooger Strand angespült worden. Sie gehört der Rĳkswaterstaat (RWS), eine Behörde in den Niederlanden,…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Messboje aus den Niederlanden" target="_self" href="/langeoog-aktuell/aktuelles/messboje-aus-den-niederlanden/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Clemens Bittlinger in der Inselschule" target="_self" href="/langeoog-aktuell/aktuelles/clemens-bittlinger-in-der-inselschule/"> <img src="/fileadmin/_processed_/1/6/csm_IMG-20260821-WA0003_18688c4efd.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Clemens Bittlinger in der Inselschule" target="_self" href="/langeoog-aktuell/aktuelles/clemens-bittlinger-in-der-inselschule/"> <span itemprop="headline">Clemens Bittlinger in der Inselschule</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Ein einzigartiges Konzert war jetzt am Freitagvormittag dem kleinen Kreis der Klassen 1 bis 4 der Inselschule vorbehalten: Pfarrer und Liedermacher…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Clemens Bittlinger in der Inselschule" target="_self" href="/langeoog-aktuell/aktuelles/clemens-bittlinger-in-der-inselschule/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Letzte Reise plant Gedenkstelen" target="_self" href="/langeoog-aktuell/aktuelles/letzte-reise-plant-gedenkstelen/"> <img src="/fileadmin/_processed_/4/f/csm_WhatsAppImage2026-08-23at163249_35cef1c4f0.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Letzte Reise plant Gedenkstelen" target="_self" href="/langeoog-aktuell/aktuelles/letzte-reise-plant-gedenkstelen/"> <span itemprop="headline">Letzte Reise plant Gedenkstelen</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Der Langeooger Verein "Letzte Reise", dessen Mitglieder ehrenamtlich Familien von verstorbenen Langeoogern unterstützen und deren Bestattungen…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Letzte Reise plant Gedenkstelen" target="_self" href="/langeoog-aktuell/aktuelles/letzte-reise-plant-gedenkstelen/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Beach-Boßeln im XXL-Format" target="_self" href="/langeoog-aktuell/aktuelles/beach-bosseln-im-xxl-format/"> <img src="/fileadmin/_processed_/0/4/csm_20260822_114059_ade43f9ba1.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Beach-Boßeln im XXL-Format" target="_self" href="/langeoog-aktuell/aktuelles/beach-bosseln-im-xxl-format/"> <span itemprop="headline">Beach-Boßeln im XXL-Format</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Gemeinsam mit Hermann Janssen aus Stedesdorf hat der Langeogoer Bernhard "Bello" Mennen am Oststrand eine Beach Boßel Challenge im Großformat…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Beach-Boßeln im XXL-Format" target="_self" href="/langeoog-aktuell/aktuelles/beach-bosseln-im-xxl-format/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Katja Agena singt auf dem Kudamm in Berlin" target="_self" href="/langeoog-aktuell/aktuelles/katja-agena-singt-auf-dem-kudamm-in-berlin/"> <img src="/fileadmin/_processed_/b/c/csm_Bildschirmfoto2024-08-11um193209jpg_eb0359eac5.png" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Katja Agena singt auf dem Kudamm in Berlin" target="_self" href="/langeoog-aktuell/aktuelles/katja-agena-singt-auf-dem-kudamm-in-berlin/"> <span itemprop="headline">Katja Agena singt auf dem Kudamm in Berlin</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Katja Agena wird am Mittwoch, 26. August einen ganz besonderen Auftritt haben. Sie singt beim Urbschat Get Together auf dem Kurfürstendamm in Berlin.…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Katja Agena singt auf dem Kudamm in Berlin" target="_self" href="/langeoog-aktuell/aktuelles/katja-agena-singt-auf-dem-kudamm-in-berlin/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Kutterfahrten mit der MÖWE am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/kutterfahrten-mit-der-moewe-am-donnerstag-1/"> <img src="/fileadmin/_processed_/b/a/csm_DSCI0534_21c1e08ac0.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Kutterfahrten mit der MÖWE am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/kutterfahrten-mit-der-moewe-am-donnerstag-1/"> <span itemprop="headline">Kutterfahrten mit der MÖWE am Donnerstag</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Am Donnerstag, 27. August, geht es an Bord eines echten Krabbenkutters in See. Der Fang wird gleich vor Ort gekocht, gepult und natürlich gegessen.…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Kutterfahrten mit der MÖWE am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/kutterfahrten-mit-der-moewe-am-donnerstag-1/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Rundfahrt &quot;Südliche Nordsee&quot; am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/rundfahrt-suedliche-nordsee-am-donnerstag/"> <img src="/fileadmin/_processed_/3/0/csm_LoogII_00dcd7a745.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Rundfahrt &quot;Südliche Nordsee&quot; am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/rundfahrt-suedliche-nordsee-am-donnerstag/"> <span itemprop="headline">Rundfahrt &quot;Südliche Nordsee&quot; am Donnerstag</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Die Schiffahrt der Inselgemeinde Langeoog bietet am Donnerstag, 27. August ab 14.00 Uhr eine Rundfahrt "Südliche Nordsee" an. Karten gibt es zum Preis…</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Rundfahrt &quot;Südliche Nordsee&quot; am Donnerstag" target="_self" href="/langeoog-aktuell/aktuelles/rundfahrt-suedliche-nordsee-am-donnerstag/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Hösti Cartoons®: Harmonie" target="_self" href="/langeoog-aktuell/aktuelles/hoesti-cartoonsr-harmonie-1/"> <img src="/fileadmin/_processed_/9/8/csm_Bildschirmfoto2026-08-22um144243_c55593546f.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Hösti Cartoons®: Harmonie" target="_self" href="/langeoog-aktuell/aktuelles/hoesti-cartoonsr-harmonie-1/"> <span itemprop="headline">Hösti Cartoons®: Harmonie</span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description">
+															<p>Bei diesem Thema sind sich wohl alle einig ...</p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Hösti Cartoons®: Harmonie" target="_self" href="/langeoog-aktuell/aktuelles/hoesti-cartoonsr-harmonie-1/"> mehr </a> </div>
+														 </div>
+													 </div>
+												 </div>
+											 </div>
+										<!--TYPO3SEARCH_begin-->
+										 </div>
+									 </div>
+								<div id="c126" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper">
+										<div class="wbg_zone_b"> <a target="_blank" title="WFV" href="https://www.wfv-gmbh.de/s#/Deutschland/Nordsee/Langeoog?adults=2"> <img border=0 style="max-width:100%; height=auto;" src="/fileadmin/userFunc/images/wbg/images/WFV_g_3.gif"> </a> </div>
+										 </div>
+									 </div>
+								<div id="c1676" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper">
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="" target="_blank" href="https://veranstaltung.langeoog.de/api/veranstaltung/?&veranstaltungen&veranstaltung_von=21.07.2026&veranstaltung_bis=20.08.2026&filter=doggykids&veranstalter_id=0&veranstaltungsort_id=0"> <img src="https://tsl.langeoognews.de/tsl/uploads/1784630221.jpg" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3> <a title="" target="_blank" href="https://veranstaltung.langeoog.de/api/veranstaltung/?&veranstaltungen&veranstaltung_von=21.07.2026&veranstaltung_bis=20.08.2026&filter=doggykids&veranstalter_id=0&veranstaltungsort_id=0"> <span itemprop="headline">Doggykids mit Simba & Pelle</span> </a> </h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description">
+														<p style="display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;">Von Montag bis Freitag gibt es wieder Schnitzeljagdprofis, Detektivtouren und Hunderallyes für Kinder ab 6 bzw. 9 Jahren, bis zum 20. August!</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="" target="_blank" href="https://veranstaltung.langeoog.de/api/veranstaltung/?&veranstaltungen&veranstaltung_von=21.07.2026&veranstaltung_bis=20.08.2026&filter=doggykids&veranstalter_id=0&veranstaltungsort_id=0">Mehr...</a> </div>
+													 </div>
+												 </div>
+											 </div>
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="" target="_blank" href="https://www.langeoognews.de/leser-service/jahresmagazin/aktuelle-themen/"> <img src="https://tsl.langeoognews.de/tsl/uploads/1776094410.jpg" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3> <a title="" target="_blank" href="https://www.langeoognews.de/leser-service/jahresmagazin/aktuelle-themen/"> <span itemprop="headline">Langeoog News Inselmagazin</span> </a> </h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description">
+														<p style="display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;">72 Seiten mit interessanten Artikeln zu einem breiten Themenspektrum rund um Langeoog von Natur, Kultur über Sport bis zum Küstenschutz.</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="" target="_blank" href="https://www.langeoognews.de/leser-service/jahresmagazin/aktuelle-themen/">Mehr...</a> </div>
+													 </div>
+												 </div>
+											 </div>
+										 </div>
+									 </div>
+								<div id="c256" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper">
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="Suche oder biete Buchungslücke" target="_self" href="/leser-service/unterkuenfte/biete-unterkunft/"> <img src="/fileadmin/userFunc/images/news/div/fewofrei.jpg?neu" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3><a title="Suche oder biete Buchungslücke" target="_self" href="/leser-service/unterkuenfte/biete-unterkunft/"> <span itemprop="headline">Suche oder biete Buchungslücke</span> </a></h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description">
+														<p>Hier findet man Buchungslücken oder Gäste, die eine Unterkunft suchen.</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="Suche oder Biete" target="_self" href="/leser-service/unterkuenfte/biete-unterkunft/"> Biete... </a><sup><span class="numberCircle"><span>25</span></span></sup>&nbsp;&nbsp; <a class="more" title="Suche oder Biete" target="_self" href="/leser-service/unterkuenfte/suche-unterkunft/"> Suche... </a><sup><span class="numberCircle"><span>0</span></span></sup> </div>
+													 </div>
+												 </div>
+											 </div>
+										<style type="text/css">
+.numberCircle {
+  display: inline-block;
+  line-height: 0px;
+  background-color: #cc1f00;
+  border-radius: 50%;
+  border: 1px solid;
+  font-size: 12px;
+  color: white;
+}
+.numberCircle span {
+  display: inline-block;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+</style>
+										 </div>
+									 </div>
+								<div id="c1374" class="frame frame-default frame-type-list frame-layout-0">
+									<div class="lntools-content-wrapper">
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="" target="_self" href="/langeoog-aktuell/uebersicht-kommentare/"> <img src="/fileadmin/userFunc/images/news/div/kommentare_160.jpg" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3> <a title="" target="_self" href="/langeoog-aktuell/uebersicht-kommentare/"> <span itemprop="headline">Letzter Kommentar zu einem Artikel</span> </a> </h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description">
+														<p>Zum Artikel <b>Das Betreten der Dünen ist nie eine gute Idee</b> hat Fiebig am 22.8.2026 19:33 einen Kommentar mit dem Titel "Betreten von Randdünen" veröffentlicht.</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="" target="_self" href="/langeoog-aktuell/uebersicht-kommentare/">Übersicht der jüngsten Kommentare</a> </div>
+													 </div>
+												 </div>
+											 </div>
+										 </div>
+									 </div>
+								<div id="c703" class="frame frame-default frame-type-html frame-layout-0">
+									<script type="text/javascript">
+  //
+  // Full-Banner links versetzen in Mobilansicht
+  //
+insert_1=2;  // Einfügepunkt Banner rechts in Smartphoneansicht
+insert_2=4;  // Einfügepunkt Banner Exklusiv
+insert_3=6;  // Einfügepunkt Banner mitte in Smartphoneansicht
+window.onload=function versch_banner(){
+  var elemente=document.getElementsByClassName('tx-news-list-item');
+  if(elemente.length>=insert_1) {
+    var wbg=document.getElementsByClassName('wbg_zone_mobile_r');
+    pelement=elemente[insert_1].parentNode;
+  var dupwbg=wbg[0].cloneNode(true);
+  // var nwbg = elemente[4].appendChild(dupwbg);
+  var nwbg = pelement.insertBefore(dupwbg,elemente[insert_1]);
+  var wbg=document.getElementsByClassName('wbg_zone_mobile_r');
+  wbg[1].innerHTML="";
+  }
+  else {
+  var elemente=document.getElementsByClassName('tx-news-detail-additional-left');
+  var wbg=document.getElementsByClassName('wbg_zone_mobile_r');
+  pelement=elemente[0].parentNode;
+  var dupwbg=wbg[0].cloneNode(true);
+  var nwbg = pelement.insertBefore(dupwbg,elemente[0]);
+  var wbg=document.getElementsByClassName('wbg_zone_mobile_r');
+  wbg[1].innerHTML="";
+    }
+  //
+  // Exklusiv-Banner einfügen
+  //
+  exklusiv=1;
+  if(exklusiv) {
+  var wbgr=document.getElementsByClassName('wbg_zone_b');
+  anz_b=wbgr.length;
+  if(elemente.length>=insert_2) {
+    pelement=elemente[insert_2].parentNode;
+    var dupwbgr=wbgr[0].cloneNode(true);
+    var eltern=wbgr[0].parentElement;
+    var nwbgr = pelement.insertBefore(dupwbgr,elemente[insert_2]);
+    wbgr=document.getElementsByClassName('wbg_zone_b');
+    if(anz_b>1) wbgr[1].innerHTML=wbgr[2].innerHTML;
+    else wbgr[1].innerHTML="";
+    if(anz_b>1) wbgr[2].innerHTML="";
+  }
+  }
+  //
+  // Banner Öffnungszeiten einfügen (s. userFunc/html/remmers.html)
+  //
+  var ba_kl=1;
+  if(ba_kl) {
+ var wbgr=document.getElementsByClassName('wbg_zone_mobile_m');
+  if(elemente.length>=insert_3) {
+  pelement=elemente[insert_3].parentNode;
+  var dupwbgr=wbgr[0].cloneNode(true);
+  var eltern=wbgr[0].parentElement;
+  var nwbgr = pelement.insertBefore(dupwbgr,elemente[insert_3]);
+  wbgr[1].innerHTML="";
+  }
+  }
+}
+function getUrlParam(name) {
+    var url_string = window.location;
+    var url = new URL(url_string);
+    var c = url.searchParams.get(name);
+    return c;
+}
+//   Prüfen, ob Kommentarfunktion aktiv sein soll
+  $.ajax({
+        method: "POST",
+        url: "/fileadmin/userFunc/scripts_world/data/kommentare_aktiv.php",
+        data: { artikel: "1" }
+      })
+     .done(function( response ) {
+       kommentare_aktiv=response;
+  if(kommentare_aktiv==1 || getUrlParam("test")==1) {
+    a_elem=document.getElementsByClassName("more");
+    anz=a_elem.length;
+ for(i=0;i<anz;i++) {
+    if(a_elem[i].href.search("aktuelles")>0) {
+      artikel=a_elem[i].href.split("/");
+      $.ajax({
+        method: "POST",
+        url: "/fileadmin/userFunc/scripts_world/data/test.php",
+        data: { artikel: i+";"+artikel[5] }
+      })
+     .done(function( response ) {
+       j=response.split(";")[0];
+       n=response.split(";")[2];
+       kom=" Kommentare";
+       if(n==1)kom=" Kommentar";
+       linktext=a_elem[j].parentElement.innerHTML;
+       if(n>0) a_elem[j].parentElement.innerHTML=linktext+"&nbsp;  "+n+kom;
+//       alert(a_elem[j].href);
+      });
+    }
+  }
+  }
+ });
+</script>
+									 </div>
+								<div class="wbg_zone_mobile_m"> <a target="_blank" title="_" href="https://www.in-der-lohne.de?g=2"><img border=0 max-width="234" height="60" src="/fileadmin/userFunc/images/wbg/images/suesse-brise.gif?t=1787631129"></a> </div>
+								<div class="tx-lnstore">
+									<div class="tx-lnstore-list-item">
+										<div class="tx-lnstore-list-image"> <a class="more" title="Das Fischgeschäft" href="/leser-service/schaufenster/das-fischgeschaeft/"> <img src="/fileadmin/_processed_/7/6/csm_4_1_85b2894d4b.jpg" width="160" height="120" alt=""> </a> </div>
+										<div class="tx-lnstore-list-content">
+											<div class="head">
+												<h3> <a class="more" title="Das Fischgeschäft" href="/leser-service/schaufenster/das-fischgeschaeft/"> <span itemprop="headline">Das Fischgeschäft: Alles rund um den Fisch - Von Kutterfahrt bis Fisch-Genuss</span> </a> </h3>
+												 </div>
+											<div class="teaser">
+												<div itemprop="description">
+													<p>Wir sind bis 25. Oktober von Montag bis Samstag für Sie da. Anschließend machen Winterpause und öffnen wieder ab den Osterferien 2026.</p>
+												</div>
+												 </div>
+											<div class="foot">
+												<div class="redbutton"> <a class="more" title="Das Fischgeschäft" href="/leser-service/schaufenster/das-fischgeschaeft/"> mehr </a> </div>
+												 </div>
+											 </div>
+										 </div>
+									 </div>
+								<div class="wbg_zone_b"> <a target="_blank" title="_" href="https://www.nordseemalerei.de/"><img border=0 max-width="468" height="60" src="/fileadmin/userFunc/images/wbg/images/ehmen.gif?t=1787631129"></a> </div>
+								<div class="event-list-item">
+									<div class="event-list-image"><a href="/termine/veranstaltungen/"><img name="vstbild" src="/fileadmin/userFunc/images/news/div/wattunwo_160.jpg" width="160" height="120" border="0" alt="" title=""></a></div>
+									<div class="event-list-content event-list-border">
+										<div class="vtext-container" id="vtextContainer">
+											<style>
+  .vtext-container {
+    max-height: 200px; /* Höhe begrenzen */
+    overflow: hidden; /* Rest ausblenden */
+    transition: max-height 0.5s ease; /* Sanfter Übergang */
+}
+.vtext-container.expanded {
+    max-height: none; /* Beim Ausklappen die Höhe aufheben */
+}
+  </style>
+											<script type="text/javascript">
+var altenummer=-1;
+var altertext="TEXT";
+var textelem = new Array();
+var bildelem = new Array();
+function zeige(i){
+if(altenummer!=-1) {
+  divid="V"+altenummer;
+  document.getElementById(divid).innerHTML=altertext;
+  }
+divid="V"+i;
+altertext=document.getElementById(divid).innerHTML;
+altenummer=i;
+document.getElementById(divid).innerHTML=textelem[i];
+if(bildelem[i]!="") document.vstbild.src=bildelem[i];
+}
+ var cX = 0; var cY = 0; var rX = 0; var rY = 0;
+function KUpdateCursorPosition(e){ cX = e.pageX; cY = e.pageY;}
+function KUpdateCursorPositionDocAll(e){ cX = event.clientX; cY = event.clientY;}
+if(document.all) { document.onmousemove = KUpdateCursorPositionDocAll; }
+else { document.onmousemove = KUpdateCursorPosition; }
+function KAssignPosition(d) {
+if(self.pageYOffset) {
+  rX = self.pageXOffset;
+  rY = self.pageYOffset;
+  }
+else if(document.documentElement && document.documentElement.scrollTop) {
+  rX = document.documentElement.scrollLeft;
+  rY = document.documentElement.scrollTop;
+  }
+else if(document.body) {
+  rX = document.body.scrollLeft;
+  rY = document.body.scrollTop;
+  }
+if(document.all) {
+  cX += rX;
+  cY += rY;
+  }
+d.style.left = (cX-100) + "px";
+d.style.top = (cY-60) + "px";
+}
+function KHideContent(d) {
+if(d.length < 1) { return; }
+document.getElementById(d).style.display = "none";
+}
+function KShowContent(d,v) {
+if(d.length < 1) { return; }
+var dd = document.getElementById(d);
+document.getElementById("konting").src="https://kremer-langeoog.de/Service/Vorschau/karten.php?vid="+v;
+KAssignPosition(dd);
+dd.style.display = "block";
+setTimeout ("KHideContent('dkontingent')",2000);
+}
+function KReverseContentDisplay(d) {
+if(d.length < 1) { return; }
+var dd = document.getElementById(d);
+KAssignPosition(dd);
+if(dd.style.display == "none") { dd.style.display = "block"; }
+else { dd.style.display = "none"; }
+}
+</script>
+											<h3>Veranstaltungen aktuell</h3>
+											<table width="100%">
+												<tr>
+													<td colspan="3">Dienstag:</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>08:15</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V0"><a href='Javascript:zeige(0,"vstbild0")'>Morgenandacht</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>08:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V1"><a href='Javascript:zeige(1,"vstbild0")'>Aquacycling</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>09:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V2"><a href='Javascript:zeige(2,"vstbild0")'>Große Vogelbeobachtungstour zum Ostende mit Birte Weinbecker</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>09:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V3"><a href='Javascript:zeige(3,"vstbild0")'>Quadratologo - Malspaß im Quadrat</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V4"><a href='Javascript:zeige(4,"vstbild0")'>Maritime Malerei</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V5"><a href='Javascript:zeige(5,"vstbild0")'>Fit in den Tag</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V6"><a href='Javascript:zeige(6,"vstbild0")'>Auf die Socke – fertig – los! 1. Einheit</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V7"><a href='Javascript:zeige(7,"vstbild0")'>Grundlagenkurs Stricken</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V8"><a href='Javascript:zeige(8,"vstbild0")'>Willkommen auf Langeoog - Gästebegrüßung</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>11:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V9"><a href='Javascript:zeige(9,"vstbild0")'>Achtsamkeitsyoga</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>11:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V10"><a href='Javascript:zeige(10,"vstbild0")'>Thalasso Beachwalking</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>11:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V11"><a href='Javascript:zeige(11,"vstbild0")'>Maritimer Stoffdruck</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>13:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V12"><a href='Javascript:zeige(12,"vstbild0")'>Geführte Insel-Fahrradtour</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V13"><a href='Javascript:zeige(13,"vstbild0")'>Ausstellung: Langeooger Heimatgeschichte</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V14"><a href='Javascript:zeige(14,"vstbild0")'>Schlagball-Training</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V15"><a href='Javascript:zeige(15,"vstbild0")'>Bauch, Beine, Po</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V16"><a href='Javascript:zeige(16,"vstbild0")'>Grundlagenkurs Häkeln</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V17"><a href='Javascript:zeige(17,"vstbild0")'>Tierisch, tierisch...! Häkeltiere</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>15:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V18"><a href='Javascript:zeige(18,"vstbild0")'>Gleichgewichts-/Fußschule</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>15:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V19"><a href='Javascript:zeige(19,"vstbild0")'>Watt intensiv</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>15:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V20"><a href='Javascript:zeige(20,"vstbild0")'>Sonne, Mond und Sterne</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>16:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V21"><a href='Javascript:zeige(21,"vstbild0")'>Tabata (HIIT)</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>16:15</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V22"><a href='Javascript:zeige(22,"vstbild0")'>Beach Boßeln mit Bernhard Mennen</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>17:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V23"><a href='Javascript:zeige(23,"vstbild0")'>Abendspaziergang durch Salzwiese und Watt</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>17:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V24"><a href='Javascript:zeige(24,"vstbild0")'>Yin Yoga mit Marc</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>17:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V25"><a href='Javascript:zeige(25,"vstbild0")'>Entspannungsmeditation</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>19:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V26"><a href='Javascript:zeige(26,"vstbild0")'>Langeooger Dünensingen</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>19:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V27"><a href='Javascript:zeige(27,"vstbild0")'>Abendmesse</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>20:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V28"><a href='Javascript:zeige(28,"vstbild0")'>Literatur & Meer</a></div>
+														</font></td>
+												</tr>
+												<tr>
+													<td colspan="3"></td>
+												</tr>
+												<tr>
+													<td colspan="3">
+														<div class="redbutton-right"><a href="/termine/veranstaltungen/" title="Weitere Veranstaltungen">Weitere Veranstaltungen</a></div>
+													</td>
+												</tr>
+											</table>
+										</div>
+										<div class="redbutton-right"><a href="Javascript:toggleText()" id="readMoreBtn" title="Alle anzeigen">Mehr anzeigen</a></div>
+									</div>
+								</div>
+								<script type="text/javascript">
+bildelem[0]='https://api.langeoog.de/veranstaltungen/1/image/24690';
+textelem[0]='<b>Morgenandacht</b><br>Morgenandacht im Andachtsraum des Hotel Bethanien mit dem Urlaubspastor/ der Urlaubspastorin.<br>Ort: Andachtsraum Bethanien<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Andachtsraum Bethanien&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24690&titel=Morgenandacht&date_start=2026-8-25 08:15AM&date_end=2026-8-25 08:45AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24690>Weitere Details zur Veranstaltung</a></div>';
+bildelem[1]='https://api.langeoog.de/veranstaltungen/1/image/21600';
+textelem[1]='<b>Aquacycling</b><br>Das schonende Ganzkörpertraining fördert Ausdauer und Beweglichkeit. Muskeln und Kreislauf werden beim Aquacycling besser gestärkt als beim „normalen“ Radfahren, da das Training im Wasser wesentlich effektiver ist. Aquacycling eignet sich auch für Teilnehmer mit Rücken- und Bandscheibenproblemen.  <br>Bitte etwa 30 Minuten vor Kursbeginn da sein. <br>Anmeldung im Kur- und Wellness-Center erforderlich! <br>17,00 €, Aquaschuhe für 2,00 € Leihgebühr, vergünstigte Mehrfachkarten erhältlich.<br>Ort: Schwimmbad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Schwimmbad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21600&titel=Aquacycling&date_start=2026-8-25 08:30AM&date_end=2026-8-25 09:00AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21600>Weitere Details zur Veranstaltung</a></div>';
+bildelem[2]='https://api.langeoog.de/veranstaltungen/1/image/24842';
+textelem[2]='<b>Große Vogelbeobachtungstour zum Ostende mit Birte Weinbecker</b><br>Per Rad geht’s vom Deichschart entlang der besten Beobachtungsplätze Langeoogs bis zur Osthütte (ca. 9 km). <br>Im Frühjahr erheben sich gewaltige Zugvogelschwärme über Watt und Salzwiesen – ihr einziger Zwischenstopp auf den weiten Reisen zwischen Arktis und Afrika. Auch Brachvögel, Löffler und wahrscheinlich Weihen können wir entdecken – sowie Seehunde am Ostende.  <br>An der Osthütte endet die Tour mit Getränk und Keksen – in Bioqualität und Fair Trade. Bitte Fahrrad mitbringen! <br>25,00 €, 1. Kind 12,00 €, jedes weitere Kind 8,00 €, Karten:  Tourist-Info/Haus der Insel<br>Ort: Deichschart/Seedeich<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Deichschart/Seedeich&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24842&titel=Große Vogelbeobachtungstour zum Ostende mit Birte Weinbecker&date_start=2026-8-25 09:00AM&date_end=2026-8-25 09:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24842)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24842>Veranstaltung Online buchen</a></div>';
+bildelem[3]='https://api.langeoog.de/veranstaltungen/1/image/24497';
+textelem[3]='<b>Quadratologo - Malspaß im Quadrat</b><br>Ob Anfänger oder Fortgeschrittene - mit diesem Malsystem kann jeder kreativ werden. <br> <br>Für Kinder ab 4 J. mit Begleitung (kostenlos!),  <br> <br>12,50 €, Karten: Tourist-Info/Haus der Insel oder Spöölstuv. Voranmeldung erforderlich! <br><br>Ort: Spöölstuv<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Spöölstuv&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24497&titel=Quadratologo - Malspaß im Quadrat&date_start=2026-8-25 09:30AM&date_end=2026-8-25 10:00AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24497)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24497>Veranstaltung Online buchen</a></div>';
+bildelem[4]='https://api.langeoog.de/veranstaltungen/1/image/22907';
+textelem[4]='<b>Maritime Malerei</b><br>Gestalte auf maritimen Rohlingen dein persönliches Andenken! <br> <br>Für Kinder ab 5 J. (keine Kinderbetreuung!), ab 4,00 €, Anmeldung über die neue Homepage: <a target="_blank" href="https://jam.langeoog.de">jam.langeoog.de</a><br>Ort: JAM Jugendhaus Am Meer (Flughafenstr. 1)<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=JAM Jugendhaus Am Meer (Flughafenstr. 1)&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22907&titel=Maritime Malerei&date_start=2026-8-25 10:00AM&date_end=2026-8-25 10:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22907>Weitere Details zur Veranstaltung</a></div>';
+bildelem[5]='https://api.langeoog.de/veranstaltungen/1/image/22661';
+textelem[5]='<b>Fit in den Tag</b><br>Eine fließende Kombination von Dehnung, Gleichgewicht und Kraft. <br> <br>Der Kurs ist für jedes Fitnesslevel geeignet und bietet eine gymnastische Grundlage für einen <br>gelungenen Urlaubstag.  <br>Komm gern in bequemer Kleidung und bring dir etwas zu trinken und Vorfreude mit. <br> <br>Teilnahme kostenlos.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22661&titel=Fit in den Tag&date_start=2026-8-25 10:00AM&date_end=2026-8-25 10:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22661>Weitere Details zur Veranstaltung</a></div>';
+bildelem[6]='https://veranstalter.kremer-online.de/veranstalter/uploads/Freist_2024-04-08_1706125369_5832.jpg';
+textelem[6]='<b>Auf die Socke – fertig – los! 1. Einheit</b><br>Socken stricken mit der „Bumerang-Ferse“ – in zwei Einheiten. Die 1. Einheit betrifft Anschlag und Schaft bis zur Ferse, Strick-Grundkenntnisse erwünscht. Wer dies schon allein angefertigt hat, ist herzlich willkommen in der zweiten Einheit. Kosten: 29€, bei Buchung beider Einheiten insgesamt 48€. Max. 7 Teilnehmer, Anmeldung Glücks-Lädchen, Britta Freist, Kirchstr. 16, Tel. 0175-4969703, <a href="mailto:info@gluecks-laedchen.de">info@gluecks-laedchen.de</a>, <a target="_blank" href="https://www.gluecks-laedchen.de">www.gluecks-laedchen.de</a><br>Ort: Glücks-Lädchen<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Glücks-Lädchen&url=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/&titel=Auf die Socke – fertig – los! 1. Einheit&date_start=2026-8-25 10:30AM&date_end=2026-8-25 11:00AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/>Veranstaltungen Glücks-Lädchen</a></div>';
+bildelem[7]='https://veranstalter.kremer-online.de/veranstalter/uploads/Freist_2024-04-08_1706125369_4025.jpg';
+textelem[7]='<b>Grundlagenkurs Stricken</b><br>Die Grundtechniken sind Aufnehmen von Maschen, rechte und linke Maschen, Abketten, Zunehmen und Abnehmen.Dies wird Ihnen hier individuell gezeigt, möglich auch schon an einem Produkt, wie Loop oder Schal. Kosten: 29€, Max. 5 Teilnehmer, Anmeldung Glücks-Lädchen, Britta Freist, Kirchstr. 16, Tel. 0175-4969703, <a href="mailto:info@gluecks-laedchen.de">info@gluecks-laedchen.de</a>, <a target="_blank" href="https://www.gluecks-laedchen.de">www.gluecks-laedchen.de</a><br>Ort: Glücks-Lädchen<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Glücks-Lädchen&url=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/&titel=Grundlagenkurs Stricken&date_start=2026-8-25 10:30AM&date_end=2026-8-25 11:00AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/>Veranstaltungen Glücks-Lädchen</a></div>';
+bildelem[8]='https://api.langeoog.de/veranstaltungen/1/image/21200';
+textelem[8]='<b>Willkommen auf Langeoog - Gästebegrüßung</b><br>„Hier erfahren Besucher alles, was zwischen An- und Abreise für sie wichtig ist“, lädt Veranstaltungsleiter Thomas Pree sowohl Langeoog-Neulinge als auch „alte Inselhasen“ zu seinem etwa einstündigen Urlaubsleitfaden ein. Informative Kurzfilme rücken die „Insel fürs Leben“ und das umgebende UNESCO-Weltnaturerbe Wattenmeer ins rechte Licht. Dazwischen wird anschaulich erläutert, was der Gast auf Langeoog erwarten darf. Auf alle Fragen gibt es gleichfalls kundige Antwort. Eintritt frei<br>Ort: Haus der Insel<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Haus der Insel&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21200&titel=Willkommen auf Langeoog - Gästebegrüßung&date_start=2026-8-25 10:30AM&date_end=2026-8-25 11:00AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21200>Weitere Details zur Veranstaltung</a></div>';
+bildelem[9]='https://api.langeoog.de/veranstaltungen/1/image/25151';
+textelem[9]='<b>Achtsamkeitsyoga</b><br>Entdecke die Kraft des bewussten Innehaltens und tauche ein in eine Stunde voller Achtsamkeit und Entspannung. Diese Yogastunde lädt dich ein, durch sanfte Haltungen und Bewegungen sowie die bewusste Atmung dein Körperbewusstsein zu stärken. Im Slow-Flow findest du zu innerer Ruhe und Balance. Egal, ob Anfänger oder Fortgeschrittener, diese Stunde ist für alle Fitnesslevel geeignet. Komm vorbei und gönn dir eine Auszeit für Körper und Geist.  <br> <br>Leitung: Nina Möhle-Berg, Ergotherapeutin, Hatha-, Yin- und Klang-Yogalehrerin und Kursleiterin für Achtsamkeitsmeditation <br> <br>15,00 € (90 min), Yoga-Vollausstattung vorhanden. Zusätzliche Plätze sowie 5er-Karten für 70 € sind über den Veranstalter erhältlich. <br> <br>Info & Anmeldung: Neei Bauhoff Veranstaltungshaus, <a target="_blank" href="https://www.neei-bauhoff.de">www.neei-bauhoff.de</a>, Tel. 04972 9906677, oder Tourist-Info/Haus der Insel<br>Ort: Neei Bauhoff<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Neei Bauhoff&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25151&titel=Achtsamkeitsyoga&date_start=2026-8-25 11:00AM&date_end=2026-8-25 11:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25151)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25151>Veranstaltung Online buchen</a></div>';
+bildelem[10]='https://api.langeoog.de/veranstaltungen/1/image/25031';
+textelem[10]='<b>Thalasso Beachwalking</b><br>Beim Walking an der Wasserkante lassen wir uns vom Wind kräftig <br>durchpusten, erlernen die Technik, korrigieren die Körperhaltung und <br>genießen die gesundheitlichen Vorteile des Thalasso-Effekts. <br> <br>Teilnahme kostenlos.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25031&titel=Thalasso Beachwalking&date_start=2026-8-25 11:00AM&date_end=2026-8-25 11:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25031>Weitere Details zur Veranstaltung</a></div>';
+bildelem[11]='https://api.langeoog.de/veranstaltungen/1/image/24522';
+textelem[11]='<b>Maritimer Stoffdruck</b><br>Für Kinder ab 8 J. (ohne Begleitung). Ihr bedruckt und bemalt eine Stofftasche, ein Federmäppchen oder ein Kulturtäschen. <br> <br>10,00 €, Karten: Tourist-Info/Haus der Insel oder Spöölstuv. Voranmeldung erforderlich!<br>Ort: Spöölstuv<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Spöölstuv&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24522&titel=Maritimer Stoffdruck&date_start=2026-8-25 11:00AM&date_end=2026-8-25 11:30AM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24522)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24522>Veranstaltung Online buchen</a></div>';
+bildelem[12]='https://api.langeoog.de/veranstaltungen/1/image/25178';
+textelem[12]='<b>Geführte Insel-Fahrradtour</b><br>Radfahren im Inselrythmus. <br> <br>Mit dem Rad geht es im entspannten Tempo mit Pausen und Zeit für Informationen, Wissenswertes und dit & dat (dies und das) über die Insel! <br> <br>Bitte bringen Sie Ihr Fahrrad und ggf. etwas zu Trinken mit! <br> <br>Über uns: Wir, Thomas Agena und Karsten Luplow, leben zusammen seit über 100 Jahren auf der Insel. Es macht uns Spaß, Ihnen unsere Heimat zu zeigen und Sie mit Fakten und dem einen oder anderen Döntje (lustige Geschichte) zu unterhalten. <br> <br>15,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Info-Café/Wiesenweg 1<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Info-Café/Wiesenweg 1&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25178&titel=Geführte Insel-Fahrradtour&date_start=2026-8-25 01:00PM&date_end=2026-8-25 01:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25178)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25178>Veranstaltung Online buchen</a></div>';
+bildelem[13]='https://api.langeoog.de/veranstaltungen/1/image/22268';
+textelem[13]='<b>Ausstellung: Langeooger Heimatgeschichte</b><br>Das Heimatmuseum im Seemannshus zeigt ortsgeschichtlich interessante Ausstellungsobjekte, nicht nur aus dem Seemannshus selbst, sondern auch über viele Jahre gesammelte Bilder und Gegenstände aus Langeooger Familien. Sie machen nachvollziehbar, wie sich das Leben auf der Insel entwickelt und verändert hat.  <br> <br>Das Seemannshus ist eines der ältesten erhaltenen Insulanerhäuser Langeoogs, es wurde bereits 1795 gebaut. Es blieb immer im Familienbesitz, lediglich die Familiennamen änderten sich, da immer nur die Töchter und Schwiegersöhne geerbt hatten. Die letzte Familie hieß Seemann, sie vermietete Ferienzimmer und betrieb eine Schneiderei. 1988 verkaufte sie das Haus an die Inselgemeinde, die es unter Denkmalschutz stellen und renovieren ließ.  <br> <br>Der Heimatverein ist Betreiber des Heimatmuseums, Mitglieder des Vereins führen durch das Haus, erläutern die Ausstellungsobjekte und stehen für Fragen zur Verfügung.  <br> <br>Die Friesenstube des Seemannshus wird auch durch das Standesamt für Trauungen genutzt. <br> <br>Geöffnet bis 16.00 Uhr. Eintritt gegen Spende.<br>Ort: Seemannshus<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Seemannshus&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22268&titel=Ausstellung: Langeooger Heimatgeschichte&date_start=2026-8-25 02:00PM&date_end=2026-8-25 02:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22268>Weitere Details zur Veranstaltung</a></div>';
+bildelem[14]='https://veranstalter.kremer-online.de/veranstalter/uploads/2025-07-01_Schlagball_1735723062_8688.jpg';
+textelem[14]='<b>Schlagball-Training</b><br>für Kinder und Jugendliche ab 10 Jahren<br>Ort: Sportstrand<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand&url=https://www.langeoognews.de/buddelei-sport/schlagball/termine/&titel=Schlagball-Training&date_start=2026-8-25 02:00PM&date_end=2026-8-25 02:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://www.langeoognews.de/buddelei-sport/schlagball/termine/>Schlagball-Termine</a></div>';
+bildelem[15]='https://api.langeoog.de/veranstaltungen/1/image/25036';
+textelem[15]='<b>Bauch, Beine, Po</b><br>Alles wohl geformt: Wir zeigen dir effektive Übungen und kurze Workouts speziell für die Problemzonen. <br> <br>Teilnahme kostenlos.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25036&titel=Bauch, Beine, Po&date_start=2026-8-25 02:00PM&date_end=2026-8-25 02:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25036>Weitere Details zur Veranstaltung</a></div>';
+bildelem[16]='https://veranstalter.kremer-online.de/veranstalter/uploads/Freist_2024-04-08_1706127834_1559.jpg';
+textelem[16]='<b>Grundlagenkurs Häkeln</b><br>Grundtechniken sind Anschlagknoten, Luftmaschen, feste Maschen, Kettmaschen, Reihenwechsel, Stäbchen, Zunehmen und Abnehmen.Dies wird Ihnen hier individuell gezeigt, möglich auch schon an einem Produkt, wie Spültuch oder Seifensäckchen. Kosten: 29€. Max. 5 Teilnehmer, Anmeldung Glücks-Lädchen, Britta Freist, Kirchstr. 16, Tel. 0175-4969703, <a href="mailto:info@gluecks-laedchen.de">info@gluecks-laedchen.de</a>, <a target="_blank" href="https://www.gluecks-laedchen.de">www.gluecks-laedchen.de</a><br>Ort: Glücks-Lädchen<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Glücks-Lädchen&url=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/&titel=Grundlagenkurs Häkeln&date_start=2026-8-25 02:30PM&date_end=2026-8-25 03:00PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/>Veranstaltungen Glücks-Lädchen</a></div>';
+bildelem[17]='https://veranstalter.kremer-online.de/veranstalter/uploads/Freist_2024-04-08_1706127835_1845.jpg';
+textelem[17]='<b>Tierisch, tierisch...! Häkeltiere</b><br>Die beliebten Häkeltiere von Kerry Lord gibt es als Garnpaket mit der kuschelig weichen Wolle von der englischen Garnfirma TOFT. Ebenso ist Stopfmaterial dabei, Nadeln und Fäden für Augen etc. Und die Anleitungen gibt es auf Deutsch! Häkel-Grundkenntnisse sind erwünscht.  <br>Einen guten Anfang zu bekommen, ist das Ziel im Kurs. <br>Kosten: 26€, zzgl. Häkelset-Packung. Max. 7 Teilnehmer, Anmeldung Glücks-Lädchen, Britta Freist, Kirchstr. 16, Tel. 0175-4969703, <a href="mailto:info@gluecks-laedchen.de">info@gluecks-laedchen.de</a>, <a target="_blank" href="https://www.gluecks-laedchen.de">www.gluecks-laedchen.de</a><br>Ort: Glücks-Lädchen<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Glücks-Lädchen&url=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/&titel=Tierisch, tierisch...! Häkeltiere&date_start=2026-8-25 02:30PM&date_end=2026-8-25 03:00PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://gluecks-laedchen.de/gluecks-sachen/veranstaltungen/>Veranstaltungen Glücks-Lädchen</a></div>';
+bildelem[18]='https://api.langeoog.de/veranstaltungen/1/image/25040';
+textelem[18]='<b>Gleichgewichts-/Fußschule</b><br>Wir schulen auf unterschiedliche Art den Gleichgewichtssinn und beschäftigen uns mit der Fußgesundheit. Für alle, die ihre Stabilität in Stand und Balance präventiv stärken möchten. <br>Es wird keine besondere Kleidung benötigt. Gerne etwas zu trinken mitbringen. <br> <br>Teilnahme kostenlos. Keine Anmeldung erforderlich.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25040&titel=Gleichgewichts-/Fußschule&date_start=2026-8-25 03:00PM&date_end=2026-8-25 03:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25040>Weitere Details zur Veranstaltung</a></div>';
+bildelem[19]='https://api.langeoog.de/veranstaltungen/1/image/21976';
+textelem[19]='<b>Watt intensiv</b><br>Eine gut 3 Std. lange, spannende Entdeckungsreise zum Kosten und Anfassen mit Uwe Garrels zu den Ureinwohnern des Watts.  <br> <br>Wie können Salzwiesenpflanzen, Muscheln, Würmer und Schnecken hier überleben? Die "normalen" Lebensbedingungen im Watt sind schon heftig, aber die großen und die kleinen Feinde sind so zahlreich wie in einem Computerspiel und es geht immer ums Ganze. <br> <br>Ausreichend warme, wind- und regenfeste Kleidung anziehen. Auf dem Watt ist es kühler und windiger als im Ort! Im Sommer auch gut barfuß oder mit Socken möglich. Gummistiefel oder feste Wanderschuhe in der kühleren Jahreszeit.  Für Familien mit Kindern ab 8 J. <br> <br>20,00/10,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Seedeich/Deichschart<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Seedeich/Deichschart&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21976&titel=Watt intensiv&date_start=2026-8-25 03:30PM&date_end=2026-8-25 04:00PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",21976)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21976>Veranstaltung Online buchen</a></div>';
+bildelem[20]='https://api.langeoog.de/veranstaltungen/1/image/22522';
+textelem[20]='<b>Sonne, Mond und Sterne</b><br>Für Kinder von 6 bis 8 Jahren (ohne Begleitung). Erfahrt von Monika, wie das Sonnensystem funktioniert. Spannend werden die unendlichen Weiten des Weltraums erklärt. 6,00 €, Karten:  Tourist-Info/Haus der Insel oder Spöölstuv<br>Ort: Spöölstuv<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Spöölstuv&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22522&titel=Sonne, Mond und Sterne&date_start=2026-8-25 03:30PM&date_end=2026-8-25 04:00PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",22522)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=22522>Veranstaltung Online buchen</a></div>';
+bildelem[21]='https://api.langeoog.de/veranstaltungen/1/image/25048';
+textelem[21]='<b>Tabata (HIIT)</b><br> Bringen Sie Ihren Stoffwechsel in Höchstform! In diesem hochintensiven Intervalltraining (HIIT) wechseln sich volle Power mit Pause ab. Ein kurzes, aber effektives Workout für den ganzen Körper, das Fett verbrennt und die Ausdauer steigert. Perfekt für alle, die sich in kurzer Zeit richtig auspowern wollen! <br>Sportsachen und Trinken sind mitzubringen. <br> <br>Kostenlos mit LangeoogCard <br> <br>Treffpunkt Sportstrand (Übergang Hospizpad). <br>Bei schlechter Witterung gehen wir ins Sporthus.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25048&titel=Tabata (HIIT)&date_start=2026-8-25 04:00PM&date_end=2026-8-25 04:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25048>Weitere Details zur Veranstaltung</a></div>';
+bildelem[22]='https://api.langeoog.de/veranstaltungen/1/image/24185';
+textelem[22]='<b>Beach Boßeln mit Bernhard Mennen</b><br>Im Gegensatz zum traditionellen Boßeln, dass in Ostfriesland in der Regel auf Landstraßen gespielt wird, findet das neue Beach Boßeln auf einem absolut perfekten Untergrund am Langeooger Oststrand statt. Teilnahme ab 16 J. <br> <br>Individuelle Gruppentermine n.V. unter 0160 5362982 <br> <br>15,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Gerk-sin-Spoor 12 (Dünenoase)<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Gerk-sin-Spoor 12 (Dünenoase)&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24185&titel=Beach Boßeln mit Bernhard Mennen&date_start=2026-8-25 04:15PM&date_end=2026-8-25 04:45PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24185)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24185>Veranstaltung Online buchen</a></div>';
+bildelem[23]='https://api.langeoog.de/veranstaltungen/1/image/24778';
+textelem[23]='<b>Abendspaziergang durch Salzwiese und Watt</b><br>Salzwiese und Watt - ein besonderer Lebensraum, wo nur Spezialisten und Angepasste überleben.  <br> <br>Auf dem ca. 2,5std. Spaziergang mit Nationalpark Wattführerin Fiona Wettstein erleben Sie die blühende Vielfalt zweier extremer Überlebensbereiche. Egal ob Sand oder Schlick, wer sich hier behaupten will, muss mit den lebensfeindlichen Bedingungen irgendwie klar kommen ...  <br> <br>Teilnahme ab 8 J., Hunde müssen leider zu Hause bleiben. Bitte an wettergerechte und schlickgerechte Kleidung denken. Wenn es warm wird, bitte auch an Sonnenschutz und Kopfschutz denken. Im Sommer gerne mit Beachies, Neoprenschuhe, dicke Socken, alte Sneakers. Zur kalten Jahreszeit eher fest sitzende Gummistiefel.   <br> <br>16,00/10,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Deichschart/Seedeich<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Deichschart/Seedeich&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24778&titel=Abendspaziergang durch Salzwiese und Watt&date_start=2026-8-25 05:00PM&date_end=2026-8-25 05:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24778)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=24778>Veranstaltung Online buchen</a></div>';
+bildelem[24]='https://api.langeoog.de/veranstaltungen/1/image/25165';
+textelem[24]='<b>Yin Yoga mit Marc</b><br>Die Yogis erwartet eine tiefenentspannende Yin Yoga-Stunde, die zum Loslassen auf allen Ebenen einlädt. Durch längeres Verweilen in Dehnungen und Drehungen wird das Loslassen erleichtert, um körperlich tiefer in die Übungen hineinzugleiten, während die Übenden immer mehr bei sich selbst ankommen. Dabei können sich Körper, Geist und Seele nachhaltig entspannen. <br>Die Stunde wird mit Handpan und instrumentaler Musik gestaltet sowie mit wohligen Klängen von Klangschalen während der Endentspannung untermalt.  <br> <br>Leitung: Marc Hürtgen aus Düren, ausgebildet in Hatha Yoga und Yin Yoga sowie in der Peter Hess-Klangmassage und in der Gestaltung von Klang-und Fantasiereisen.  <br> <br>15,00 € (90 min), Yoga-Vollausstattung vorhanden. Zusätzliche Plätze sowie 5er-Karten (70,00 €) sind über den Veranstalter erhältlich. <br> <br>Info & Anmeldung: Neei Bauhoff Veranstaltungshaus, <a target="_blank" href="https://www.neei-bauhoff.de">www.neei-bauhoff.de</a>, Tel. 04972 9906677, oder Tourist-Info/Haus der Insel<br>Ort: Neei Bauhoff<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Neei Bauhoff&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25165&titel=Yin Yoga mit Marc&date_start=2026-8-25 05:00PM&date_end=2026-8-25 05:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a>&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25165)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25165>Veranstaltung Online buchen</a></div>';
+bildelem[25]='https://api.langeoog.de/veranstaltungen/1/image/25056';
+textelem[25]='<b>Entspannungsmeditation</b><br>Das Entspannungstraining hilft, das Wohlbefinden zu steigern und sowohl eine körperliche als auch  <br>eine seelische Ausgeglichenheit zu schaffen. Mithilfe von verschiedenen Entspannungstechniken wird das Bewusstsein für den eigenen Körper und den mentalen Zustand gestärkt.  <br> <br>Teilnahme kostenlos.<br>Ort: Sportstrand/Übergang Hospizpad<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Sportstrand/Übergang Hospizpad&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25056&titel=Entspannungsmeditation&date_start=2026-8-25 05:00PM&date_end=2026-8-25 05:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=25056>Weitere Details zur Veranstaltung</a></div>';
+bildelem[26]='https://api.langeoog.de/veranstaltungen/1/image/21221';
+textelem[26]='<b>Langeooger Dünensingen</b><br>Wenn bekannte Lieder Erinnerungen an schöne Urlaube wach werden lassen, spricht man von der sogenannten "Erinnerungskoppelung". <br>Das genau geschieht beim Dünensingen, welches auf Langeoog seit über 60 Jahren stattfindet. <br>Es ist die größte regelmäßige im Freien stattfindende Musikveranstaltung der Insel. <br>Dazu trifft man sich zu den angegebenen Zeiten im Dünental zwischen Hauptbad und Wasserturm ... und bei schlechtem Wetter am Lale-Andersen-Denkmal unterhalb des Wasserturms. <br> <br>Dann strömen die sangesfreudigen Gäste und auch Insulaner in Scharen herbei und es geht eine Stunde lang rund mit bekannten Liedern.  <br> <br>Gesungen wird aus dem zugehörigen Liederheft, welches man an der Tourist-Info im Haus der Insel oder vor Ort erwerben kann. <br> <br>Einige Instrumentalisten mit Akkordeon und Gitarre und Helfer der "Likedeeler" unterstützen und ergänzen die heitere Veranstaltung.<br>Ort: Dünental am Wasserturm<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Dünental am Wasserturm&url=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21221&titel=Langeooger Dünensingen&date_start=2026-8-25 07:00PM&date_end=2026-8-25 07:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://veranstaltung.langeoog.de/api/veranstaltung/?&page=details&termin=21221>Weitere Details zur Veranstaltung</a></div>';
+bildelem[27]='../fileadmin/userFunc/images/news/div/Nikolaus.jpg';
+textelem[27]='<b>Abendmesse</b><br><br>Ort: Kirche St. Nikolaus<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Kirche St. Nikolaus&url=https://www.langeoognews.de/termine/kath-kirche/&titel=Abendmesse&date_start=2026-8-25 07:00PM&date_end=2026-8-25 07:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://www.langeoognews.de/termine/kath-kirche/>Termine der . Kirche St. Nikolaus</a></div>';
+bildelem[28]='../fileadmin/userFunc/images/news/div/Inselkark.jpg';
+textelem[28]='<b>Literatur & Meer</b><br>Maritime Gedichte in der Abendsonne am Strand. Mit Inselpastorin Jeannette Schurig.<br>Ort: Strand.Korb.Kirche<br><a href="/fileadmin/userFunc/scripts_world/ics/ics.php?ort=Strand.Korb.Kirche&url=https://inselkark.de/index.php?cont=Veranstaltungen&titel=Literatur & Meer&date_start=2026-8-25 08:00PM&date_end=2026-8-25 08:30PM&text="><img style="max-width:150px;height:auto;" src="/fileadmin/userFunc/images/logos/addcal.gif?4"></a><br><div class="redbutton-right"><a target=_blank href=https://inselkark.de/index.php?cont=Veranstaltungen>Zur Homepage der Inselkirche</a></div>';
+</script>
+								<script>
+  function toggleText() {
+    var container = document.getElementById("vtextContainer");
+    var btn = document.getElementById("readMoreBtn");
+    container.classList.toggle("expanded");
+    if (container.classList.contains("expanded")) {
+        btn.innerHTML = "Weniger anzeigen";
+    } else {
+        btn.innerHTML = "Mehr anzeigen";
+    }
+}
+  </script>
+								<div id="dkontingent" style="display:none; position:absolute; border-style: solid; border-radius: 8px; border-color: #263C6D; background-color: white; text-align:right; padding: 5px;"> <a href="javascript:KHideContent('dkontingent')"><span style="font-size:16pt;font-weight:bold;">&times;</span></a><br>
+									<iframe height="30px" width="150px" id="konting" style="border-width:0px" scrolling="no" src=""></iframe>
+									 </div>
+								<script type="text/javascript">
+    var altenummer = -1;
+    var altertext = "TEXT";
+    function zeigew(i, id) {
+        if (altenummer != -1) {
+            divid = "V" + altenummer;
+            document.getElementById(divid).innerHTML = altertext;
+        }
+        divid = "V" + i;
+        altertext = document.getElementById(divid).innerHTML;
+        altenummer = i;
+        document.getElementById(divid).innerHTML = textelem[i];
+        if (bildelem[i] != "") document.getElementById(id).src = bildelem[i];
+    }
+</script>
+								<style>
+  .ftext-container {
+    max-height: 200px; /* Höhe begrenzen */
+    overflow: hidden; /* Rest ausblenden */
+    transition: max-height 0.5s ease; /* Sanfter Übergang */
+}
+.ftext-container.expanded {
+    max-height: none; /* Beim Ausklappen die Höhe aufheben */
+}
+  </style>
+								<div class="event-list-item">
+									<div class="event-list-image"><img id="vstbild1" src="data:image/jpeg;base64,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" width="160" height="120" border="0" alt="" title=""></div>
+									<div class="event-list-content event-list-border">
+										<div class="ftext-container" id="ftextContainer">
+											<h3>Insel-, Natur- und Wattführungen</h3>
+											<table>
+												<tr>
+													<td colspan="3">Dienstag, 25.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>09:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V100"><a href='Javascript:zeigew(100,"vstbild1")'><b>Große Vogelbeobachtungstour zum Ostende mit Birte Weinbecker</b> (mehr...)</a></div>
+														</font>Inselführer: <a target="_blank" href="http://www.regenpfeifertouren.de">Birte und Jan Weinbecker GbR</a></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>13:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V101"><a href='Javascript:zeigew(101,"vstbild1")'><b>Geführte Insel-Fahrradtour</b> (mehr...)</a></div>
+														</font>Inselführer: Karsten Luplow</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>15:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V102"><a href='Javascript:zeigew(102,"vstbild1")'><b>Watt intensiv</b> (mehr...)</a></div>
+														</font>Inselführer: Uwe Garrels</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>16:15</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V103"><a href='Javascript:zeigew(103,"vstbild1")'><b>Beach Boßeln mit Bernhard Mennen</b> (mehr...)</a></div>
+														</font>Inselführer: Bernhard Mennen</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>17:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V104"><a href='Javascript:zeigew(104,"vstbild1")'><b>Abendspaziergang durch Salzwiese und Watt</b> (mehr...)</a></div>
+														</font>Inselführer: Fiona Wettstein Watt- und Gästeführungen</td>
+												</tr>
+												<tr>
+													<td colspan="3">Mittwoch, 26.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V105"><a href='Javascript:zeigew(105,"vstbild1")'><b>Im und am Großen Schlopp</b> (mehr...)</a></div>
+														</font>Inselführer: <a target="_blank" href="https://www.naturkundeundmusik.de">Thorsten Kraft</a></td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V106"><a href='Javascript:zeigew(106,"vstbild1")'><b>Langeooger Wassertour</b> (mehr...)</a></div>
+														</font>Inselführer: Uwe Garrels</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V107"><a href='Javascript:zeigew(107,"vstbild1")'><b>Boßel-Sprach-Kurs: „All up Platt“ mit Bernhard Mennen</b> (mehr...)</a></div>
+														</font>Inselführer: Bernhard Mennen</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>16:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V108"><a href='Javascript:zeigew(108,"vstbild1")'><b>Geführte Insel-Fahrradtour</b> (mehr...)</a></div>
+														</font>Inselführer: Karsten Luplow</td>
+												</tr>
+												<tr>
+													<td colspan="3">Donnerstag, 27.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>14:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V109"><a href='Javascript:zeigew(109,"vstbild1")'><b>Boßel-Sprach-Kurs: „All up Platt“ mit Bernhard Mennen</b> (mehr...)</a></div>
+														</font>Inselführer: Bernhard Mennen</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>16:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V110"><a href='Javascript:zeigew(110,"vstbild1")'><b>Wattsafari für Familien</b> (mehr...)</a></div>
+														</font>Inselführer: Deff Westerkamp</td>
+												</tr>
+												<tr>
+													<td colspan="3">Freitag, 28.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V111"><a href='Javascript:zeigew(111,"vstbild1")'><b>See-, Watt- und Wasservogelbeobachtung</b> (mehr...)</a></div>
+														</font>Inselführer: <a target="_blank" href="https://www.naturkundeundmusik.de">Thorsten Kraft</a></td>
+												</tr>
+												<tr>
+													<td colspan="3">Samstag, 29.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>12:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V112"><a href='Javascript:zeigew(112,"vstbild1")'><b>Geführte Insel-Fahrradtour</b> (mehr...)</a></div>
+														</font>Inselführer: Karsten Luplow</td>
+												</tr>
+												<tr>
+													<td colspan="3">Montag, 31.08.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>09:45</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V113"><a href='Javascript:zeigew(113,"vstbild1")'><b>Watt intensiv</b> (mehr...)</a></div>
+														</font>Inselführer: Uwe Garrels</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>10:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V114"><a href='Javascript:zeigew(114,"vstbild1")'><b>Wattsafari für Familien</b> (mehr...)</a></div>
+														</font>Inselführer: Deff Westerkamp</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>12:30</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V115"><a href='Javascript:zeigew(115,"vstbild1")'><b>Exkursion zum Osterhook</b> (mehr...)</a></div>
+														</font>Inselführer: <a target="_blank" href="https://www.naturkundeundmusik.de">Thorsten Kraft</a></td>
+												</tr>
+												<tr>
+													<td colspan="3">Dienstag, 01.09.2026</td>
+												</tr>
+												<tr>
+													<td width=55 valign=top align=right>15:00</td>
+													<td width="10"></td>
+													<td valign=top><font color="black">
+															<div id="V116"><a href='Javascript:zeigew(116,"vstbild1")'><b>Geführte Insel-Fahrradtour</b> (mehr...)</a></div>
+														</font>Inselführer: Karsten Luplow</td>
+												</tr>
+												<tr>
+													<td colspan="3">
+														<div class="redbutton-right"><a href="/termine/fuehrungen/" title="Weitere Termine">Weitere Termine</a></div>
+													</td>
+												</tr>
+											</table>
+										</div>
+										<div class="redbutton-right"><a href="Javascript:toggleFText()" id="FreadMoreBtn" title="Alle anzeigen">Mehr anzeigen</a></div>
+									</div>
+								</div>
+								<script type="text/javascript">
+bildelem[100]='https://api.langeoog.de/veranstaltungen/1/image/24842';
+textelem[100]='<b>Große Vogelbeobachtungstour zum Ostende mit Birte Weinbecker</b><br>Per Rad geht’s vom Deichschart entlang der besten Beobachtungsplätze Langeoogs bis zur Osthütte (ca. 9 km).<br>Im Frühjahr erheben sich gewaltige Zugvogelschwärme über Watt und Salzwiesen – ihr einziger Zwischenstopp auf den weiten Reisen zwischen Arktis und Afrika. Auch Brachvögel, Löffler und wahrscheinlich Weihen können wir entdecken – sowie Seehunde am Ostende. <br>An der Osthütte endet die Tour mit Getränk und Keksen – in Bioqualität und Fair Trade. Bitte Fahrrad mitbringen!<br>25,00 €, 1. Kind 12,00 €, jedes weitere Kind 8,00 €, Karten:  Tourist-Info/Haus der Insel<br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24842)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24842>Veranstaltung Online buchen</a></div>';
+bildelem[101]='https://api.langeoog.de/veranstaltungen/1/image/25178';
+textelem[101]='<b>Geführte Insel-Fahrradtour</b><br>Radfahren im Inselrythmus.<br><br>Mit dem Rad geht es im entspannten Tempo mit Pausen und Zeit für Informationen, Wissenswertes und dit & dat (dies und das) über die Insel!<br><br>Bitte bringen Sie Ihr Fahrrad und ggf. etwas zu Trinken mit!<br><br>Über uns: Wir, Thomas Agena und Karsten Luplow, leben zusammen seit über 100 Jahren auf der Insel. Es macht uns Spaß, Ihnen unsere Heimat zu zeigen und Sie mit Fakten und dem einen oder anderen Döntje (lustige Geschichte) zu unterhalten.<br><br>15,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Info-Café/Wiesenweg 1&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25178)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=25178>Veranstaltung Online buchen</a></div>';
+bildelem[102]='https://api.langeoog.de/veranstaltungen/1/image/21976';
+textelem[102]='<b>Watt intensiv</b><br>Eine gut 3 Std. lange, spannende Entdeckungsreise zum Kosten und Anfassen mit Uwe Garrels zu den Ureinwohnern des Watts. <br><br>Wie können Salzwiesenpflanzen, Muscheln, Würmer und Schnecken hier überleben? Die normalen Lebensbedingungen im Watt sind schon heftig, aber die großen und die kleinen Feinde sind so zahlreich wie in einem Computerspiel und es geht immer ums Ganze.<br><br>Ausreichend warme, wind- und regenfeste Kleidung anziehen. Auf dem Watt ist es kühler und windiger als im Ort! Im Sommer auch gut barfuß oder mit Socken möglich. Gummistiefel oder feste Wanderschuhe in der kühleren Jahreszeit.  Für Familien mit Kindern ab 8 J.<br><br>20,00/10,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Seedeich/Deichschart&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",21976)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=21976>Veranstaltung Online buchen</a></div>';
+bildelem[103]='https://api.langeoog.de/veranstaltungen/1/image/24185';
+textelem[103]='<b>Beach Boßeln mit Bernhard Mennen</b><br>Im Gegensatz zum traditionellen Boßeln, dass in Ostfriesland in der Regel auf Landstraßen gespielt wird, findet das neue Beach Boßeln auf einem absolut perfekten Untergrund am Langeooger Oststrand statt. Teilnahme ab 16 J.<br><br>Individuelle Gruppentermine n.V. unter 0160 5362982<br><br>15,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Gerk-sin-Spoor 12 (Dünenoase)&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24185)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24185>Veranstaltung Online buchen</a></div>';
+bildelem[104]='https://api.langeoog.de/veranstaltungen/1/image/24778';
+textelem[104]='<b>Abendspaziergang durch Salzwiese und Watt</b><br>Salzwiese und Watt - ein besonderer Lebensraum, wo nur Spezialisten und Angepasste überleben. <br><br>Auf dem ca. 2,5std. Spaziergang mit Nationalpark Wattführerin Fiona Wettstein erleben Sie die blühende Vielfalt zweier extremer Überlebensbereiche. Egal ob Sand oder Schlick, wer sich hier behaupten will, muss mit den lebensfeindlichen Bedingungen irgendwie klar kommen ... <br><br>Teilnahme ab 8 J., Hunde müssen leider zu Hause bleiben. Bitte an wettergerechte und schlickgerechte Kleidung denken. Wenn es warm wird, bitte auch an Sonnenschutz und Kopfschutz denken. Im Sommer gerne mit Beachies, Neoprenschuhe, dicke Socken, alte Sneakers. Zur kalten Jahreszeit eher fest sitzende Gummistiefel.  <br><br>16,00/10,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24778)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24778>Veranstaltung Online buchen</a></div>';
+bildelem[105]='https://api.langeoog.de/veranstaltungen/1/image/24789';
+textelem[105]='<b>Im und am Großen Schlopp</b><br>Vogelwelt, Natur und Geschichte<br>Wir gehen vom Deichschart auf dem Schloppdeich zum Melkhörn mit der höchsten natürlichen<br>Inselerhebung. Vom Weg aus erkunden die Natur mit ihrer vielfältigen Vogelwelt im Rahmen der<br>bewegten Inselgeschichte. Denn hier zerbrach die Insel und wurde mühsam wieder<br>zusammengeflickt. Wir finden ein Gebiet mit einem großen tiefen Teich, flachen Lagunen, Prielen<br>und naturnahen Weideflächen im Schutz vom aktuellen Sommerdeich, vor dessen Seeseite sich<br>breite regenerierte Salzwiesen befinden. In diesen Lebensräume ist eine reichhaltige Vogelwelt<br>anzutreffen und in ihren jahreszeitlich wechselnden Anwesenheiten und Kleidern zu bestaunen.<br>Denn während einzelne Arten das ganze Jahr über anzutreffen sind, nutzen andere Arten das<br>Angebot an Nahrung und Schutz nur zum Überwintern, zum Brüten und Großziehen der Küken<br>oder zum Rasten bei Durchzug und Mauser. Dabei finden auch seltene und gefährdete Arten wie<br>Uferschnepfe im Frühjahr oder Ohrenlerche im Winter hier einen Rückzugsraum.<br>Mit Nationalparkführer Dr. Thorsten Kraft, erreichbar unter 01573-3950898.<br>Fernglas nicht vergessen! Auf wetterangepasste Kleidung und ggf. Sonnenschutz achten.<br>Bei Teilnahme im Rollstuhl bitte vorher melden!<br>15,00/10,00 €, Karten: Tourist -Info/Haus der Insel.<br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24789)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24789>Veranstaltung Online buchen</a></div>';
+bildelem[106]='https://api.langeoog.de/veranstaltungen/1/image/24969';
+textelem[106]='<b>Langeooger Wassertour</b><br>Ohne Trinkwasser wäre Langeoog unbewohnbar. Wie das Wasser auf die Insel kommt, wie es unter die Insel kommt und dabei nicht salzig wird und wie es die Insel wieder verlässt verrät Ihnen Uwe Garrels auf dieser Radwandertour vom Infohaus Altes Wasserwerk in der Mittelstraße über das Wasserwerk Ost zur Abwasserreinigungsanlage. Bitte warm anziehen und das Fahrrad nicht vergessen! 18,00 €, Kinder 6 bis 15 J. 9,00 € (nur das 1. Kind einer Familie zahlt), Karten: Tourist-Info/Haus der Insel.<br>Ort: Infohaus "Altes Wasserwerk"&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24969)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24969>Veranstaltung Online buchen</a></div>';
+bildelem[107]='https://api.langeoog.de/veranstaltungen/1/image/21788';
+textelem[107]='<b>Boßel-Sprach-Kurs: „All up Platt“ mit Bernhard Mennen</b><br>Boßeln ist eine Sportart, die in unterschiedlichen Formen in verschiedenen Teilen Europas gespielt wird. Ziel des Spiels ist es, eine Kugel mit möglichst wenigen Würfen über eine festgelegte Strecke zu werfen.<br><br>Boßeln zählt zu den klassischen Sportdisziplinen des Friesensports. Hochburgen sind Ostfriesland, das Emsland, Teile des Oldenburger Landes, die schleswig-holsteinischen Landesteile Dithmarschen und Nordfriesland, die Niederlande sowie Irland.<br><br>Als Tiro de bola aragonesa wird es in der spanischen Provinz Saragossa gespielt, als Bocciaforte (auch Boccia su Strada, Boccia alla Lunga oder Boccetta su Strada) in Italien, als Irish Road Bowling in Irland, Kanada und den Vereinigten Staaten und als Krugeln in Huttwil im Schweizer Kanton Bern.<br><br>Boßeln ist eine sehr gesellige Mannschaftssportart und fördert bei allem sportlichen Ehrgeiz besonders den sozialen Zusammenhalt. Zur Förderung der ostfriesischen Sprache werden alle Kommandos auf Plattdeutsch gegeben. Teilnahme ab 12 Jahren.<br><br>Neu: Gruppenkarte/Boßel-Wildcard für max. 14 Personen, 100 € (Terminvereinbarung für Gruppen: Tel. 160 5362982). <br><br>12,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br><br>https://boßelkurse.de/<br>Ort: Seniorenhus "bliev hier"&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",21788)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=21788>Veranstaltung Online buchen</a></div>';
+bildelem[108]='https://api.langeoog.de/veranstaltungen/1/image/25179';
+textelem[108]='<b>Geführte Insel-Fahrradtour</b><br>Radfahren im Inselrythmus.<br><br>Mit dem Rad geht es im entspannten Tempo mit Pausen und Zeit für Informationen, Wissenswertes und dit & dat (dies und das) über die Insel!<br><br>Bitte bringen Sie Ihr Fahrrad und ggf. etwas zu Trinken mit!<br><br>Über uns: Wir, Thomas Agena und Karsten Luplow, leben zusammen seit über 100 Jahren auf der Insel. Es macht uns Spaß, Ihnen unsere Heimat zu zeigen und Sie mit Fakten und dem einen oder anderen Döntje (lustige Geschichte) zu unterhalten.<br><br>15,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Info-Café/Wiesenweg 1&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25179)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=25179>Veranstaltung Online buchen</a></div>';
+bildelem[109]='https://api.langeoog.de/veranstaltungen/1/image/21789';
+textelem[109]='<b>Boßel-Sprach-Kurs: „All up Platt“ mit Bernhard Mennen</b><br>Boßeln ist eine Sportart, die in unterschiedlichen Formen in verschiedenen Teilen Europas gespielt wird. Ziel des Spiels ist es, eine Kugel mit möglichst wenigen Würfen über eine festgelegte Strecke zu werfen.<br><br>Boßeln zählt zu den klassischen Sportdisziplinen des Friesensports. Hochburgen sind Ostfriesland, das Emsland, Teile des Oldenburger Landes, die schleswig-holsteinischen Landesteile Dithmarschen und Nordfriesland, die Niederlande sowie Irland.<br><br>Als Tiro de bola aragonesa wird es in der spanischen Provinz Saragossa gespielt, als Bocciaforte (auch Boccia su Strada, Boccia alla Lunga oder Boccetta su Strada) in Italien, als Irish Road Bowling in Irland, Kanada und den Vereinigten Staaten und als Krugeln in Huttwil im Schweizer Kanton Bern.<br><br>Boßeln ist eine sehr gesellige Mannschaftssportart und fördert bei allem sportlichen Ehrgeiz besonders den sozialen Zusammenhalt. Zur Förderung der ostfriesischen Sprache werden alle Kommandos auf Plattdeutsch gegeben. Teilnahme ab 12 Jahren.<br><br>Neu: Gruppenkarte/Boßel-Wildcard für max. 14 Personen, 100 € (Terminvereinbarung für Gruppen: Tel. 160 5362982). <br><br>12,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br><br>https://boßelkurse.de/<br>Ort: Seniorenhus "bliev hier"&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",21789)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=21789>Veranstaltung Online buchen</a></div>';
+bildelem[110]='https://api.langeoog.de/veranstaltungen/1/image/23825';
+textelem[110]='<b>Wattsafari für Familien</b><br>Eine Wattführung für Eltern und Kinder, die Matsch lieben, Wattwürmer entdecken möchten und schon immer wissen wollten, warum das Wattenmeer die Kinderstube der Nordsee ist. Für Kinder ab 3 Jahren. Entdecken Sie mit Wattführer Deff Westerkamp den Grund des Meeres. Bitte an wetterabhängige Kleidung und Sonnenschutz denken.<br><br>16,00/10,00 €, Karten: Tourist-Info/Haus der Insel.<br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",23825)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=23825>Veranstaltung Online buchen</a></div>';
+bildelem[111]='https://api.langeoog.de/veranstaltungen/1/image/24794';
+textelem[111]='<b>See-, Watt- und Wasservogelbeobachtung</b><br>Geführte Vogelbeobachtungsradtour zu ausgewählten Beobachtungsplätzen<br><br>Ausgehend von Treffpunkt in der Nähe vom Seniorenwohnheim „bliev hier“ fahren wir<br>nacheinander ausgewiesene Orte zur See-, Watt- und Wasservogelbeobachtung an. Dort bauen wir<br>unsere Fernoptik auf, beobachten und erfahren Wissenswertes über die gesehenen und gehörten<br>Vögel. So kann z.B. erlebt werden, wie sich Wattvögel mit der steigenden Flut im Flinthörnwatt<br>immer weiter Richtung Ufer bewegen, Seevögel gegen Hochwasser Schutz im Bereich hinter dem<br>Ostdeich suchen und Wasservögel im und am See und den Lagunen vom Großen Schlopp rasten.<br><br>Man kann gespannt sein, was es jeweils zu entdecken gibt.<br><br>Teilnahme ab 12 Jahren.<br><br>Mit Nationalparkführer Dr. Thorsten Kraft, erreichbar unter 01573 3950898.<br><br>Fernglas und ggf. Spektiv bzw. Kamera nicht vergessen! Auf wetterangepasste Kleidung und ggf.<br>Sonnenschutz achten.<br><br>18,00/12,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Ecke Kirchstraße/Süderdünenring&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24794)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24794>Veranstaltung Online buchen</a></div>';
+bildelem[112]='https://api.langeoog.de/veranstaltungen/1/image/25180';
+textelem[112]='<b>Geführte Insel-Fahrradtour</b><br>Radfahren im Inselrythmus.<br><br>Mit dem Rad geht es im entspannten Tempo mit Pausen und Zeit für Informationen, Wissenswertes und dit & dat (dies und das) über die Insel!<br><br>Bitte bringen Sie Ihr Fahrrad und ggf. etwas zu Trinken mit!<br><br>Über uns: Wir, Thomas Agena und Karsten Luplow, leben zusammen seit über 100 Jahren auf der Insel. Es macht uns Spaß, Ihnen unsere Heimat zu zeigen und Sie mit Fakten und dem einen oder anderen Döntje (lustige Geschichte) zu unterhalten.<br><br>15,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Info-Café/Wiesenweg 1&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25180)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=25180>Veranstaltung Online buchen</a></div>';
+bildelem[113]='https://api.langeoog.de/veranstaltungen/1/image/21977';
+textelem[113]='<b>Watt intensiv</b><br>Eine gut 3 Std. lange, spannende Entdeckungsreise zum Kosten und Anfassen mit Uwe Garrels zu den Ureinwohnern des Watts. <br><br>Wie können Salzwiesenpflanzen, Muscheln, Würmer und Schnecken hier überleben? Die normalen Lebensbedingungen im Watt sind schon heftig, aber die großen und die kleinen Feinde sind so zahlreich wie in einem Computerspiel und es geht immer ums Ganze.<br><br>Ausreichend warme, wind- und regenfeste Kleidung anziehen. Auf dem Watt ist es kühler und windiger als im Ort! Im Sommer auch gut barfuß oder mit Socken möglich. Gummistiefel oder feste Wanderschuhe in der kühleren Jahreszeit.  Für Familien mit Kindern ab 8 J.<br><br>20,00/10,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Seedeich/Deichschart&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",21977)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=21977>Veranstaltung Online buchen</a></div>';
+bildelem[114]='https://api.langeoog.de/veranstaltungen/1/image/23952';
+textelem[114]='<b>Wattsafari für Familien</b><br>Eine Wattführung für Eltern und Kinder, die Matsch lieben, Wattwürmer entdecken möchten und schon immer wissen wollten, warum das Wattenmeer die Kinderstube der Nordsee ist. Für Kinder ab 3 Jahren. Entdecken Sie mit Wattführer Deff Westerkamp den Grund des Meeres. Bitte an wetterabhängige Kleidung und Sonnenschutz denken.<br><br>16,00/10,00 €, Karten: Tourist-Info/Haus der Insel.<br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",23952)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=23952>Veranstaltung Online buchen</a></div>';
+bildelem[115]='https://api.langeoog.de/veranstaltungen/1/image/24792';
+textelem[115]='<b>Exkursion zum Osterhook</b><br>Am Strand-, Watt-, Lagunen- und Dünenbereich vor der Osterhookhütte bietet die Vogelwelt im Verlauf des Jahres ein immer wieder neues großes Kino. Darsteller sind riesige Schwärme von Watvögeln, Trupps von Gänsen, futtersuchende Sing- oder durchziehende Greifvögel. Zudem kann man Großmöwen, Seeschwalben und Säbelschnäblern zur Brutzeit ins Nest schauen und bei der Jungenaufzucht beobachten. Daneben bietet die Wildnis der Jungdünenlandschaft mit ihrer speziellen Pflanzen- und Kleintierwelt hinter dem Ostende reichhaltig interessantes Anschauungsmaterial zur Inselentwicklung.<br><br>Nach dem Treffen am Deichschart ca. 1 ½ Stunden vor Springtidehochwasser radeln wir zügig mit einem kurzen Zwischenstopp am Vogelwärterhaus zum Ostende. Von dort aus gehen wir zur Osterhookhütte mit dann optimalen Vogelbeobachtungsmöglichkeiten. Danach erleben wir auf „Jochens Pad“ die Jungdünenwildnis mit ihren Bewohnern. <br><br>Auf wetterangepasste Kleidung und ggf. Sonnenschutz achten. Wenn verfügbar gerne Fernglas, Spektiv, Kamera mitbringen.<br><br>18,00/12,00 €, Karten: Tourist-Info/ Haus der Insel <br>Ort: Deichschart/Seedeich&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",24792)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=24792>Veranstaltung Online buchen</a></div>';
+bildelem[116]='https://api.langeoog.de/veranstaltungen/1/image/25181';
+textelem[116]='<b>Geführte Insel-Fahrradtour</b><br>Radfahren im Inselrythmus.<br><br>Mit dem Rad geht es im entspannten Tempo mit Pausen und Zeit für Informationen, Wissenswertes und dit & dat (dies und das) über die Insel!<br><br>Bitte bringen Sie Ihr Fahrrad und ggf. etwas zu Trinken mit!<br><br>Über uns: Wir, Thomas Agena und Karsten Luplow, leben zusammen seit über 100 Jahren auf der Insel. Es macht uns Spaß, Ihnen unsere Heimat zu zeigen und Sie mit Fakten und dem einen oder anderen Döntje (lustige Geschichte) zu unterhalten.<br><br>15,00/8,00 €, Karten: Tourist-Info/Haus der Insel<br>Ort: Info-Café/Wiesenweg 1&nbsp;&nbsp;<a href=javascript:KShowContent("dkontingent",25181)><img style="max-width:27px;height:auto;" src="/fileadmin/userFunc/images/logos/kontingent.jpg?4"></a><br><div class=redbutton-right><a target=_blank href=https://veranstaltung.langeoog.de/kalender/?&page=details&termin=25181>Veranstaltung Online buchen</a></div>';
+</script>
+								<div class="lntools-content-wrapper">
+									<div class="tx-news-list-item">
+										<div class="tx-news-list-image"> <a title="Unfall: Autofahrer fährt durch Hecke – Wittmunder rettet sich im letzten Moment" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <img src="/fileadmin/userFunc/images/image_resized2.php?verz=nwz&format=jpg&w=640&h=480&imgfile=https%3A%2F%2Fimgneu.nwzonline.de%2Fimage%2F02a8-216cb91d8d2d-6a3a8509a52b-1000%2F414%2C4-3%2Cmed%2C50%2C50%2C1_2748_1768_600_450_0.254525_0_0_0.254525_0_0%2Fzu-einem-kuriosen-unfall-ist-es-am-montag-in-wittmund-gekommen-ein-autofahrer-ist-von-der-strasse-ab.jpg" width="160" height="120" alt=""> </a> </div>
+										<div class="tx-news-list-content">
+											<div class="head">
+												<h3> <a title="Unfall: Autofahrer fährt durch Hecke – Wittmunder rettet sich im letzten Moment" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <span itemprop="headline"><span style='display: -webkit-box;-webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>Unfall: Autofahrer fährt durch Hecke – Wittmunder rettet sich im letzten Moment</span></span> </a> </h3>
+												 </div>
+											<div class="teaser">
+												<div itemprop="description"> <span style='display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>
+														<p class="article-teaser">In Wittmund hat ein Autofahrer die Kontrolle über sein Fahrzeug verloren und ist durch eine Hecke auf ein Grundstück gefahren. Der Bewohner rettete sich im letzten Moment.</p>
+														 </div>
+													 </div>
+												<div class="foot">
+													<div class="redbutton"> <a class="more" title="Unfall: Autofahrer fährt durch Hecke – Wittmunder rettet sich im letzten Moment" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/">mehr aus dem Harlingerland</a> </div>
+													 </div>
+												 </div>
+											 </div>
+										<div class="tx-news-list-item">
+											<div class="tx-news-list-image"> <a title="Veranstaltung mit Lichtshow: Drachen locken Gäste nach Langeoog und auf Wangerooge" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <img src="/fileadmin/userFunc/images/logos/nwz.jpg" width="160" height="120" alt=""> </a> </div>
+											<div class="tx-news-list-content">
+												<div class="head">
+													<h3> <a title="Veranstaltung mit Lichtshow: Drachen locken Gäste nach Langeoog und auf Wangerooge" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <span itemprop="headline"><span style='display: -webkit-box;-webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>Veranstaltung mit Lichtshow: Drachen locken Gäste nach Langeoog und auf Wangerooge</span></span> </a> </h3>
+													 </div>
+												<div class="teaser">
+													<div itemprop="description"> <span style='display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>
+															<p class="article-teaser">An kaum einen Ort weht der Wind beständiger als auf den Inseln. Die Drachenfeste auf Langeoog und Wangerooge garantieren deshalb farbenfrohe, prächtige Shows. Tausende Gäste werden dazu auf den Inseln erwartet. </p>
+															 </div>
+														 </div>
+													<div class="foot">
+														<div class="redbutton"> <a class="more" title="Veranstaltung mit Lichtshow: Drachen locken Gäste nach Langeoog und auf Wangerooge" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/">mehr aus dem Harlingerland</a> </div>
+														 </div>
+													 </div>
+												 </div>
+											<div class="tx-news-list-item">
+												<div class="tx-news-list-image"> <a title="Vorstandswahlen: Neuer Chef der AfD Aurich-Emden auf Landesbühne kein Unbekannter" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <img src="/fileadmin/userFunc/images/image_resized2.php?verz=nwz&format=jpg&w=640&h=480&imgfile=https%3A%2F%2Fimgneu.nwzonline.de%2Fimage%2F02a8-216c81ef1e8c-eac8dd45ef65-1000%2F414%2C4-3%2Cmed%2C50%2C50%2C1_640_640_600_450_0.9375_0_0_0.9375_0_0%2Fpatrick-bauer-31-pressesprecher-der-afd-niedersachsen-steht-an-der-spitze-des-kreisverbands-aurich-e.jpg" width="160" height="120" alt=""> </a> </div>
+												<div class="tx-news-list-content">
+													<div class="head">
+														<h3> <a title="Vorstandswahlen: Neuer Chef der AfD Aurich-Emden auf Landesbühne kein Unbekannter" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/"> <span itemprop="headline"><span style='display: -webkit-box;-webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>Vorstandswahlen: Neuer Chef der AfD Aurich-Emden auf Landesbühne kein Unbekannter</span></span> </a> </h3>
+														 </div>
+													<div class="teaser">
+														<div itemprop="description"> <span style='display: -webkit-box;-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;'>
+																<p class="article-teaser">Patrick Bauer steht an der Spitze der AfD in Aurich-Emden. Der 31-Jährige folgt auf Harald Kutscher, der nach innerparteilichen Querelen den Posten abgeben musste. Bauer wohnt in Emden – ist aber überregional bekannt.</p>
+																 </div>
+															 </div>
+														<div class="foot">
+															<div class="redbutton"> <a class="more" title="Vorstandswahlen: Neuer Chef der AfD Aurich-Emden auf Landesbühne kein Unbekannter" target="" href="https://www.langeoognews.de/langeoog-aktuell/aus-der-region/">mehr aus dem Harlingerland</a> </div>
+															 </div>
+														 </div>
+													 </div>
+											</div>
+											<script>
+  function toggleFText() {
+    var container = document.getElementById("ftextContainer");
+    var btn = document.getElementById("FreadMoreBtn");
+    container.classList.toggle("expanded");
+    if (container.classList.contains("expanded")) {
+        btn.innerHTML = "Weniger anzeigen";
+    } else {
+        btn.innerHTML = "Mehr anzeigen";
+    }
+}
+  </script>
+											<div class="wbg_zone_mobile_r"> <a target="_blank" title="_" href="https://www.die-sandburg.com"><img border=0 max-width="468" height="60" src="/fileadmin/userFunc/images/wbg/images/Sandburg-468.gif?t=1787631129"></a> </div>
+											<div class="news">
+												<!--TYPO3SEARCH_end-->
+												<div class="tx-news-archivebydate">
+													<div class="tx-news-archivebydate-button-image"></div>
+													<div class="tx-news-archivebydate-button-content">
+														<h3>Nachrichten Archiv</h3>
+														<div class="tx-news-archivebydate-start-button">
+															<p></p>
+															<div class="redbutton-right"> <a href="/langeoog-aktuell/news-archiv/nachrichten-archiv/tag/1787607420/?tx_news_pi1%5Bcontroller%5D=News&amp;cHash=7d6fb391e44ad719a5bf084da0ce741f"> <span>Tagesansicht vom 24.08.2026</span> </a> </div>
+															<div class="redbutton-right"> <a href="/langeoog-aktuell/news-archiv/"> <span>Kalenderansicht</span> </a> </div>
+															 </div>
+														 </div>
+													 </div>
+												<div class="clearboth"></div>
+												<!--TYPO3SEARCH_begin-->
+												 </div>
+											 </div>
+										 </div>
+									<div class="col-custom-two">
+										<div id="servicegoto"></div>
+										<div class="serviceshow servicebutton" onclick="serviceShow()">Service-Informationen einblenden</div>
+										<div class="servicehide servicebutton" onclick="serviceHide()">Service-Informationen ausblenden</div>
+										<div id="servicearea" style="text-align:center;">
+											<div class="box">
+												<h1>Ärzte-Notdienst</h1>
+												<div class="center-box-content">
+													<p>20:00 - 8:00<br/> Praxis Langeoog<br/> <a target="_blank" href="https://maps.google.de/?q=Hauptstr.%2024,Langeoog">Hauptstr. 24</a><br> <img title="RedCross" alt="RedCross" src="/fileadmin/userFunc/images/notdienst/redcross.gif" height="12" width="12"> <b class="fon"><a href="tel:+494972912020">Telefon 912020</a></b> <br> <span class="redbutton-right"> <a href="/langeoog-aktuell/notdienstaerzte/">» Notdienstplan</a></center>
+														 </span> </p>
+												 </div>
+											 </div>
+										<script>
+code=document.getElementById("kleinanzeigen").innerHTML;
+code=code.replace("Diskussionen","Diskussionen <span class=\"tx-ln-com-count-numberCircle\" style=\"color:white\">0</span>");
+document.getElementById("kleinanzeigen").innerHTML=code;
+code=document.getElementsByClassName("tx-ln-com-count-numberCircle")[1].innerHTML;
+num=code-2;
+document.getElementsByClassName("tx-ln-com-count-numberCircle")[1].innerHTML=num;
+</script>
+										<div class="box">
+											<h1>L'oog News Magazin</h1>
+											<div class="center-box-content"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy/9sAQwEJCQkMCwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy/8AAEQgAmwCgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A99Z1TG44ycCq66lZtJsW6iJzt4YcHjjPryKW+uIbW1ee4uILeJBueWcgIo9SSRiqlnFaXdv59jJp80Ep3+ZDEGVycHOQ2D25osxpx6lg6rYCISfbINhYKG3jBP8Ak1bVgyhlIIIyCO9ZyaTAnC29iMHdj7L0OMevpmrYS4UACWEAcY8o/wDxVJX6jly/ZJ6Kgxc5x50X/fo//FUYuf8AntF/36P/AMVTJJ6Kgxc/89ov+/R/+Koxcn/ltF/36P8A8VQBPRUG25/57Rf9+j/8VRtuf+e0X/fo/wDxVAE9B6cVBtuf+e0X/fo//FU5FnDDfJGV7gRkH+dAEUc1xc2rkQPaTEEILgK+D2JCNyPbIrlLzx9ZWXi6x8ONNAZeft103yRxERsQoyeCWA6kgA4yTnHQajeTaPpmpapdTLNFbwNKkKqIwNoY4yScseB6cDAGa+YYLjU7/XheW4kn1OWczr5UW5mkzuJCgevOMVz4is4WSPZyjLo4tTnU2St831+W59V2ks08bSSxCNWIMY53bSB94EDDZzxVisuzvLo2lgmova2eo3EWWtiwYlwMsF+bnHtnHrUk9/Ha3ENvcalZQzzZ8qOTCs+Ou0Fsn8K6Ernjz0k0aFFQbbn/AJ7Rf9+j/wDFUYuf+e0X/fo//FUCJ6Kgxc/89ov+/R/+KqSPeF/eMrN6quP6mgDH8ZD/AIofxB/2Dbj/ANFtVLwbdQ2Xw40i5uZBHDDp6yyO3RVC5JP0Fb2oWMGpWUtndBmglXbIqsV3L3Bx2PQjoRxWOfC2iR232dmlFsYjCsTXT7FQ4yqjOACAAQOo4q1JctmZtPmujl/BXiS5n8YXsd/JcAaxGLqGKWB4lt5E+VoRvA3MI/LyV4JBpmn67qPh+fULvVG+2eG7rVruCSRuWsG891GRzujY7fTBJ9t3a3miaXftZNcKTPYgi3lWUrJHkYOGBzzt/Sn2mkaZa21zaRoJIbksZoZnMgct97IYnO7dz65561bnHsQoS2ueZ+Hbm51LU/DegXl/crZz6Wb59s5Vrmbcw2u2cuoVSdv4nNP8UXlnZWni2z0n+07OfT4bcvG0v7qN2kUq8RDkqWVsEADjrjnPoT6HoBtbOze2tStsxW0JIDwn72I2+8p4HQ54FQ/8ITojQXEc0MtwbkqZ5Jpmd5tuNodicuBgYDZx2xV+1jzX/rcn2UuW39bHI6hdatpOjWVssUll/aOp2trJMbySfdE4O51Y7ShO3BAwRyQQSDV3xHE/hLV9Au9EkkBurr7Nd2e5nFzGRlpCvQFME7gM/NyccV1aeGNIEM8MtqLmKdFjdLljKCinKr82eAeQOx5FLbeHNPt7pLlxNczRkmF7uZpzDnGdhckrnA/IVPtUV7NnKeF7AeL9FvtR1aW+hv5rqaPC3LK9iVYhVjxjYQMZHfGSDk1zPh3xJq3iafw1pOq38sNrNDO7TxuUN46MVCMRg5VRkjOCSNwPQ+oTeGdLluJJkgMBmZmnSBzGlwW+8ZEHyuTnkkE1LJ4f0iW0t7V9PtzFbY8gbBmLAABRuqkADkHPAo9rHXT/AIAvZS01/wCCYuizada+MtQ0ixs7+2kigV5VeQG3IJ+VkG84Jyc/KOnPvesteju/GmpaMtwwezgjLQNF1J+YurDth0BB7jjHOVstN0vQbm7uVF003lB57q5Z5D5YzgeY3XG0/LkkccDIzzcus29ndX/iLR/s0k+tyWlhbLPIf+PrLL+8CZKAIVJU4b5CMAkVlNSnJcp00ZU4Qn7Te2nrdfpc1/iVHJJ8PdXWLO4Roxx/dDqT+gNcn8HfCcMNgPEtyqSXE+5LUEZMSglWb2JII+g6/Mal1K08e6tol3NDeTli0lvPps1rCEmGcMY3O1vKIzt3Df05Od1aPhvxPNoY03wxqnhq9sb9kK26QyRvDIFG47XZxz14yxHGSSaiWGvNTunY6aWacmDlhkmuZ3v3VtvvSF+Iem/2vr3hiwW8ms55JJ2huIvvRSKqlW684Pbv6jrTrDX31zWbPR9asRZ61YT7poPvRzIY2HmoT/CT2OcZHJrqr3Q7HUr61v7mOT7TbD9y4lYeXnrgA4BPf1GAcirU2n2txdRXUkKfaIgypKBhwpGCA3UD+oHpW3OuVJnnuD5mzz/w7pd3qsM3mi5EDXV5Ct5FqMm+Mb5EA8sjAwMYOeOPpWDb+Itag0KJYLlnvfDE7tqtuisTOqt5XDZwRt8xjngnnBIzXp1t4X02zkheEXCiKQyqn2hyu85y23OMnJye+T61JDZaOtxqBjS2Zr84ukLBhIQu0gr06DBFW6yvqifZOy1OKubfVL2xl1e0AvxPfvdLpkdyIxdWqjau08gjlHII+8Wxyeeo8D3tjqHha3utOe4NrI7lY7hizwnccx5PUKcge2KdLpugG1tbKO4S1FiPJhNtdeU8QAXK5Ug90yD6jPatTS7OwsLMW+mxQxW6Mw2QgBQ2Tu6e/GO2MVEppxsXCDUrjdYk0tLBl1eW2jtHYKTcyBEJzkDJIHb9KxftfgcSyyjUNE8yXId/tUe45OTzuyOtZfxb/wCRRh/6/E/9BevEu/NdeFwUa0OduxwYzHyoVORRue+ySeA5ZvNkvdDaTGAxuo8jjH97/OB6CpPtngf7K9r/AGjon2dyrGL7XHtyOhA3cfhXio0EGyF0dZ0oIVLFPPbeMZyNu3r8p+uRjqKjsNF+3qGGqaZbrtUn7TcFDk4+XG3OQcj04JzjmtHgaW7m/uM1mFZ6KC+89sa58DtH5R1HRfK3BxGLxAgICgELuwDhQP8A9ZrU/wCEr8O/9B/S/wDwMj/xr58t9LWa9ntjqFigiZlEzSN5cm3qVIXJGOnHPbJ4pYNIaeKKQahp6CVVKB58HJKqQRjKkFuc4GASCQM0/qFL+clZjV6QX3n0F/wlfh3/AKD+l/8AgZH/AI0f8JX4d/6D+l/+Bkf+NfN21giMykBxkcg//qoxVrLIP7RDzea3gfSP/CV+Hf8AoP6X/wCBkf8AjR/wlXh3/oP6X/4GR/4183YFLT/suP8AML+2J/yn0h/wlXh3/oP6X/4GR/40h8U+HD117Sv/AAMj/wAa+cKXFH9lx/mF/bE/5UfR48VeHf8AoP6X/wCBkf8AjSP4j8OS7Q+taU+GDKDdRnBHQjnrXgumwCRXDAMnGc9RW3FasyfuY+cYBA6Csp4CEXbmNqeZzmr8qPYj4n0BRltc00D3u4/8aT/hKfD3/Qe0v/wLj/xryJ9MtvJ3XLlnHQL0H+Nc5qKCO7ZQ24YGD7UU8BCbtzMVXM6lNXcV957/AP8ACU+Hv+g9pn/gXH/jVOXVPCM7xtJqukHyyxUC7QAFjuY8N1JGc/X1NeBA8ClP1rX+yo/zGH9tT/kX3nu5vfCDytI+tWEjMwc79RBG7GM4L45BwfUcHjitzTHsJLIPpssElqzMVaBw6Ekktgg465r5sGK90+HH/Ik2fGPmk/8AQzXNi8EqEOZO+p2YHMJYmo4ONtLmb8W+fCMP/X4n/oL14qBXtfxa/wCRSh/6/E/9BevFcYGa7ct/g/P/ACODNn/tHyR2tx4Cs4LieF/EJDQsEb/Q1ILHoP8AWimSeBLWOHzzrkxiwuHXTwQ2SAMYl9SK6y6sFOs30jRZDzueZiAc9Dz3/HAB46ZrMu1lt7OO1ddyCORAQygMCByQBnHTgZHTNeN9fxd3r+R66y/DbKP5mSvgG0bef+EhYBWCndYAckAj/lrx1HWkPgK1UsP7ekJV1VsWAPU4B/1vT/Grj3htV+zwkP5skbnzJN+AAMd8/wAPU+wGelWBq9uqQGJQY0CopE24jaThQo6kHHqPbrV/XsVbWX5f5F/2XQ/l/FnnmrWw0vxDdaWkxnWEIRKY9hbcqt93Jx1x17VFipdafzvGd9JsKbljO0jGP3a9sDj/ADz1pmK9/CylOkpS3PmsZCNOtKEVohVTcOtI6bTjrWhbWySjbuVc8HuTReWojbIBCdsjBNbXV7HLrbm6GeFyccfjTyqqw6EEcc1Nb2klxLtXGAQGY9B/n+lMeF0wzKwVuhKkZ/Pn86OeHNy31L9nPk57aD4Z2i+UZCE8gd63472+FqrBVjjx37elc6F4q6pn+xEmQ+XnAUnJNTUgpCp1HG4+bUpyrJuyx6t61nNljk1pLGiQkNEdxGSfQU2OwM+TGCVH8R4/IU4uMSZc8n3M7Bo5qzNCsT7QxJHXIqHbWi1IbtoNAINe6fDj/kSLP/ek/wDQzXhwXkV7l8Ov+RLtP96T/wBDNedmf8Fev+Z6uTP/AGh+n6ozvixj/hE4M/8AP4n/AKA9eL4r2n4r/wDIqQf9fif+gPXjAFPLP4Pz/wAh5v8A7wvRfqesa1qLWV3eSG5t4QJnCiZHwzZOB0/lmuMm1K5nvppAGttjZdy23YSOF5XO7OQBuxg9O1RXviY6jci4utIsHlDFgyvOnzE5J+WUDPJ/M+pqWPxLtUj+xdNIKbCGMzAj0OZOep/M1wyy+v0SPWp5xhIa3d/QvSrblJNxjaZyzP5dqAxHPBDHPJB5zg8YxjmtG7SSysoJwytv3c9BznnBBHYjPp6Vx4j8tBGmk2IVc4AkuBjPp+9//V2qQ+LZmIJ0ux44H7yf/wCO1zyyrEyTvYuWd4R/Df7jmdUDHxdeb9xby4gdxJP+rTqTSgHPSrV7J/aGsTagYUjlmCgpFu2jChRjJJ6D1qNkIHfFe/hqbp0lCW58xjK8ataU47MfbymBw6/eHrVqOeS8uRumKSMVC7VBzz05qkBxitHQERvEGn78bBcRls9MBgaeIgnTl006E4So41o9ddnsWEtgyOXmcrGgZfJyFyTjjBANNlhKWMsvmPwRxLnByM993Oa7zV49PtEUwCJJZJcbUPJ4YnAH0zxWHcXNuxWJ5oizdEYjJP0NfMLkb/4J9o1NR6fccVNH5crKGDAHqFxmhGKkdwDnB6VPer/ps2P7xqALX1FCHLSir306nxOLqc9aTSS16FtbzfxMgIz1ArUfVrJo9iwADHYYNYWKs/ZfkcqxYKAcqOKcqcXuRCtOOxWlYSSMwGATnFMp+KMVqlYxuMxXt/w6/wCRLs/96T/0M14oEycA/nXtvw9XZ4OtVznDSc/8CNebmn8Fev6M9jJH/tD9H+aM74rf8irB/wBfif8AoD142Fr2T4qjPhe3/wCvxP8A0B68fxTyz+C/X/IM5dsQvRfqXRqNolwkjafC20DckjDD/d64Ax0zxjsOm4MtrqsFvaiF7K1nImMpaVVwcrt24A+73wPQemT2d6+oxaxqYg1TVBH58hbfdOsaDdwsfQKAPf06VJb6rqZSOAancEOm4RpK0kmAcFt5PA6c5xXnrNITvy07/N/qjvWWT/5+f+Sr/M4iTUbGSxNqLGAAhP3pYGTcCxJ3Y75GR0wPXkZwKhmLSKSxz2A/ADgV6Wb7UGspLyDVLxo9zbIzdEySBThigBwQCCPlJzjiqN9quprcm3j1K+J+QmaO4cx87iPmB4PHII9AetT/AGz7Jv8AdO3e4p5PKfxVPwX+ZwqkZ+VganR5m2hScL0z0FQ6pJNL4vvGnmeaQxxbncklj5ac81f0q3jmuZvtIUphRGpbr13ZHf8A+tXqTxj+re3hG97fieXRwUHi/YTloQtGqHzLhgoJ6sQoP41OJ0SP9xHJKmesKGTj/gPtW9b6dBBjyoY4/wDcUL/KrH2VW64r53EVa+Jf7x6duh9jhFh8Gv3EEn3er+//ACOetrmNJ0kntrqTkFl+zSgFc/dBK/r/APqE5vUDsUSWNSTtUxNgD0yRWz9iT2/Kj7CvUAVxvCpndHMai6fn/mcrcR2Y3SLPHbMSPlP3T+Hb+lQndHEshAKH/lrGdyfn2/zzXXtaBRwAKpTaXA7lzCok/wCegGG/76HNd2GxOIw2kHddn/Wh5uNw+FxutWFpd1o/+D8znthzjGPrVkJLHkCROAc809pEttSSKONmjhBMhkJYMSMYy2T6kkHqB71Jdz27pst4nROvJ7/596+mw1aVampyja58VjMPTw9VwjO9v68yhgUbcnABJqRY24O07T7VcgSSclIY4wQvQqGLfmOfwrpbscSV3YpBcEKM7s44r2nwGhj8J2ykEfM5wT/tGvLHt7a1tB9oi3XLHkbsYH4V6l4A/wCRRtu3zyf+hGvMzOXNRVu/+Z7eSx5cS09+X9UZvxT/AORYt/8Ar8X/ANAevIcV6/8AFEZ8M2w/6fF/9AevJdhxV5Z/Afr/AJEZ2/8AaV6L9T0+W9tbfVr43VjBK4uiYl+RigB+ZmYgHJ6gZOMgcdr19aW+qxOYSoaVeJCdrleDhWwSoyBkY59uo4G7jhuvFt7Ol7Db2ckzzpK/zruJPzBQwOSD3A757V2GgalYxWhtGuXkkikYB5FUlxn742DAB7A8+teG6MlFNRa+R9NTxNKWnMvvRjOk+n3do9zH5uSsdvI8AG7YWdoWOMLjBy565Y5GKmkVJ9RkFmi2rXEK3CIzArMpySoUHJI4Pyj+I5UcFrmq22nayJDDdoG8wMxEbBiQQSpcEEKSASBznJzWZqGq3VpAscFnCCBt3NKo8sHGQMksq5HQZ+lPklbVP7mVKtTSvdWOF1J/N8X3rm3e33JGfJfqn7teD9K0dJtxPrFjC5ISW4jRiPQsAf51GbDUL/xHPeTAN5qoGlUZUkIoJ/Sup0bSY2u7Z/tLSGOaNgq8DIIOMH8K9ujOMMMk9NP0Pla1OVXGc0dr/qamuWS2VleanG2RGpk8nGMnvz2/KrNnp9rJpcd2yyFpIRJtL8Llc44xmr17YLqenzWcok8qZdrlODj64NJOsdjppieREVIii73Ck4GBxxXz3M7H13KrnNq2TVDRdVbVbN5zEIispTaGznABz+tWUdQf9Yn/AH0KbaW1nZRGO1EUas24gPnnGM9fYVdkRd3LLHOKo297HdtcCNXXyJjC27HJAByOenNXD82NpB+hzVG3sls2uSjMfPmMxBHQkAY+nFFgTMO5XN1L/vt/OmNGynBGD6VqRQWc1yyTNKrFzkrjHWoprIeYTECqkkAOwLE59q+qpzXKkfAVqcuaUl3YJLdS2qW+CsJIUNg9zWxYWd3aeYLZchsAvIpz+XOBzUdloeplI3jhlYk/KPNCL9OSDWlt1mxlIaAsoGWMeXUfjWFWon7sWjuw1Jq06ifrYqXfh6+ulWa4lQyY4jjUszfQV33gy3e18NwwyRvG6u+VcYI5z0/GuTh1C93hzHyerZ6V3WiSmaw8wnJLc/kK83GTn7NRltc9rL6NJVnOF726/I574mf8i9a8Z/0xf/QHrzGGQBwpA25546CvUviJEZtFs4x1N4P/AEXJXnsennAEbqrgnIfkGujL5xjRs+5xZtSnLEpx7I04tPhjvLWNAkxkyfMB+QEKDg4HXkD6keozee2ubCCQBYdznczKwOfmCnp6EgfyzTLiz2GS0kkMjwsVYrEMZBxxzS2drHbo2Z94JA5QgL7VjUqdXL8DspUGtFC3zFeC9RCI44JFLhEZDkyZUNkccDBHXHJxVeLSr25gMnlIfk3qN4Yn14Gc4AJ/D3FaAtdwZo5Ixg4I2HPQH+tZ1zpUkiFZHDZ9VP8A8VRTq3dr/gOth5W+G/zKoN1DaF5QPL8tJRGjZIVs4yMeoI/L1GbdoZ3mtWkjEUayK7SkgGMAg7u/Tr+Fc+893aaq2mRncsYXGF5O4A4x+NdJYx3YSTzbKdlbChXg4HrXTNXg2mtTz6U2qihNNW36+Zek1TQ1jOZbm6z1Rw7j/wAiHFV5Nd06O3khsdOdC6leixjke2ax9St3sLd7hrWZVGSEKkZPtntWMNQvJU322nO+ejfMw/QV8/UpVKbtI+po1YVo80DaF5t6wn/vv/61PGoKOsLf99f/AFqwINS1O8kMcFlbPJtLEAkccep9xS3F3q9qgeewiRcgZ+b/ABrO9Tua+zRutfQuMNE+PwNJ9ot2Hyy7SP72QB+fFYTau8SI09lIikfeU9fpnH867fTPD9jHHHd6qWkyA4gX7q8ZG4g/MfUdPrWtNVJOyMqnLBXloY1jL9jleZY0aRySr8HgnII7f/rrf05LW6ZLi4SOeReRvG0KfYDr2qHU9XuLiaRBKTCTjaB8uPpTLG0i8ppGkAT3bGPwr3pXcLvRny9NqNVxjqtdzpQYjJkKhPQADhfpVO5vFtsxMcAjJGM1XtpYYSo+0Ar2zxUepBXP7uQHPcGuWNNc1md8qrcLx3KBurWJgNgCjptFdx4ZdJNGR4zlC7Y4xXDwaS91nBGB1J6Cu48MwfZtHWHcG2ueR+dGM5fZ2T1uGXe09q3JaW/yM7xyAdOsAf8An8H/AKKkrkNqMuCDnHWuv8df8g2x/wCvsf8AoqSuN4UcNmow3wGuMa9p8i7qs1susXga7gQ+e+cvjByeDWde/Zbi1KSyxzROpLrG2W45H4/TuKyNfZx4i1Y7IwRdSchecbm6n8Ky5Z5fs7B02jztv3OuFbP4cH9fWvLlmDknHl2/Q9GFBcydztbC4kMEcjXiO8kSPkgZY7cHHp0rRj1BISN8kZJ4Kso5rztZjLEssci7Sx+4nAOFOc59wPw60pJiXfJMWUDJCsVJ6f41P11JWcRyhZ7mvdysPG980WUIWM5Tp/q1roLLULkljJc5VeQWyCfwFctpDJca7Mw4Vokx7fItdhGwtsAXEirwDgYzXtUKkZUVdbni14SVdtPT+vMo6jcm+tpI2MjFiCQTkYByf0FZtpdw6VHbWMiTSySbmQRpuJBdtv59sVs31woR5idzuCoHHf8A/WapxkS+LdFT7rRWtmxBHU5LH/0OuTFztUSXY9LARvQblq+b/L/MwPDyra6nJJcsIQtsd3mfLjJTqTWrr0ltd6O7QTRyBHQkowbGfp9axL+GORNTMr7IRHEHcKSQN0f+FQ6YEk0zU3hlLx7LZCWj2EbW2jueoyefas6dPmoOp/XQ6q1TlxKp+hdXULUaH9kkfbM0D7FKkZxnGPy/Q11lpeTy6VZlwCTbx5z3+UVwyANd6SGXiRXj6epmH9a7TSP3ujWb7yQYVAGPQYrfCWvr2OLMb8to9xzRh/4cVEI8HpgVoiPtzn3GKljtimX3xZIwM/8A6q9H2ljxfYczKMcDn7u0Z7ueKaIX3HLYA/WtNNODjlmx13Dt+FNa0jQ8O5x68VHtY33NFh5diO3vJLdNsY25HNdd4edn0sM3Uue2K5XYo4VQo7966zQcDTQAc/Mf5CuTEuLhoejgozVTXa3+RjePs/2TZY6/ax/6LkrhBv8A7x/Cu88e/wDILsf+vwf+i5K4kAHFa4R2pnLmMb1vkLcPa3V1JczaZbNNKxd2MswyT1OBJgVE9ppsiFG0i1wTk4lnBzgjORJnua2rqytpZ7ZmhVS8MW7Z8mcxknpjvV0aNYHS7ObyW8yRXLHzX5IXI71i44ZP4F9xcViWnapsc0tlpKoE/sW2CjoBNPgf+RKlFrpYYMdGt89v303/AMcqe3tIX0ppmVjJ9lSTO8/eL4J6+lQ3CiHVEijyEJbIyT3pqlhpP4EKTxKV3MiisreC9e4t4fJ3AKEVmIAAA/iJPb1q4rHuMj64p/QjgVIFHoK648sVZLQ43Gc3dsqXFpJc27bGRWU5Xe6qCfTJI961l1PTre9S4i0KF5lCjznuFyNvToD0wOlaGi2sEsUzSwpIVZMb1yBnd2P0FbUcUacJGqj/AGRivLxT5qrZ7+BXs6Cj6nn1hpl9bXM8sMNtceYoYD7QqMB64POPwpL2C81CxltbWwiKkoSyTp8pBDHg44yMZzzWn4gH/E1HJwUbIzx99v8AAVShzt3AkHBGQccc1hGNlZHVKpzS5mtTn4LVIkhW8sXM1sflcSKOQSf7w7k/nXSeHFUaVDFjlCwK5+YDccfpVFvmUbue/NaWlMUtXK8HzT0HsK6qV4M48RaorPuaf2eQnI6e5qrfvc22m3M9uIjNFEzoJCduQO+OcVMJZD1c/nWL4umkXwrqLK7KfLxkHHBIBH5Vrzts51CKOFt/ivrrLse303zm2mNBFKQc7uCd+M8ZHTPPNW9C+InijUfEFtpt9o9gzTyKmIC0ZAwWY7mdhwqscY5xiuJeJItRuokXaimUAA9Nqtt/LPFbnhOV5fHXhx3bczwszE9yYJadk02uhPPJTjHoz23ZF1z+ddHomBYcdN5/kK5njzduBium0P8A48P+Bn+QrmqO6OykkpH/2Q=="> <br /> <span class="redbutton-right"> <a href="leser-service/jahresmagazin/versandservice//">Versandservice</a> </span> </div>
+											 </div>
+										<div class="box">
+											<h1>Fahrplan - Schiffahrt</h1>
+											<div class="center-box-content"> <a href="/langeoog-aktuell/anreise/ais-schifffahrt/"> <img src="/fileadmin/userFunc/images/ais/aismin.jpg?1787631129" width="150" height="93" alt="AIS Schifffahrt Langeoog"> </a>
+												<h5>Schiffahrt der Inselgemeinde</h5>
+												<form id="fauswahl" class="mb-2"><select id="fplan" class="form-control form-select mx-auto" onchange="fahrplan()"> <option value="3">3.7. bis 31.8.</option> <option value="4">1.9. bis 1.11.</option> <option value="5">2.11. bis 20.3.</option> </select></form>
+												<div id="fahrp">
+													<p class="mb-1">Abfahrt ab</p>
+													<table class="table table-sm table-striped fahrplanbox">
+														<thead>
+															<tr>
+																<th scope="col">Bensersiel</th>
+																<th scope="col">Langeoog</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>06.45&nbsp;Mo-Sa</td>
+																<td>07.15&nbsp;Mo-Sa</td>
+															</tr>
+															<tr>
+																<td>08.30&nbsp;t&auml;glich</td>
+																<td>08.15&nbsp;So</td>
+															</tr>
+															<tr>
+																<td>09.30&nbsp;t&auml;glich</td>
+																<td>09.15&nbsp;t&auml;glich</td>
+															</tr>
+															<tr>
+																<td>10.30&nbsp;Sa,So</td>
+																<td>10.15&nbsp;Sa</td>
+															</tr>
+															<tr>
+																<td>11.30&nbsp;Mo-Fr</td>
+																<td>11.15&nbsp;t&auml;glich</td>
+															</tr>
+															<tr>
+																<td>12.00&nbsp;Sa</td>
+																<td>&nbsp;</td>
+															</tr>
+															<tr>
+																<td>13.45&nbsp;t&auml;glich</td>
+																<td>14.00&nbsp;t&auml;glich</td>
+															</tr>
+															<tr>
+																<td>16.00&nbsp;t&auml;glich</td>
+																<td>16.00&nbsp;t&auml;glich</td>
+															</tr>
+															<tr>
+																<td>17.30&nbsp;Sa-Do</td>
+																<td>17.30&nbsp;t&auml;glich</td>
+															</tr>
+															<tr>
+																<td>18.30&nbsp;Fr</td>
+																<td>&nbsp;</td>
+															</tr>
+															<tr>
+																<td colspan="2" class="ps-2 small text-muted">&nbsp;<br>gültig bis 31.8.2026</td>
+															</tr>
+														</tbody>
+													</table>
+													 </div>
+												<script>
+    const plancode = [];
+    function fahrplan() {
+        const sel = document.getElementById('fplan').value;
+        document.getElementById('fahrp').innerHTML = plancode[sel];
+    }
+    plancode[1] = "<p class=\"mb-1\">Abfahrt ab<\/p><table class=\"table table-sm table-striped fahrplanbox\"><thead><tr><th scope=\"col\">Bensersiel<\/th><th scope=\"col\">Langeoog<\/th><\/tr><\/thead><tbody><tr><td>06.45&nbsp;Mo-Fr<sup>1<\/sup><\/td><td>07.15&nbsp;Mo-Fr<sup>1<\/sup><\/td><\/tr><tr><td>09.30&nbsp;t&auml;glich<\/td><td>08.15&nbsp;Sa<sup>1<\/sup><\/td><\/tr><tr><td>13.30&nbsp;t&auml;glich<\/td><td>10.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>16.45&nbsp;t&auml;glich<sup>2<\/sup><\/td><td>14.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>18.30&nbsp;Fr<sup>1<\/sup><\/td><td>17.15&nbsp;t&auml;glich<sup>2<\/sup><\/td><\/tr><tr><td colspan=\"2\" class=\"ps-2 small text-muted\">&nbsp;<sup>1<\/sup>...nicht&nbsp;an&nbsp;Feiertagen,&nbsp;<br>nicht&nbsp;am&nbsp;24.12.,&nbsp;31.12.&nbsp;u.&nbsp;1.1.<br><sup>2<\/sup>...nicht&nbsp;am&nbsp;24.12.<br>g\u00fcltig bis 20.3.2026<\/td><\/tr><\/tbody><\/table>";
+plancode[2] = "<p class=\"mb-1\">Abfahrt ab<\/p><table class=\"table table-sm table-striped fahrplanbox\"><thead><tr><th scope=\"col\">Bensersiel<\/th><th scope=\"col\">Langeoog<\/th><\/tr><\/thead><tbody><tr><td>06.45&nbsp;Mo-Sa<sup>3<\/sup><\/td><td>07.15&nbsp;Mo-Sa<sup>3<\/sup><\/td><\/tr><tr><td>08.30&nbsp;Sa<\/td><td>08.15&nbsp;So<sup>4<\/sup><\/td><\/tr><tr><td>09.30&nbsp;t&auml;glich<\/td><td>09.15&nbsp;Fr-Sa<\/td><\/tr><tr><td>10.30&nbsp;Sa,So<sup>4<\/sup><\/td><td>10.15&nbsp;So-Do<\/td><\/tr><tr><td>11.30&nbsp;Mo-Fr<sup>3<\/sup><\/td><td>11.15&nbsp;Fr-So<\/td><\/tr><tr><td>13.45&nbsp;t&auml;glich<\/td><td>14.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>16.00&nbsp;t&auml;glich<\/td><td>16.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>17.30&nbsp;Sa-Do<sup>1,4<\/sup><\/td><td>17.30&nbsp;t&auml;glich<\/td><\/tr><tr><td>18.30&nbsp;Fr<sup>2,3<\/sup><\/td><td>&nbsp;<\/td><\/tr><tr><td colspan=\"2\" class=\"ps-2 small text-muted\">&nbsp;<sup>1<\/sup>...nicht&nbsp;am&nbsp;02.04.,&nbsp;13.05.,&nbsp;03.06.<br><sup>2<\/sup>...auch&nbsp;am&nbsp;02.04.,&nbsp;13.05.,&nbsp;03.06.<br><sup>3<\/sup>...nicht&nbsp;an&nbsp;Feiertagen<br><sup>4<\/sup>...auch&nbsp;an&nbsp;Feiertagen<br>g\u00fcltig bis 2.7.2026<\/td><\/tr><\/tbody><\/table>";
+plancode[3] = "<p class=\"mb-1\">Abfahrt ab<\/p><table class=\"table table-sm table-striped fahrplanbox\"><thead><tr><th scope=\"col\">Bensersiel<\/th><th scope=\"col\">Langeoog<\/th><\/tr><\/thead><tbody><tr><td>06.45&nbsp;Mo-Sa<\/td><td>07.15&nbsp;Mo-Sa<\/td><\/tr><tr><td>08.30&nbsp;t&auml;glich<\/td><td>08.15&nbsp;So<\/td><\/tr><tr><td>09.30&nbsp;t&auml;glich<\/td><td>09.15&nbsp;t&auml;glich<\/td><\/tr><tr><td>10.30&nbsp;Sa,So<\/td><td>10.15&nbsp;Sa<\/td><\/tr><tr><td>11.30&nbsp;Mo-Fr<\/td><td>11.15&nbsp;t&auml;glich<\/td><\/tr><tr><td>12.00&nbsp;Sa<\/td><td>&nbsp;<\/td><\/tr><tr><td>13.45&nbsp;t&auml;glich<\/td><td>14.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>16.00&nbsp;t&auml;glich<\/td><td>16.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>17.30&nbsp;Sa-Do<\/td><td>17.30&nbsp;t&auml;glich<\/td><\/tr><tr><td>18.30&nbsp;Fr<\/td><td>&nbsp;<\/td><\/tr><tr><td colspan=\"2\" class=\"ps-2 small text-muted\">&nbsp;<br>g\u00fcltig bis 31.8.2026<\/td><\/tr><\/tbody><\/table>";
+plancode[4] = "<p class=\"mb-1\">Abfahrt ab<\/p><table class=\"table table-sm table-striped fahrplanbox\"><thead><tr><th scope=\"col\">Bensersiel<\/th><th scope=\"col\">Langeoog<\/th><\/tr><\/thead><tbody><tr><td>06.45&nbsp;Mo-Sa<sup>3<\/sup><\/td><td>07.15&nbsp;Mo-Sa<sup>3<\/sup><\/td><\/tr><tr><td>08.30&nbsp;Sa<\/td><td>08.15&nbsp;So<sup>4<\/sup><\/td><\/tr><tr><td>09.30&nbsp;t&auml;glich<\/td><td>09.15&nbsp;Fr-Sa<\/td><\/tr><tr><td>10.30&nbsp;Sa,So<sup>4<\/sup><\/td><td>10.15&nbsp;So-Do<\/td><\/tr><tr><td>11.30&nbsp;Mo-Fr<sup>3<\/sup><\/td><td>11.15&nbsp;Fr-So<\/td><\/tr><tr><td>13.45&nbsp;t&auml;glich<\/td><td>14.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>16.00&nbsp;t&auml;glich<\/td><td>16.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>17.30&nbsp;Sa-Do<sup>4<\/sup><\/td><td>17.30&nbsp;t&auml;glich<\/td><\/tr><tr><td>18.30&nbsp;Fr<sup>3<\/sup><\/td><td>&nbsp;<\/td><\/tr><tr><td colspan=\"2\" class=\"ps-2 small text-muted\">&nbsp;<sup>3<\/sup>...nicht&nbsp;an&nbsp;Feiertagen<br><sup>4<\/sup>...auch&nbsp;an&nbsp;Feiertagen<br>g\u00fcltig bis 1.11.2026<\/td><\/tr><\/tbody><\/table>";
+plancode[5] = "<p class=\"mb-1\">Abfahrt ab<\/p><table class=\"table table-sm table-striped fahrplanbox\"><thead><tr><th scope=\"col\">Bensersiel<\/th><th scope=\"col\">Langeoog<\/th><\/tr><\/thead><tbody><tr><td>06.45&nbsp;Mo-Fr<sup>1<\/sup><\/td><td>07.15&nbsp;Mo-Fr<sup>1<\/sup><\/td><\/tr><tr><td>09.30&nbsp;t&auml;glich<\/td><td>08.15&nbsp;Sa<sup>1<\/sup><\/td><\/tr><tr><td>13.30&nbsp;t&auml;glich<\/td><td>10.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>16.45&nbsp;t&auml;glich<sup>2<\/sup><\/td><td>14.00&nbsp;t&auml;glich<\/td><\/tr><tr><td>18.30&nbsp;Fr<sup>1<\/sup><\/td><td>17.15&nbsp;t&auml;glich<sup>2<\/sup><\/td><\/tr><tr><td colspan=\"2\" class=\"ps-2 small text-muted\">&nbsp;<sup>1<\/sup>...nicht&nbsp;an&nbsp;Feiertagen,&nbsp;<br>nicht&nbsp;am&nbsp;24.12.,&nbsp;31.12.&nbsp;u.&nbsp;1.1.<br><sup>2<\/sup>...nicht&nbsp;am&nbsp;24.12.<br>g\u00fcltig bis 20.3.2027<\/td><\/tr><\/tbody><\/table>";
+    </script>
+												<div class="clearfix"></div>
+												<p> <span class="redbutton-right"> <a href="https://www.langeoog.de/faehre-buchen" target="_blank" rel="noopener noreferrer">» zur Schiffahrt</a> </span> </p>
+												 </div>
+											 </div>
+										<div class="box">
+											<h1>Webcams</h1>
+											<div class="center-box-content"> <a href="/langeoog-aktuell/webcams/"><img src="data:image/jpeg;base64,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" width="160" height="120" border="0"></a> <br/> <span class="redbutton-right"> <a href="/langeoog-aktuell/webcams/">» mehr</a> </span> </div>
+											 </div>
+										<div class="box">
+											<h1>Wetter</h1>
+											<div class="center-box-content">
+												<iframe allowtransparency="true" width="200" height="175" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" src="https://dienste.wetterkontor.de/homepage/homepagewetter2.asp?w=200&tc=193268&bc=F4F4F4&hc=BD3118&htc=FFFFFF&id=de-langeoog&fc=BD3118&sb=0&t=1 "> </iframe>
+												 </div>
+											 </div>
+										 </div>
+									<div class="servicehide servicebutton" onclick="serviceHide()">Service-Informationen ausblenden</div>
+									 </div>
+								 </div>
+							 </div>
+						<div id="footer" role="contentinfo">
+							<div class="footer-wrapper">
+								<ul>
+									<li><a href="/smartphone/impressum/">Datenschutz/ Impressum</a></li>
+									<li><a href="https://www.langeoog.de" target="_blank" title="Tourismus-Service">Tourismus-Service Langeoog</a></li>
+									<li> <a href="https://www.facebook.com/pg/Langeoog-News-172079642839648/posts" target="_blank" title="Facebook">Facebook</a></li>
+									<li><a rel="me" target="_blank" title="Mastodon" href="https://mastodon.de/@LangeoogNews">Mastodon</a></li>
+									<li><a href="https://bsky.app/profile/langeoog-news.bsky.social" target="_blank" title="Blue Sky">Blue Sky</a></li>
+									<li><a href="https://www.baerbel-fening.de/podcast" target="_blank" title="Nordseepodcast">Nordseepodcast</a></li>
+									<li><a target="_blank" href="https://www.nwzonline.de/ostfriesland/" title="Lokal 26">Lokal26</a></li>
+									<p><a href="https://www.langeoognews.de/langeoog-aktuell/vertrag-widerrufen/" style="display: inline-block; background-color: #aa0000; color: #ffffff; padding: 8px 12px; text-decoration: none; border-radius: 5px; font-weight: bold;">Vertrag widerrufen</a></p>
+									 </ul>
+								<p> </p>
+								<div id="search">
+									<form method="post" name="search" action="/langeoog-aktuell/news-archiv/nachrichten-suchergebnis/?tx_news_pi1%5Baction%5D=searchForm&amp;tx_news_pi1%5Bcontroller%5D=News&amp;cHash=c8e1a59b1a7bb68a9bc83c9103b621e6">
+										<div> <input type="hidden" name="tx_news_pi1[__referrer][@extension]" value=""> <input type="hidden" name="tx_news_pi1[__referrer][@controller]" value="Standard"> <input type="hidden" name="tx_news_pi1[__referrer][@action]" value="index"> <input type="hidden" name="tx_news_pi1[__referrer][arguments]" value="YTowOnt932a076fa328bf625f780b8672b90cdf5c80afb00"> <input type="hidden" name="tx_news_pi1[__referrer][@request]" value="{&quot;@extension&quot;:null,&quot;@controller&quot;:&quot;Standard&quot;,&quot;@action&quot;:&quot;index&quot;}3456baa1a68f9482ac295d594e4a553c040f7d26"> <input type="hidden" name="tx_news_pi1[__trustedProperties]" value="[]a8869771a05b6a47c7efd1d9304adc8fd51bc863"> </div>
+										 <input type="text" name="tx_news_pi1[search][subject]" title="Bitte geben Sie hier den Suchbegriff ein." placeholder="Suchen..." value=""> <input class="submit_button" type="submit" value="OK"> </form>
+									 </div>
+								 </div>
+							<div id="sticky-overlay">
+								<div class="overlay-kurverwaltung"><a href="https://www.langeoog.de" target="_blank" title="Tourismus-Service">Tourismus-Service Langeoog</a></div>
+								<div class="overlay-facebook"><a href="https://bsky.app/profile/langeoog-news.bsky.social" target="_blank" title="Facebook">Blue Sky</a></div>
+								<div class="overlay-instagramm"><a href="https://instagram.com/langeoog_news/" target="_blank" title="Instagram">Instagram</a></div>
+								<div class="overlay-twitter"><a href="https://www.baerbel-fening.de/podcast" target="_blank" title="Nordseepodcast">Nordseepodcast</a></div>
+								<div class="overlay-radio"><a rel="me" target="_blank" title="Mastodon" href="https://mastodon.de/@LangeoogNews">Mastodon</a></div>
+								<div class="overlay-suche">
+									<div id="search">
+										<form method="post" name="search" action="/langeoog-aktuell/news-archiv/nachrichten-suchergebnis/?tx_news_pi1%5Baction%5D=searchForm&amp;tx_news_pi1%5Bcontroller%5D=News&amp;cHash=c8e1a59b1a7bb68a9bc83c9103b621e6">
+											<div> <input type="hidden" name="tx_news_pi1[__referrer][@extension]" value=""> <input type="hidden" name="tx_news_pi1[__referrer][@controller]" value="Standard"> <input type="hidden" name="tx_news_pi1[__referrer][@action]" value="index"> <input type="hidden" name="tx_news_pi1[__referrer][arguments]" value="YTowOnt932a076fa328bf625f780b8672b90cdf5c80afb00"> <input type="hidden" name="tx_news_pi1[__referrer][@request]" value="{&quot;@extension&quot;:null,&quot;@controller&quot;:&quot;Standard&quot;,&quot;@action&quot;:&quot;index&quot;}3456baa1a68f9482ac295d594e4a553c040f7d26"> <input type="hidden" name="tx_news_pi1[__trustedProperties]" value="[]a8869771a05b6a47c7efd1d9304adc8fd51bc863"> </div>
+											 <input type="text" name="tx_news_pi1[search][subject]" title="Bitte geben Sie hier den Suchbegriff ein." placeholder="Suchen..." value=""> <input class="submit_button" type="submit" value="OK"> </form>
+										 </div>
+									 </div>
+								<div class="overlay-pdf"><a target="_blank" href="https://www.nwzonline.de/ostfriesland/" title="Lokal 26">Lokal26</a></div>
+							</div>
+							<div class="clearboth"></div>
+							 </div>
+						 </div>
+					 </div>
+				<script type="text/javascript">
+var links = new Array();
+var bilder = new Array();
+var aktiv = new Array();
+var anz_bilder=0;
+anz_bilder=7;
+links[1]='https://www.langeoognews.de/langeoog-aktuell/aktuelles/neues-aquarium-fuer-die-inselschule/';
+bilder[1]='/fileadmin/userFunc/images/flash/IMG_5395.png?1787608805';
+aktiv[1]=1;
+links[2]='';
+bilder[2]='/fileadmin/userFunc/images/flash/20260823_3105.JPG?1787608805';
+aktiv[2]=1;
+links[3]='';
+bilder[3]='/fileadmin/userFunc/images/flash/IMG_5388.JPG?1787608805';
+aktiv[3]=1;
+links[4]='';
+bilder[4]='/fileadmin/userFunc/images/flash/dji_fly_20260820_102732_25_1787214503156_photo_optimized.jpg?1787608805';
+aktiv[4]=1;
+links[5]='';
+bilder[5]='/fileadmin/userFunc/images/flash/20260820_3008.JPG?1787608805';
+aktiv[5]=1;
+links[6]='';
+bilder[6]='/fileadmin/userFunc/images/flash/IMG_9044.jpeg?1787608805';
+aktiv[6]=1;
+links[7]='';
+bilder[7]='/fileadmin/userFunc/images/flash/20260818_2919.JPG?1787608805';
+aktiv[7]=0;
+</script>
+				<div id="dogear">
+					<script type="text/javascript">npopup("ec","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff_0.png","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff_1.png","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff_0.png","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff_1.png","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff0.jpg","/fileadmin/userFunc/images/wbg/ecke/e_boekhoff1.jpg",550,210,300,532,548,501,505,"https://www.feinkost-eckart-langeoog.de",800,900,2);</script>
+					 </div>
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40654483-1"></script>
+				<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-40654483-1');
+</script>
+				 </body>
+			 </html>

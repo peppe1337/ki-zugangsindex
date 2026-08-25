@@ -1,0 +1,13 @@
+# robots.txt file created at http://www.searchenginepromotionhelp.com/
+# Sun, 04 Dec 2011 11:24:31 +0000
+
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /?aktrubrik=G%E4stebuch
+Disallow: /index.php?aktrubrik=G%E4stebuch
+
+
+
+
+# End robots.txt file

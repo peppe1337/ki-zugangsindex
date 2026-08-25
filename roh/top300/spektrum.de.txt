@@ -1,0 +1,12 @@
+User-agent: MS Search 4.0 Robot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /icons/
+Disallow: /template/warenkorb

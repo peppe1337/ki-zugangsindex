@@ -1,0 +1,118 @@
+User-agent: proximic
+Disallow:
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AmazonAdBot
+Allow: /
+
+User-agent: Applebot
+Allow: /auto/
+
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Disallow: /
+
+Allow: /informieren/
+Allow: /auto/
+Allow: /elektroauto/
+Allow: /auto-verkaufen/
+Allow: /fahrzeugbewertung/
+Allow: /moto/
+Allow: /motorrad-verkaufen/
+Allow: /leasing/
+Allow: /finanzierung/
+Allow: /unternehmen/
+
+# --- Social sharing / link preview bots: allow through ---
+User-agent: facebookexternalhit
+User-agent: Facebot
+User-agent: Twitterbot
+User-agent: LinkedInBot
+User-agent: WhatsApp
+User-agent: WhatsAppBot
+User-agent: Slackbot
+User-agent: Slack-ImgProxy
+User-agent: Discordbot
+User-agent: TelegramBot
+User-agent: Pinterestbot
+Allow: /angebote/
+
+User-agent: *
+Disallow: /private-feedback/
+Disallow: /dealerarea/
+Disallow: /entry/
+Disallow: /ergebnisse?
+Disallow: /i/
+Disallow: /modelle/page/
+Disallow: /regional/page/
+Disallow: /auto-verkaufen/direkt-verkauf/appointment
+Disallow: /auto-verkaufen/direkt-verkauf/expired-confirmation
+Disallow: /online-autokauf/checkout*
+Disallow: /Partner/
+Disallow: /partner/
+Disallow: /unified-private-seller-flow/
+Disallow: /financeslice-detail/slice
+Disallow: /favorites
+Disallow: /classified-detail/recommendations
+Disallow: /seals/classified-detail
+Disallow: /frontend-metrics
+Disallow: /seals/classified-list-item
+Disallow: /classified-list/react-listelements
+Disallow: /ret-feedback
+Disallow: /classified-detail/navigation/
+Disallow: /lst?
+Disallow: /lst/?
+Disallow: /lst-moto?
+Disallow: /lst-moto/?
+Disallow: /autokreditvergleich/?
+Disallow: /autokreditvergleich?
+Disallow: */util/*
+Disallow: */utils/*
+Disallow: /as24-search-funnel/details/
+Disallow: /nl/verkopers/
+Disallow: /fr/professional/
+Disallow: /autobedrijven/
+Disallow: /garages/
+Disallow: /profesionales/
+Disallow: /concessionari/
+Disallow: /dealerinfo/
+Disallow: /professional/
+Disallow: /detailsuche
+Disallow: /auto-catalog/
+Disallow: /account
+Disallow: /auto-verkopen/
+Disallow: /vendere-auto/
+Disallow: /vendre-voiture/
+Disallow: /dealer-detail/
+Disallow: /cockpit/
+Disallow: /listing-creation-entry-point
+Disallow: /dealer-rating/
+Disallow: /seal-popups/
+Disallow: /oneclick-fuer-haendler/
+Disallow: /listing-form/
+Disallow: /partner-experience/
+Disallow: /dealer-statistics
+Disallow: /auto-abo/angebote/
+Disallow: /auto-abo/lst*?*
+Disallow: /smyle/details/
+Disallow: /as24-search-funnel/api/vip-showroom
+Disallow: /as24-search-funnel/direct-finance-api-query
+Disallow: /listing-search-api/graphql
+Disallow: /api/dealer-detail/direct-finance-api-query
+Disallow: /ocs/api/graphql
+Disallow: /search-subscriptions/api/new-results-count
+Disallow: /as24-search-funnel/dealer-certification/
+Disallow: /angebote/
+Disallow: /*?*cat=*
+#MG, 20.08.2026

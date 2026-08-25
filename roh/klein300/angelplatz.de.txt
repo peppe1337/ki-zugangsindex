@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /checkout
+Disallow: /cart
+Disallow: /contact.php
+Disallow: /product_reviews.php
+Disallow: /product_questions.php
+Disallow: /login.php
+Disallow: /register.php
+Disallow: /notepad.php
+Disallow: /compare.php
+Disallow: /search3.php
+Disallow: /search.php
+Sitemap: https://www.angelplatz.de/sitemap.php?mode=xml

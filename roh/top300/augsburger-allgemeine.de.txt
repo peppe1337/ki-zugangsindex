@@ -1,0 +1,452 @@
+User-agent: *
+
+Disallow: /*.ece*
+Disallow: /titelseiten/
+Disallow: /verwaltung/
+Disallow: /werbung/
+Disallow: /meine*
+Disallow: /community*
+Disallow: /*?wt_*
+Disallow: /*?utm_campaign*
+Disallow: /suche?q=
+Disallow: /*_ptid=
+Disallow: /suche
+Disallow: /suche/
+Allow: /ads.txt
+Disallow: /ads
+
+
+# Legal notice: www.augsburger-allgemeine.de and the respective subdomains expressly reserves the right to use its content for commercial text and data mining (§ 44b UrhG).
+# The use of robots or other automated means to access www.augsburger-allgemeine.de or any of the respective subdomains or collect or mine data without the express permission of www.augsburger-allgemeine.de or any of the respective subdomains is strictly prohibited.
+# If you would like to apply for permission to crawl www.augsburger-allgemeine.de or any of the respective subdomains, collect or use data, please contact digital@augsburger-allgemeine.de.
+
+User-agent:Claude-User
+Disallow: /
+
+User-agent:Claude-SearchBot
+Disallow: /
+
+User-agent:Claude-Code
+Disallow: /
+
+User-agent:Claude-Web
+Disallow: /
+
+User-agent:Perplexity-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+# ClaudeBot
+User-agent: ClaudeBot
+Disallow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Disallow: /
+
+# Amazonbot
+User-agent: Amazonbot
+Disallow: /
+
+# DeepSeekBot
+User-agent: DeepSeekBot
+Disallow: /
+
+# Byte Spider
+User-agent: Bytespider
+Disallow: /
+
+# Baidu Spider
+User-agent: Baiduspider
+Disallow: /
+
+# TencentBot
+User-agent: TencentBot
+Disallow: /
+
+# Common Crawl Foundation
+User-agent: CCBot
+Disallow: /
+
+# IA Archiver
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Google-Extended-News
+Disallow: /
+
+# Google Bard
+User-agent: Google-Extended
+Disallow: /
+
+# Flamingo Search Engine
+User-agent: Flamingo_SearchEngine 
+Disallow: /
+ 
+# Anthropic AI
+User-agent: anthropic-ai
+Disallow: /
+ 
+# Claude-Web
+User-agent: Claude-Web
+Disallow: /
+ 
+# Applebot-Extended
+User-agent: Applebot-Extended
+Disallow: /
+ 
+# Magpie Crawler
+User-agent: magpie-crawler
+Disallow: /
+ 
+# Omgili
+User-agent: omgili
+Disallow: /
+ 
+# OmgiliBot
+User-agent: omgilibot
+Disallow: /
+ 
+# Ahrefs Bot
+User-agent: AhrefsBot
+Disallow: /
+ 
+# DataForSeo Bot
+User-agent: DataForSeoBot
+Disallow: /
+ 
+# Yeti
+User-agent: Yeti
+Disallow: /
+ 
+# Semrush Bot
+User-agent: SemrushBot
+Disallow: /
+ 
+# Senti Bot
+User-agent: sentibot
+Disallow: /
+ 
+# MJ12 Bot
+User-agent: MJ12bot
+Disallow: /
+ 
+# Sirdata Bot
+User-agent: SirdataBot
+Disallow: /
+ 
+# LCC
+User-agent: LCC
+Disallow: /
+ 
+# Turnitin Bot
+User-agent: TurnitinBot
+Disallow: /
+ 
+# BLEX Bot
+User-agent: BLEXBot
+Disallow: /
+ 
+# Dot Bot
+User-agent: dotbot
+Disallow: /
+ 
+# ImageSift Bot
+User-agent: ImagesiftBot
+Disallow: /
+
+# AI2 Bot
+User-agent: AI2Bot
+Disallow: /
+
+# Ai2Bot-Dolma
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+# aiHitBot
+User-agent: aiHitBot
+Disallow: /
+
+# Andibot
+User-agent: Andibot
+Disallow: /
+
+# Awario
+User-agent: Awario
+Disallow: /
+
+# bedrockbot
+User-agent: bedrockbot
+Disallow: /
+
+# Brightbot 1.0
+User-agent: Brightbot 1.0
+Disallow: /
+
+# Claude-SearchBot
+User-agent: Claude-SearchBot
+Disallow: /
+
+# Claude-User
+User-agent: Claude-User
+Disallow: /
+
+# cohere-ai
+User-agent: cohere-ai
+Disallow: /
+
+# cohere-training-data-crawler
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+# Cotoyogi
+User-agent: Cotoyogi
+Disallow: /
+
+# Crawlspace
+User-agent: Crawlspace
+Disallow: /
+
+# Datenbank Crawler
+User-agent: Datenbank Crawler
+Disallow: /
+
+# Devin
+User-agent: Devin
+Disallow: /
+
+# Diffbot
+User-agent: Diffbot
+Disallow: /
+
+# DuckAssistBot
+User-agent: DuckAssistBot
+Disallow: /
+
+# Echobot Bot
+User-agent: Echobot Bot
+Disallow: /
+
+# EchoboxBot
+User-agent: EchoboxBot
+Disallow: /
+
+# FacebookBot
+User-agent: FacebookBot
+Disallow: /
+
+# Factset_spyderbot
+User-agent: Factset_spyderbot
+Disallow: /
+
+# FirecrawlAgent
+User-agent: FirecrawlAgent
+Disallow: /
+
+# FriendlyCrawler
+User-agent: FriendlyCrawler
+Disallow: /
+
+# Gemini-Deep-Research
+User-agent: Gemini-Deep-Research
+Disallow: /
+
+# Google-CloudVertexBot
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+# GoogleAgent-Mariner
+User-agent: GoogleAgent-Mariner
+Disallow: /
+
+# GoogleOther
+User-agent: GoogleOther
+Disallow: /
+
+# GoogleOther-Image
+User-agent: GoogleOther-Image
+Disallow: /
+
+# GoogleOther-Video
+User-agent: GoogleOther-Video
+Disallow: /
+
+# iaskspider/2.0
+User-agent: iaskspider/2.0
+Disallow: /
+
+# ICC-Crawler
+User-agent: ICC-Crawler
+Disallow: /
+
+# img2dataset
+User-agent: img2dataset
+Disallow: /
+
+# ISSCyberRiskCrawler
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+# Kangaroo Bot
+User-agent: Kangaroo Bot
+Disallow: /
+
+# meta-externalagent
+User-agent: meta-externalagent
+Disallow: /
+
+# Meta-ExternalAgent
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# meta-externalfetcher
+User-agent: meta-externalfetcher
+Disallow: /
+
+# Meta-ExternalFetcher
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# MistralAI-User
+User-agent: MistralAI-User
+Disallow: /
+
+# MistralAI-User/1.0
+User-agent: MistralAI-User/1.0
+Disallow: /
+
+# MyCentralAIScraperBot
+User-agent: MyCentralAIScraperBot
+Disallow: /
+
+# netEstate Imprint Crawler
+User-agent: netEstate Imprint Crawler
+Disallow: /
+
+# NovaAct
+User-agent: NovaAct
+Disallow: /
+
+# Operator
+User-agent: Operator
+Disallow: /
+
+# PanguBot
+User-agent: PanguBot
+Disallow: /
+
+# Panscient
+User-agent: Panscient
+Disallow: /
+
+# panscient.com
+User-agent: panscient.com
+Disallow: /
+
+# Perplexity-User
+User-agent: Perplexity-User
+Disallow: /
+
+# PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# PhindBot
+User-agent: PhindBot
+Disallow: /
+
+# Poseidon Research Crawler
+User-agent: Poseidon Research Crawler
+Disallow: /
+
+# QualifiedBot
+User-agent: QualifiedBot
+Disallow: /
+
+# QuillBot
+User-agent: QuillBot
+Disallow: /
+
+# quillbot.com
+User-agent: quillbot.com
+Disallow: /
+
+# SBIntuitionsBot
+User-agent: SBIntuitionsBot
+Disallow: /
+
+# Scrapy
+User-agent: Scrapy
+Disallow: /
+
+# SemrushBot-OCOB
+User-agent: SemrushBot-OCOB
+Disallow: /
+
+# SemrushBot-SWA
+User-agent: SemrushBot-SWA
+Disallow: /
+
+# Sidetrade indexer bot
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+# SummalyBot
+User-agent: SummalyBot
+Disallow: /
+
+# Thinkbot
+User-agent: Thinkbot
+Disallow: /
+
+# TikTokSpider
+User-agent: TikTokSpider
+Disallow: /
+
+# Timpibot
+User-agent: Timpibot
+Disallow: /
+
+# VelenPublicWebCrawler
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+# WARDBot
+User-agent: WARDBot
+Disallow: /
+
+# Webzio-Extended
+User-agent: Webzio-Extended
+Disallow: /
+
+# wpbot
+User-agent: wpbot
+Disallow: /
+
+# YandexAdditional
+User-agent: YandexAdditional
+Disallow: /
+
+# YandexAdditionalBot
+User-agent: YandexAdditionalBot
+Disallow: /
+
+# YouBot
+User-agent: YouBot
+Disallow: /
+
+
+# Sitemaps
+Sitemap: https://www.augsburger-allgemeine.de/sitemap.xml
+Sitemap: https://www.augsburger-allgemeine.de/sitemap-image.xml
+Sitemap: https://www.augsburger-allgemeine.de/sitemap-video.xml
+Sitemap: https://www.augsburger-allgemeine.de/news.xml
+

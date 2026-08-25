@@ -1,0 +1,78 @@
+
+# robots.txt for www.vodafone.de 14.04.2026
+
+# Sitemap
+Sitemap: https://www.vodafone.de/de/sitemap.xml
+Sitemap: https://www.vodafone.de/feed/google_sitemap.xml
+Sitemap: https://www.vodafone.de/feed/google_sitemap2.xml
+Sitemap: https://www.vodafone.de/business/sitemaps/sitemap.xml
+Sitemap: https://www.vodafone.de/business/blog/sitemap.xml
+Sitemap: https://www.vodafone.de/feed/google_sitemap_corporate.xml
+Sitemap: https://www.vodafone.de/featured/sitemap-index.xml
+Sitemap: https://www.vodafone.de/immobilienwirtschaft/sitemap.xml
+
+User-agent: *
+Allow: /meinvodafone/account/login
+Disallow: *?targetURL=*
+Disallow: */meinvodafone/*
+Disallow: /*?vdlp=*
+Disallow: /*&vdlp=*
+Disallow: /*.html_
+Disallow: /_Incapsula_Resource*
+Disallow: /anschaltung-cable/
+Disallow: /app/
+Disallow: /brix/
+Disallow: /cgi-bin/*?
+Disallow: /cprx/
+Disallow: /de/playground/*
+Disallow: /de/tetris/*
+Disallow: /downloadarea/Willkommen-bei-Vodafone.pdf
+Disallow: /dr/cc/
+Disallow: /flash/
+Disallow: /globalfacts/
+Disallow: /immobilienwirtschaft/static/data/
+Disallow: /media/downloads/hilfe-geraete/
+Disallow: /netz-assistent/
+Disallow: /partnercontent/
+Disallow: /playground/
+Disallow: /privat/teaser/
+Disallow: /privat/json/
+Disallow: /sales/
+Disallow: /simplicity/pages/
+Disallow: /simplicity/docs/
+Disallow: /simplicity/draft/
+Disallow: /simplicity/draft1/
+Disallow: /simplicity/draft2/
+Disallow: /simplicity/draft3/
+Disallow: /simplicity/draft4/
+Disallow: /simplicity/draft5/
+Disallow: /simplicity/pattern-library/
+Disallow: /simplicity/templates/
+Disallow: /templates/
+Disallow: /testing/
+Disallow: /ussa/
+Disallow: /wappush/
+Allow: /simplicity/draft4/ajax-json/ecommerce/*.json
+Allow: /templates/ecommerce/
+
+
+User-agent: Amazonbot
+Disallow: /meinvodafone/
+Disallow: /cprx/
+
+User-agent: SlySearch
+Disallow: /
+User-agent: SmartDownload
+Disallow: /
+User-agent: SpankBot
+Disallow: /
+User-agent: spanner
+Disallow: /
+User-agent: SuperBot
+Disallow: /
+User-agent: SupperHTTP
+Disallow: /
+User-agent: Surfbot
+Disallow: /
+User-agent: ia_archiver
+Disallow: /

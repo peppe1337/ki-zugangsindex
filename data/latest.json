@@ -1,0 +1,18 @@
+{
+  "datum": "2026-08-25",
+  "messpunkte": 1,
+  "panelGroesse": 600,
+  "quelle": "data/messungen/2026-08-25.json",
+  "schlagzeile": {
+    "top300": {
+      "zaehler": 77,
+      "nenner": 235,
+      "anteil": 32.8
+    },
+    "klein300": {
+      "zaehler": 31,
+      "nenner": 210,
+      "anteil": 14.8
+    }
+  }
+}

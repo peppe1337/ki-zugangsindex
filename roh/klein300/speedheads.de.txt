@@ -1,0 +1,5 @@
+User-agent: URLSpion
+Disallow: /
+
+User-Agent: MJ12bot
+Crawl-Delay: 10

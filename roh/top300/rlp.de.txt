@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /vendor/rlp/*/Resources/Public/
+Allow: /typo3temp/assets/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /vendor/
+Disallow: /typo3temp/

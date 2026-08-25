@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /@@search$
+Disallow: /@@search?
+Disallow: /*/@@search$
+Disallow: /*/@@search?
+Disallow: /search$
+Disallow: /search?
+Disallow: /*/search$
+Disallow: /*/search?
+Disallow: /RSS$
+Disallow: /RSS?
+Disallow: /*/RSS$
+Disallow: /*/RSS?
+Disallow: /rss.xml$
+Disallow: /rss.xml?
+Disallow: /*/rss.xml$
+Disallow: /*/rss.xml?
+Disallow: /atom.xml$
+Disallow: /atom.xml?
+Disallow: /*/atom.xml$
+Disallow: /*/atom.xml?
+Disallow: /ics_view$
+Disallow: /ics_view?
+Disallow: /*/ics_view$
+Disallow: /*/ics_view?
+Disallow: /Shibboleth.sso/
+        

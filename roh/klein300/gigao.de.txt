@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.gigao.de/sitemap_index.xml
+
+# Meta Link-Preview Crawler - Filterkombinationen blockieren
+User-agent: meta-externalagent
+Disallow: /*__*
+Disallow: /*?Sortierung=
+Disallow: /*?af=
+Disallow: /*?ed=

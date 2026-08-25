@@ -1,0 +1,35 @@
+Sitemap: https://www.petspremium.de/sitemap.xml
+
+User-agent: * 
+Disallow: /index.php/ 
+Disallow: /*?* 
+Allow: /*?p=*
+Disallow: /*.js$ 
+Disallow: /*.css$ 
+Disallow: /checkout/ 
+Disallow: /tag/ 
+Disallow: /catalogsearch/ 
+Disallow: /review/ 
+Disallow: /app/ 
+Disallow: /downloader/ 
+Disallow: /js/ 
+Disallow: /lib/ 
+Disallow: /media/ 
+Allow: /media/extern/
+Disallow: /*.php$ 
+Disallow: /pkginfo/ 
+Disallow: /report/ 
+Disallow: /skin/ 
+Disallow: /var/ 
+Disallow: /catalog/ 
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /easterspecial
+Disallow: /*platinum*
+Disallow: /advancedreviews*
+
+User-agent: Googlebot
+Allow: /media/catalog/product/
+
+User-Agent: bingbot
+Allow: /media/catalog/product/
