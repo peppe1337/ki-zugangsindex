@@ -1,0 +1,47 @@
+{
+  "erzeugtAm": "2026-08-25",
+  "was": "Unabhaengige Gegenprobe des eigenen Messpunkts und Rueckblick auf denselben Panelausschnitt",
+  "fremdquelle": {
+    "name": "AI-Crawler Blocking Index",
+    "herausgeber": "Crawlora",
+    "seite": "https://crawlora.net/ai-crawler-index",
+    "daten": "https://github.com/Crawlora-org/ai-crawler-blocking-index-data",
+    "doi": "10.5281/zenodo.20774249",
+    "lizenz": "CC BY 4.0",
+    "messtag": "2026-06-20",
+    "umfang": "998497 Domains der Tranco Top 1M, davon 28761 mit Endung .de",
+    "messtagBeleg": "Der Messtag steht nicht in der Rohdatei. Belegt ist er durch den Commit, mit dem der Datensatz veroeffentlicht wurde: Crawlora-org/ai-crawler-blocking-index-data, 2026-06-20T11:03:09Z, Nachricht \"Add AI-Crawler Blocking Index dataset (Tranco top 1M, run aicrawler-20260620, CC BY 4.0)\" — die Laufkennung nennt das Datum. Zusaetzlich nennt die Datensatzseite datePublished 2026-06-20."
+  },
+  "eigenerMesstag": "2026-08-25",
+  "abstandTage": 66,
+  "definitionsangleichung": "Sperrt mindestens einer von GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot. Fremdseite: einer dieser vier Namen in blocks_ai oder star_disallow_root. Eigene Seite: Verdikt 'blockiert' nach RFC 9309 inklusive Rueckfall auf die *-Gruppe.",
+  "gruppen": {
+    "top300": {
+      "n": 229,
+      "juni": 74,
+      "august": 73
+    },
+    "klein300": {
+      "n": 163,
+      "juni": 20,
+      "august": 24
+    }
+  },
+  "bewegungen": {
+    "neuGesperrt": [
+      "worldofplayers.de",
+      "friedwald.de",
+      "elroq-forum.de",
+      "yogamagie.de"
+    ],
+    "sperreEntfallen": [
+      "berliner-zeitung.de"
+    ]
+  },
+  "einschraenkungen": [
+    "Zwei verschiedene Erhebungen mit zwei verschiedenen Parsern. Eine Abweichung kann Methode oder echte Aenderung sein; dieser Vergleich trennt das nicht.",
+    "Die Fremdquelle erhebt 20 Kennungen, diese Messung 14. Verglichen wurde nur der Schnitt der vier Hauptkennungen.",
+    "Die Bewegungen beruhen auf 5 Ereignissen. Aus 5 Ereignissen folgt nichts ueber eine Rate.",
+    "Diese Zahlen sind KEIN Messpunkt dieser Reihe und stehen nicht in reihe.json. Die Reihe misst nur, was mit demselben Verfahren erhoben wurde."
+  ]
+}

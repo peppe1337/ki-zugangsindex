@@ -138,8 +138,15 @@
       "name": "Einzelmessung 2026-08-25 (je Domain)",
       "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/messungen/2026-08-25.json",
       "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Unabhaengige Gegenprobe gegen einen fremden Datensatz",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/gegenprobe.json",
+      "encodingFormat": "application/json"
     }
-  ]
+  ],
+  "citation": "Crawlora: AI-Crawler Blocking Index, 2026-06-20. CC BY 4.0. DOI 10.5281/zenodo.20774249. Als unabhaengige Gegenprobe herangezogen."
 }
   </script>
   <style>
@@ -429,12 +436,82 @@
     zehn Ländern gemessen, Deutschland darunter, für das Jahr 2023
     (<a href="https://reutersinstitute.politics.ox.ac.uk/how-many-news-websites-block-ai-crawlers">Fletcher, 2024</a>).
     Eine einmalige Momentaufnahme, und ausschließlich Nachrichtenverlage.</li>
+    <li><a href="https://crawlora.net/ai-crawler-index">Crawlora</a> hat am
+    <strong>2026-06-20</strong> die <strong>Tranco Top 1.000.000</strong> gemessen
+    (998.497 Domains, 20 Kennungen, CC BY 4.0, DOI 10.5281/zenodo.20774249). Der
+    Rohdatensatz enthält <strong>28.761 <code>.de</code>-Domains</strong> — eine deutsche
+    Auswertung ließe sich daraus also ableiten, auch wenn die veröffentlichte Seite keine
+    nach Endung aufgeschlüsselten Zahlen zeigt. Es ist bislang ein einzelner Messtag; eine
+    Wiederholung ist dort nicht angekündigt.</li>
   </ul>
-  <p>Eine deutsche Zahl gibt es also. Was es nicht gibt, ist ein deutsches Panel, das über
-  Nachrichtenverlage und über die vorderen Ränge hinausreicht und auf denselben Domains
-  wiederholt wird. Die 300 kleinen Domains hier sind der Teil, den offenbar
-  niemand beobachtet. Die Einzelabfrage „sperrt meine Seite GPTBot?“ verschenken dagegen mehrere
-  Anbieter — daran ist hier nichts neu.</p>
+  <p><strong>Damit ist die Momentaufnahme kein Alleinstellungsmerkmal dieser Seite, und
+  „Deutschland“ allein auch nicht.</strong> Wer die Crawlora-Rohdaten herunterlädt, kann den
+  deutschen Schnitt für den 20. Juni selbst rechnen — wir haben genau das getan, siehe unten.
+  Was bleibt, ist die Wiederholung auf einem <em>festen</em> Panel: dieselben
+  600 Domains, immer wieder, damit eine Veränderung eine Veränderung ist und
+  kein Stichprobenwechsel. Die Einzelabfrage „sperrt meine Seite GPTBot?“ verschenken
+  ohnehin mehrere Anbieter — daran ist hier nichts neu.</p>
+
+  <!-- Abschnitt unabhängige Gegenprobe -->
+  <h2>Unabhängige Gegenprobe</h2>
+  <p>Ein zweiter, völlig unabhängiger Datensatz misst dasselbe:
+  <a href="https://crawlora.net/ai-crawler-index">AI-Crawler Blocking Index</a> von Crawlora
+  (998497 Domains der Tranco Top 1M, davon 28761 mit Endung .de, Messtag <strong>2026-06-20</strong>, CC BY 4.0,
+  DOI 10.5281/zenodo.20774249). Anderes Team, anderer Programmcode, anderer Abruf,
+  66 Tage früher.</p>
+  <p style="font-size:0.9rem;">Der Messtag steht nicht in der Rohdatei. Belegt ist er durch den Commit, mit dem der Datensatz veroeffentlicht wurde: Crawlora-org/ai-crawler-blocking-index-data, 2026-06-20T11:03:09Z, Nachricht &quot;Add AI-Crawler Blocking Index dataset (Tranco top 1M, run aicrawler-20260620, CC BY 4.0)&quot; — die Laufkennung nennt das Datum. Zusaetzlich nennt die Datensatzseite datePublished 2026-06-20.</p>
+
+  <p>Wir haben aus dessen Rohdaten die Domains unseres Panels herausgeschnitten und dieselbe
+  Kennzahl gerechnet. Verglichen wird nur, was an <em>beiden</em> Tagen auswertbar war.</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Gruppe</th>
+          <th class="zahl">beidseitig auswertbar</th>
+          <th class="zahl">2026-06-20 (fremd)</th>
+          <th class="zahl">2026-08-25 (eigen)</th>
+          <th class="zahl">Δ</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+        <td>Top 300</td>
+        <td class="zahl">229</td>
+        <td class="zahl">74 (32,3&nbsp;%)</td>
+        <td class="zahl">73 (31,9&nbsp;%)</td>
+        <td class="zahl">-1</td>
+      </tr>
+        <tr>
+        <td>Klein 300</td>
+        <td class="zahl">163</td>
+        <td class="zahl">20 (12,3&nbsp;%)</td>
+        <td class="zahl">24 (14,7&nbsp;%)</td>
+        <td class="zahl">+4</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p><strong>Das ist die bislang stärkste Prüfung dieser Zahlen:</strong> eine fremde Erhebung
+  kommt auf demselben Panelausschnitt auf praktisch dasselbe Ergebnis. Umgekehrt heißt es
+  auch, dass an der Momentaufnahme nichts Seltenes ist.</p>
+
+  <p>In 66 Tagen haben von 392 beidseitig auswertbaren
+  Domains <strong>5</strong> ihr Verdikt gewechselt.
+  Neu gesperrt: <code>worldofplayers.de</code>, <code>friedwald.de</code>, <code>elroq-forum.de</code>, <code>yogamagie.de</code>.
+  Sperre entfallen: <code>berliner-zeitung.de</code>.</p>
+
+  <div class="kasten">
+    <p><strong>Was daraus nicht folgt.</strong></p>
+    <ul>
+      <li>Zwei verschiedene Erhebungen mit zwei verschiedenen Parsern. Eine Abweichung kann Methode oder echte Aenderung sein; dieser Vergleich trennt das nicht.</li>
+      <li>Die Fremdquelle erhebt 20 Kennungen, diese Messung 14. Verglichen wurde nur der Schnitt der vier Hauptkennungen.</li>
+      <li>Die Bewegungen beruhen auf 5 Ereignissen. Aus 5 Ereignissen folgt nichts ueber eine Rate.</li>
+      <li>Diese Zahlen sind KEIN Messpunkt dieser Reihe und stehen nicht in reihe.json. Die Reihe misst nur, was mit demselben Verfahren erhoben wurde.</li>
+    </ul>
+  </div>
 
   <!-- Abschnitt Was diese Messung nicht sagt -->
   <h2>Was diese Messung nicht sagt</h2>

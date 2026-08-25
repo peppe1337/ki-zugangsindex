@@ -221,6 +221,90 @@ function nennerAbschnitt() {
 }
 
 // ---------------------------------------------------------------------------
+// Unabhängige Gegenprobe gegen einen fremden Datensatz.
+// Optional: fehlt die Datei, entfällt der Abschnitt, statt die Seite zu brechen.
+// ---------------------------------------------------------------------------
+let gegenprobe = null;
+try {
+  gegenprobe = JSON.parse(readFileSync(join(basis, 'data', 'gegenprobe.json'), 'utf8'));
+} catch { /* Abschnitt entfällt */ }
+
+function gegenprobeAbschnitt() {
+  if (!gegenprobe) {
+    return '<p>Für diesen Messpunkt liegt keine unabhängige Gegenprobe vor.</p>';
+  }
+  const q = gegenprobe.fremdquelle;
+  const g = gegenprobe.gruppen;
+
+  const zeile = (name, bez) => {
+    const x = g[name];
+    if (!x) return '';
+    const pj = pct(x.juni, x.n);
+    const pa = pct(x.august, x.n);
+    const diff = (x.august - x.juni);
+    return `<tr>
+        <td>${esc(bez)}</td>
+        <td class="zahl">${esc(x.n)}</td>
+        <td class="zahl">${esc(x.juni)} (${esc(pj)}&nbsp;%)</td>
+        <td class="zahl">${esc(x.august)} (${esc(pa)}&nbsp;%)</td>
+        <td class="zahl">${diff > 0 ? '+' : ''}${esc(diff)}</td>
+      </tr>`;
+  };
+
+  const bewegt = gegenprobe.bewegungen.neuGesperrt.length
+               + gegenprobe.bewegungen.sperreEntfallen.length;
+  const nGesamt = Object.values(g).reduce((s, x) => s + x.n, 0);
+
+  const liste = (arr) => arr.length
+    ? arr.map(d => `<code>${esc(d)}</code>`).join(', ')
+    : '<em>keine</em>';
+
+  return `<p>Ein zweiter, völlig unabhängiger Datensatz misst dasselbe:
+  <a href="${esc(q.seite)}">${esc(q.name)}</a> von ${esc(q.herausgeber)}
+  (${esc(q.umfang)}, Messtag <strong>${esc(q.messtag)}</strong>, ${esc(q.lizenz)},
+  DOI ${esc(q.doi)}). Anderes Team, anderer Programmcode, anderer Abruf,
+  ${esc(gegenprobe.abstandTage)} Tage früher.</p>
+  ${q.messtagBeleg ? `<p style="font-size:0.9rem;">${esc(q.messtagBeleg)}</p>` : ''}
+
+  <p>Wir haben aus dessen Rohdaten die Domains unseres Panels herausgeschnitten und dieselbe
+  Kennzahl gerechnet. Verglichen wird nur, was an <em>beiden</em> Tagen auswertbar war.</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Gruppe</th>
+          <th class="zahl">beidseitig auswertbar</th>
+          <th class="zahl">${esc(q.messtag)} (fremd)</th>
+          <th class="zahl">${esc(gegenprobe.eigenerMesstag)} (eigen)</th>
+          <th class="zahl">Δ</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${zeile('top300', 'Top 300')}
+        ${zeile('klein300', 'Klein 300')}
+      </tbody>
+    </table>
+  </div>
+
+  <p><strong>Das ist die bislang stärkste Prüfung dieser Zahlen:</strong> eine fremde Erhebung
+  kommt auf demselben Panelausschnitt auf praktisch dasselbe Ergebnis. Umgekehrt heißt es
+  auch, dass an der Momentaufnahme nichts Seltenes ist.</p>
+
+  <p>In ${esc(gegenprobe.abstandTage)} Tagen haben von ${esc(nGesamt)} beidseitig auswertbaren
+  Domains <strong>${esc(bewegt)}</strong> ihr Verdikt gewechselt.
+  Neu gesperrt: ${liste(gegenprobe.bewegungen.neuGesperrt)}.
+  Sperre entfallen: ${liste(gegenprobe.bewegungen.sperreEntfallen)}.</p>
+
+  <div class="kasten">
+    <p><strong>Was daraus nicht folgt.</strong></p>
+    <ul>
+      ${gegenprobe.einschraenkungen.map(e => `<li>${esc(e)}</li>`).join('\n      ')}
+    </ul>
+  </div>`;
+}
+
+// ---------------------------------------------------------------------------
 // schema.org/Dataset als JSON-LD
 //
 // Zweck: Google Dataset Search und vergleichbare Kataloge lesen ausschliesslich
@@ -311,8 +395,19 @@ const jsonLd = {
       name: `Einzelmessung ${p.datum} (je Domain)`,
       contentUrl: `${seitenURL}data/messungen/${p.datum}.json`,
       encodingFormat: 'application/json'
-    }))
-  ]
+    })),
+    ...(gegenprobe ? [{
+      '@type': 'DataDownload',
+      name: 'Unabhaengige Gegenprobe gegen einen fremden Datensatz',
+      contentUrl: `${seitenURL}data/gegenprobe.json`,
+      encodingFormat: 'application/json'
+    }] : [])
+  ],
+  ...(gegenprobe ? {
+    citation: `${gegenprobe.fremdquelle.herausgeber}: ${gegenprobe.fremdquelle.name}, `
+      + `${gegenprobe.fremdquelle.messtag}. ${gegenprobe.fremdquelle.lizenz}. `
+      + `DOI ${gegenprobe.fremdquelle.doi}. Als unabhaengige Gegenprobe herangezogen.`
+  } : {})
 };
 
 // </script> in einer Zeichenkette wuerde den Block vorzeitig schliessen.
@@ -522,12 +617,25 @@ ${jsonLdText}
     zehn Ländern gemessen, Deutschland darunter, für das Jahr 2023
     (<a href="https://reutersinstitute.politics.ox.ac.uk/how-many-news-websites-block-ai-crawlers">Fletcher, 2024</a>).
     Eine einmalige Momentaufnahme, und ausschließlich Nachrichtenverlage.</li>
+    <li><a href="https://crawlora.net/ai-crawler-index">Crawlora</a> hat am
+    <strong>2026-06-20</strong> die <strong>Tranco Top 1.000.000</strong> gemessen
+    (998.497 Domains, 20 Kennungen, CC BY 4.0, DOI 10.5281/zenodo.20774249). Der
+    Rohdatensatz enthält <strong>28.761 <code>.de</code>-Domains</strong> — eine deutsche
+    Auswertung ließe sich daraus also ableiten, auch wenn die veröffentlichte Seite keine
+    nach Endung aufgeschlüsselten Zahlen zeigt. Es ist bislang ein einzelner Messtag; eine
+    Wiederholung ist dort nicht angekündigt.</li>
   </ul>
-  <p>Eine deutsche Zahl gibt es also. Was es nicht gibt, ist ein deutsches Panel, das über
-  Nachrichtenverlage und über die vorderen Ränge hinausreicht und auf denselben Domains
-  wiederholt wird. Die ${esc(gKlein.domains)} kleinen Domains hier sind der Teil, den offenbar
-  niemand beobachtet. Die Einzelabfrage „sperrt meine Seite GPTBot?“ verschenken dagegen mehrere
-  Anbieter — daran ist hier nichts neu.</p>
+  <p><strong>Damit ist die Momentaufnahme kein Alleinstellungsmerkmal dieser Seite, und
+  „Deutschland“ allein auch nicht.</strong> Wer die Crawlora-Rohdaten herunterlädt, kann den
+  deutschen Schnitt für den 20. Juni selbst rechnen — wir haben genau das getan, siehe unten.
+  Was bleibt, ist die Wiederholung auf einem <em>festen</em> Panel: dieselben
+  ${esc(panelAnzahl)} Domains, immer wieder, damit eine Veränderung eine Veränderung ist und
+  kein Stichprobenwechsel. Die Einzelabfrage „sperrt meine Seite GPTBot?“ verschenken
+  ohnehin mehrere Anbieter — daran ist hier nichts neu.</p>
+
+  <!-- Abschnitt unabhängige Gegenprobe -->
+  <h2>Unabhängige Gegenprobe</h2>
+  ${gegenprobeAbschnitt()}
 
   <!-- Abschnitt Was diese Messung nicht sagt -->
   <h2>Was diese Messung nicht sagt</h2>
