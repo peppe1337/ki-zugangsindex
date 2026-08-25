@@ -28,9 +28,20 @@ files.
 ## Why a time series
 
 Single-point checks ("does my site block GPTBot?") are given away for free by at least seven
-providers. What none of them publish is a **German-language longitudinal series below the global
-top 1000**. Originality.ai tracks the global top 1000 since 2023; the Reuters Institute tracks
-news sites. Neither covers this panel.
+providers. Aggregate numbers exist too, and it is worth being precise about what they already
+cover:
+
+- [Originality.ai](https://originality.ai/ai-bot-blocking) has tracked GPTBot blocking across
+  the **global top 1000** since August 2023 — 5% then, 35.7% by August 2024. Not broken down by
+  language.
+- The Reuters Institute measured the **15 most-used news sites** in each of ten countries,
+  Germany included, for 2023
+  ([Fletcher, 2024](https://reutersinstitute.politics.ox.ac.uk/how-many-news-websites-block-ai-crawlers)).
+  A one-off snapshot, and news publishers only.
+
+So a German figure does exist. What does not is a German panel that reaches past news
+publishers and past the top ranks, and that gets re-run on the same domains. The 300 small
+domains here are the part nobody appears to be watching.
 
 A time series cannot be reconstructed after the fact. Whoever starts today has one point today.
 
@@ -64,7 +75,7 @@ A time series cannot be reconstructed after the fact. Whoever starts today has o
 Sampling frame: Tranco top 1M, fetched 2026-08-25, containing 27,599 `.de` domains.
 
 - **top300** — the 300 highest-ranked `.de` domains (ranks 204–15,893).
-- **klein300** — of all 26,525 `.de` domains ranked below 50,000, every 88th, first 300 taken
+- **klein300** — of all 26,525 `.de` domains ranked *outside* the top 50,000, every 88th, first 300 taken
   (ranks 50,030–994,089).
 
 Both draws are deterministic; there is no random selection. Fetching uses `https://<domain>/robots.txt`
@@ -81,12 +92,13 @@ Both tools carry red tests that exit with code 2 on failure, and both were delib
 sabotaged to confirm the tests actually go red:
 
 ```
-node code/kicrawler.mjs --nurrottest    # 10 parser cases, no network access
-node code/index-export.mjs --rottest    # counts every aggregate a second way, then fails on purpose
+node code/kicrawler.mjs --nurrottest    # 10 parser cases, no network. Must exit 0.
+node code/index-export.mjs --rottest --gross=... --klein=... --datum=... --ziel=...
+                                        # corrupts one aggregate on purpose. Must exit 2.
 ```
 
-Both must print a pass line and exit 0. `--rottest` deliberately corrupts one aggregate before
-checking, so it is expected to **fail** with exit 2 — that is the point of running it.
+The second one is a check on the check: it damages a figure before verifying, so an exit code
+of 0 there would mean the verification is not looking at anything.
 
 A note on what these tests are worth. In this run five separate sabotages were applied to the
 parser to see whether the suite would notice. Two did not fail it at first:
