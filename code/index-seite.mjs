@@ -63,6 +63,7 @@ const datum    = erwartet(latest.datum, 'latest.datum');
 const reihe    = leseJSON(join(basis, 'data', 'reihe.json'));
 const panel    = leseJSON(join(basis, 'data', 'panel.json'));
 const messung  = leseJSON(join(basis, 'data', 'messungen', `${datum}.json`));
+const panelB   = leseJSON(join(basis, 'data', 'panel-b.json'));
 
 // Pflichtfelder prüfen
 erwartet(reihe.messpunkte,          'reihe.messpunkte');
@@ -76,6 +77,15 @@ erwartet(messung.gruppen,           'messung.gruppen');
 erwartet(messung.gruppen.top300,    'messung.gruppen.top300');
 erwartet(messung.gruppen.klein300,  'messung.gruppen.klein300');
 erwartet(messung.domains,           'messung.domains');
+erwartet(panelB.panelGroesse,       'panelB.panelGroesse');
+erwartet(panelB.auswertbar,         'panelB.auswertbar');
+erwartet(panelB.gesperrt,           'panelB.gesperrt');
+erwartet(panelB.anteil,             'panelB.anteil');
+erwartet(panelB.vierGrosse,         'panelB.vierGrosse');
+erwartet(panelB.proAgent,           'panelB.proAgent');
+erwartet(panelB.messtag,            'panelB.messtag');
+erwartet(panelB.ziehungsregel,      'panelB.ziehungsregel');
+erwartet(panelB.hinweis,            'panelB.hinweis');
 
 const messpunkte    = reihe.messpunkte;
 const erstesDatum   = reihe.punkte[0].datum;
@@ -92,6 +102,9 @@ const blKlein = gKlein.mindestensEinerDerVierGrossenBlockiert;
 // Schlagzeilen
 const anteil300Text   = String(bl300.anteil).replace('.', ',');
 const anteilKleinText = String(blKlein.anteil).replace('.', ',');
+
+// Panel B — abgeleitete Variablen
+const pbAnteilText = String(panelB.anteil).replace('.', ',');
 
 // ---------------------------------------------------------------------------
 // Abschnitt 1: Englischer Einleitungskasten
@@ -305,6 +318,64 @@ function gegenprobeAbschnitt() {
 }
 
 // ---------------------------------------------------------------------------
+// Abschnitt Panel B
+// ---------------------------------------------------------------------------
+function panelBAbschnitt() {
+  const agenten = Object.keys(panelB.proAgent);
+  const vierSet = new Set(panelB.vierGrosse);
+
+  const zeilen = agenten.map(agent => {
+    const x = panelB.proAgent[agent];
+    const istVier = vierSet.has(agent);
+    const nameTd = istVier
+      ? `<td class="vier"><strong>${esc(agent)}</strong></td>`
+      : `<td>${esc(agent)}</td>`;
+    const p = pct(x.blockiert, x.nenner);
+    return `<tr${istVier ? ' class="vier"' : ''}>
+        ${nameTd}
+        <td class="zahl">${esc(x.blockiert)}/${esc(x.nenner)}</td>
+        <td class="zahl">${esc(p)}&nbsp;%</td>
+      </tr>`;
+  }).join('\n');
+
+  return `<p>Am ${esc(panelB.messtag)} wurde ein zweites, größeres Panel gemessen:
+  <strong>${esc(zahl(panelB.panelGroesse))} .de-Domains</strong> (Panel B).
+  Davon lieferten <strong>${esc(zahl(panelB.auswertbar))}</strong> eine syntaktisch auswertbare
+  <code>robots.txt</code>. <strong>${esc(panelB.gesperrt)}</strong> davon = <strong>${esc(pbAnteilText)}&nbsp;%</strong>
+  sperren mindestens einen der vier großen KI-Crawler
+  (${esc(panelB.vierGrosse.join(', '))}).</p>
+
+  <p><strong>Ziehungsregel:</strong> ${esc(panelB.ziehungsregel)}.
+  Die Domainliste liegt als <a href="data/panel-b.json">data/panel-b.json</a> bei.</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Crawler</th>
+          <th class="zahl">gesperrt / Nenner</th>
+          <th class="zahl">Anteil %</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${zeilen}
+      </tbody>
+    </table>
+  </div>
+  <p style="font-size:0.875rem;">Hervorgehoben (★): ${esc(panelB.vierGrosse.join(', '))}.</p>
+
+  <div class="kasten">
+    <p><strong>Was nicht beiliegt.</strong> ${esc(panelB.hinweis)}</p>
+  </div>
+
+  <p><strong>Plausibilitätsprüfung:</strong> Panel A misst ${esc(anteil300Text)}&nbsp;% in den
+  Top 300 und ${esc(anteilKleinText)}&nbsp;% bei Rang&nbsp;&gt;&nbsp;50.000. Panel B mittelt
+  über den gesamten Rangbereich und landet bei ${esc(pbAnteilText)}&nbsp;% — zwischen den
+  beiden Gruppen, näher am kleinen Ende, weil ${esc(pct(panelB.panelGroesse - g300.domains, panelB.panelGroesse))}&nbsp;%
+  seiner Domains unterhalb der Top 300 liegen. Konsistent.</p>`;
+}
+
+// ---------------------------------------------------------------------------
 // schema.org/Dataset als JSON-LD
 //
 // Zweck: Google Dataset Search und vergleichbare Kataloge lesen ausschliesslich
@@ -396,6 +467,12 @@ const jsonLd = {
       contentUrl: `${seitenURL}data/messungen/${p.datum}.json`,
       encodingFormat: 'application/json'
     })),
+    {
+      '@type': 'DataDownload',
+      name: `Panel B — ${zahl(panelB.panelGroesse)} .de-Domains, Verdikte (Messtag ${panelB.messtag})`,
+      contentUrl: `${seitenURL}data/panel-b.json`,
+      encodingFormat: 'application/json'
+    },
     ...(gegenprobe ? [{
       '@type': 'DataDownload',
       name: 'Unabhaengige Gegenprobe gegen einen fremden Datensatz',
@@ -637,6 +714,10 @@ ${jsonLdText}
   <h2>Unabhängige Gegenprobe</h2>
   ${gegenprobeAbschnitt()}
 
+  <!-- Abschnitt Panel B -->
+  <h2>Panel B — größere Stichprobe</h2>
+  ${panelBAbschnitt()}
+
   <!-- Abschnitt Was diese Messung nicht sagt -->
   <h2>Was diese Messung nicht sagt</h2>
   <ul>
@@ -658,6 +739,7 @@ ${jsonLdText}
     <li><a href="data/reihe.json">data/reihe.json</a></li>
     <li><a href="data/messungen/${esc(datum)}.json">data/messungen/${esc(datum)}.json</a></li>
     <li><a href="data/panel.json">data/panel.json</a></li>
+    <li><a href="data/panel-b.json">data/panel-b.json</a></li>
     <li><a href="roh/">roh/</a> (Rohverzeichnis)</li>
     <li><a href="https://github.com/peppe1337/ki-zugangsindex">https://github.com/peppe1337/ki-zugangsindex</a></li>
   </ul>

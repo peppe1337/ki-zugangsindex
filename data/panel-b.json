@@ -1,0 +1,74 @@
+{
+  "messtag": "2026-08-25",
+  "panelGroesse": 5520,
+  "auswertbar": 3630,
+  "vierGrosse": [
+    "GPTBot",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "PerplexityBot"
+  ],
+  "gesperrt": 591,
+  "anteil": 16.3,
+  "proAgent": {
+    "GPTBot": {
+      "blockiert": 552,
+      "nenner": 3630
+    },
+    "OAI-SearchBot": {
+      "blockiert": 252,
+      "nenner": 3630
+    },
+    "ChatGPT-User": {
+      "blockiert": 302,
+      "nenner": 3630
+    },
+    "ClaudeBot": {
+      "blockiert": 509,
+      "nenner": 3630
+    },
+    "Claude-User": {
+      "blockiert": 230,
+      "nenner": 3630
+    },
+    "anthropic-ai": {
+      "blockiert": 315,
+      "nenner": 3630
+    },
+    "PerplexityBot": {
+      "blockiert": 303,
+      "nenner": 3630
+    },
+    "Perplexity-User": {
+      "blockiert": 227,
+      "nenner": 3630
+    },
+    "Google-Extended": {
+      "blockiert": 467,
+      "nenner": 3630
+    },
+    "Applebot-Extended": {
+      "blockiert": 450,
+      "nenner": 3630
+    },
+    "CCBot": {
+      "blockiert": 444,
+      "nenner": 3630
+    },
+    "Bytespider": {
+      "blockiert": 428,
+      "nenner": 3630
+    },
+    "meta-externalagent": {
+      "blockiert": 481,
+      "nenner": 3630
+    },
+    "Amazonbot": {
+      "blockiert": 501,
+      "nenner": 3630
+    }
+  },
+  "ziehungsregel": "jede 5. Zeile der 27.598 .de-Domains aus Tranco Top 1M, Ränge 204–999.938 (awk NR%5==1), deterministisch",
+  "rahmen": "Tranco Top 1M, abgerufen 2026-08-25. Darin 27.598 .de-Domains mit Rang 204–999.938.",
+  "hinweis": "Die 67 MB Rohantworten (5.520 vollständige robots.txt-Abrufe) liegen aus Größengründen NICHT im Repository. Beiliegen: roh.json.gz (Verdikte je Domain, 171 KB) und panel-b.tsv (Domainliste). Der Auswertungscode ist derselbe wie für Panel A (tools/kicrawler.mjs, unverändert)."
+}

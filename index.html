@@ -141,6 +141,12 @@
     },
     {
       "@type": "DataDownload",
+      "name": "Panel B — 5.520 .de-Domains, Verdikte (Messtag 2026-08-25)",
+      "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/panel-b.json",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
       "name": "Unabhaengige Gegenprobe gegen einen fremden Datensatz",
       "contentUrl": "https://peppe1337.github.io/ki-zugangsindex/data/gegenprobe.json",
       "encodingFormat": "application/json"
@@ -513,6 +519,113 @@
     </ul>
   </div>
 
+  <!-- Abschnitt Panel B -->
+  <h2>Panel B — größere Stichprobe</h2>
+  <p>Am 2026-08-25 wurde ein zweites, größeres Panel gemessen:
+  <strong>5.520 .de-Domains</strong> (Panel B).
+  Davon lieferten <strong>3.630</strong> eine syntaktisch auswertbare
+  <code>robots.txt</code>. <strong>591</strong> davon = <strong>16,3&nbsp;%</strong>
+  sperren mindestens einen der vier großen KI-Crawler
+  (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot).</p>
+
+  <p><strong>Ziehungsregel:</strong> jede 5. Zeile der 27.598 .de-Domains aus Tranco Top 1M, Ränge 204–999.938 (awk NR%5==1), deterministisch.
+  Die Domainliste liegt als <a href="data/panel-b.json">data/panel-b.json</a> bei.</p>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Crawler</th>
+          <th class="zahl">gesperrt / Nenner</th>
+          <th class="zahl">Anteil %</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="vier">
+        <td class="vier"><strong>GPTBot</strong></td>
+        <td class="zahl">552/3630</td>
+        <td class="zahl">15,2&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>OAI-SearchBot</strong></td>
+        <td class="zahl">252/3630</td>
+        <td class="zahl">6,9&nbsp;%</td>
+      </tr>
+<tr>
+        <td>ChatGPT-User</td>
+        <td class="zahl">302/3630</td>
+        <td class="zahl">8,3&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>ClaudeBot</strong></td>
+        <td class="zahl">509/3630</td>
+        <td class="zahl">14,0&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Claude-User</td>
+        <td class="zahl">230/3630</td>
+        <td class="zahl">6,3&nbsp;%</td>
+      </tr>
+<tr>
+        <td>anthropic-ai</td>
+        <td class="zahl">315/3630</td>
+        <td class="zahl">8,7&nbsp;%</td>
+      </tr>
+<tr class="vier">
+        <td class="vier"><strong>PerplexityBot</strong></td>
+        <td class="zahl">303/3630</td>
+        <td class="zahl">8,3&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Perplexity-User</td>
+        <td class="zahl">227/3630</td>
+        <td class="zahl">6,3&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Google-Extended</td>
+        <td class="zahl">467/3630</td>
+        <td class="zahl">12,9&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Applebot-Extended</td>
+        <td class="zahl">450/3630</td>
+        <td class="zahl">12,4&nbsp;%</td>
+      </tr>
+<tr>
+        <td>CCBot</td>
+        <td class="zahl">444/3630</td>
+        <td class="zahl">12,2&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Bytespider</td>
+        <td class="zahl">428/3630</td>
+        <td class="zahl">11,8&nbsp;%</td>
+      </tr>
+<tr>
+        <td>meta-externalagent</td>
+        <td class="zahl">481/3630</td>
+        <td class="zahl">13,3&nbsp;%</td>
+      </tr>
+<tr>
+        <td>Amazonbot</td>
+        <td class="zahl">501/3630</td>
+        <td class="zahl">13,8&nbsp;%</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <p style="font-size:0.875rem;">Hervorgehoben (★): GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot.</p>
+
+  <div class="kasten">
+    <p><strong>Was nicht beiliegt.</strong> Die 67 MB Rohantworten (5.520 vollständige robots.txt-Abrufe) liegen aus Größengründen NICHT im Repository. Beiliegen: roh.json.gz (Verdikte je Domain, 171 KB) und panel-b.tsv (Domainliste). Der Auswertungscode ist derselbe wie für Panel A (tools/kicrawler.mjs, unverändert).</p>
+  </div>
+
+  <p><strong>Plausibilitätsprüfung:</strong> Panel A misst 32,8&nbsp;% in den
+  Top 300 und 14,8&nbsp;% bei Rang&nbsp;&gt;&nbsp;50.000. Panel B mittelt
+  über den gesamten Rangbereich und landet bei 16,3&nbsp;% — zwischen den
+  beiden Gruppen, näher am kleinen Ende, weil 94,6&nbsp;%
+  seiner Domains unterhalb der Top 300 liegen. Konsistent.</p>
+
   <!-- Abschnitt Was diese Messung nicht sagt -->
   <h2>Was diese Messung nicht sagt</h2>
   <ul>
@@ -608,6 +721,7 @@
     <li><a href="data/reihe.json">data/reihe.json</a></li>
     <li><a href="data/messungen/2026-08-25.json">data/messungen/2026-08-25.json</a></li>
     <li><a href="data/panel.json">data/panel.json</a></li>
+    <li><a href="data/panel-b.json">data/panel-b.json</a></li>
     <li><a href="roh/">roh/</a> (Rohverzeichnis)</li>
     <li><a href="https://github.com/peppe1337/ki-zugangsindex">https://github.com/peppe1337/ki-zugangsindex</a></li>
   </ul>
