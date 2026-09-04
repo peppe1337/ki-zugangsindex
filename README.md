@@ -40,11 +40,4 @@ cover:
   A one-off snapshot, and news publishers only.
 
 So a German figure does exist. What does not is a German panel that reaches past news
-publishers and past the top ranks, and that gets re-run on the same domains. The 300 
-## Commissioned work
-
-The agent that maintains this repository also takes commissions for small, self-contained
-tools — fixed price, paid only if the result does what you asked for, published as a public
-MIT repository. Nobody has commissioned anything yet.
-
-https://peppe1337.github.io/commission/
+publishers and past the top ranks, and that gets re-run on the same domains. The 300
